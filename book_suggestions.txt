@@ -1,0 +1,177 @@
+# Book Suggestions for instamarathi/books
+# 50 non-fiction titles worth contextualizing for a Marathi-speaking audience.
+# To use: pick a title, paste it into books.txt (one per line). The scheduled
+# agent reads books.txt and generates a Marathi essay-collection for that book.
+#
+# Summaries below are factual descriptions of each book's scope and themes.
+# Do not treat them as content to reproduce.
+
+--- PRODUCTIVITY / HABITS (8) ---
+
+1. Atomic Habits — James Clear
+A productivity and behavior-change book that examines how small, incremental habits compound into significant life outcomes. Clear draws on psychology, neuroscience, and real-world examples to explain the mechanics of habit formation and breaking. He introduces a four-step habit loop framework and argues that identity-based change is more durable than outcome-based goals. Widely read by students, professionals, and entrepreneurs seeking systematic self-improvement.
+
+2. Deep Work — Cal Newport
+A book about the value of sustained, focused cognitive effort in an increasingly distracted world. Newport argues that the ability to concentrate without distraction is becoming rare and simultaneously more valuable. He examines how knowledge workers can restructure their routines and environments to produce higher-quality output. Particularly relevant for students and professionals navigating social media and open-office culture.
+
+3. The Power of Habit — Charles Duhigg
+An exploration of the science of habit formation in individuals, organizations, and societies. Duhigg draws on neuroscience research and case studies from business and public health to explain why habits form and how they can be deliberately changed. The book introduces the cue-routine-reward loop as a central model. It is aimed at general readers interested in behavior change and organizational culture.
+
+4. Getting Things Done — David Allen
+A time-management and personal organization system aimed at reducing cognitive overload by capturing all tasks and commitments in a trusted external system. Allen's GTD methodology has been influential in productivity circles since the early 2000s. The book is practical and workflow-oriented, appealing to professionals who feel overwhelmed by the volume of their responsibilities and seek a structured approach to planning.
+
+5. Essentialism — Greg McKeown
+A book advocating deliberate focus on fewer, more meaningful pursuits. McKeown argues that modern culture pushes people to try to do everything, leading to spreading oneself too thin. He explores how to identify what truly matters and eliminate or decline the rest. The book draws on interviews with executives and thinkers and is aimed at professionals and leaders who feel perpetually busy but insufficiently productive.
+
+6. The One Thing — Gary Keller and Jay Papasan
+A business and productivity book built around the premise that extraordinary results come from concentrating on the single most important task at any given time. Keller, a real estate entrepreneur, uses examples from business and sports to illustrate how focus compounds. The book challenges the concept of multitasking and offers a questioning technique to help readers identify their highest-leverage priority.
+
+7. Make Time — Jake Knapp and John Zeratsky
+A practical guide to reclaiming time and attention from the default pull of technology platforms and endless busyness. Written by two former Google designers, the book offers a daily framework built around choosing a single daily highlight, reducing distraction, and reflecting on what worked. It is designed to be modular and accessible rather than prescriptive, appealing to busy professionals and young adults.
+
+8. Four Thousand Weeks — Oliver Burkeman
+A philosophical examination of time management that challenges conventional productivity thinking. Burkeman argues that the average human lifespan amounts to roughly four thousand weeks, and that accepting finite time is more liberating than trying to optimize it away. The book draws on philosophy, psychology, and cultural history to reframe how people relate to busyness, procrastination, and long-term planning.
+
+--- SELF-IMPROVEMENT / MINDSET (8) ---
+
+9. Mindset: The New Psychology of Success — Carol S. Dweck
+A psychology book based on decades of research by a Stanford professor on how people's beliefs about their own abilities shape their achievements. Dweck distinguishes between a fixed mindset, which treats abilities as innate, and a growth mindset, which treats them as developable through effort. The book is widely used in education and corporate training and is relevant to parents, teachers, and anyone engaged in learning.
+
+10. Grit: The Power of Passion and Perseverance — Angela Duckworth
+A research-based book exploring why sustained passion and persistence over the long term predict success better than talent or IQ alone. Duckworth, a psychologist at the University of Pennsylvania, draws on interviews with high achievers across sports, business, and the arts, as well as large-scale data. The book has been influential in education policy and is aimed at students, parents, and professionals.
+
+11. The 7 Habits of Highly Effective People — Stephen R. Covey
+A classic self-help and leadership book that presents a principle-centered framework for personal and professional effectiveness. Covey organizes his framework around seven interdependent habits spanning personal responsibility, goal-setting, collaboration, and renewal. The book integrates ideas from business management, psychology, and philosophy and has sold over forty million copies globally. It remains widely assigned in management training programs.
+
+12. Think and Grow Rich — Napoleon Hill
+One of the earliest and most widely read personal success books, first published in 1937. Based on interviews with industrialists and business leaders of the early twentieth century, Hill presents a philosophy of achievement centered on desire, belief, and planning. The book has had enormous influence on the self-help genre. It appeals to entrepreneurs and those aspiring to business success, particularly in markets where it has been translated.
+
+13. The Subtle Art of Not Giving a F*ck — Mark Manson
+A counter-intuitive self-help book arguing that conventional positive thinking is counterproductive and that accepting struggle and limitation leads to a more grounded life. Manson challenges the idea that relentless optimism is healthy, instead advocating for choosing what to care about deliberately. Written in a conversational and sometimes provocative style, the book is popular with young adults disillusioned by traditional self-help.
+
+14. Man's Search for Meaning — Viktor E. Frankl
+A memoir and philosophical work by an Austrian psychiatrist who survived Nazi concentration camps and developed logotherapy, a psychotherapeutic approach based on the idea that the primary human drive is the search for meaning. The book has two parts: a narrative of Frankl's camp experiences and an outline of his therapeutic theory. It is widely read in psychology, philosophy, and spiritual circles and remains deeply relevant across cultures.
+
+15. Ikigai: The Japanese Secret to a Long and Happy Life — Hector Garcia and Francesc Miralles
+A book exploring the Japanese concept of ikigai, loosely translated as the reason for being or a sense of purpose in life. The authors traveled to Okinawa, a region known for longevity, and examined the daily habits, social structures, and attitudes of its elderly residents. The book blends anthropology, philosophy, and wellness research and is aimed at general readers seeking a framework for living with purpose and sustained wellbeing.
+
+16. The Compound Effect — Darren Hardy
+A personal development book arguing that small, consistent actions accumulate over time to produce dramatic results. Hardy, a publishing entrepreneur, illustrates his thesis with examples from business, health, and relationships. The book emphasizes personal responsibility, tracking progress, and the influence of environment and associations. It is practical in tone and popular among professionals in sales and entrepreneurship.
+
+--- PARENTING / FAMILY (5) ---
+
+17. How to Talk So Kids Will Listen and Listen So Kids Will Talk — Adele Faber and Elaine Mazlish
+A parenting communication guide based on the work of child psychologist Haim Ginott. The book offers practical techniques for validating children's emotions, setting limits without power struggles, and encouraging cooperation. Originally published in 1980, it remains one of the most widely recommended parenting books globally. It is accessible to parents of young children through adolescents and draws on real workshop dialogues.
+
+18. The Whole-Brain Child — Daniel J. Siegel and Tina Payne Bryson
+A parenting book grounded in neuroscience that explains how different regions of a child's developing brain influence behavior and emotion. Siegel and Bryson offer strategies for parents to help children integrate emotional and rational thinking, thereby reducing tantrums and building resilience. The book is aimed at parents of young children and includes diagrams and practical exercises. It has been influential in progressive parenting circles.
+
+19. Nurture Shock: New Thinking About Children — Po Bronson and Ashley Merryman
+A science journalism book that challenges common parenting assumptions by examining research findings about child development. Topics include the effects of praise, the science of sleep on learning, how children develop racial attitudes, and the limits of intelligence testing. The book is aimed at parents and educators seeking evidence-based perspectives rather than conventional wisdom. Each chapter draws on peer-reviewed studies.
+
+20. The Danish Way of Parenting — Jessica Joelle Alexander and Iben Dissing Sandahl
+A book examining the parenting philosophy of Denmark, consistently ranked among the happiest countries in the world. The authors, a psychotherapist and an American mother, analyze Danish cultural attitudes toward play, empathy, authenticity, and resilience and argue these attitudes produce adults with strong wellbeing. The book is practical and organized around an acronym framework covering the authors' key principles.
+
+21. Boundaries with Kids — Henry Cloud and John Townsend
+A parenting and developmental psychology book that applies the concept of personal boundaries to raising children. Cloud and Townsend argue that children who learn to own their behavior, choices, and consequences develop stronger character and emotional health. The book draws on Christian psychology traditions but presents principles accessible to a broad audience. It covers scenarios from toddlerhood through adolescence and is aimed at parents and teachers.
+
+--- MONEY / PERSONAL FINANCE (5) ---
+
+22. The Psychology of Money — Morgan Housel
+A personal finance book that examines how emotions, cognitive biases, and individual life experiences shape financial decision-making. Housel, a financial journalist, argues that financial success depends less on technical knowledge and more on behavior and temperament. The book is organized around twenty short essays on themes such as greed, wealth versus income, and long-term thinking. It is accessible to readers with no prior finance background.
+
+23. Rich Dad Poor Dad — Robert T. Kiyosaki
+A personal finance book contrasting two father figures in the author's life to illustrate different approaches to money, work, and wealth-building. Kiyosaki argues that financial literacy, understanding assets and liabilities, and building passive income sources are more important than conventional career paths. Originally self-published in 1997, the book became a global bestseller and has significantly influenced financial literacy culture in India.
+
+24. I Will Teach You to Be Rich — Ramit Sethi
+A personal finance guide aimed at young adults in their twenties and thirties covering banking, credit, investing, and spending. Sethi takes a practical, conversational approach and argues for automating savings and investments rather than relying on willpower. While some specifics are US-centric, the underlying principles of automation, index investing, and conscious spending translate broadly. The book has been updated multiple times since its initial publication.
+
+25. The Millionaire Next Door — Thomas J. Stanley and William D. Danko
+A personal finance book based on decades of research into the actual habits and lifestyles of wealthy Americans. Stanley and Danko found that most millionaires live modestly, prioritize saving over consumption, and build wealth gradually. The book challenges popular assumptions about how wealthy people look and spend. Its core principles of frugality, financial independence, and living below one's means resonate across cultural contexts.
+
+26. Your Money or Your Life — Vicki Robin and Joe Dominguez
+A personal finance and lifestyle book that argues for treating money as a representation of life energy and examining whether spending aligns with personal values. The book introduces a nine-step program for achieving financial independence by reducing unnecessary spending and investing the difference. It has been influential in the FIRE (Financial Independence, Retire Early) movement and is aimed at readers questioning conventional career and consumption assumptions.
+
+--- PHILOSOPHY / STOICISM / MEANING (5) ---
+
+27. Meditations — Marcus Aurelius
+A collection of personal writings by the Roman emperor Marcus Aurelius, composed in the second century AD as private reflections rather than a public text. The book explores Stoic philosophy through themes of impermanence, duty, rationality, emotional self-control, and the nature of the self. It is one of the foundational texts of Western philosophy and has been widely read by leaders, soldiers, and thinkers for centuries. Modern translations make it accessible to general readers.
+
+28. Letters from a Stoic — Seneca
+A collection of moral letters written by the Roman statesman and philosopher Seneca the Younger to his friend Lucilius in the first century AD. The letters cover themes including friendship, the proper use of time, facing death, travel, poverty, and the relationship between the mind and the body. They represent a practical application of Stoic philosophy to daily life and are valued for their direct, essay-like style. They remain highly readable in modern translation.
+
+29. The Obstacle Is the Way — Ryan Holiday
+A modern book drawing on Stoic philosophy to argue that obstacles and adversity can be transformed into advantages. Holiday adapts the ideas of Marcus Aurelius and other Stoic thinkers through examples from modern business, sports, and history. The book is organized around three disciplines: perception, action, and will. It has been particularly popular in sports and military culture and is aimed at general readers facing professional or personal challenges.
+
+30. Stillness Is the Key — Ryan Holiday
+A companion volume in Holiday's Stoicism series, focused on the practice of inner calm as a prerequisite for effective action and decision-making. Holiday draws on historical figures from philosophy, politics, and the arts to illustrate how stillness enables clarity. The book covers habits of mind such as slowing down, journaling, and limiting inputs. It is practical in orientation and aimed at busy professionals and leaders seeking a grounded approach to performance.
+
+31. The Almanack of Naval Ravikant — Eric Jorgenson
+A curated compilation of the ideas and aphorisms of entrepreneur and investor Naval Ravikant, drawn from his tweets, podcast appearances, and essays. The book covers themes including how to build wealth ethically, the importance of specific knowledge, the nature of happiness, and meditation. It is not a traditional authored text but a synthesis produced by Jorgenson with Ravikant's cooperation. Widely read in Indian entrepreneurial and tech circles.
+
+--- RELATIONSHIPS / MARRIAGE (4) ---
+
+32. The Five Love Languages — Gary Chapman
+A relationship guide by a marriage counselor arguing that people express and receive love in five primary ways: words of affirmation, acts of service, receiving gifts, quality time, and physical touch. Chapman argues that mismatched love languages cause relationship friction and that understanding a partner's primary language improves connection. Originally written from a Christian pastoral perspective, the book has been widely adopted across religious and secular contexts globally.
+
+33. Hold Me Tight — Sue Johnson
+A couples therapy book based on Emotionally Focused Therapy, a research-supported approach developed by Johnson. The book argues that adult romantic love is fundamentally an attachment bond and that relationship distress arises from perceived threats to that bond. Johnson presents a structured series of seven conversations for couples to work through patterns of conflict and disconnection. It is aimed at couples and therapists and draws on attachment theory research.
+
+34. Attached: The New Science of Adult Attachment — Amir Levine and Rachel Heller
+A relationship psychology book applying attachment theory, originally developed by John Bowlby to describe infant-caregiver bonds, to adult romantic relationships. Levine and Heller describe three primary adult attachment styles — secure, anxious, and avoidant — and explain how they interact in partnerships. The book is aimed at general readers and offers practical advice for understanding oneself and partners. It has become widely popular among young adults navigating modern dating.
+
+35. The Seven Principles for Making Marriage Work — John Gottman and Nan Silver
+A relationship book drawing on decades of research by psychologist John Gottman, whose laboratory observed thousands of couples to identify predictors of marital stability and collapse. The book presents seven principles derived from that research, covering topics such as building friendship, managing conflict, creating shared meaning, and recognizing early warning signs of relational breakdown. It is evidence-based and practical, aimed at couples seeking to strengthen long-term partnerships.
+
+--- CAREER / BUSINESS / ENTREPRENEURSHIP (5) ---
+
+36. Zero to One — Peter Thiel
+A business and startup philosophy book based on lectures Thiel gave at Stanford University. Thiel argues that the most valuable companies create genuinely new things rather than competing in existing markets, moving from zero to one rather than from one to n. The book covers topics including the nature of monopoly, the role of secrets in innovation, and the importance of founder vision. It is influential in technology entrepreneurship and among ambitious young professionals.
+
+37. The Lean Startup — Eric Ries
+A business methodology book that applies lean manufacturing principles to startup development. Ries argues that startups should treat their business model as a hypothesis to be tested through rapid iteration, minimum viable products, and validated learning rather than elaborate upfront planning. The book was influential in reshaping how technology companies build and launch products and is widely read in engineering, product management, and entrepreneurship programs.
+
+38. Good to Great — Jim Collins
+A management research book examining what distinguishes companies that made a sustained leap from good to exceptional performance from those that did not. Collins and his research team analyzed decades of financial data and conducted extensive interviews to identify patterns. Key findings include the concept of Level 5 Leadership, the Hedgehog Concept, and the Flywheel Effect. The book is widely read in business schools and corporate strategy contexts.
+
+39. The $100 Startup — Chris Guillebeau
+A business book profiling individuals who built profitable small businesses with minimal upfront investment, drawing on interviews with hundreds of entrepreneurs. Guillebeau argues that valuable skills combined with a willingness to offer genuine value to a specific audience can form the basis of a sustainable independent livelihood. The book is aimed at people seeking alternatives to conventional employment and is practical and example-driven.
+
+40. So Good They Can't Ignore You — Cal Newport
+A career development book challenging the popular advice to follow one's passion. Newport argues instead that career passion follows mastery, and that building rare and valuable skills through deliberate practice is a more reliable path to satisfying work. The book draws on interviews with successful professionals in various fields and is aimed at students and early-career professionals uncertain about direction. It complements Newport's other work on productivity and focus.
+
+--- COMMUNICATION (3) ---
+
+41. Crucial Conversations: Tools for Talking When Stakes Are High — Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+A communication skills book focused on how to handle high-stakes conversations — those where opinions differ, emotions run strong, and the outcomes matter significantly. The authors present a framework for staying composed, creating psychological safety, and steering dialogue toward productive outcomes. The book draws on behavioral research and is widely used in corporate training programs for managers, HR professionals, and team leaders.
+
+42. Never Split the Difference — Chris Voss
+A negotiation guide by a former FBI hostage negotiator applying techniques from high-stakes crisis negotiation to everyday professional and personal negotiations. Voss argues against the conventional rational-actor model of negotiation and instead emphasizes emotional intelligence, active listening, and calibrated questions. The book uses real hostage negotiation case studies as illustrations. It is popular in sales, business development, and general professional audiences.
+
+43. Nonviolent Communication — Marshall B. Rosenberg
+A communication philosophy and practice guide developed by psychologist Marshall Rosenberg. The book presents a four-component model for expressing oneself and hearing others in ways that reduce conflict and foster empathy, covering observations, feelings, needs, and requests. Rosenberg applied the model in conflict mediation and educational settings globally. The book is widely used in therapy, education, organizational development, and interpersonal skills training.
+
+--- PSYCHOLOGY / BEHAVIORAL ECONOMICS (4) ---
+
+44. Thinking, Fast and Slow — Daniel Kahneman
+A comprehensive survey of decades of research in behavioral economics and cognitive psychology by Nobel laureate Daniel Kahneman. The book organizes human thinking into two systems: a fast, intuitive, emotional system and a slow, deliberate, logical system. Kahneman explores how biases and heuristics lead to systematic errors in judgment and decision-making. It is aimed at educated general readers and has been widely influential in economics, medicine, policy, and management.
+
+45. Predictably Irrational — Dan Ariely
+A behavioral economics book examining the systematic and predictable ways in which human decisions deviate from classical rational-choice models. Ariely, a behavioral economist at MIT, draws on experiments he and his colleagues conducted to explore phenomena such as the power of free offers, the influence of social norms, and the effect of expectations on experience. The book is highly readable and aimed at a general audience curious about the hidden forces behind everyday choices.
+
+46. Influence: The Psychology of Persuasion — Robert B. Cialdini
+A social psychology classic examining six principles of influence that affect how people respond to requests and marketing. Cialdini, a professor of psychology and marketing, spent years studying salespeople, fundraisers, and advertisers to identify recurring persuasion tactics and the psychological mechanisms behind them. The book is widely read by marketing professionals, salespeople, and anyone seeking to understand or resist persuasion in commercial and interpersonal contexts.
+
+47. The Tipping Point — Malcolm Gladwell
+A social science book exploring how ideas, behaviors, and products spread like epidemics, reaching a tipping point beyond which they become mainstream. Gladwell examines three key factors he calls the Law of the Few, the Stickiness Factor, and the Power of Context, illustrating them through case studies in public health, crime reduction, and consumer products. The book is aimed at general readers and has been widely discussed in marketing, public policy, and organizational studies.
+
+--- HEALTH / SLEEP / BODY (3) ---
+
+48. Why We Sleep — Matthew Walker
+A neuroscience and public health book by a sleep scientist at the University of California, Berkeley, examining the biological functions of sleep and the consequences of chronic sleep deprivation. Walker covers topics including memory consolidation, immune function, emotional regulation, and the relationship between poor sleep and diseases such as Alzheimer's and cancer. The book generated significant public discussion about sleep culture and is aimed at a general audience.
+
+49. The Body Keeps the Score — Bessel van der Kolk
+A clinical and research book by a psychiatrist and trauma researcher examining how traumatic experiences affect the brain and body. Van der Kolk draws on decades of clinical work and neuroscience research to describe how trauma disrupts the nervous system and sense of self, and explores a range of therapeutic approaches including movement, theatre, yoga, and EMDR. The book is aimed at clinicians, trauma survivors, and general readers interested in the intersection of psychology and physical health.
+
+50. How Not to Die — Michael Greger and Gene Stone
+A nutrition and preventive medicine book organized around the leading causes of death in the industrialized world, including heart disease, diabetes, and certain cancers. Greger, a physician who reviews medical literature, examines the research on how dietary choices influence disease risk and longevity. The book is structured by disease category and concludes with a practical daily and weekly food checklist. It is aimed at general readers interested in evidence-based approaches to diet and long-term health.
