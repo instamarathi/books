@@ -1,14 +1,63 @@
 :root {
   --bg: #FAF7F2;
   --fg: #1F1B16;
+  --fg-muted: #6B6359;
   --accent: #C76C2D;
+  --card-bg: #FFFFFF;
+  --border: #E8E0D5;
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1A1A1C;
+    --fg: #E8E4DD;
+    --fg-muted: #9A938A;
+    --accent: #E08A4F;
+    --card-bg: #232326;
+    --border: #2E2D2F;
+  }
+}
+
+:root[data-theme="light"] {
+  --bg: #FAF7F2;
+  --fg: #1F1B16;
+  --fg-muted: #6B6359;
+  --accent: #C76C2D;
+  --card-bg: #FFFFFF;
+  --border: #E8E0D5;
+}
+
+:root[data-theme="dark"] {
+  --bg: #1A1A1C;
+  --fg: #E8E4DD;
+  --fg-muted: #9A938A;
+  --accent: #E08A4F;
+  --card-bg: #232326;
+  --border: #2E2D2F;
+}
+
 body {
   margin: 0;
   background: var(--bg);
   color: var(--fg);
   font-family: "Tiro Devanagari Marathi", "Inter", system-ui, sans-serif;
+  font-size: var(--body-size, 18px);
+  line-height: 1.7;
 }
+
 main {
   padding: 1rem;
+}
+
+.theme-toggle, .font-size-toggle button {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--fg);
+  border-radius: 6px;
+  padding: 0.4rem 0.6rem;
+  font: inherit;
+  cursor: pointer;
+}
+.theme-toggle:hover, .font-size-toggle button:hover {
+  background: var(--card-bg);
 }
