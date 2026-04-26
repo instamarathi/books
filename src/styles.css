@@ -61,3 +61,13 @@ main {
 .theme-toggle:hover, .font-size-toggle button:hover {
   background: var(--card-bg);
 }
+
+.font-size-toggle {
+  display: inline-flex;
+  gap: 0.25rem;
+}
+.font-size-toggle button.active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
