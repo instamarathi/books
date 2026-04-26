@@ -17,6 +17,18 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Tiro+Devanagari+Marathi:ital@0;1&display=swap"
     />
+    <script>
+      // Pre-paint theme application: avoids a flash of wrong theme when the
+      // user's stored preference disagrees with prefers-color-scheme.
+      (function () {
+        try {
+          var t = localStorage.getItem("theme");
+          if (t === "light" || t === "dark") {
+            document.documentElement.setAttribute("data-theme", t);
+          }
+        } catch (e) {}
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>
