@@ -116,7 +116,7 @@ read_time: 6
 essay body in Markdown...
 ```
 
-The body uses standard Markdown headings (`##`, `###`), bold for the principle line, numbered lists for techniques, and a final `## Quick reference` section that the renderer styles as a `QuickRefCard` block.
+The body uses standard Markdown headings (`##`, `###`), bold for the principle line, and numbered lists for techniques. The final section uses the literal heading `## Quick reference` — the renderer detects this exact heading text and wraps the section's content in the styled `QuickRefCard` component. The heading text is fixed (not localized) to keep the detection rule simple; a future change can switch to a frontmatter `quick_ref: |` block if the convention proves brittle.
 
 ## Firestore data model
 
@@ -180,7 +180,8 @@ Login is offered but not required. Reading works fully without sign-in; signing 
 
 This is a primary use case — links must unfurl nicely in WhatsApp / Telegram / Twitter.
 
-- **Per-essay static HTML stub:** at build time, `scripts/generate-static-html.ts` reads each essay's frontmatter and writes a tiny `dist/<book>/<essay>/index.html` containing only OG/Twitter meta tags and a redirect (or pre-rendered shell) to the SPA. GitHub Pages serves this static HTML on first hit, so crawlers see the right tags.
+- **Per-essay static HTML stub:** at build time, `scripts/generate-static-html.ts` reads each essay's frontmatter and writes `dist/<book>/<essay>/index.html` — a copy of the SPA's `index.html` with the per-essay OG/Twitter meta tags injected into `<head>`. The same Vite-built JS bundle is loaded; the React app reads the URL on hydration and renders the correct essay. No client-side redirect — the URL the visitor arrived at is the URL they stay on. GitHub Pages serves this static HTML on first hit, so crawlers see the right tags.
+- **404.html SPA fallback:** copy of the SPA shell. Only used as a safety net for routes that don't have a generated stub (e.g. a typo in a shared link). Static stubs cover all real essays, so the fallback rarely fires.
   - `og:title` = essay title
   - `og:description` = essay `summary` from frontmatter (or first ~160 chars of body if missing)
   - `og:image` = per-essay social card URL
