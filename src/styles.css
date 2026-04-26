@@ -1,0 +1,14 @@
+:root {
+  --bg: #FAF7F2;
+  --fg: #1F1B16;
+  --accent: #C76C2D;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Tiro Devanagari Marathi", "Inter", system-ui, sans-serif;
+}
+main {
+  padding: 1rem;
+}
