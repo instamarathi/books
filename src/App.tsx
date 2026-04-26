@@ -1,19 +1,31 @@
 import React from "react";
+import { Routes, Route, Link } from "react-router-dom";
 import { AuthWidget } from "./components/AuthWidget";
 import { ThemeToggle } from "./components/ThemeToggle";
 import { useAuth } from "./useAuth";
+import { Bookshelf } from "./pages/Bookshelf";
+import { BookIndex } from "./pages/BookIndex";
+import { Essay } from "./pages/Essay";
 
 export const App: React.FC = () => {
   const { user, loading, signIn, signOut } = useAuth();
   return (
-    <main>
-      <header style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-        <h1>instamarathi books</h1>
-        <div style={{ display: "flex", gap: "0.5rem" }}>
+    <>
+      <header className="site-header">
+        <Link to="/" className="site-title">instamarathi books</Link>
+        <div className="site-header-actions">
           <ThemeToggle />
           <AuthWidget user={user} loading={loading} signIn={signIn} signOut={signOut} compact />
         </div>
       </header>
-    </main>
+      <main>
+        <Routes>
+          <Route path="/" element={<Bookshelf />} />
+          <Route path="/:bookSlug" element={<BookIndex />} />
+          <Route path="/:bookSlug/:essaySlug" element={<Essay />} />
+          <Route path="*" element={<p>Not found</p>} />
+        </Routes>
+      </main>
+    </>
   );
 };
