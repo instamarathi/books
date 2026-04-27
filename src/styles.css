@@ -125,11 +125,11 @@ main {
   border-left: 3px solid var(--border);
   padding-left: 0.75rem;
 }
-.essay-list {
+.chapter-list {
   list-style: none;
   padding: 0;
 }
-.essay-row a {
+.chapter-row a {
   display: grid;
   grid-template-columns: 2rem 1fr auto;
   gap: 0.75rem;
@@ -138,13 +138,13 @@ main {
   color: var(--fg);
   text-decoration: none;
 }
-.essay-row a:hover {
+.chapter-row a:hover {
   background: var(--card-bg);
 }
-.essay-number {
+.chapter-number {
   color: var(--fg-muted);
 }
-.essay-meta {
+.chapter-meta {
   color: var(--fg-muted);
   font-size: 0.85em;
   align-self: center;
@@ -167,10 +167,10 @@ main {
   font-size: 0.9em;
   margin: 0.5rem 0 1rem 0;
 }
-.essay-row-locked a {
+.chapter-row-locked a {
   opacity: 0.65;
 }
-.essay-row-locked .essay-number {
+.chapter-row-locked .chapter-number {
   font-size: 0.95em;
 }
 .signin-gate {
@@ -215,10 +215,10 @@ main {
   color: var(--fg-muted);
 }
 
-.essay h2, .essay h3 { margin-top: 1.6em; }
-.essay p { margin: 1em 0; }
-.essay ol, .essay ul { padding-left: 1.4em; }
-.essay strong { color: var(--accent); }
+.chapter h2, .chapter h3 { margin-top: 1.6em; }
+.chapter p { margin: 1em 0; }
+.chapter ol, .chapter ul { padding-left: 1.4em; }
+.chapter strong { color: var(--accent); }
 .quick-ref-card {
   margin: 2rem 0;
   padding: 1rem 1.25rem;
@@ -235,15 +235,15 @@ main {
 }
 .quick-ref-card-body p:first-child { margin-top: 0; }
 .quick-ref-card-body p:last-child { margin-bottom: 0; }
-.essay-header { margin-bottom: 2rem; }
-.essay-header h1 { margin: 0.5rem 0; }
-.essay-back {
+.chapter-header { margin-bottom: 2rem; }
+.chapter-header h1 { margin: 0.5rem 0; }
+.chapter-back {
   color: var(--fg-muted);
   text-decoration: none;
   font-size: 0.9em;
 }
-.essay-back:hover { color: var(--accent); }
-.essay-meta { color: var(--fg-muted); margin: 0; }
+.chapter-back:hover { color: var(--accent); }
+.chapter-meta { color: var(--fg-muted); margin: 0; }
 
 .reading-progress {
   position: fixed;
@@ -313,13 +313,13 @@ main {
   cursor: pointer;
   z-index: 60;
 }
-.essay-nav {
+.chapter-nav {
   display: flex;
   justify-content: space-between;
   margin: 2rem 0 1rem 0;
   gap: 1rem;
 }
-.essay-nav a {
+.chapter-nav a {
   color: var(--accent);
   text-decoration: none;
 }

@@ -1,10 +1,10 @@
 import { describe, it, expect } from "vitest";
 import { render, screen } from "@testing-library/react";
-import { EssayBody } from "./EssayBody";
+import { ChapterBody } from "./ChapterBody";
 
-describe("EssayBody", () => {
+describe("ChapterBody", () => {
   it("renders plain markdown body", () => {
-    render(<EssayBody body={"# Hello\n\nworld"} />);
+    render(<ChapterBody body={"# Hello\n\nworld"} />);
     expect(screen.getByRole("heading", { name: "Hello" })).toBeInTheDocument();
   });
 
@@ -16,7 +16,7 @@ describe("EssayBody", () => {
 - do this
 - not that
 `;
-    render(<EssayBody body={body} />);
+    render(<ChapterBody body={body} />);
     expect(screen.getByText(/Intro paragraph/)).toBeInTheDocument();
     const card = screen.getByTestId("quick-ref-card");
     expect(card.textContent).toContain("do this");
@@ -30,7 +30,7 @@ describe("EssayBody", () => {
 
 after
 `;
-    render(<EssayBody body={body} />);
+    render(<ChapterBody body={body} />);
     expect(screen.getByTestId("quick-ref-card").textContent).toContain("after");
   });
 });

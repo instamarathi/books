@@ -3,20 +3,20 @@ import { findBook, loadBooks } from "../books";
 import { useAuth } from "../useAuth";
 import { useProgress } from "../useProgress";
 
-const FREE_ESSAY_ORDER = 1;
+const FREE_CHAPTER_ORDER = 1;
 
 export const BookIndex = () => {
   const { bookSlug } = useParams<{ bookSlug: string }>();
   const book = findBook(loadBooks(), bookSlug ?? "");
 
   const { user } = useAuth();
-  const { completedEssays } = useProgress(user);
+  const { completedChapters } = useProgress(user);
 
   if (!book) {
     return <p>पुस्तक सापडले नाही.</p>;
   }
 
-  const completed = new Set(completedEssays[book.slug] ?? []);
+  const completed = new Set(completedChapters[book.slug] ?? []);
 
   return (
     <section className="book-index">
@@ -25,26 +25,26 @@ export const BookIndex = () => {
       {book.credit && <p className="book-credit">{book.credit}</p>}
       {!user && (
         <p className="book-paywall-note">
-          पहिला निबंध मोफत. पुढच्यांसाठी sign in करा.
+          पहिलं प्रकरण मोफत. पुढच्यांसाठी sign in करा.
         </p>
       )}
-      <ol className="essay-list">
-        {book.essays.map((e) => {
-          const locked = !user && e.order > FREE_ESSAY_ORDER;
-          const marker = completed.has(e.order)
+      <ol className="chapter-list">
+        {book.chapters.map((c) => {
+          const locked = !user && c.order > FREE_CHAPTER_ORDER;
+          const marker = completed.has(c.order)
             ? "✓"
             : locked
               ? "🔒"
-              : `${e.order}.`;
+              : `${c.order}.`;
           return (
             <li
-              key={e.slug}
-              className={"essay-row" + (locked ? " essay-row-locked" : "")}
+              key={c.slug}
+              className={"chapter-row" + (locked ? " chapter-row-locked" : "")}
             >
-              <Link to={`/${book.slug}/${e.slug}`}>
-                <span className="essay-number">{marker}</span>
-                <span className="essay-title">{e.title}</span>
-                <span className="essay-meta">{e.read_time} मि</span>
+              <Link to={`/${book.slug}/${c.slug}`}>
+                <span className="chapter-number">{marker}</span>
+                <span className="chapter-title">{c.title}</span>
+                <span className="chapter-meta">{c.read_time} मि</span>
               </Link>
             </li>
           );

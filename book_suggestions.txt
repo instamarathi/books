@@ -1,7 +1,7 @@
 # Book Suggestions for instamarathi/books
 # 50 non-fiction titles worth contextualizing for a Marathi-speaking audience.
 # To use: pick a title, paste it into books.txt (one per line). The scheduled
-# agent reads books.txt and generates a Marathi essay-collection for that book.
+# agent reads books.txt and generates a Marathi 9-chapter book for that source book.
 #
 # Summaries below are factual descriptions of each book's scope and themes.
 # Do not treat them as content to reproduce.

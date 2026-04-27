@@ -2,9 +2,9 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 
-export type EssayMeta = {
+export type ChapterMeta = {
   bookSlug: string;
-  essaySlug: string;
+  chapterSlug: string;
   title: string;
   order: number;
   summary: string;
@@ -17,21 +17,21 @@ export function readBookSlugs(booksDir: string): string[] {
   );
 }
 
-export function readEssaysFor(booksDir: string, bookSlug: string): EssayMeta[] {
+export function readChaptersFor(booksDir: string, bookSlug: string): ChapterMeta[] {
   const dir = path.join(booksDir, bookSlug);
-  const out: EssayMeta[] = [];
+  const out: ChapterMeta[] = [];
   for (const file of fs.readdirSync(dir)) {
     if (!file.endsWith(".md")) continue;
     const raw = fs.readFileSync(path.join(dir, file), "utf-8");
     const { data, content } = matter(raw);
-    const essaySlug = file.replace(/\.md$/, "");
+    const chapterSlug = file.replace(/\.md$/, "");
     const summary = data.summary
       ? String(data.summary)
       : content.split(/\n\s*\n/)[0]?.replace(/[#>*_`]/g, "").trim().slice(0, 160) ?? "";
     out.push({
       bookSlug,
-      essaySlug,
-      title: String(data.title ?? essaySlug),
+      chapterSlug,
+      title: String(data.title ?? chapterSlug),
       order: Number(data.order ?? 0),
       summary,
       read_time: Number(data.read_time ?? 0),
@@ -41,8 +41,8 @@ export function readEssaysFor(booksDir: string, bookSlug: string): EssayMeta[] {
   return out;
 }
 
-export function readAllEssays(booksDir: string): EssayMeta[] {
-  return readBookSlugs(booksDir).flatMap((b) => readEssaysFor(booksDir, b));
+export function readAllChapters(booksDir: string): ChapterMeta[] {
+  return readBookSlugs(booksDir).flatMap((b) => readChaptersFor(booksDir, b));
 }
 
 export const SITE_BASE = process.env.VITE_BASE ?? "/books/";

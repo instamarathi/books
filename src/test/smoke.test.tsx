@@ -22,12 +22,12 @@ describe("App routing", () => {
     expect(screen.getByRole("heading", { name: /मुलांशी कसं बोलावं/ })).toBeInTheDocument();
   });
 
-  it("renders Essay at /:bookSlug/:essaySlug", () => {
+  it("renders Chapter at /:bookSlug/:chapterSlug", () => {
     render(
       <MemoryRouter initialEntries={["/how-to-talk/does-not-exist"]}>
         <App />
       </MemoryRouter>,
     );
-    expect(screen.getByText(/निबंध सापडला नाही/)).toBeInTheDocument();
+    expect(screen.getByText(/प्रकरण सापडलं नाही/)).toBeInTheDocument();
   });
 });

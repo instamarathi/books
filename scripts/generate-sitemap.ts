@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { readAllEssays, readBookSlugs, SITE_BASE, SITE_ORIGIN } from "./_essays";
+import { readAllChapters, readBookSlugs, SITE_BASE, SITE_ORIGIN } from "./_chapters";
 
 const ROOT = path.resolve(".");
 const BOOKS_DIR = path.join(ROOT, "books");
@@ -20,8 +20,8 @@ function main() {
   for (const b of readBookSlugs(BOOKS_DIR)) {
     lines.push(entry(url(`${b}/`)));
   }
-  for (const e of readAllEssays(BOOKS_DIR)) {
-    lines.push(entry(url(`${e.bookSlug}/${e.essaySlug}/`)));
+  for (const c of readAllChapters(BOOKS_DIR)) {
+    lines.push(entry(url(`${c.bookSlug}/${c.chapterSlug}/`)));
   }
   const xml =
     `<?xml version="1.0" encoding="UTF-8"?>\n` +

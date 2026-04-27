@@ -3,17 +3,17 @@ import { loadBooks, type Book } from "../books";
 import { useAuth } from "../useAuth";
 import { useProgress } from "../useProgress";
 
-function continueReading(book: Book, currentEssayOrder: number | undefined) {
-  if (!currentEssayOrder) return null;
-  const essay = book.essays.find((e) => e.order === currentEssayOrder);
-  if (!essay) return null;
+function continueReading(book: Book, currentChapterOrder: number | undefined) {
+  if (!currentChapterOrder) return null;
+  const chapter = book.chapters.find((c) => c.order === currentChapterOrder);
+  if (!chapter) return null;
   return (
     <Link
-      to={`/${book.slug}/${essay.slug}`}
+      to={`/${book.slug}/${chapter.slug}`}
       className="book-continue"
       onClick={(e) => e.stopPropagation()}
     >
-      वाचणं सुरू ठेवा: {essay.order}. {essay.title} →
+      वाचणं सुरू ठेवा: {chapter.order}. {chapter.title} →
     </Link>
   );
 }
@@ -36,9 +36,9 @@ export const Bookshelf = () => {
                 <Link to={`/${b.slug}`}>
                   <h3>{b.title}</h3>
                   {b.subtitle && <p className="book-subtitle">{b.subtitle}</p>}
-                  <span className="book-meta">{b.essays.length} निबंध</span>
+                  <span className="book-meta">{b.chapters.length} प्रकरणं</span>
                 </Link>
-                {continueReading(b, bp?.current_essay)}
+                {continueReading(b, bp?.current_chapter)}
               </li>
             );
           })}

@@ -1,7 +1,7 @@
 SCHEDULED AGENT PROMPT — instamarathi/books
 
 You are an autonomous agent invoked nightly at 02:00 IST to generate one new
-book of original Marathi essays for the instamarathi/books site.
+book of original Marathi chapters for the instamarathi/books site.
 
 The repo's working directory is the cwd you start in. CLAUDE.md in that
 directory is the source of truth for content rules — read it before doing
@@ -50,22 +50,22 @@ Pick a one-line subtitle in Marathi or Marathi+Roman-English describing the
 audience and angle.
 
 Pick a credit line for meta.json. Format:
-  "हे निबंध <Source Title> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेले."
+  "ही प्रकरणं <Source Title> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली."
 
 ================================================================
-STEP 3 — PLAN THE 9 ESSAYS
+STEP 3 — PLAN THE 9 CHAPTERS
 ================================================================
 
-Map the source book's principles into 9 essay topics that:
-- Are coherent (each essay covers one clear idea).
+Map the source book's principles into 9 chapter topics that:
+- Are coherent (each chapter covers one clear idea).
 - Are sequenced (build on each other where natural; standalone where not).
 - Suit Marathi-context examples — drop or replace any source-book idea that
   is hopelessly tied to Western culture (e.g., 401(k), Thanksgiving).
-- Add 1-2 essays specific to the Marathi reader if the source book has only
-  6-7 transferable themes (e.g., a "common pitfalls" essay, a "how to start
-  this week" essay, a Marathi-context-specific application).
+- Add 1-2 chapters specific to the Marathi reader if the source book has only
+  6-7 transferable themes (e.g., a "common pitfalls" chapter, a "how to start
+  this week" chapter, a Marathi-context-specific application).
 
-Decide essay slugs (NN-topic), titles, and one-line summaries. Do not write
+Decide chapter slugs (NN-topic), titles, and one-line summaries. Do not write
 the bodies yet.
 
 ================================================================
@@ -73,8 +73,8 @@ STEP 4 — VERIFY YOUR PLAN BEFORE WRITING
 ================================================================
 
 Sanity-check before generating content:
-- Are the 9 essays genuinely distinct, or do some overlap?
-- Will every essay have at least one Marathi-context example you can write
+- Are the 9 chapters genuinely distinct, or do some overlap?
+- Will every chapter have at least one Marathi-context example you can write
   without forcing it?
 - Is the source book one whose principles are ideas / frameworks (transferable)
   rather than one whose value is its specific prose / specific anecdotes?
@@ -92,7 +92,7 @@ Create:
   books/<slug>/meta.json
   books/<slug>/01-<topic>.md  through  09-<topic>.md
 
-Follow the exact structure specified in CLAUDE.md → "Essay structure" section.
+Follow the exact structure specified in CLAUDE.md → "Chapter structure" section.
 The canonical reference is books/how-to-talk/01-feelings.md — match its
 voice, density, and structure.
 
@@ -117,12 +117,12 @@ ABSOLUTE CONTENT RULES (re-stated for clarity, see CLAUDE.md for full):
    joint family, festivals, dabba, exam stress, screen time. Replace
    anything Western unchanged.
 
-5. STRUCTURE. Each essay: opening scenario → bolded principle → 3-5 numbered
+5. STRUCTURE. Each chapter: opening scenario → bolded principle → 3-5 numbered
    techniques with example dialogues → 2-3 pitfalls → "## Quick reference"
    block with do/don't lists. The "## Quick reference" heading text is fixed
    (the renderer detects it literally).
 
-6. LENGTH. 700-1000 words per essay. Tone: practical, direct, how-to.
+6. LENGTH. 700-1000 words per chapter. Tone: practical, direct, how-to.
 
 ================================================================
 STEP 6 — VERIFY THE BUILD
@@ -132,7 +132,11 @@ Run, in order:
 
   npm test
   npx tsc --noEmit
-  npx vite build
+  npm run build
+
+`npm run build` is the same command CI runs on every push. It catches
+frontmatter issues that `npx vite build` alone misses (e.g., gray-matter
+YAML parse failures in the OG/static-stub generators).
 
 If any of these fails:
 - Do NOT commit.
@@ -182,14 +186,14 @@ GUARDRAILS
   REWRITE in fresher, simpler Marathi using a different example. Prefer
   obvious-looking original prose to clever reuse.
 - If you cannot pick a Marathi-context example for a principle without
-  forcing it, drop that essay topic and pick a different one (you have 9
+  forcing it, drop that chapter topic and pick a different one (you have 9
   slots; use the ones that land naturally).
 - If the build fails for reasons unrelated to your content (e.g., dependency
   drift, CI config), do NOT attempt to fix infrastructure. Exit and leave a
   note. A human will deal with it.
 - If you find yourself writing a paragraph that feels like it could appear
   in any general-purpose self-help blog rather than something specific to
-  Marathi families, that essay is not landing. Rewrite with a concrete
+  Marathi families, that chapter is not landing. Rewrite with a concrete
   Marathi scene.
 - Do not add new dependencies, modify build scripts, or change anything
   outside books/<slug>/ and books.txt. Your scope is content only.

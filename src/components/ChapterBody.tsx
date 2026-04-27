@@ -16,7 +16,7 @@ function splitBody(body: string): { main: string; quickRef: string | null } {
   return { main, quickRef };
 }
 
-export const EssayBody: React.FC<{ body: string }> = ({ body }) => {
+export const ChapterBody: React.FC<{ body: string }> = ({ body }) => {
   const { main, quickRef } = splitBody(body);
   return (
     <>

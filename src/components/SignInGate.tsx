@@ -4,11 +4,11 @@ import { GoogleIcon } from "../icons";
 export const SignInGate = ({
   loading,
   signIn,
-  essayTitle,
+  chapterTitle,
 }: {
   loading: boolean;
   signIn: () => void;
-  essayTitle: string;
+  chapterTitle: string;
   user?: User | null;
 }) => {
   if (loading) {
@@ -20,9 +20,9 @@ export const SignInGate = ({
   }
   return (
     <div className="signin-gate">
-      <h2 className="signin-gate-title">{essayTitle}</h2>
+      <h2 className="signin-gate-title">{chapterTitle}</h2>
       <p className="signin-gate-msg">
-        पहिला निबंध सर्वांसाठी खुला आहे. पुढचे वाचण्यासाठी sign in करा — एका
+        पहिलं प्रकरण सर्वांसाठी खुलं आहे. पुढची वाचण्यासाठी sign in करा — एका
         click मध्ये, कोणताही extra setup नाही.
       </p>
       <button className="signin-gate-btn" onClick={signIn}>

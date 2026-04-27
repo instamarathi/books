@@ -4,11 +4,11 @@ import type { User } from "firebase/auth";
 import { db } from "./firebase";
 
 export type BookProgress = {
-  current_essay: number;          // 1-indexed
-  scroll: Record<string, number>; // key = essay order as string, value 0..1
+  current_chapter: number;        // 1-indexed
+  scroll: Record<string, number>; // key = chapter order as string, value 0..1
 };
 export type ProgressMap = Record<string, BookProgress>;
-export type CompletedEssaysMap = Record<string, number[]>;
+export type CompletedChaptersMap = Record<string, number[]>;
 
 export type Streak = {
   current: number;
@@ -45,12 +45,12 @@ export function computeStreak(prev: Streak, today: string): Streak {
 
 export function useProgress(user: User | null) {
   const [progress, setProgress] = useState<ProgressMap>({});
-  const [completedEssays, setCompletedEssays] = useState<CompletedEssaysMap>({});
+  const [completedChapters, setCompletedChapters] = useState<CompletedChaptersMap>({});
   const [streak, setStreak] = useState<Streak>(EMPTY_STREAK);
   const [loaded, setLoaded] = useState(false);
 
   const progressRef = useRef<ProgressMap>({});
-  const completedRef = useRef<CompletedEssaysMap>({});
+  const completedRef = useRef<CompletedChaptersMap>({});
   const streakRef = useRef<Streak>(EMPTY_STREAK);
 
   const pendingProgressRef = useRef<Set<string>>(new Set()); // bookSlugs to flush
@@ -59,13 +59,13 @@ export function useProgress(user: User | null) {
   const timerRef = useRef<number | null>(null);
 
   useEffect(() => { progressRef.current = progress; }, [progress]);
-  useEffect(() => { completedRef.current = completedEssays; }, [completedEssays]);
+  useEffect(() => { completedRef.current = completedChapters; }, [completedChapters]);
   useEffect(() => { streakRef.current = streak; }, [streak]);
 
   useEffect(() => {
     if (!user) {
       setProgress({});
-      setCompletedEssays({});
+      setCompletedChapters({});
       setStreak(EMPTY_STREAK);
       progressRef.current = {};
       completedRef.current = {};
@@ -80,10 +80,10 @@ export function useProgress(user: User | null) {
         if (cancelled) return;
         const data = snap.data() ?? {};
         const p = (data.progress ?? {}) as ProgressMap;
-        const ce = (data.completed_essays ?? {}) as CompletedEssaysMap;
+        const ce = (data.completed_chapters ?? {}) as CompletedChaptersMap;
         const st = (data.streak ?? EMPTY_STREAK) as Streak;
         setProgress(p);
-        setCompletedEssays(ce);
+        setCompletedChapters(ce);
         setStreak(st);
         progressRef.current = p;
         completedRef.current = ce;
@@ -130,7 +130,7 @@ export function useProgress(user: User | null) {
       if (pendingC.size > 0) {
         const out: Record<string, number[]> = {};
         for (const slug of pendingC) out[slug] = completedRef.current[slug] ?? [];
-        update.completed_essays = out;
+        update.completed_chapters = out;
       }
       if (streakDirty) update.streak = streakRef.current;
 
@@ -144,22 +144,22 @@ export function useProgress(user: User | null) {
   );
 
   const recordProgress = useCallback(
-    (bookSlug: string, essayOrder: number, scrollFrac: number) => {
+    (bookSlug: string, chapterOrder: number, scrollFrac: number) => {
       if (!user) return;
       const clamped = Math.max(0, Math.min(1, scrollFrac));
-      const key = String(essayOrder);
+      const key = String(chapterOrder);
       const existing = progressRef.current[bookSlug] ?? {
-        current_essay: essayOrder,
+        current_chapter: chapterOrder,
         scroll: {},
       };
 
       const prevScroll = existing.scroll[key] ?? 0;
       const positionChanged =
-        existing.current_essay !== essayOrder ||
+        existing.current_chapter !== chapterOrder ||
         Math.abs(prevScroll - clamped) >= 0.02;
       if (positionChanged) {
         const next: BookProgress = {
-          current_essay: essayOrder,
+          current_chapter: chapterOrder,
           scroll: { ...existing.scroll, [key]: Math.max(prevScroll, clamped) },
         };
         progressRef.current = { ...progressRef.current, [bookSlug]: next };
@@ -169,10 +169,10 @@ export function useProgress(user: User | null) {
 
       if (clamped >= COMPLETION_THRESHOLD) {
         const list = completedRef.current[bookSlug] ?? [];
-        if (!list.includes(essayOrder)) {
-          const nextList = [...list, essayOrder].sort((a, b) => a - b);
+        if (!list.includes(chapterOrder)) {
+          const nextList = [...list, chapterOrder].sort((a, b) => a - b);
           completedRef.current = { ...completedRef.current, [bookSlug]: nextList };
-          setCompletedEssays(completedRef.current);
+          setCompletedChapters(completedRef.current);
           pendingCompletedRef.current.add(bookSlug);
 
           const today = localDateKey();
@@ -215,5 +215,5 @@ export function useProgress(user: User | null) {
     return () => window.removeEventListener("pagehide", onHide);
   }, [user, flushPending]);
 
-  return { progress, completedEssays, streak, loaded, recordProgress };
+  return { progress, completedChapters, streak, loaded, recordProgress };
 }

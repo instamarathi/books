@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import satori from "satori";
 import { Resvg } from "@resvg/resvg-js";
-import { readAllEssays } from "./_essays";
+import { readAllChapters } from "./_chapters";
 
 const ROOT = path.resolve(".");
 const BOOKS_DIR = path.join(ROOT, "books");
@@ -25,9 +25,9 @@ function loadLocalFont(filename: string): Buffer {
 }
 
 async function main() {
-  const essays = readAllEssays(BOOKS_DIR);
-  if (essays.length === 0) {
-    console.log("No essays found; skipping OG card generation.");
+  const chapters = readAllChapters(BOOKS_DIR);
+  if (chapters.length === 0) {
+    console.log("No chapters found; skipping OG card generation.");
     return;
   }
   const tiro = loadLocalFont("TiroDevanagariMarathi-Regular.ttf");
@@ -35,7 +35,7 @@ async function main() {
 
   fs.mkdirSync(OUT, { recursive: true });
 
-  for (const e of essays) {
+  for (const c of chapters) {
     const node = {
       type: "div",
         props: {
@@ -55,14 +55,14 @@ async function main() {
               type: "div",
               props: {
                 style: { fontSize: "32px", color: "#C76C2D", fontFamily: "Inter" },
-                children: `निबंध ${e.order}`,
+                children: `प्रकरण ${c.order}`,
               },
             },
             {
               type: "div",
               props: {
                 style: { fontSize: "72px", lineHeight: 1.2 },
-                children: e.title,
+                children: c.title,
               },
             },
             {
@@ -89,10 +89,10 @@ async function main() {
       },
     );
     const png = new Resvg(svg, { background: "#FAF7F2" }).render().asPng();
-    const outDir = path.join(OUT, e.bookSlug);
+    const outDir = path.join(OUT, c.bookSlug);
     fs.mkdirSync(outDir, { recursive: true });
-    fs.writeFileSync(path.join(outDir, `${e.essaySlug}.png`), png);
-    console.log(`wrote og/${e.bookSlug}/${e.essaySlug}.png`);
+    fs.writeFileSync(path.join(outDir, `${c.chapterSlug}.png`), png);
+    console.log(`wrote og/${c.bookSlug}/${c.chapterSlug}.png`);
   }
 }
 

@@ -1,6 +1,6 @@
 # instamarathi/books — project guide
 
-This repo is the source of https://instamarathi.github.io/books/ — a phone-first Marathi reading site that hosts original Marathi-language essay-collections. Each "book" on the site is a 9-essay collection inspired by the principles of a popular non-fiction book, contextualized for Marathi-speaking families and professionals.
+This repo is the source of https://instamarathi.github.io/books/ — a phone-first Marathi reading site that hosts original Marathi-language books. Each "book" on the site is a 9-chapter book inspired by the principles of a popular non-fiction book, contextualized for Marathi-speaking families and professionals.
 
 This file is loaded by Claude on every session. It is the source of truth for content rules, structure, and tooling.
 
@@ -8,14 +8,14 @@ This file is loaded by Claude on every session. It is the source of truth for co
 
 ## Authoring rules — non-negotiable
 
-These rules apply to every essay generated for this site, whether written manually or by a scheduled agent.
+These rules apply to every chapter generated for this site, whether written manually or by a scheduled agent.
 
-1. **Original prose only.** Essays are inspired by a source book's *principles* (which are ideas, not copyrightable), but never reproduce, paraphrase, or do "minor changes / substitutions" of the source text. The book is the seed, not the script. If you find yourself remembering a specific sentence from the source, do not write it down — write a fresh sentence in your own words about the same idea.
+1. **Original prose only.** Chapters are inspired by a source book's *principles* (which are ideas, not copyrightable), but never reproduce, paraphrase, or do "minor changes / substitutions" of the source text. The book is the seed, not the script. If you find yourself remembering a specific sentence from the source, do not write it down — write a fresh sentence in your own words about the same idea.
 2. **Marathi prose in Devanagari, English loanwords in Roman script.** Example: `मुलाने tantrum केला तर लगेच react करू नका`. This matches how educated Marathi speakers actually write in WhatsApp/messages. Don't transliterate English words to Devanagari (no `टॅन्ट्रम`).
-3. **Tone: practical, direct, how-to.** Not literary, not academic, not preachy. Each essay reads like a friend who has tried the principles and is sharing what works.
-4. **Length: 700–1000 words per essay.** ~5–8 minute mobile read.
+3. **Tone: practical, direct, how-to.** Not literary, not academic, not preachy. Each chapter reads like a friend who has tried the principles and is sharing what works.
+4. **Length: 700–1000 words per chapter.** ~5–8 minute mobile read.
 5. **Marathi-context examples only.** Use Indian household scenarios — homework, school, बस, cousins (मामेभाऊ/मावसभाऊ), neighbours, festivals, joint families, dabba, exam pressure, screen time, Marathi-medium vs English-medium school. Do NOT use Western examples unchanged ("soccer practice", "the cabin in the woods", "Thanksgiving") — translate the spirit of the example into something the Marathi reader recognizes from daily life.
-6. **Source book is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual essays.
+6. **Source book is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual chapters.
 
 ---
 
@@ -39,20 +39,20 @@ books/<slug>/
   "slug": "<book-slug>",
   "title": "<Marathi title>",
   "subtitle": "<one-line description in Marathi or English>",
-  "credit": "हे निबंध <source-book-name> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेले.",
-  "essay_order": ["01-...", "02-...", ..., "09-..."]
+  "credit": "ही प्रकरणं <source-book-name> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली.",
+  "chapter_order": ["01-...", "02-...", ..., "09-..."]
 }
 ```
 
 ---
 
-## Essay structure (every essay, every book)
+## Chapter structure (every chapter, every book)
 
 Markdown file with YAML frontmatter:
 
 ```markdown
 ---
-title: <Marathi essay title>
+title: <Marathi chapter title>
 slug: <NN-topic>
 order: <1-9>
 summary: <one-line Marathi/Marathi+English description>
@@ -93,7 +93,9 @@ read_time: <integer minutes, usually 5-8>
 
 The literal heading `## Quick reference` is detected by the renderer (case-insensitive) and styled as a `QuickRefCard` block. Do not change this heading text or the styling will break.
 
-The canonical reference essay is `books/how-to-talk/01-feelings.md` — match its voice, structure, and density.
+Important: if a `summary:` value starts with a `"` (a quoted phrase), wrap the whole summary value in single quotes — otherwise gray-matter's YAML parser treats the leading `"` as the start of a quoted scalar and chokes on the trailing text. Example: `summary: '"बूट जागेवर ठेव" — दिवसातून शंभर वेळा...'`. The browser-side parser in `src/books.ts` is more lenient, but the build-time scripts use gray-matter and will fail.
+
+The canonical reference chapter is `books/how-to-talk/01-feelings.md` — match its voice, structure, and density.
 
 ---
 
@@ -102,20 +104,20 @@ The canonical reference essay is `books/how-to-talk/01-feelings.md` — match it
 | Area | Choice | Why |
 |---|---|---|
 | Stack | Vite + React 18 + TypeScript | Matches sibling project at `../carousels`; reuses auth/progress hooks |
-| Routing | Path-based (`react-router-dom` BrowserRouter) | Per-essay Open Graph tags must resolve for crawlers |
+| Routing | Path-based (`react-router-dom` BrowserRouter) | Per-chapter Open Graph tags must resolve for crawlers |
 | Markdown | `react-markdown` + `remark-gfm`, loaded via `import.meta.glob` | All books bundle at build time; no runtime fetch |
 | Quick-ref styling | Marker-heading detection (`## Quick reference`) | Simpler than custom remark plugin or frontmatter block |
 | Auth | Firebase Auth, Google provider, popup | Reuses existing `carousel-2a740` Firebase project |
-| Database | Firestore, single `users/{uid}` doc | Same shape as carousels; book/essay progress added under `progress[bookSlug]` |
+| Database | Firestore, single `users/{uid}` doc | Same shape as carousels; book/chapter progress added under `progress[bookSlug]` |
 | Progress write | Debounced 1500 ms, flushed on `pagehide` | Matches carousels |
-| Essay completion | Scroll position ≥ 0.95 | Tolerates "didn't quite reach the bottom" |
+| Chapter completion | Scroll position ≥ 0.95 | Tolerates "didn't quite reach the bottom" |
 | Streak logic | Reused unchanged from carousels useProgress | Single user identity → unified streak across reading + carousels |
 | Theme | `useTheme` hook with light/dark/system, CSS variables | Auto-detects `prefers-color-scheme`, manual override persists in localStorage |
 | Font size | `useFontSize` hook with A-/A/A+ (16/18/20px) | Devanagari readers vary widely in eye comfort |
 | Fonts | Tiro Devanagari Marathi (Devanagari) + Inter (Latin) from Google Fonts | Tiro is purpose-designed for Marathi |
-| OG cards | Build-time satori + resvg, 1200×630 PNG per essay | Required for WhatsApp/Telegram unfurls |
-| Static stubs | Build-time `dist/<book>/<essay>/index.html` with injected OG tags | Crawlers see correct meta on first hit |
-| Sitemap | Build-time generator | One entry per essay + book + bookshelf |
+| OG cards | Build-time satori + resvg, 1200×630 PNG per chapter | Required for WhatsApp/Telegram unfurls |
+| Static stubs | Build-time `dist/<book>/<chapter>/index.html` with injected OG tags | Crawlers see correct meta on first hit |
+| Sitemap | Build-time generator | One entry per chapter + book + bookshelf |
 | Deploy | GitHub Actions → GitHub Pages | Push to main, ~2 min to live |
 | Analytics | None for v1 | Keep clean; can add GoatCounter later |
 
@@ -125,8 +127,8 @@ The canonical reference essay is `books/how-to-talk/01-feelings.md` — match it
 
 1. `mkdir books/<slug>`
 2. Write `meta.json`.
-3. Write 9 `.md` essays following the structure above.
-4. `npm test && npx tsc --noEmit && npx vite build` — all must pass.
+3. Write 9 `.md` chapters following the structure above.
+4. `npm test && npx tsc --noEmit && npm run build` — all must pass.
 5. `git add -A && git commit -m "book: <slug> — <Marathi-title>" && git push`.
 6. CI deploys to GitHub Pages.
 
@@ -153,10 +155,10 @@ The agent's full instructions are in `schedule.txt`.
 ```bash
 npm test                # Vitest passes
 npx tsc --noEmit        # TypeScript clean
-npx vite build          # Vite build succeeds (does not require all build-time scripts to be present yet)
+npm run build           # Full pipeline: vite + OG cards + static stubs + sitemap (this is what CI runs)
 ```
 
-`npm run build` runs the full pipeline including the OG-card / static-stub / sitemap scripts. It only works once Task 12 of the implementation plan is complete.
+`npm run build` is the same command CI runs on every push. Running it locally catches frontmatter issues that `npx vite build` alone misses (e.g., gray-matter YAML parse failures in the OG/static-stub generators).
 
 ---
 
@@ -182,7 +184,7 @@ schedule.txt            Prompt the scheduled agent runs each night
 
 ## Paywall
 
-Per book: the **first essay (order=1) is open to everyone**; essays 2–9 require Google sign-in. Implementation: `BookIndex.tsx` shows a 🔒 marker on locked rows; `Essay.tsx` renders a `SignInGate` component instead of the body when `!user && essay.order > 1`. The free-essay threshold is the constant `FREE_ESSAY_ORDER` in those two files — change in both if you ever raise/lower the wall.
+Per book: the **first chapter (order=1) is open to everyone**; chapters 2–9 require Google sign-in. Implementation: `BookIndex.tsx` shows a 🔒 marker on locked rows; `Chapter.tsx` renders a `SignInGate` component instead of the body when `!user && chapter.order > 1`. The free-chapter threshold is the constant `FREE_CHAPTER_ORDER` in those two files — change in both if you ever raise/lower the wall.
 
 OG card stubs are NOT gated (a shared link should still unfurl with title + image even when the recipient is logged out). The gate is client-side only.
 
@@ -190,9 +192,9 @@ OG card stubs are NOT gated (a shared link should still unfurl with title + imag
 
 - Do not change the path-routing scheme to hash routing. OG card unfurls depend on real URLs.
 - Do not transliterate English loanwords to Devanagari (`टॅन्ट्रम`). Keep them in Roman script.
-- Do not write essays that require Western cultural context to land. Translate examples into Marathi life.
-- Do not put a credit line in individual essays. It belongs only in `meta.json`.
-- Do not skip any of the 9 essays for a book. The shape is fixed.
+- Do not write chapters that require Western cultural context to land. Translate examples into Marathi life.
+- Do not put a credit line in individual chapters. It belongs only in `meta.json`.
+- Do not skip any of the 9 chapters for a book. The shape is fixed.
 - Do not change the `## Quick reference` heading text — the renderer matches it literally.
 - Do not enable analytics, comments, or social features without an explicit ask.
 - Do not commit secrets. The Firebase config is intentionally public; that's fine. Anything else is not.

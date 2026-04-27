@@ -6,7 +6,7 @@ import { FontSizeToggle } from "./components/FontSizeToggle";
 import { useAuth } from "./useAuth";
 import { Bookshelf } from "./pages/Bookshelf";
 import { BookIndex } from "./pages/BookIndex";
-import { Essay } from "./pages/Essay";
+import { Chapter } from "./pages/Chapter";
 
 export const App: React.FC = () => {
   const { user, loading, signIn, signOut } = useAuth();
@@ -24,7 +24,7 @@ export const App: React.FC = () => {
         <Routes>
           <Route path="/" element={<Bookshelf />} />
           <Route path="/:bookSlug" element={<BookIndex />} />
-          <Route path="/:bookSlug/:essaySlug" element={<Essay />} />
+          <Route path="/:bookSlug/:chapterSlug" element={<Chapter />} />
           <Route path="*" element={<p>पृष्ठ सापडले नाही.</p>} />
         </Routes>
       </main>

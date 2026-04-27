@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { readAllEssays, readBookSlugs, SITE_BASE, SITE_ORIGIN } from "./_essays";
+import { readAllChapters, readBookSlugs, SITE_BASE, SITE_ORIGIN } from "./_chapters";
 
 const ROOT = path.resolve(".");
 const BOOKS_DIR = path.join(ROOT, "books");
@@ -49,12 +49,12 @@ function injectMeta(template: string, meta: Record<string, string>): string {
   return stripped.replace("</head>", `    ${tags}\n  </head>`);
 }
 
-function essayUrl(bookSlug: string, essaySlug: string): string {
-  return `${SITE_ORIGIN}${SITE_BASE}${bookSlug}/${essaySlug}/`;
+function chapterUrl(bookSlug: string, chapterSlug: string): string {
+  return `${SITE_ORIGIN}${SITE_BASE}${bookSlug}/${chapterSlug}/`;
 }
 
-function ogImage(bookSlug: string, essaySlug: string): string {
-  return `${SITE_ORIGIN}${SITE_BASE}og/${bookSlug}/${essaySlug}.png`;
+function ogImage(bookSlug: string, chapterSlug: string): string {
+  return `${SITE_ORIGIN}${SITE_BASE}og/${bookSlug}/${chapterSlug}.png`;
 }
 
 function writeStub(filePath: string, html: string) {
@@ -63,23 +63,23 @@ function writeStub(filePath: string, html: string) {
 }
 
 function main() {
-  const essays = readAllEssays(BOOKS_DIR);
-  for (const e of essays) {
+  const chapters = readAllChapters(BOOKS_DIR);
+  for (const c of chapters) {
     const html = injectMeta(TEMPLATE, {
-      title: `${e.title} — instamarathi books`,
-      description: e.summary,
-      "og:title": e.title,
-      "og:description": e.summary,
+      title: `${c.title} — instamarathi books`,
+      description: c.summary,
+      "og:title": c.title,
+      "og:description": c.summary,
       "og:type": "article",
-      "og:url": essayUrl(e.bookSlug, e.essaySlug),
-      "og:image": ogImage(e.bookSlug, e.essaySlug),
+      "og:url": chapterUrl(c.bookSlug, c.chapterSlug),
+      "og:image": ogImage(c.bookSlug, c.chapterSlug),
       "og:locale": "mr_IN",
       "twitter:card": "summary_large_image",
-      "twitter:title": e.title,
-      "twitter:description": e.summary,
-      "twitter:image": ogImage(e.bookSlug, e.essaySlug),
+      "twitter:title": c.title,
+      "twitter:description": c.summary,
+      "twitter:image": ogImage(c.bookSlug, c.chapterSlug),
     });
-    const outPath = path.join(DIST, e.bookSlug, e.essaySlug, "index.html");
+    const outPath = path.join(DIST, c.bookSlug, c.chapterSlug, "index.html");
     writeStub(outPath, html);
     console.log(`wrote ${path.relative(DIST, outPath)}`);
   }

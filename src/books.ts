@@ -1,4 +1,4 @@
-// Tiny browser-safe frontmatter parser. We control the essay format: a strict
+// Tiny browser-safe frontmatter parser. We control the chapter format: a strict
 // subset of YAML — `key: value` lines, scalar values only (string or number),
 // optional matching quotes. No nesting, no multiline. Avoids gray-matter,
 // which depends on Node's Buffer and crashes in the browser.
@@ -35,7 +35,7 @@ function parseFrontmatter(raw: string): {
   return { data, content };
 }
 
-export type Essay = {
+export type Chapter = {
   bookSlug: string;
   slug: string;
   title: string;
@@ -50,11 +50,11 @@ export type BookMeta = {
   title: string;
   subtitle?: string;
   credit?: string;
-  essay_order: string[];
+  chapter_order: string[];
 };
 
 export type Book = BookMeta & {
-  essays: Essay[];
+  chapters: Chapter[];
 };
 
 const REQUIRED = ["title", "slug", "order", "read_time"] as const;
@@ -66,20 +66,20 @@ function firstParagraph(body: string, max = 160): string {
   return cleaned.length > max ? cleaned.slice(0, max - 1) + "…" : cleaned;
 }
 
-export function parseEssay(raw: string, bookSlug: string, fallbackSlug: string): Essay {
+export function parseChapter(raw: string, bookSlug: string, fallbackSlug: string): Chapter {
   const { data, content } = parseFrontmatter(raw);
   for (const field of REQUIRED) {
     if (data[field] === undefined || data[field] === null || data[field] === "") {
-      throw new Error(`Essay ${bookSlug}/${fallbackSlug}: missing required field "${field}"`);
+      throw new Error(`Chapter ${bookSlug}/${fallbackSlug}: missing required field "${field}"`);
     }
   }
   const order = Number(data.order);
   const read_time = Number(data.read_time);
   if (Number.isNaN(order)) {
-    throw new Error(`Essay ${bookSlug}/${fallbackSlug}: order is not a number`);
+    throw new Error(`Chapter ${bookSlug}/${fallbackSlug}: order is not a number`);
   }
   if (Number.isNaN(read_time)) {
-    throw new Error(`Essay ${bookSlug}/${fallbackSlug}: read_time is not a number`);
+    throw new Error(`Chapter ${bookSlug}/${fallbackSlug}: read_time is not a number`);
   }
   return {
     bookSlug,
@@ -92,25 +92,25 @@ export function parseEssay(raw: string, bookSlug: string, fallbackSlug: string):
   };
 }
 
-// Eager glob: load all book metadata and all essay markdown at module load.
+// Eager glob: load all book metadata and all chapter markdown at module load.
 // Vite resolves these at build time and bundles them.
 const metaModules = import.meta.glob("/books/*/meta.json", {
   eager: true,
   import: "default",
 }) as Record<string, BookMeta>;
 
-const rawEssayModules = import.meta.glob("/books/*/*.md", {
+const rawChapterModules = import.meta.glob("/books/*/*.md", {
   eager: true,
   query: "?raw",
   import: "default",
 }) as Record<string, string>;
 
-function pathParts(filePath: string): { bookSlug: string; essaySlug: string } {
+function pathParts(filePath: string): { bookSlug: string; chapterSlug: string } {
   // filePath is like "/books/how-to-talk/01-feelings.md"
   const parts = filePath.split("/");
   return {
     bookSlug: parts[2] ?? "",
-    essaySlug: (parts[3] ?? "").replace(/\.md$/, ""),
+    chapterSlug: (parts[3] ?? "").replace(/\.md$/, ""),
   };
 }
 
@@ -118,14 +118,14 @@ export function loadBooks(): Book[] {
   const books: Book[] = [];
   for (const [path, meta] of Object.entries(metaModules)) {
     const bookSlug = path.split("/")[2] ?? "";
-    const essays: Essay[] = [];
-    for (const [essayPath, raw] of Object.entries(rawEssayModules)) {
-      const parts = pathParts(essayPath);
+    const chapters: Chapter[] = [];
+    for (const [chapterPath, raw] of Object.entries(rawChapterModules)) {
+      const parts = pathParts(chapterPath);
       if (parts.bookSlug !== bookSlug) continue;
-      essays.push(parseEssay(raw, bookSlug, parts.essaySlug));
+      chapters.push(parseChapter(raw, bookSlug, parts.chapterSlug));
     }
-    essays.sort((a, b) => a.order - b.order);
-    books.push({ ...meta, essays });
+    chapters.sort((a, b) => a.order - b.order);
+    books.push({ ...meta, chapters });
   }
   books.sort((a, b) => a.title.localeCompare(b.title, "mr-IN"));
   return books;
@@ -135,6 +135,6 @@ export function findBook(books: Book[], bookSlug: string): Book | undefined {
   return books.find((b) => b.slug === bookSlug);
 }
 
-export function findEssay(book: Book, essaySlug: string): Essay | undefined {
-  return book.essays.find((e) => e.slug === essaySlug);
+export function findChapter(book: Book, chapterSlug: string): Chapter | undefined {
+  return book.chapters.find((c) => c.slug === chapterSlug);
 }
