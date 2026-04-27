@@ -8,10 +8,37 @@ const DIST = path.join(ROOT, "dist");
 
 const TEMPLATE = fs.readFileSync(path.join(DIST, "index.html"), "utf-8");
 
+function escAttr(s: string): string {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+// Strip pre-existing head tags that we're about to override, so we don't emit
+// duplicate <title>, og:type, og:locale, etc.
+function stripExistingTags(template: string, keys: Iterable<string>): string {
+  let out = template;
+  for (const k of keys) {
+    if (k === "title") {
+      out = out.replace(/<title>[^<]*<\/title>\s*/i, "");
+    } else if (k.startsWith("og:") || k.startsWith("twitter:")) {
+      const re = new RegExp(`<meta\\s+property=["']${k}["'][^>]*>\\s*`, "gi");
+      out = out.replace(re, "");
+    } else {
+      const re = new RegExp(`<meta\\s+name=["']${k}["'][^>]*>\\s*`, "gi");
+      out = out.replace(re, "");
+    }
+  }
+  return out;
+}
+
 function injectMeta(template: string, meta: Record<string, string>): string {
+  const stripped = stripExistingTags(template, Object.keys(meta));
   const tags = Object.entries(meta)
     .map(([k, v]) => {
-      const safe = String(v).replace(/"/g, "&quot;");
+      const safe = escAttr(v);
       if (k === "title") return `<title>${safe}</title>`;
       if (k.startsWith("og:") || k.startsWith("twitter:")) {
         return `<meta property="${k}" content="${safe}" />`;
@@ -19,7 +46,7 @@ function injectMeta(template: string, meta: Record<string, string>): string {
       return `<meta name="${k}" content="${safe}" />`;
     })
     .join("\n    ");
-  return template.replace("</head>", `    ${tags}\n  </head>`);
+  return stripped.replace("</head>", `    ${tags}\n  </head>`);
 }
 
 function essayUrl(bookSlug: string, essaySlug: string): string {
