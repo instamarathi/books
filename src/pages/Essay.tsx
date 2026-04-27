@@ -9,7 +9,11 @@ export const Essay: React.FC = () => {
   const essay = book ? findEssay(book, essaySlug ?? "") : undefined;
 
   if (!book || !essay) {
-    return <p>निबंध सापडला नाही. <Link to="/">मुख्य पानावर परत</Link></p>;
+    return (
+      <article className="essay">
+        <p>निबंध सापडला नाही. <Link to="/">मुख्य पानावर परत</Link></p>
+      </article>
+    );
   }
 
   return (
