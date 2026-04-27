@@ -2,7 +2,7 @@
 title: Labels टाळा
 slug: 06-labels
 order: 6
-summary: "हा आळशी आहे, ही shy आहे, तो हट्टी आहे" — एकदा label चिकटला की मूल त्याच्यात अडकतं. Labels कसे काढायचे.
+summary: '"हा आळशी आहे, ही shy आहे, तो हट्टी आहे" — एकदा label चिकटला की मूल त्याच्यात अडकतं. Labels कसे काढायचे.'
 read_time: 7
 ---
 

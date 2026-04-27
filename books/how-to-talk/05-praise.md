@@ -2,7 +2,7 @@
 title: कौतुक कसं करायचं
 slug: 05-praise
 order: 5
-summary: "Wow! Brilliant!" हे rikamं वाटतं. जे दिसतंय ते describe करा — मूल अधिक कष्ट करायला शिकतं.
+summary: '"Wow! Brilliant!" हे रिकामं वाटतं. जे दिसतंय ते describe करा — मूल अधिक कष्ट करायला शिकतं.'
 read_time: 6
 ---
 
