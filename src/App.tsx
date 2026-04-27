@@ -23,7 +23,7 @@ export const App: React.FC = () => {
           <Route path="/" element={<Bookshelf />} />
           <Route path="/:bookSlug" element={<BookIndex />} />
           <Route path="/:bookSlug/:essaySlug" element={<Essay />} />
-          <Route path="*" element={<p>Not found</p>} />
+          <Route path="*" element={<p>पृष्ठ सापडले नाही.</p>} />
         </Routes>
       </main>
     </>
