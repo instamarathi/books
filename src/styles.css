@@ -91,3 +91,61 @@ main {
   margin: 0 auto;
   padding: 1rem;
 }
+
+.book-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+}
+.book-card a {
+  display: block;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card-bg);
+  color: var(--fg);
+  text-decoration: none;
+}
+.book-card h3 {
+  margin: 0 0 0.25rem 0;
+}
+.book-subtitle {
+  color: var(--fg-muted);
+  margin: 0.25rem 0;
+}
+.book-meta {
+  color: var(--fg-muted);
+  font-size: 0.9em;
+}
+.book-credit {
+  color: var(--fg-muted);
+  font-style: italic;
+  font-size: 0.95em;
+  border-left: 3px solid var(--border);
+  padding-left: 0.75rem;
+}
+.essay-list {
+  list-style: none;
+  padding: 0;
+}
+.essay-row a {
+  display: grid;
+  grid-template-columns: 2rem 1fr auto;
+  gap: 0.75rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border);
+  color: var(--fg);
+  text-decoration: none;
+}
+.essay-row a:hover {
+  background: var(--card-bg);
+}
+.essay-number {
+  color: var(--fg-muted);
+}
+.essay-meta {
+  color: var(--fg-muted);
+  font-size: 0.85em;
+  align-self: center;
+}

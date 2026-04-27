@@ -19,7 +19,7 @@ describe("App routing", () => {
         <App />
       </MemoryRouter>,
     );
-    expect(screen.getByText(/Book: how-to-talk/)).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: /मुलांशी कसं बोलावं/ })).toBeInTheDocument();
   });
 
   it("renders Essay at /:bookSlug/:essaySlug", () => {
