@@ -31,10 +31,11 @@ export const Essay: React.FC = () => {
     );
   }
 
-  const prev = book.essays.find((e) => e.order === essay.order - 1);
-  const next = book.essays.find((e) => e.order === essay.order + 1);
+  const idx = book.essays.findIndex((e) => e.order === essay.order);
+  const prev = idx > 0 ? book.essays[idx - 1] : undefined;
+  const next = idx >= 0 ? book.essays[idx + 1] : undefined;
 
-  const shareUrl = typeof window !== "undefined" ? window.location.href : "";
+  const shareUrl = window.location.href;
 
   return (
     <article className="essay">
