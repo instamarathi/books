@@ -125,7 +125,62 @@ ABSOLUTE CONTENT RULES (re-stated for clarity, see CLAUDE.md for full):
 6. LENGTH. 700-1000 words per chapter. Tone: practical, direct, how-to.
 
 ================================================================
-STEP 6 — VERIFY THE BUILD
+STEP 6 — REVIEW AND REPAIR EACH CHAPTER
+================================================================
+
+Before running the build, re-read every chapter you just wrote and fix any
+issues in the following categories. This step is non-negotiable — the site
+is read by real Marathi speakers and AI-generated awkwardness is noticed.
+
+6A. DOUBLE-MEANING WORDS
+Marathi has several common words that carry an unintended second meaning
+when read out of context. Scan every sentence for these:
+
+  - "पाळी" — used correctly as "turn/cycle" but reads as menstrual period
+    in short standalone sentences. Replace with "वेळ" or "नंबर" or rewrite.
+  - Any word that, if read by a schoolchild, would cause embarrassment or
+    confusion. Read each sentence as if it were out of context.
+
+6B. AI-GENERATED PHRASES (must not survive into final content)
+These are phrases that sound plausible in English-translated-to-Marathi
+but no actual Marathi speaker would write:
+
+  - Contradictory metaphor combos: e.g., "पोखरून बनवतो" (hollow-out +
+    build — two opposite verbs forced together). Pick one metaphor.
+  - English words used as Marathi grammar: e.g., "mainstream रित्या" —
+    "mainstream" is not a Marathi adverb. Use "खरोखर", "मनापासून", etc.
+  - Transliterations of English abstractions that Marathi has words for:
+    e.g., "हिप्पोक्रसी" → "ढोंगीपणा" or "दुतोंडीपणा".
+  - Wrong word used plausibly: e.g., "दबा" (ambush) where "खेळी" (tactic)
+    or "हत्यार" (tool) is meant. "व्यवाद" encoding scrambled as "vyवाद".
+
+6C. ENCODING / TYPO ERRORS
+  - Roman characters embedded in Devanagari words (e.g., "nakळत" should
+    be "नकळत", "vyवादात" should be "वादात"). Grep each file for any
+    ASCII a-z characters that appear mid-word in Devanagari text.
+  - Devanagari matra errors (e.g., "मूलगा" instead of "मुलगा").
+
+6D. NATURALNESS — WOULD A MARATHI SPEAKER SAY THIS?
+For each household object, location, or activity in an example:
+
+  - Is the Marathi word the one people actually use, or is it a dictionary
+    word nobody speaks? Example: "कापडी" (for a cleaning rag) → "फडकं".
+    Run the word through the question: "Would my आई say this word?"
+
+6E. GENDER-NEUTRAL LANGUAGE WHERE APPROPRIATE
+  - If a sentence uses a feminine agent word (e.g., "सांगणारीवर") in a
+    context that applies to any parent, use the neutral form
+    ("सांगणाऱ्यावर").
+
+HOW TO REPAIR:
+  - Fix in place. Do not add new sentences to compensate; just replace the
+    problematic word or phrase with natural Marathi.
+  - If a full sentence is broken, rewrite only that sentence.
+  - After fixing, re-read the surrounding paragraph aloud (in your head)
+    to confirm the flow still holds.
+
+================================================================
+STEP 7 — VERIFY THE BUILD
 ================================================================
 
 Run, in order:
@@ -140,12 +195,12 @@ YAML parse failures in the OG/static-stub generators).
 
 If any of these fails:
 - Do NOT commit.
-- Append to agent-notes.txt: "<UTC-timestamp> failed for <book line>:
+- Append to agent-notes.txt: "<UTC-timestamp> build failed for <book line>:
   <one-line error summary>"
 - Exit. Leave the books/<slug>/ files in place so a human can inspect.
 
 ================================================================
-STEP 7 — COMMIT AND PUSH
+STEP 8 — COMMIT AND PUSH
 ================================================================
 
 If all checks passed, make TWO commits:
@@ -170,7 +225,7 @@ If git push fails (e.g., remote rejected, network):
 - Exit. The commits remain locally; a human can push manually.
 
 ================================================================
-STEP 8 — DONE
+STEP 9 — DONE
 ================================================================
 
 Append to agent-notes.txt:
