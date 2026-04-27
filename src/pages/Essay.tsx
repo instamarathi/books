@@ -1,19 +1,23 @@
-import React, { useCallback } from "react";
+import { useCallback } from "react";
 import { useParams, Link } from "react-router-dom";
 import { findBook, findEssay, loadBooks } from "../books";
 import { EssayBody } from "../components/EssayBody";
 import { TopBar } from "../components/TopBar";
 import { ReadingProgressBar } from "../components/ReadingProgressBar";
 import { BackToTop } from "../components/BackToTop";
+import { SignInGate } from "../components/SignInGate";
 import { useAuth } from "../useAuth";
 import { useProgress } from "../useProgress";
 
-export const Essay: React.FC = () => {
+const FREE_ESSAY_ORDER = 1;
+
+export const Essay = () => {
   const { bookSlug, essaySlug } = useParams<{ bookSlug: string; essaySlug: string }>();
   const book = findBook(loadBooks(), bookSlug ?? "");
   const essay = book ? findEssay(book, essaySlug ?? "") : undefined;
 
-  const { user } = useAuth();
+  const { user, loading, signIn, signOut: _signOut } = useAuth();
+  void _signOut;
   const { recordProgress } = useProgress(user);
 
   const onProgress = useCallback(
@@ -31,11 +35,26 @@ export const Essay: React.FC = () => {
     );
   }
 
+  const isLocked = !user && essay.order > FREE_ESSAY_ORDER;
+  const shareUrl = window.location.href;
+
+  if (isLocked) {
+    return (
+      <article className="essay">
+        <TopBar
+          backTo={`/${book.slug}`}
+          backLabel={book.title}
+          shareTitle={essay.title}
+          shareUrl={shareUrl}
+        />
+        <SignInGate loading={loading} signIn={signIn} essayTitle={essay.title} />
+      </article>
+    );
+  }
+
   const idx = book.essays.findIndex((e) => e.order === essay.order);
   const prev = idx > 0 ? book.essays[idx - 1] : undefined;
   const next = idx >= 0 ? book.essays[idx + 1] : undefined;
-
-  const shareUrl = window.location.href;
 
   return (
     <article className="essay">

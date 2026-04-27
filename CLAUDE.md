@@ -180,6 +180,12 @@ schedule.txt            Prompt the scheduled agent runs each night
 
 ---
 
+## Paywall
+
+Per book: the **first essay (order=1) is open to everyone**; essays 2–9 require Google sign-in. Implementation: `BookIndex.tsx` shows a 🔒 marker on locked rows; `Essay.tsx` renders a `SignInGate` component instead of the body when `!user && essay.order > 1`. The free-essay threshold is the constant `FREE_ESSAY_ORDER` in those two files — change in both if you ever raise/lower the wall.
+
+OG card stubs are NOT gated (a shared link should still unfurl with title + image even when the recipient is logged out). The gate is client-side only.
+
 ## Things NOT to do
 
 - Do not change the path-routing scheme to hash routing. OG card unfurls depend on real URLs.

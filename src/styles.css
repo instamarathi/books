@@ -162,6 +162,58 @@ main {
 .book-continue:hover {
   background: color-mix(in srgb, var(--accent) 22%, transparent);
 }
+.book-paywall-note {
+  color: var(--fg-muted);
+  font-size: 0.9em;
+  margin: 0.5rem 0 1rem 0;
+}
+.essay-row-locked a {
+  opacity: 0.65;
+}
+.essay-row-locked .essay-number {
+  font-size: 0.95em;
+}
+.signin-gate {
+  margin: 3rem 0;
+  padding: 2rem 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--card-bg);
+  text-align: center;
+}
+.signin-gate-title {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+.signin-gate-msg {
+  color: var(--fg);
+  margin: 0 0 1.5rem 0;
+  line-height: 1.6;
+}
+.signin-gate-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 1.2rem;
+  border-radius: 8px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: white;
+  font: inherit;
+  font-weight: 500;
+  cursor: pointer;
+}
+.signin-gate-btn:hover {
+  filter: brightness(1.05);
+}
+.signin-gate-note {
+  color: var(--fg-muted);
+  font-size: 0.85em;
+  margin: 1rem 0 0 0;
+}
+.signin-gate-loading {
+  color: var(--fg-muted);
+}
 
 .essay h2, .essay h3 { margin-top: 1.6em; }
 .essay p { margin: 1em 0; }
