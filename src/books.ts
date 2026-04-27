@@ -38,12 +38,20 @@ export function parseEssay(raw: string, bookSlug: string, fallbackSlug: string):
       throw new Error(`Essay ${bookSlug}/${fallbackSlug}: missing required field "${field}"`);
     }
   }
+  const order = Number(data.order);
+  const read_time = Number(data.read_time);
+  if (Number.isNaN(order)) {
+    throw new Error(`Essay ${bookSlug}/${fallbackSlug}: order is not a number`);
+  }
+  if (Number.isNaN(read_time)) {
+    throw new Error(`Essay ${bookSlug}/${fallbackSlug}: read_time is not a number`);
+  }
   return {
     bookSlug,
     slug: String(data.slug ?? fallbackSlug),
     title: String(data.title),
-    order: Number(data.order),
-    read_time: Number(data.read_time),
+    order,
+    read_time,
     summary: data.summary ? String(data.summary) : firstParagraph(content),
     body: content,
   };
@@ -84,7 +92,7 @@ export function loadBooks(): Book[] {
     essays.sort((a, b) => a.order - b.order);
     books.push({ ...meta, essays });
   }
-  books.sort((a, b) => a.title.localeCompare(b.title));
+  books.sort((a, b) => a.title.localeCompare(b.title, "mr-IN"));
   return books;
 }
 
