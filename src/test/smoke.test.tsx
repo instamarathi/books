@@ -24,7 +24,7 @@ describe("App routing", () => {
 
   it("renders Essay at /:bookSlug/:essaySlug", () => {
     render(
-      <MemoryRouter initialEntries={["/how-to-talk/01-feelings"]}>
+      <MemoryRouter initialEntries={["/how-to-talk/does-not-exist"]}>
         <App />
       </MemoryRouter>,
     );
