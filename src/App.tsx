@@ -2,6 +2,7 @@ import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import { AuthWidget } from "./components/AuthWidget";
 import { ThemeToggle } from "./components/ThemeToggle";
+import { FontSizeToggle } from "./components/FontSizeToggle";
 import { useAuth } from "./useAuth";
 import { Bookshelf } from "./pages/Bookshelf";
 import { BookIndex } from "./pages/BookIndex";
@@ -14,6 +15,7 @@ export const App: React.FC = () => {
       <header className="site-header">
         <Link to="/" className="site-title">instamarathi books</Link>
         <div className="site-header-actions">
+          <FontSizeToggle />
           <ThemeToggle />
           <AuthWidget user={user} loading={loading} signIn={signIn} signOut={signOut} compact />
         </div>

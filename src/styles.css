@@ -179,3 +179,82 @@ main {
 }
 .essay-back:hover { color: var(--accent); }
 .essay-meta { color: var(--fg-muted); margin: 0; }
+
+.reading-progress {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: transparent;
+  z-index: 100;
+  pointer-events: none;
+}
+.reading-progress-fill {
+  height: 100%;
+  background: var(--accent);
+  transition: width 80ms linear;
+}
+.top-bar {
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 50;
+  margin: -1rem -1rem 1rem -1rem;
+}
+.top-bar-back {
+  color: var(--fg);
+  text-decoration: none;
+  font-size: 0.95em;
+}
+.top-bar-actions {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+}
+.share-btn {
+  background: transparent;
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.4rem 0.6rem;
+  cursor: pointer;
+  font: inherit;
+}
+.share-toast {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--fg);
+  color: var(--bg);
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  z-index: 200;
+}
+.back-to-top {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  width: 44px; height: 44px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--fg);
+  font-size: 1.2rem;
+  cursor: pointer;
+  z-index: 60;
+}
+.essay-nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0 1rem 0;
+  gap: 1rem;
+}
+.essay-nav a {
+  color: var(--accent);
+  text-decoration: none;
+}
