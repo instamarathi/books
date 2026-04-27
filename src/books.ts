@@ -1,4 +1,39 @@
-import matter from "gray-matter";
+// Tiny browser-safe frontmatter parser. We control the essay format: a strict
+// subset of YAML — `key: value` lines, scalar values only (string or number),
+// optional matching quotes. No nesting, no multiline. Avoids gray-matter,
+// which depends on Node's Buffer and crashes in the browser.
+function parseFrontmatter(raw: string): {
+  data: Record<string, unknown>;
+  content: string;
+} {
+  if (!raw.startsWith("---\n") && !raw.startsWith("---\r\n")) {
+    return { data: {}, content: raw };
+  }
+  const after = raw.replace(/^---\r?\n/, "");
+  const endMatch = /\r?\n---\r?\n?/.exec(after);
+  if (!endMatch) return { data: {}, content: raw };
+  const yaml = after.slice(0, endMatch.index);
+  const content = after.slice(endMatch.index + endMatch[0].length);
+
+  const data: Record<string, unknown> = {};
+  for (const line of yaml.split(/\r?\n/)) {
+    if (!line.trim() || line.trim().startsWith("#")) continue;
+    const colon = line.indexOf(":");
+    if (colon === -1) continue;
+    const key = line.slice(0, colon).trim();
+    let val = line.slice(colon + 1).trim();
+    if (
+      (val.startsWith('"') && val.endsWith('"')) ||
+      (val.startsWith("'") && val.endsWith("'"))
+    ) {
+      val = val.slice(1, -1);
+    }
+    if (/^-?\d+$/.test(val)) data[key] = Number(val);
+    else if (/^-?\d+\.\d+$/.test(val)) data[key] = Number(val);
+    else data[key] = val;
+  }
+  return { data, content };
+}
 
 export type Essay = {
   bookSlug: string;
@@ -32,7 +67,7 @@ function firstParagraph(body: string, max = 160): string {
 }
 
 export function parseEssay(raw: string, bookSlug: string, fallbackSlug: string): Essay {
-  const { data, content } = matter(raw);
+  const { data, content } = parseFrontmatter(raw);
   for (const field of REQUIRED) {
     if (data[field] === undefined || data[field] === null || data[field] === "") {
       throw new Error(`Essay ${bookSlug}/${fallbackSlug}: missing required field "${field}"`);
