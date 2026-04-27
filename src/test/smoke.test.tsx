@@ -28,6 +28,6 @@ describe("App routing", () => {
         <App />
       </MemoryRouter>,
     );
-    expect(screen.getByText(/Essay: how-to-talk \/ 01-feelings/)).toBeInTheDocument();
+    expect(screen.getByText(/निबंध सापडला नाही/)).toBeInTheDocument();
   });
 });

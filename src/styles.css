@@ -149,3 +149,33 @@ main {
   font-size: 0.85em;
   align-self: center;
 }
+
+.essay h2, .essay h3 { margin-top: 1.6em; }
+.essay p { margin: 1em 0; }
+.essay ol, .essay ul { padding-left: 1.4em; }
+.essay strong { color: var(--accent); }
+.quick-ref-card {
+  margin: 2rem 0;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  background: var(--card-bg);
+}
+.quick-ref-card-title {
+  margin: 0 0 0.5rem 0;
+  color: var(--accent);
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.quick-ref-card-body p:first-child { margin-top: 0; }
+.quick-ref-card-body p:last-child { margin-bottom: 0; }
+.essay-header { margin-bottom: 2rem; }
+.essay-header h1 { margin: 0.5rem 0; }
+.essay-back {
+  color: var(--fg-muted);
+  text-decoration: none;
+  font-size: 0.9em;
+}
+.essay-back:hover { color: var(--accent); }
+.essay-meta { color: var(--fg-muted); margin: 0; }
