@@ -91,7 +91,16 @@ export function useProgress(user: User | null) {
       })
       .catch((e) => console.error("progress load failed", e))
       .finally(() => { if (!cancelled) setLoaded(true); });
-    return () => { cancelled = true; };
+    return () => {
+      cancelled = true;
+      if (timerRef.current) {
+        window.clearTimeout(timerRef.current);
+        timerRef.current = null;
+      }
+      pendingProgressRef.current = new Set();
+      pendingCompletedRef.current = new Set();
+      streakDirtyRef.current = false;
+    };
   }, [user]);
 
   const flushPending = useCallback(
