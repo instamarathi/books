@@ -149,6 +149,19 @@ main {
   font-size: 0.85em;
   align-self: center;
 }
+.book-continue {
+  display: block;
+  margin-top: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  color: var(--accent);
+  font-size: 0.9em;
+  text-decoration: none;
+}
+.book-continue:hover {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+}
 
 .essay h2, .essay h3 { margin-top: 1.6em; }
 .essay p { margin: 1em 0; }
