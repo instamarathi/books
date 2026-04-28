@@ -13,7 +13,9 @@ export const App: React.FC = () => {
   return (
     <>
       <header className="site-header">
-        <Link to="/" className="site-title">instamarathi books</Link>
+        <Link to="/" className="site-title">
+          <img src="/logo-192.png" alt="instamarathi books" className="site-logo" />
+        </Link>
         <div className="site-header-actions">
           <FontSizeToggle />
           <ThemeToggle />

@@ -76,10 +76,16 @@ body {
   border-bottom: 1px solid var(--border);
 }
 .site-title {
-  font-weight: 600;
   text-decoration: none;
-  color: var(--fg);
-  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+}
+.site-logo {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
 }
 .site-header-actions {
   display: flex;
