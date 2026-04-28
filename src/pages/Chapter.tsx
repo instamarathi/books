@@ -36,17 +36,11 @@ export const Chapter = () => {
   }
 
   const isLocked = !user && chapter.order > FREE_CHAPTER_ORDER;
-  const shareUrl = window.location.href;
 
   if (isLocked) {
     return (
       <article className="chapter">
-        <TopBar
-          backTo={`/${book.slug}`}
-          backLabel={book.title}
-          shareTitle={chapter.title}
-          shareUrl={shareUrl}
-        />
+        <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
         <SignInGate loading={loading} signIn={signIn} chapterTitle={chapter.title} />
       </article>
     );
@@ -59,12 +53,7 @@ export const Chapter = () => {
   return (
     <article className="chapter">
       <ReadingProgressBar onProgress={onProgress} />
-      <TopBar
-        backTo={`/${book.slug}`}
-        backLabel={book.title}
-        shareTitle={chapter.title}
-        shareUrl={shareUrl}
-      />
+      <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
       <header className="chapter-header">
         <h1>{chapter.title}</h1>
         <p className="chapter-meta">{chapter.read_time} मिनिटे</p>

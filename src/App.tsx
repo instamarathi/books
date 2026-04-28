@@ -1,8 +1,9 @@
 import React from "react";
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route, Link, useLocation } from "react-router-dom";
 import { AuthWidget } from "./components/AuthWidget";
 import { ThemeToggle } from "./components/ThemeToggle";
 import { FontSizeToggle } from "./components/FontSizeToggle";
+import { ShareButton } from "./components/ShareButton";
 import { useAuth } from "./useAuth";
 import { Bookshelf } from "./pages/Bookshelf";
 import { BookIndex } from "./pages/BookIndex";
@@ -10,6 +11,8 @@ import { Chapter } from "./pages/Chapter";
 
 export const App: React.FC = () => {
   const { user, loading, signIn, signOut } = useAuth();
+  const location = useLocation();
+  const shareUrl = window.location.origin + location.pathname;
   return (
     <>
       <header className="site-header">
@@ -19,6 +22,7 @@ export const App: React.FC = () => {
         <div className="site-header-actions">
           <FontSizeToggle />
           <ThemeToggle />
+          <ShareButton title="instamarathi books" url={shareUrl} />
           <AuthWidget user={user} loading={loading} signIn={signIn} signOut={signOut} compact />
         </div>
       </header>
