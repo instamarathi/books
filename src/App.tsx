@@ -17,7 +17,7 @@ export const App: React.FC = () => {
     <>
       <header className="site-header">
         <Link to="/" className="site-title">
-          <img src="/logo-192.png" alt="instamarathi books" className="site-logo" />
+          <img src={`${import.meta.env.BASE_URL}logo-192.png`} alt="instamarathi books" className="site-logo" />
         </Link>
         <div className="site-header-actions">
           <FontSizeToggle />
