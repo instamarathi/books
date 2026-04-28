@@ -30,6 +30,9 @@ export const App: React.FC = () => {
           <Route path="*" element={<p>पृष्ठ सापडले नाही.</p>} />
         </Routes>
       </main>
+      <footer className="site-footer">
+        © {new Date().getFullYear()} instamarathi. सर्व हक्क राखीव.
+      </footer>
     </>
   );
 };

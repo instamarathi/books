@@ -330,6 +330,15 @@ main {
   text-decoration: none;
 }
 
+.site-footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: var(--fg-muted);
+  font-size: 0.8rem;
+  border-top: 1px solid var(--border);
+  margin-top: 3rem;
+}
+
 /* Auth widget */
 .sign-in-btn {
   display: inline-flex;
