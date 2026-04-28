@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Routes, Route, Link, useLocation } from "react-router-dom";
 import { AuthWidget } from "./components/AuthWidget";
 import { ThemeToggle } from "./components/ThemeToggle";
@@ -12,6 +12,7 @@ import { Chapter } from "./pages/Chapter";
 export const App: React.FC = () => {
   const { user, loading, signIn, signOut } = useAuth();
   const location = useLocation();
+  useEffect(() => { window.scrollTo(0, 0); }, [location.pathname]);
   const shareUrl = window.location.origin + location.pathname;
   return (
     <>
