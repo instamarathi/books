@@ -1,0 +1,18 @@
+{
+  "slug": "aikun",
+  "title": "ऐकून मिळवण्याची कला",
+  "subtitle": "रोजच्या negotiations साठी practical guide — घर, ऑफिस, बाजार, नातेसंबंध",
+  "credit": "ही प्रकरणं Never Split the Difference या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली.",
+  "category": "communication",
+  "chapter_order": [
+    "01-mirror",
+    "02-name",
+    "03-no",
+    "04-questions",
+    "05-thats-right",
+    "06-audit",
+    "07-anchor",
+    "08-hidden",
+    "09-ghar-office"
+  ]
+}
