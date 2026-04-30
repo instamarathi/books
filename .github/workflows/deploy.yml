@@ -28,17 +28,17 @@ jobs:
         run: |
           mkdir -p scripts/fonts
           curl -sL -A "Java/1.8.0_321" \
-            "https://fonts.googleapis.com/css2?family=Inter:wght@400&family=Tiro+Devanagari+Marathi&display=swap" \
+            "https://fonts.googleapis.com/css2?family=Inter:wght@400&family=Mukta:wght@400&display=swap" \
             -o /tmp/gfonts.css
           INTER_URL=$(grep -oE 'https://[^)]+inter[^)]+\.ttf' /tmp/gfonts.css | head -1)
-          TIRO_URL=$(grep -oE 'https://[^)]+tirodevanagarimarathi[^)]+\.ttf' /tmp/gfonts.css | head -1)
-          if [ -z "$INTER_URL" ] || [ -z "$TIRO_URL" ]; then
+          MUKTA_URL=$(grep -oE 'https://[^)]+mukta[^)]+\.ttf' /tmp/gfonts.css | head -1)
+          if [ -z "$INTER_URL" ] || [ -z "$MUKTA_URL" ]; then
             echo "Could not extract font URLs from Google Fonts CSS"
             cat /tmp/gfonts.css
             exit 1
           fi
           curl -sL "$INTER_URL" -o scripts/fonts/Inter-Regular.ttf
-          curl -sL "$TIRO_URL" -o scripts/fonts/TiroDevanagariMarathi-Regular.ttf
+          curl -sL "$MUKTA_URL" -o scripts/fonts/Mukta-Regular.ttf
           file scripts/fonts/*.ttf
       - run: npm run build
         env:
