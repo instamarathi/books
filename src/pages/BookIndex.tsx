@@ -28,6 +28,11 @@ export const BookIndex = () => {
           पहिलं प्रकरण मोफत. पुढच्यांसाठी sign in करा.
         </p>
       )}
+      <p className="book-actions">
+        <Link to={`/print/${book.slug}`} className="book-pdf-btn">
+          📄 A5 PDF download
+        </Link>
+      </p>
       <ol className="chapter-list">
         {book.chapters.map((c) => {
           const locked = !user && c.order > FREE_CHAPTER_ORDER;

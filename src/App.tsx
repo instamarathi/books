@@ -8,6 +8,7 @@ import { useAuth } from "./useAuth";
 import { Bookshelf } from "./pages/Bookshelf";
 import { BookIndex } from "./pages/BookIndex";
 import { Chapter } from "./pages/Chapter";
+import { PrintBook } from "./pages/PrintBook";
 
 export const App: React.FC = () => {
   const { user, loading, signIn, signOut } = useAuth();
@@ -30,6 +31,7 @@ export const App: React.FC = () => {
       <main>
         <Routes>
           <Route path="/" element={<Bookshelf />} />
+          <Route path="/print/:bookSlug" element={<PrintBook />} />
           <Route path="/:bookSlug" element={<BookIndex />} />
           <Route path="/:bookSlug/:chapterSlug" element={<Chapter />} />
           <Route path="*" element={<p>पृष्ठ सापडले नाही.</p>} />
