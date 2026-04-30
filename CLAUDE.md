@@ -113,7 +113,7 @@ The canonical reference chapter is `books/how-to-talk/01-feelings.md` — match 
 | Chapter completion | Scroll position ≥ 0.95 | Tolerates "didn't quite reach the bottom" |
 | Streak logic | Reused unchanged from carousels useProgress | Single user identity → unified streak across reading + carousels |
 | Theme | `useTheme` hook with light/dark/system, CSS variables | Auto-detects `prefers-color-scheme`, manual override persists in localStorage |
-| Font size | `useFontSize` hook with A-/A/A+ (16/18/20px) | Devanagari readers vary widely in eye comfort |
+| Font size | `useFontSize` hook with A-/A/A+ (17/20/22px) | Devanagari readers vary widely in eye comfort; baseline tuned up for phone reading |
 | Fonts | Mukta (Devanagari) + Inter (Latin) from Google Fonts | Mukta is screen-optimized for Devanagari and reads less crowded than Tiro at phone body sizes |
 | OG cards | Build-time satori + resvg, 1200×630 PNG per chapter | Required for WhatsApp/Telegram unfurls |
 | Static stubs | Build-time `dist/<book>/<chapter>/index.html` with injected OG tags | Crawlers see correct meta on first hit |
