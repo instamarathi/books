@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 export type FontSize = "small" | "medium" | "large";
 
-const PX: Record<FontSize, string> = { small: "16px", medium: "18px", large: "20px" };
+const PX: Record<FontSize, string> = { small: "17px", medium: "20px", large: "22px" };
 const STORAGE_KEY = "font-size";
 
 function readStored(): FontSize {

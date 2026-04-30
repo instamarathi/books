@@ -41,7 +41,7 @@ body {
   background: var(--bg);
   color: var(--fg);
   font-family: "Mukta", "Inter", system-ui, sans-serif;
-  font-size: var(--body-size, 18px);
+  font-size: var(--body-size, 20px);
   line-height: 1.75;
 }
 
@@ -531,8 +531,8 @@ main {
   html, body {
     background: #ffffff !important;
     color: #111111 !important;
-    font-size: 11pt;
-    line-height: 1.55;
+    font-size: 12.5pt;
+    line-height: 1.6;
   }
   .site-header,
   .site-footer,

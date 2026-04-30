@@ -8,17 +8,17 @@ describe("useFontSize", () => {
     document.documentElement.style.removeProperty("--body-size");
   });
 
-  it("defaults to medium (18px)", () => {
+  it("defaults to medium (20px)", () => {
     const { result } = renderHook(() => useFontSize());
     expect(result.current.size).toBe("medium");
-    expect(document.documentElement.style.getPropertyValue("--body-size")).toBe("18px");
+    expect(document.documentElement.style.getPropertyValue("--body-size")).toBe("20px");
   });
 
   it("loads stored size", () => {
     localStorage.setItem("font-size", "large");
     const { result } = renderHook(() => useFontSize());
     expect(result.current.size).toBe("large");
-    expect(document.documentElement.style.getPropertyValue("--body-size")).toBe("20px");
+    expect(document.documentElement.style.getPropertyValue("--body-size")).toBe("22px");
   });
 
   it("setSize updates state, localStorage, and the CSS variable", () => {
@@ -26,6 +26,6 @@ describe("useFontSize", () => {
     act(() => result.current.setSize("small"));
     expect(result.current.size).toBe("small");
     expect(localStorage.getItem("font-size")).toBe("small");
-    expect(document.documentElement.style.getPropertyValue("--body-size")).toBe("16px");
+    expect(document.documentElement.style.getPropertyValue("--body-size")).toBe("17px");
   });
 });
