@@ -16,8 +16,8 @@ function loadLocalFont(filename: string): Buffer {
     throw new Error(
       `Missing font file: ${p}\n` +
       `To bootstrap, download these two .ttf files into scripts/fonts/:\n` +
-      `  - TiroDevanagariMarathi-Regular.ttf  from https://fonts.google.com/specimen/Tiro+Devanagari+Marathi\n` +
-      `  - Inter-Regular.ttf                  from https://fonts.google.com/specimen/Inter\n` +
+      `  - Mukta-Regular.ttf   from https://fonts.google.com/specimen/Mukta\n` +
+      `  - Inter-Regular.ttf   from https://fonts.google.com/specimen/Inter\n` +
       `OG card generation will fail until these exist.`,
     );
   }
@@ -30,7 +30,7 @@ async function main() {
     console.log("No chapters found; skipping OG card generation.");
     return;
   }
-  const tiro = loadLocalFont("TiroDevanagariMarathi-Regular.ttf");
+  const mukta = loadLocalFont("Mukta-Regular.ttf");
   const inter = loadLocalFont("Inter-Regular.ttf");
 
   fs.mkdirSync(OUT, { recursive: true });
@@ -48,7 +48,7 @@ async function main() {
             padding: "60px",
             background: "#FAF7F2",
             color: "#1F1B16",
-            fontFamily: "Tiro Devanagari Marathi",
+            fontFamily: "Mukta",
           },
           children: [
             {
@@ -83,7 +83,7 @@ async function main() {
         width: 1200,
         height: 630,
         fonts: [
-          { name: "Tiro Devanagari Marathi", data: tiro, weight: 400, style: "normal" },
+          { name: "Mukta", data: mukta, weight: 400, style: "normal" },
           { name: "Inter", data: inter, weight: 400, style: "normal" },
         ],
       },
