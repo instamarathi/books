@@ -18,6 +18,8 @@ Vikram आहे — meetings मध्ये कमी बोलतो, sprint 
 
 हे framework simple वाटतो, पण execute करणं कठीण आहे — कारण आपला brain shortcuts घेतो. First impression, confirmation bias, halo effect — हे सगळे आपल्याला quick judgments कडे push करतात. New leader म्हणून तुमची job ही instincts slow down करणं आहे.
 
+आणि एक specific reality acknowledge करा — हे तुमचं पहिलंच manager role आहे. आत्तापर्यंत तुम्ही peers ला assess करत होतात — informally, conversations मध्ये, "हा engineer चांगला आहे" अशा आधारावर. आता तुम्ही formal manager म्हणून direct reports ना assess करताय — हे fundamentally वेगळं आहे. एक तर stakes जास्त आहेत (तुमच्या assessment वर त्यांचा ratings, raises, growth depend आहे), आणि दुसरं म्हणजे तुमच्याकडे "manager intuition" अजून develop नाही — जी experienced managers ला automatically येते. हे gap भरून काढायचा एकच way — extra patience, extra structure, extra documentation. म्हणून जे experienced managers gut feel वर assess करतात, ते आत्ता तुम्ही करू नका. Process वर lean करा.
+
 ## ही पाच techniques वापरा
 
 1. **Competence आणि Will — दोन्ही axes वर assess करा** — एक simple framework: प्रत्येक team member ला दोन questions विचारा — "त्यांना काम येतं का?" (Competence) आणि "त्यांना करायची इच्छा आहे का?" (Will). चार possibilities येतात: High competence + High will — हे तुमचे most valuable members — यांना autonomy द्या, grow करायच्या opportunities द्या. High competence + Low will — talented पण disengaged — यांना समजून घ्या — काय boring वाटतंय, काय motivate करेल? Low competence + High will — eager पण अजून learning — यांना invest करा, mentor करा. Low competence + Low will — हे सगळ्यात कठीण case — यांच्यासाठी honest conversation हवी. पण हे assess करायला वेळ लागतो — एकदाची meeting नाही.
