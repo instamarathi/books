@@ -40,9 +40,9 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--fg);
-  font-family: "Tiro Devanagari Marathi", "Inter", system-ui, sans-serif;
+  font-family: "Mukta", "Inter", system-ui, sans-serif;
   font-size: var(--body-size, 18px);
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
 .theme-toggle, .font-size-toggle button {
