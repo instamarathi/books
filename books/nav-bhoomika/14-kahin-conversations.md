@@ -18,6 +18,8 @@ Team पण बघत होती. त्यांना माहित हो
 
 का? कारण introverts naturally conflict avoid करतात. Direct confrontation uncomfortable वाटतं. "Relationship खराब होईल" ही fear असते. "योग्य वेळ येईल" ही hope असते — पण ती वेळ येत नाही. आणि दरम्यान, जे address करायला हवं होतं ते cancer सारखं वाढत जातं.
 
+तुमच्या specific situation मध्ये हे आणखी कठीण आहे — कारण तुम्ही पहिल्यांदा manager होताय, **आणि** नव्या org मध्ये आहात. हे combination मनात तीन extra excuses तयार करतं: "मला अजून authority मिळालेली नाही — मी अजून नवा आहे." "मला अजून पूर्ण context नाही — कदाचित हे इथलं normal असेल." "हे माझ्या IC career मध्ये कधीच करावं लागलं नाही — मला नक्की कसं करायचं हे माहित नाही." तिन्ही excuses reasonable वाटतात, पण actual outcome same — postponement. हे मान्य करा: हे conversations तुम्हाला आधी कधीच करावे लागले नाहीत हे fact आहे, पण ते टाळणं हा solution नाही — ती practice आहे, आणि practice आत्ताच start करायची आहे. आणि नवा org असण्याचा benefit एक आहे — तुम्ही "fresh eyes" आहात, हे विसरू नका. जे long-time team members "इथे असंच चालतं" म्हणून accept करतात ते तुम्हाला standout म्हणून दिसतं — आणि हीच तुमची unique value आहे.
+
 हे chapter त्या specific problem साठी आहे: difficult conversation — underperformance, behavior issues, expectation mismatches — कशी करायची. Framework आणि courage दोन्ही.
 
 ## ही पाच techniques वापरा

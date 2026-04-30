@@ -1,20 +1,25 @@
 ---
-title: नव्या भूमिकेची तयारी
+title: नव्या भूमिकेची तयारी — दोन transitions एकाच वेळी
 slug: 01-tayari
 order: 1
-summary: नव्या GenAI team चा leader म्हणून पहिल्या दिवसाआधी — expert चा hat उतरवा, enabler चा hat घाला.
+summary: IC वरून पहिल्यांदा manager, आणि तेही नव्या org मध्ये — दोन्ही shifts एकत्र होतात. पहिल्या दिवसाआधी expert चा hat उतरवायचा आहे आणि नव्या org चं map काढायचं आहे.
 read_time: 15
 ---
 
-रात्रीचे बारा वाजलेले. उद्या सकाळी नऊला नवी office, नवा team, नवी जबाबदारी. पण झोप येत नाहीये. डोक्यात एकच loop चालू आहे — "मी खरंच हे करू शकतो का? माझ्याकडे management चा अनुभव कमी आहे. GenAI team lead करणं म्हणजे फक्त models वापरणं नाही — people handle करायला लागतात. आणि मला लोकांशी बोलणं honestly कठीण वाटतं." फोन उचलला, LinkedIn वर कोणाचे तरी success stories वाचायला लागला, आणखी anxiety वाढली.
+रात्रीचे बारा वाजलेले. उद्या सकाळी नऊला नवी office, नवा team, नवी जबाबदारी. पण झोप येत नाहीये. डोक्यात एकच loop चालू आहे — "मी खरंच हे करू शकतो का? आत्तापर्यंत मी IC होतो — code लिहित होतो, models बनवत होतो, individual deliver करत होतो. आता पहिल्यांदा एक team मला report करणार आहे. आणि हे सगळं एका नव्या company मध्ये — जिथे एकही face ओळखीचा नाही, processes माहित नाहीत, कोण कोण आहे माहित नाही." फोन उचलला, LinkedIn वर कोणाचे तरी success stories वाचायला लागला, आणखी anxiety वाढली.
 
-हे scenario तुमच्यासाठी परिचित वाटतंय का? नव्या role मध्ये जाताना जी रात्र येते — त्यात enthusiasm आणि doubt दोन्ही असतात. आणि हे normal आहे. जे uncomfortable वाटतं ते uncomfortable असायला हवं — कारण तुम्ही खरंच नव्या territory मध्ये जातोय.
+हे scenario तुमच्यासाठी परिचित वाटतंय का? आणि एक specific गोष्ट lक्षात घ्या — तुम्ही internal promotion मध्ये नाही आहात. Same org मध्ये IC वरून manager झाला असता तर एक comfort होती — team ओळखीची, processes माहित, history आधीच डोक्यात. तुमच्या बाबतीत ते नाही. तुम्ही **दोन transitions एकाच वेळी** करत आहात:
 
-पण त्या रात्री एक चूक होते. आपण विचार करतो — "मला काय करायचं आहे उद्यापासून" — आणि त्यात जुन्या role मधले reflexes घुसतात. "मी सर्वात चांगलं model deploy करतो, team ला दाखवतो मला काय येतं, interviews मध्ये मी जे impressive वाटत होतो तेच इथे करतो." हे natural आहे, पण हे trap आहे.
+1. **IC → Manager** — पहिल्यांदा एक team तुम्हाला report करणार. तुमची value तुमच्या output वरून तुमच्या team च्या output वर shift होणार.
+2. **जुनी org → नवी org** — नवी culture, नवे people, नवी politics, नवे processes — सगळं scratch पासून शिकायचं.
 
-**नव्या leader ची पहिली job: expert म्हणून think करणं बंद करा, enabler म्हणून think करायला सुरुवात करा.**
+यापैकी एक transition single-handedly कठीण असतो. दोन्ही एकत्र आल्यावर — हे जे uncomfortable वाटतंय ते अगदी legitimate आहे. पण हे blocker नाही, हे setup आहे — योग्य frame ठेवलात तर हे दोन transitions एकमेकांना actually help करू शकतात.
 
-हा shift सोपा वाटतो, पण करणं कठीण असतं. तुम्ही आधीपर्यंत तुमच्या individual contribution मुळे grow केलं होतं — चांगलं code लिहिलं, चांगलं model बनवलं, चांगलं analysis केलं. आता तुमची value तुम्ही काय बनवता यावर नाही, तर तुमची team काय बनवते यावर आहे. हा mindset जाणीवपूर्वक बदलायला लागतो — तो आपोआप होत नाही.
+पण त्या रात्री एक चूक होते. आपण विचार करतो — "मला काय करायचं आहे उद्यापासून" — आणि त्यात जुन्या IC role मधले reflexes घुसतात. "मी सर्वात चांगलं model deploy करतो, team ला दाखवतो मला काय येतं, interviews मध्ये मी जे impressive वाटत होतो तेच इथे करतो." हे natural आहे, पण हे double trap आहे — कारण तुम्ही expert mode मध्ये जाता (जो आता तुमचा primary role नाही), आणि नव्या org चा context न घेता decisions घ्यायला लागता.
+
+**नव्या leader ची पहिली job: expert म्हणून think करणं बंद करा, enabler म्हणून think करायला सुरुवात करा. आणि हे enabler होणं नव्या org च्या unfamiliar territory मध्ये करायचं आहे — म्हणून humility आणि curiosity दोन्ही दुप्पट लागतात.**
+
+हा shift सोपा वाटतो, पण करणं कठीण असतं. तुम्ही आधीपर्यंत तुमच्या individual contribution मुळे grow केलं होतं — चांगलं code लिहिलं, चांगलं model बनवलं, चांगलं analysis केलं. आता तुमची value तुम्ही काय बनवता यावर नाही, तर तुमची team काय बनवते यावर आहे. आणि एक added complication: ती team तुमची "जुनी ओळखीची" team नाही — ती तुमच्यासाठी पूर्ण नवी आहे, आणि तुम्ही त्यांच्यासाठी नवे आहात. म्हणून हा mindset shift double-effort मागतो — तो आपोआप होत नाही, आणि "old team-नव्या company" वाला formula इथे लागू होत नाही.
 
 ## ही पाच techniques वापरा
 
