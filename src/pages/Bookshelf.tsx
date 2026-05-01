@@ -4,28 +4,79 @@ import {
   CATEGORIES,
   CATEGORY_ORDER,
   type Book,
+  type Chapter,
   type CategoryKey,
 } from "../books";
 import { useAuth } from "../useAuth";
-import { useProgress } from "../useProgress";
-
-function continueReading(book: Book, currentChapterOrder: number | undefined) {
-  if (!currentChapterOrder) return null;
-  const chapter = book.chapters.find((c) => c.order === currentChapterOrder);
-  if (!chapter) return null;
-  return (
-    <Link
-      to={`/${book.slug}/${chapter.slug}`}
-      className="book-continue"
-      onClick={(e) => e.stopPropagation()}
-    >
-      वाचणं सुरू ठेवा: {chapter.order}. {chapter.title} →
-    </Link>
-  );
-}
+import { useProgress, type ProgressMap } from "../useProgress";
+import { BookCover } from "../components/BookCover";
 
 function bookCategory(book: Book): CategoryKey {
   return book.category && CATEGORIES[book.category] ? book.category : "other";
+}
+
+function chapterTeaser(body: string, max = 200): string {
+  for (const para of body.split(/\n\s*\n/)) {
+    const trimmed = para.trim();
+    if (!trimmed || trimmed.startsWith("#")) continue;
+    const cleaned = trimmed.replace(/^\*\*(.+)\*\*$/, "$1").replace(/[*_`>]/g, "");
+    if (cleaned.length < 30) continue;
+    return cleaned.length > max ? cleaned.slice(0, max - 1) + "…" : cleaned;
+  }
+  return "";
+}
+
+function pickFeaturedBook(books: Book[]): Book | null {
+  if (books.length === 0) return null;
+  const start = new Date(new Date().getFullYear(), 0, 0).getTime();
+  const dayOfYear = Math.floor((Date.now() - start) / 86400000);
+  return books[dayOfYear % books.length];
+}
+
+function findInProgress(
+  books: Book[],
+  progress: ProgressMap,
+): { book: Book; chapter: Chapter } | null {
+  for (const slug of Object.keys(progress)) {
+    const bp = progress[slug];
+    if (!bp?.current_chapter) continue;
+    const book = books.find((b) => b.slug === slug);
+    if (!book) continue;
+    const chapter = book.chapters.find((c) => c.order === bp.current_chapter);
+    if (chapter) return { book, chapter };
+  }
+  return null;
+}
+
+function FeaturedHero({
+  book,
+  chapter,
+  mode,
+}: {
+  book: Book;
+  chapter: Chapter;
+  mode: "today" | "continue";
+}) {
+  const teaser = chapter.summary || chapterTeaser(chapter.body);
+  const eyebrow =
+    mode === "continue" ? "वाचणं सुरू ठेवा" : "आजचं पहिलं प्रकरण";
+  const cta = mode === "continue" ? "तिथून पुढे →" : "वाचायला सुरू करा →";
+  return (
+    <section className="featured" aria-labelledby="featured-title">
+      <Link to={`/${book.slug}/${chapter.slug}`} className="featured-link">
+        <BookCover book={book} variant="hero" />
+        <div className="featured-body">
+          <span className="featured-eyebrow">{eyebrow}</span>
+          <h1 id="featured-title" className="featured-chapter-title">
+            {chapter.title}
+          </h1>
+          <p className="featured-book-name">{book.title}</p>
+          {teaser && <p className="featured-teaser">{teaser}</p>}
+          <span className="featured-cta">{cta}</span>
+        </div>
+      </Link>
+    </section>
+  );
 }
 
 function BookCard({
@@ -35,26 +86,30 @@ function BookCard({
   book: Book;
   currentChapterOrder: number | undefined;
 }) {
-  const cat = CATEGORIES[bookCategory(book)];
+  const continueChapter =
+    currentChapterOrder !== undefined
+      ? book.chapters.find((c) => c.order === currentChapterOrder)
+      : undefined;
   return (
     <li className="book-card" data-category={bookCategory(book)}>
       <Link to={`/${book.slug}`} className="book-card-link">
-        <div className="book-card-top">
-          <span className="book-card-emoji" aria-hidden="true">
-            {cat.emoji}
-          </span>
-          <span className="book-card-pill">{cat.label}</span>
-        </div>
-        <h3 className="book-card-title">{book.title}</h3>
-        {book.subtitle && <p className="book-subtitle">{book.subtitle}</p>}
-        <div className="book-card-bottom">
-          <span className="book-meta">{book.chapters.length} प्रकरणं</span>
-          <span className="book-card-arrow" aria-hidden="true">
-            वाचायला सुरू करा →
-          </span>
+        <BookCover book={book} />
+        <div className="book-card-body">
+          {book.subtitle && <p className="book-subtitle">{book.subtitle}</p>}
+          <div className="book-card-bottom">
+            <span className="book-meta">{book.chapters.length} प्रकरणं</span>
+            <span className="book-card-arrow" aria-hidden="true">→</span>
+          </div>
         </div>
       </Link>
-      {continueReading(book, currentChapterOrder)}
+      {continueChapter && (
+        <Link
+          to={`/${book.slug}/${continueChapter.slug}`}
+          className="book-continue"
+        >
+          वाचणं सुरू ठेवा: {continueChapter.order}. {continueChapter.title} →
+        </Link>
+      )}
     </li>
   );
 }
@@ -70,30 +125,40 @@ export const Bookshelf = () => {
     if (!grouped.has(k)) grouped.set(k, []);
     grouped.get(k)!.push(b);
   }
-
   const sectionsToRender = CATEGORY_ORDER.filter(
     (k) => (grouped.get(k)?.length ?? 0) > 0,
   );
 
+  const inProgress = findInProgress(books, progress);
+  const featuredBook = inProgress ? null : pickFeaturedBook(books);
+  const featuredChapter = featuredBook?.chapters.find((c) => c.order === 1);
+
   return (
     <section className="bookshelf">
-      <div className="bookshelf-hero">
-        <h1 className="bookshelf-title">मराठीतून, फोनवर वाचण्यासाठी.</h1>
-        <p className="bookshelf-tagline">
-          रोजच्या आयुष्यासाठी उपयोगी पुस्तकं — career, पालकत्व, घर आणि स्वतःसाठी.
-          एका पुस्तकात ९ छोटी प्रकरणं, प्रत्येक ५–८ मिनिटांचं.
-        </p>
-        {sectionsToRender.length > 1 && (
-          <nav className="bookshelf-nav" aria-label="विषय">
-            {sectionsToRender.map((k) => (
-              <a key={k} href={`#cat-${k}`} className="bookshelf-nav-chip">
-                <span aria-hidden="true">{CATEGORIES[k].emoji}</span>
-                {CATEGORIES[k].label}
-              </a>
-            ))}
-          </nav>
-        )}
-      </div>
+      {inProgress ? (
+        <FeaturedHero
+          book={inProgress.book}
+          chapter={inProgress.chapter}
+          mode="continue"
+        />
+      ) : featuredBook && featuredChapter ? (
+        <FeaturedHero
+          book={featuredBook}
+          chapter={featuredChapter}
+          mode="today"
+        />
+      ) : null}
+
+      {sectionsToRender.length > 1 && (
+        <nav className="bookshelf-nav" aria-label="विषय">
+          {sectionsToRender.map((k) => (
+            <a key={k} href={`#cat-${k}`} className="bookshelf-nav-chip">
+              <span aria-hidden="true">{CATEGORIES[k].emoji}</span>
+              {CATEGORIES[k].label}
+            </a>
+          ))}
+        </nav>
+      )}
 
       {books.length === 0 ? (
         <p>(अजून पुस्तके नाहीत.)</p>

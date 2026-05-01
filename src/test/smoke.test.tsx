@@ -10,7 +10,7 @@ describe("App routing", () => {
         <App />
       </MemoryRouter>,
     );
-    expect(screen.getByRole("heading", { name: /मराठीतून/i })).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: /कारकीर्द/i })).toBeInTheDocument();
   });
 
   it("renders BookIndex at /:bookSlug", () => {
