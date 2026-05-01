@@ -45,17 +45,73 @@ export type Chapter = {
   body: string;
 };
 
+export type CategoryKey =
+  | "career"
+  | "mindset"
+  | "parenting"
+  | "home"
+  | "society"
+  | "other";
+
 export type BookMeta = {
   slug: string;
   title: string;
   subtitle?: string;
   credit?: string;
+  category?: CategoryKey;
   chapter_order: string[];
 };
 
 export type Book = BookMeta & {
   chapters: Chapter[];
 };
+
+// Marathi label + short blurb for each category. The order of keys here is the
+// display order on the bookshelf.
+export const CATEGORIES: Record<
+  CategoryKey,
+  { label: string; blurb: string; emoji: string }
+> = {
+  career: {
+    label: "कारकीर्द",
+    blurb: "नवीन भूमिका, manager-ship आणि कामाच्या ठिकाणचे प्रश्न.",
+    emoji: "💼",
+  },
+  mindset: {
+    label: "आत्म-विकास",
+    blurb: "स्वतःशी संवाद, priorities आणि शांत मन.",
+    emoji: "🌱",
+  },
+  parenting: {
+    label: "पालकत्व",
+    blurb: "मुलांशी बोलणं, सवयी आणि घरातलं वातावरण.",
+    emoji: "👪",
+  },
+  home: {
+    label: "घर आणि जीवनशैली",
+    blurb: "रोजचं घर, वेळेचं नियोजन आणि सोप्या सवयी.",
+    emoji: "🏠",
+  },
+  society: {
+    label: "समाज आणि विचार",
+    blurb: "चळवळ, माध्यमं आणि आजूबाजूचा गोंधळ समजून घेणं.",
+    emoji: "🧭",
+  },
+  other: {
+    label: "इतर",
+    blurb: "इतर विषयांवरची पुस्तकं.",
+    emoji: "📚",
+  },
+};
+
+export const CATEGORY_ORDER: CategoryKey[] = [
+  "career",
+  "mindset",
+  "parenting",
+  "home",
+  "society",
+  "other",
+];
 
 const REQUIRED = ["title", "slug", "order", "read_time"] as const;
 
