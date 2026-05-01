@@ -104,25 +104,154 @@ main {
   display: grid;
   gap: 1rem;
 }
-.book-card a {
-  display: block;
-  padding: 1rem;
+@media (min-width: 720px) {
+  .book-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.book-card {
+  position: relative;
+}
+.book-card-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.1rem 1.1rem 1rem 1.1rem;
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 14px;
   background: var(--card-bg);
   color: var(--fg);
   text-decoration: none;
+  height: 100%;
+  box-sizing: border-box;
+  transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.02);
+}
+.book-card-link:hover {
+  transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--border));
+  box-shadow: 0 8px 22px -16px rgba(0, 0, 0, 0.35);
+}
+.book-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+.book-card-emoji {
+  font-size: 1.6rem;
+  line-height: 1;
+}
+.book-card-pill {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  letter-spacing: 0.01em;
+}
+.book-card-title {
+  margin: 0.15rem 0 0 0;
+  font-size: 1.25rem;
+  line-height: 1.3;
 }
 .book-card h3 {
   margin: 0 0 0.25rem 0;
 }
 .book-subtitle {
   color: var(--fg-muted);
-  margin: 0.25rem 0;
+  margin: 0.15rem 0 0.25rem 0;
+}
+.book-card-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: auto;
+  padding-top: 0.4rem;
+  border-top: 1px dashed var(--border);
+}
+.book-card-arrow {
+  color: var(--accent);
+  font-size: 0.9em;
+  font-weight: 500;
 }
 .book-meta {
   color: var(--fg-muted);
   font-size: 0.9em;
+}
+
+/* Per-category card accents — keep subtle so cards still feel like a set. */
+.book-card[data-category="career"] .book-card-link { border-top: 3px solid #C76C2D; }
+.book-card[data-category="mindset"] .book-card-link { border-top: 3px solid #5B8C5A; }
+.book-card[data-category="parenting"] .book-card-link { border-top: 3px solid #D49A2C; }
+.book-card[data-category="home"] .book-card-link { border-top: 3px solid #6B8FB5; }
+.book-card[data-category="society"] .book-card-link { border-top: 3px solid #9B6BB5; }
+.book-card[data-category="other"] .book-card-link { border-top: 3px solid var(--border); }
+
+.bookshelf-hero {
+  margin: 0.5rem 0 2rem 0;
+  padding: 1.4rem 1.2rem;
+  border-radius: 16px;
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--accent) 12%, var(--card-bg)),
+    var(--card-bg)
+  );
+  border: 1px solid var(--border);
+}
+.bookshelf-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.6rem;
+  line-height: 1.25;
+}
+.bookshelf-tagline {
+  margin: 0 0 1rem 0;
+  color: var(--fg-muted);
+  line-height: 1.55;
+}
+.bookshelf-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.bookshelf-nav-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  color: var(--fg);
+  text-decoration: none;
+  font-size: 0.88rem;
+}
+.bookshelf-nav-chip:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.category-section {
+  margin: 2rem 0 2.5rem 0;
+  scroll-margin-top: 4.5rem;
+}
+.category-header {
+  margin: 0 0 0.9rem 0;
+}
+.category-title {
+  margin: 0;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+.category-blurb {
+  margin: 0.2rem 0 0 0;
+  color: var(--fg-muted);
+  font-size: 0.95em;
 }
 .book-credit {
   color: var(--fg-muted);
