@@ -2,17 +2,16 @@ import { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import { findBook, loadBooks } from "../books";
 import { ChapterBody } from "../components/ChapterBody";
+import { SignInGate } from "../components/SignInGate";
 import { useAuth } from "../useAuth";
-
-const FREE_CHAPTER_ORDER = 1;
 
 export const PrintBook = () => {
   const { bookSlug } = useParams<{ bookSlug: string }>();
   const book = findBook(loadBooks(), bookSlug ?? "");
-  const { user, loading } = useAuth();
+  const { user, loading, signIn } = useAuth();
 
   useEffect(() => {
-    if (loading || !book) return;
+    if (loading || !book || !user) return;
     let cancelled = false;
     const trigger = () => {
       if (!cancelled) window.print();
@@ -27,7 +26,7 @@ export const PrintBook = () => {
     return () => {
       cancelled = true;
     };
-  }, [book, loading]);
+  }, [book, loading, user]);
 
   if (!book) {
     return (
@@ -37,9 +36,17 @@ export const PrintBook = () => {
     );
   }
 
-  const chapters = book.chapters.filter(
-    (c) => user || c.order <= FREE_CHAPTER_ORDER,
-  );
+  if (loading || !user) {
+    return (
+      <SignInGate
+        loading={loading}
+        signIn={signIn}
+        chapterTitle={`${book.title} — Download PDF`}
+      />
+    );
+  }
+
+  const chapters = book.chapters;
 
   return (
     <div className="print-book">
@@ -48,17 +55,12 @@ export const PrintBook = () => {
           ← {book.title}
         </Link>
         <div className="print-toolbar-actions">
-          {!user && (
-            <span className="print-paywall-note">
-              Sign in करून पूर्ण पुस्तक download करा.
-            </span>
-          )}
           <button
             type="button"
             className="print-now-btn"
             onClick={() => window.print()}
           >
-            📄 PDF save करा
+            📄 Download PDF
           </button>
         </div>
       </div>
@@ -83,16 +85,6 @@ export const PrintBook = () => {
           </div>
         </article>
       ))}
-
-      {!user && book.chapters.length > chapters.length && (
-        <section className="print-paywall-page">
-          <h2>आणखी {book.chapters.length - chapters.length} प्रकरणं</h2>
-          <p>
-            पुढची प्रकरणं वाचण्यासाठी instamarathi.github.io/books वर sign in
-            करा.
-          </p>
-        </section>
-      )}
     </div>
   );
 };
