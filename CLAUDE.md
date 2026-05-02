@@ -18,9 +18,14 @@ These rules apply to every chapter generated for this site, whether written manu
    - The test: would an educated Marathi speaker actually type this in a WhatsApp message? `मला never जायचं` — no, they'd type `मला कधीच जायचं नाही`. `meeting reschedule कर` — yes. When in doubt, prefer Marathi for the connective tissue and English for the concrete object/action.
    - Quoted English phrases (dialogue, fixed psychological terms like `"all-or-nothing thinking"`, brand/product names, song titles) are exempt — those are quotes, not prose.
 3. **Tone: practical, direct, how-to.** Not literary, not academic, not preachy. Each chapter reads like a friend who has tried the principles and is sharing what works.
-4. **Length: 700–1000 words per chapter.** ~5–8 minute mobile read.
-5. **Marathi-context examples only.** Use Indian household scenarios — homework, school, बस, cousins (मामेभाऊ/मावसभाऊ), neighbours, festivals, joint families, dabba, exam pressure, screen time, Marathi-medium vs English-medium school. Do NOT use Western examples unchanged ("soccer practice", "the cabin in the woods", "Thanksgiving") — translate the spirit of the example into something the Marathi reader recognizes from daily life.
-6. **Source book is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual chapters.
+4. **Bait-worthy premise.** The strongest chapters name a struggle the reader feels but can't say out loud, and validate it without preaching. Counterintuitive framings beat obvious ones every time:
+   - **Good:** `अंजली आणि "चांगला नवरा" चं अदृश्य तुरुंग` — the husband is genuinely good, *and* she's still trapped. The reader thinks "wait, can you actually say that?" and keeps reading.
+   - **Bad:** `अंजली आणि नवऱ्याच्या वाईट सवयी` — same problem, obvious framing, no bait.
+   - The test: does the title or opening make the reader uncomfortable in a "finally someone said it" way? If it reads like a Sunday-supplement headline, it's too safe. The reward the reader gets is *permission to think the silenced thought* — not a clever solution.
+   - Anchor the bait in a specific concrete moment (the line your character can't unhear: "आई, गुरुवारच्या sports day ला uncle येणार आहेत का?", "तुम्ही reels मध्ये जास्त सुंदर दिसता. प्रत्यक्षात थोड्या सावळ्या आहात ना?"). One sharp line beats a paragraph of analysis.
+5. **Length: 700–1000 words per chapter.** ~5–8 minute mobile read.
+6. **Marathi-context examples only.** Use Indian household scenarios — homework, school, बस, cousins (मामेभाऊ/मावसभाऊ), neighbours, festivals, joint families, dabba, exam pressure, screen time, Marathi-medium vs English-medium school. Do NOT use Western examples unchanged ("soccer practice", "the cabin in the woods", "Thanksgiving") — translate the spirit of the example into something the Marathi reader recognizes from daily life.
+7. **Source book is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual chapters.
 
 ---
 
