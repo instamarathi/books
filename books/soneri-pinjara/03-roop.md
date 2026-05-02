@@ -14,7 +14,7 @@ Pune च्या Sus रोडवरच्या एका resort मध्य�
 
 मानसशास्त्रात याला "halo effect" चं उलटं सावट म्हणतात. जो माणूस बघायला सुंदर आहे, त्याच्या इतर गुणांचा अंदाज वेगळा बांधला जातो — कधी जास्त (हुशार असेल, श्रीमंत असेल), कधी कमी (depth नसेल, serious नसेल). पण बहुतेक वेळा *दोन्ही* एकत्र — तुमच्यासाठी doors उघडतात आणि तीच doors तुम्हाला त्या एकाच hallway मध्ये अडकवतात. रियाला modelling मध्ये जायला सोपं गेलं — तीच गोष्ट MBA admission मध्ये अडसर बनते. Interviewer च्या डोक्यात आधीच एक template तयार होतं: "ही मुलगी serious career साठी आलेली नसेल."
 
-आणि एक भयंकर ticking clock — रूप वयाशी जोडलंय. 24 ला model म्हणून peak, 28 ला "older end of the spectrum," 32 ला "मातेच्या भूमिकांकरिता." पुरुष actors चं वय वाढतं तशी charisma वाढते; स्त्री model चं वय वाढतं तशी relevance घटते. हे fair नाही, पण industry चालते अशी. म्हणून रिया चं brain आज 24 वर्षी पुढच्या आठ वर्षांचा decline plan करत आहे — हा एक psychological barrel आहे जो CA मैत्रिणीच्या डोक्यात नाहीये.
+आणि एक भयंकर ticking clock — रूप वयाशी जोडलंय. 24 ला model म्हणून peak, 28 ला "older end of the spectrum," 32 ला "मातेच्या भूमिकांकरिता." पुरुष actors चं वय वाढतं तशी charisma वाढते; स्त्री model चं वय वाढतं तशी relevance घटते. हे fair नाही, पण industry तशीच चालते. म्हणून रिया चं brain आज 24 वर्षी पुढच्या आठ वर्षांचा decline plan करत आहे — हे एक psychological वजन आहे जे CA मैत्रिणीच्या डोक्यात नाहीये.
 
 ## ही चार techniques वापरा
 
@@ -22,14 +22,14 @@ Pune च्या Sus रोडवरच्या एका resort मध्य�
 
 2. **Mirror time घड्याळावर मोजा.** दिवसातून एकूण किती वेळ आरशात पाहिलं जातं — हे एक आठवडा observe करा. बहुतांश models साठी हा आकडा दिवसाला 60-90 मिनिटं असतो. हा वेळ नंतर anxiety मध्ये बदलतो — "इथे काहीतरी कमी झालंय, इथे एक रेषा दिसली." Conscious reduction करा. आरसा घरातल्या एका खोलीत मर्यादित करा. Phone च्या selfie camera मधून जे "scrutiny" होते ती एक न-कळणारी चिंता आहे.
 
-3. **वयाचा decline आधीच accept करायला सुरुवात.** तीस-बत्तीसच्या रिया ला आत्ता ओळख करून द्या. प्रत्येक वर्षाला एक practical question — *जर 35 व्या वर्षी हे काम बंद झालं, तर मी काय करेन?* हे पैसे साठवण्याबद्दल नाहीये (ते वेगळं), हे ओळख-संक्रमणाबद्दल आहे. ज्या modeles नी 35 नंतर successful transition केलं — production, content creation, व्यवसाय — त्यांच्या stories वाचा. हे research नाही, हे rehearsal आहे.
+3. **वयाचा decline आधीच accept करायला सुरुवात.** तीस-बत्तीसच्या रिया ला आत्ता ओळख करून द्या. प्रत्येक वर्षाला एक practical question — *जर 35 व्या वर्षी हे काम बंद झालं, तर मी काय करेन?* हे पैसे साठवण्याबद्दल नाहीये (ते वेगळं), हे ओळख-संक्रमणाबद्दल आहे. ज्या models नी 35 नंतर successful transition केलं — production, content creation, व्यवसाय — त्यांच्या stories वाचा. हे research नाही, हे rehearsal आहे.
 
 4. **दोन प्रकारचे मित्र मुद्दाम जपा.** एक — स्त्रिया ज्या तुमच्या रुपामुळे insecure नाहीत. दुसरे — पुरुष ज्यांची तुमच्यात sexual रुची नाही (older mentors, brothers-in-law, married colleagues). हे दोन्ही circles मधले लोक तुम्हाला feedback देऊ शकतात — "तू नीट विचार न करता हे बोलतेस," "हा deal तुला फसवतोय." Industry मधले मित्र हे कधीच करू शकत नाहीत; तिथे त्यांचं स्वतःचं interest गुंतलंय.
 
 ## हे टाळा
 
 - **Compliment वर ओळख बांधणं** — दर दिवशी पाच-दहा strangers "तुम्ही खूप सुंदर आहात" म्हणतात. हे ऐकायला बरं वाटतं, पण हे तुमचं assessment नाहीये — हे त्यांच्या क्षणाचं reaction आहे. Self-worth यावर बांधली, की एका मुरुमाच्या दिवशी ती कोसळते.
-- **"सुंदर म्हणजे फिकट" stereotype स्वीकारणं** — Aunties, interviewers, सासू-सासरे आधीच एक template डोक्यात घेऊन येतात. ती template तुम्ही internalize केली, की तुम्ही स्वतःहून smart गोष्टी बोलणं बंद करता — कारण "लोक तरीही ऐकणार नाहीत." हे self-fulfilling प्रोफेसी आहे. एका conversation मध्ये एखादी सखोल observation फेका — frame तडकू दे.
+- **"सुंदर म्हणजे फिकट" stereotype स्वीकारणं** — Aunties, interviewers, सासू-सासरे आधीच एक template डोक्यात घेऊन येतात. ती template तुम्ही internalize केली, की तुम्ही स्वतःहून smart गोष्टी बोलणं बंद करता — कारण "लोक तरीही ऐकणार नाहीत." हे self-fulfilling prophecy आहे. एका conversation मध्ये एखादी सखोल observation फेका — frame तडकू दे.
 - **"Touch-up" चा silent drift** — एक filler, एक botox, एक minor surgery — प्रत्येक decision वेगळं वाटतं, पण ती एकाच रस्त्यावरची सलग steps आहेत. वय थांबवायचा प्रयत्न नेहमी हरतो — फक्त expensive होत जातो आणि एका वेळेला आरशातला चेहरा अनोळखी होतो. Ageing accept करायला डोकं प्रशिक्षित करा, चेहरा नाही.
 
 ## Quick reference

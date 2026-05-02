@@ -20,7 +20,7 @@ Daniel Gilbert "Stumbling on Happiness" मध्ये एक observation म�
 
 मागच्या Diwali ला Akshay India ला आला होता. Sangli ला नाही, Hyderabad ला — दोन आठवड्यांचे होते. केदारने एक दिवस वेळ काढून त्याला भेटायला गेला. एका Banjara Hills च्या cafe मध्ये बसून तीन तास बोलणं झालं — आणि केदारने हे conversation आधी कधीच expect केलं नव्हतं.
 
-Akshay चं package $480k. Bay Area मध्ये $2.3 million चं घर. पण Akshay चं डोकं वेगळ्या वजनाखाली. "केदार, मी रोज एका AI feature वर काम करतोय जो तीन महिन्यांत deprecate होणारेय. कोणाचं काही भलं होत नाहीये त्यातून. मॅनेजर 3 AM ला Slack वर pings करतो — त्याचं कारण असतं की Singapore client ला reply हवा. Promotion साठी मी दोन वर्षं वाट बघतोय; एक re-org झाला, माझा project दुसऱ्या team कडे — मी zero ground वर परत. आणि घराचं मासिक mortgage $14,000 — माझं घर माझं नाहीये, mortgage चं आहे. मी सोडलं तर सहा महिन्यांत default."
+Akshay चं package $480k. Bay Area मध्ये $2.3 million चं घर. पण Akshay चं डोकं वेगळ्या वजनाखाली. "केदार, मी रोज एका AI feature वर काम करतोय जो तीन महिन्यांत deprecate होणारेय. कोणाचं काही भलं होत नाहीये त्यातून. Manager 3 AM ला Slack वर pings करतो — त्याचं कारण असतं की Singapore client ला reply हवा. Promotion साठी मी दोन वर्षं वाट बघतोय; एक re-org झाला, माझा project दुसऱ्या team कडे — मी zero ground वर परत. आणि घराचं मासिक mortgage $14,000 — माझं घर माझं नाहीये, mortgage चं आहे. मी सोडलं तर सहा महिन्यांत default."
 
 मग Akshay ने एक वाक्य म्हटलं जे केदारच्या डोक्यात आजही घुमतं: "तू जे करतोयस ना — एक problem 5 वर्षं कुणीही न-घाबरता बघत बसणं — हे मला जमेल असं वाटतच नाही आता. मी एका सलग 25-मिनिटांच्या deep-thought session ला विसरलो आहे." केदारने थांबून विचारलं, "तू सोडून academia चा विचार केला नाहीस?" Akshay हसला, "रोज. पण आता मी अडकलोय. House, lifestyle, parents Bombay ला — सगळं अवलंबून."
 
