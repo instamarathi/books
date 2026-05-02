@@ -46,7 +46,7 @@ Academia ची काही legitimate शक्ती आहेत ज्य�
 
 - **दर compliment "खूप हुशार" वर हसून त्याचा भार स्वीकारणं** — Compliment ऐकायला आनंद होतो, पण ते एक prediction आहे — "तुझ्याकडून आम्ही हेच expect करत राहू." Subtle correction करायला शिका: "मी हुशार नाही, पण ह्या एका विषयात मी वेळ घालवलाय." हे humble नाहीये, हे accurate आहे. आणि accuracy expectations कमी करते.
 - **फक्त elite peers बरोबर socialize करणं** — IIT-IIM-Stanford ची गर्दी एक echo chamber आहे. तिथे "common sense" आधीच skewed आहे — "salary एक crore पेक्षा कमी म्हणजे failure," "नवीन startup launch नाही केलं म्हणजे stagnant." खाली-स्तरावरचे (असं वाटणारे) cousin, शाळेतले मित्र, शेजारी — यांचं जगणं तुम्हाला reality calibrate करायला मदत करतं.
-- **"माझ्या caliber च्या खाली" म्हणून काम नाकारणं** — Tutor म्हणून काम, साधं applied project, सरकारी consult — हे "हुशार" लोक "वेळेचा अपव्यय" म्हणून सोडतात. पण हीच कामं तुम्हाला grounded ठेवतात — कारण इथे idea पुस्तकातून बाहेर येऊन प्रत्यक्ष माणसाला भिडावा लागतो. Ivory tower ची सर्वात मोठी किंमत — दिसणं विसरून बसणं.
+- **"माझ्या caliber च्या खाली" म्हणून काम नाकारणं** — Tutor म्हणून काम, साधं applied project, सरकारी consult — हे "हुशार" लोक "वेळेचा अपव्यय" म्हणून सोडतात. पण हीच कामं तुम्हाला grounded ठेवतात — कारण इथे idea पुस्तकातून बाहेर येऊन प्रत्यक्ष माणसाला भिडावा लागतो. Ivory tower ची सर्वात मोठी किंमत — जमिनीशी संपर्क तुटणं.
 
 ## Quick reference
 
