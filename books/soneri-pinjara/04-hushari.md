@@ -28,7 +28,7 @@ Akshay चं package $480k. Bay Area मध्ये $2.3 million चं घर
 
 **हीच सोनेरी पिंजऱ्याची central illusion — आपलं cage आपल्याला आत-बाहेरून दिसतं, दुसऱ्याचं फक्त बाहेरून दिसतं. म्हणून आपलं नेहमीच जास्त वाईट वाटतं.**
 
-Academia ची काही legitimate शक्ती आहेत ज्या केदार स्वतःहून invisible करत बसलाय. एका problem वर वर्षानुवर्षं सोबत राहायची permission. Tenure नंतर कोणी boss नाही. अर्थपूर्ण contribution — एक theorem, एक dataset, एक framework — जो 50 वर्षांनी देखील वापरला जाईल. PhD students ला mentor करायचं privilege. Sabbaticals, conferences, intellectual community. बहुतेक corporate engineer हे सगळं गुप्तपणे miss करतात — पण ते कधीच LinkedIn वर येत नाही. केदारच्या समस्या खरी असली तरी त्याचं measuring stick चुकीचं आहे — तो academia ला corporate metrics नी मोजतोय (salary, perks, growth-rate). अकादमीला तिची स्वतःची metrics आहेत, आणि त्यांच्यात केदार चांगलाच आहे.
+Academia ची काही legitimate शक्ती आहेत ज्या केदार स्वतःहून invisible करत बसलाय. एका problem वर वर्षानुवर्षं सोबत राहायची permission. Tenure नंतर कोणी boss नाही. अर्थपूर्ण contribution — एक theorem, एक dataset, एक framework — जो 50 वर्षांनी देखील वापरला जाईल. PhD students ला mentor करायचं privilege. Sabbaticals, conferences, intellectual community. बहुतेक corporate engineer हे सगळं आतून miss करतात — पण ते कधीच LinkedIn वर येत नाही. केदारच्या समस्या खरी असली तरी त्याचं measuring stick चुकीचं आहे — तो academia ला corporate metrics नी मोजतोय (salary, perks, growth-rate). अकादमीला तिची स्वतःची metrics आहेत, आणि त्यांच्यात केदार चांगलाच आहे.
 
 ## ही पाच techniques वापरा
 
