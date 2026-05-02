@@ -6,7 +6,7 @@ summary: हुशारी एक ओळख बनली की perfection च�
 read_time: 7
 ---
 
-Stanford च्या Gates building च्या तिसऱ्या मजल्यावर रात्री दोन वाजले आहेत. केदार screen कडे पाहतोय. Cursor एका paragraph च्या शेवटी blink होतोय. हाच paragraph गेले चार दिवस. प्रत्येक version मध्ये एक नवीन कमतरता दिसते — हे वाक्य hedging वाटतं, हे over-claim करतंय, citation पुरेशी नाही. पंतप्रधान scholarship वर गेले पाच वर्षं इथे — fifth year चा PhD. Advisor महिन्यातून एकदा भेटतो, "Kedar, you're brilliant, take your time" म्हणतो. केदार ने ते वाक्य आधी पन्नास वेळा ऐकलंय. आता ते comfort नाहीये, ते threat आहे.
+Stanford च्या Gates building च्या तिसऱ्या मजल्यावर रात्री दोन वाजले आहेत. केदार screen कडे पाहतोय. Cursor एका paragraph च्या शेवटी blink होतोय. हाच paragraph गेले चार दिवस. प्रत्येक version मध्ये एक नवीन कमतरता दिसते — हे वाक्य hedging वाटतं, हे over-claim करतंय, citation पुरेशी नाही. Stanford च्या fellowship वर गेले पाच वर्षं इथे — fifth year चा PhD. Advisor महिन्यातून एकदा भेटतो, "Kedar, you're brilliant, take your time" म्हणतो. केदार ने ते वाक्य आधी पन्नास वेळा ऐकलंय. आता ते comfort नाहीये, ते threat आहे.
 
 केदार Sangli च्या एका शिक्षकांच्या कुटुंबातून. वडील गणित शिकवायचे, आई मराठीच्या. लहानपणापासून प्रत्येक काकू-काका त्याला "ह्याला बघा, हा खूप हुशार आहे" म्हणून ओळख करून देत. JEE चा rank 87. IIT Bombay CSE. आज 27 व्या वर्षी Stanford PhD. आई-बाबांनी कधीच त्याच्यावर थेट pressure टाकलं नाही — पण म्हणूनच pressure जास्त आहे. कोणी थेट काही म्हणालं असतं तर त्याविरुद्ध बंड करता आलं असतं. इथे बंड करायला comp नाही — फक्त "आम्हाला खूप अभिमान आहे" चा घणासारखा आवाज. केदार ला आज अनेक रात्री एकच विचार येतो — *मी जर उद्या Google मध्ये join झालो $420k वर, तर बाबांची नजर बघवेल का?*
 
