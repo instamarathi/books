@@ -24,7 +24,7 @@ Pre-2000 च्या पिढीत "good parent" म्हणजे — म�
 
 4. **Outsource करायला नकार देऊ नका.** आजी एक रात्र अनन्याला घेऊ शकते. घरकाम-वाली ताई dabba lunch पाठवू शकते. एक tutor homework बघू शकतो. हे "delegation" "बेजबाबदार आई" नाहीये, हे "scaling" चं चिन्ह आहे. आणि याचा एक side effect — मुलाला अनेक caregivers experience होतात, फक्त आईवर अति-dependence नाही. हा emotional resilience चा बीज आहे.
 
-5. **आपलं मूल "average" असू शकतं हे आत्ताच accept करायला सुरुवात.** अनन्या Olympiad नाही गाठेल, IIT नाही जाईल, professional tennis player नाही होईल — हे शक्यता आहेत. आणि ह्या outcomes परवडण्याजोग्या आहेत हे आधीच मनिषाने स्वीकारलेलं असेल, तर अनन्यावरचं micromanagement आपोआप कमी होईल. प्रत्येक मूल "exceptional" असू शकत नाही — आणि exceptional नसणं हे अपयश नाहीये, ते गणित आहे. हा एक deeply uncomfortable विचार आहे; बसून rehearse करायला लागतो.
+5. **आपलं मूल "average" असू शकतं हे आत्ताच accept करायला सुरुवात.** अनन्या Olympiad नाही गाठेल, IIT नाही जाईल, professional tennis player नाही होईल — हे शक्यता आहेत. आणि ह्या outcomes परवडण्याजोग्या आहेत हे आधीच मनिषाने स्वीकारलेलं असेल, तर अनन्यावरचं micromanagement आपोआप कमी होईल. प्रत्येक मूल "exceptional" असू शकत नाही — आणि exceptional नसणं हे अपयश नाहीये, ते गणित आहे. हा एक खूप uncomfortable विचार आहे; बसून rehearse करायला लागतो.
 
 ## हे टाळा
 

@@ -22,7 +22,7 @@ Marathon runners मध्ये एक common pattern आहे — "rebound we
 
 2. **Habit ला identity करू नका, दर महिन्याला पुन्हा choose करा.** दर महिन्याच्या पहिल्या तारखेला बसून पाच मिनिटं विचार करा — "हा महिना हे करायचं आहे का? का?" Answer "हो" आलं की चालू ठेवा. पण ही re-choice activity आहे महत्त्वाची. कारण choice म्हणजे agency, आणि agency म्हणजे — मी या habit चा गुलाम नाहीये, मी रोज त्याला होकार देत आहे. हे ऐकायला trivial वाटतं, पण मेंदूसाठी मोठा फरक आहे.
 
-3. **दर तिमाहीत एक "कुटुंब-priority" break.** एक date आधीच ठरवा — मुलाची PTM, बायकोचा वाढदिवस, आई-बाबांची anniversary. त्या दिवशी training पूर्णपणे cancel. Schedule मध्ये त्याला तेवढीच sanctity द्या जेवढी race day ला. हे "compromise" नाहीये, हे priority चं proof आहे. कुटुंबाला हे एकदा घडताना दिसलं की त्यांचं resentment विरघळतं — कारण त्यांना कळतं, ते तुमच्या calendar वर actually आहेत, फक्त "leftover" नाहीत.
+3. **दर तिमाहीत एक "कुटुंब-priority" break.** एक date आधीच ठरवा — मुलाची PTM, बायकोचा वाढदिवस, आई-बाबांची anniversary. त्या दिवशी training पूर्णपणे cancel. Schedule मध्ये त्याला तेवढीच sanctity द्या जेवढी race day ला. हे "compromise" नाहीये, हे priority चं proof आहे. कुटुंबाला हे एकदा घडताना दिसलं की त्यांचं resentment विरघळतं — कारण त्यांना कळतं, ते तुमच्या calendar वर खरंच आहेत, फक्त "leftover" नाहीत.
 
 4. **"Alternate identity day" — महिन्यात एक.** दर महिन्यात एक दिवस तुमच्या core discipline च्या पूर्ण विरुद्ध दिवस घ्या. Runner माधुरीताईंनी एक रविवार सकाळी 9 ला उठून Vada-pav आणि चहा खावा, संपूर्ण दिवस couch वर पडून नेटफ्लिक्स पाहावा, काहीही productive करू नये. हा "guilty pleasure day" नाहीये — हे एक deliberate exercise आहे की तुमची ओळख एका वर्तनाच्या streak वर अवलंबून नाहीये. पहिल्या दोन वेळा अपराधीपणा वाटेल — हाच त्याचा point.
 

@@ -26,7 +26,7 @@ Arthur Brooks "From Strength to Strength" मध्ये एक pattern मा�
 
 4. **Career identity चे पर्यायी bucket निर्माण करा.** Big-4 director च्या व्यतिरिक्त — startup advisor, college mentor, industry board member — ह्या भूमिका जोडा. हे "second job" नाहीयेत, हे identity diversification आहे. एका दिवशी Big-4 चं काम बदललं, बंद झालं, किंवा तुम्हाला नकोसं झालं — तेव्हा "मी कोण?" चं उत्तर एका टोपलीवर अवलंबून नसेल. हे पाच-वर्षांचं slow build आहे, खांबासारखं उभं राहायला वेळ लागतो.
 
-5. **रोजचे "no-call" hours मानेजर ला सांगा.** रात्री 9 ते सकाळी 7 — ह्या वेळेत phone uncheck. हे बायकोला नाही, टीमला सांगा. विवेकसारख्या level वर एक "boundary" set केली की लोक adjust होतात; नाही केली की boundaries नाहीतच असं default बनतं. हे अमलात आणायला सहा महिने लागतात — पण एकदा pattern बसला की बहुतेक "urgencies" actually urgent नव्हत्या हे कळतं.
+5. **रोजचे "no-call" hours मानेजर ला सांगा.** रात्री 9 ते सकाळी 7 — ह्या वेळेत phone uncheck. हे बायकोला नाही, टीमला सांगा. विवेकसारख्या level वर एक "boundary" set केली की लोक adjust होतात; नाही केली की boundaries नाहीतच असं default बनतं. हे अमलात आणायला सहा महिने लागतात — पण एकदा pattern बसला की बहुतेक "urgencies" खरंच urgent नव्हत्या हे कळतं.
 
 ## हे टाळा
 

@@ -28,13 +28,13 @@ Akshay चं package $480k. Bay Area मध्ये $2.3 million चं घर
 
 **हीच सोनेरी पिंजऱ्याची central illusion — आपलं cage आपल्याला आत-बाहेरून दिसतं, दुसऱ्याचं फक्त बाहेरून दिसतं. म्हणून आपलं नेहमीच जास्त वाईट वाटतं.**
 
-Academia ची काही legitimate शक्ती आहेत ज्या केदार स्वतःहून invisible करत बसलाय. एका problem वर वर्षानुवर्षं सोबत राहायची permission. Tenure नंतर कोणी boss नाही. Deeply meaningful contribution — एक theorem, एक dataset, एक framework — जो 50 वर्षांनी देखील वापरला जाईल. PhD students ला mentor करायचं privilege. Sabbaticals, conferences, intellectual community. बहुतेक corporate engineer हे सगळं secretly missing करतात — पण ते कधीच LinkedIn वर येत नाही. केदारच्या समस्या खरी असली तरी त्याचं measuring stick चुकीचं आहे — तो academia ला corporate metrics नी मोजतोय (salary, perks, growth-rate). अकादमीला तिची स्वतःची metrics आहेत, आणि त्यांच्यात केदार चांगलाच आहे.
+Academia ची काही legitimate शक्ती आहेत ज्या केदार स्वतःहून invisible करत बसलाय. एका problem वर वर्षानुवर्षं सोबत राहायची permission. Tenure नंतर कोणी boss नाही. अर्थपूर्ण contribution — एक theorem, एक dataset, एक framework — जो 50 वर्षांनी देखील वापरला जाईल. PhD students ला mentor करायचं privilege. Sabbaticals, conferences, intellectual community. बहुतेक corporate engineer हे सगळं गुप्तपणे miss करतात — पण ते कधीच LinkedIn वर येत नाही. केदारच्या समस्या खरी असली तरी त्याचं measuring stick चुकीचं आहे — तो academia ला corporate metrics नी मोजतोय (salary, perks, growth-rate). अकादमीला तिची स्वतःची metrics आहेत, आणि त्यांच्यात केदार चांगलाच आहे.
 
 ## ही पाच techniques वापरा
 
 1. **"Done is better than perfect" चा deliberate practice.** एक छोटा project निवडा — एक blog post, एक tool, एक paper draft — आणि *उघडपणे कमी quality ला* submit करा. स्वतःला सांगा "हे B+ आहे, A नाही, आणि तरी मी पाठवतोय." हा psychological वजन उचलण्याचा practice आहे. पहिल्या दहा वेळा अस्वस्थ वाटेल. अकराव्या वेळी काहीतरी सुटलंय वाटेल. परfectionism ही habit आहे, ती practice नी मोडते.
 
-2. **तुमच्यापेक्षा हुशार लोक जिथे आहेत तिथे जाणीवपूर्वक जा.** लहानपणापासून केदार सगळ्या classroom मध्ये top होता. हे flatter वाटतं पण actually growth रोखतं. Reading group जिथे तुम्ही "मला कळत नाही" बोलू शकता, conferences जिथे एक legendary researcher तुमच्या समोर बसलाय — हे circles शोधा. "मी सर्वांत हुशार आहे" ही feeling एक वजन आहे; तिचा भार उतरवायला तुमच्यापेक्षा वरचे लोक हवेत.
+2. **तुमच्यापेक्षा हुशार लोक जिथे आहेत तिथे जाणीवपूर्वक जा.** लहानपणापासून केदार सगळ्या classroom मध्ये top होता. हे flatter वाटतं पण खरं तर growth रोखतं. Reading group जिथे तुम्ही "मला कळत नाही" बोलू शकता, conferences जिथे एक legendary researcher तुमच्या समोर बसलाय — हे circles शोधा. "मी सर्वांत हुशार आहे" ही feeling एक वजन आहे; तिचा भार उतरवायला तुमच्यापेक्षा वरचे लोक हवेत.
 
 3. **हुशारीच्या बाहेर एक ओळख बांधा.** एक खेळ शिका — table tennis, बुद्धिबळ नाही, कारण ते "हुशारीचं extension" आहे. एक art form — वारली painting, harmonium, मातीची भांडी. एक community काम — local school मध्ये दर शनिवारी शिकवणं. हे "थोडं" वाटतं, पण याचं एक psychological function आहे: एक identity-anchor जो तुमच्या papers आणि promotions वर अवलंबून नाहीये.
 
