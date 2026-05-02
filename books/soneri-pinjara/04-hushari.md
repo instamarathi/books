@@ -12,7 +12,7 @@ Stanford च्या Gates building च्या तिसऱ्या मज�
 
 **हुशारी एकदा ओळख बनली, की काहीही "कमी" वाटायला लागतं. आणि perfection ची सक्ती actual काम थांबवते. हुशार माणसांची सर्वात मोठी किंमत — अर्धवट सोडलेले thesis, prototype, manuscript आणि dreams.**
 
-केदार चं friend group IIT चा. Akshay Google ला, Niranjan Meta ला, Pratik startup founder. तीन जणांनी मागच्या वर्षी Bay Area मध्ये घरं घेतली — $2-3 million, 30-वर्ष mortgage. केदारचा salary $36,000 stipend. Materially तो कुठेच जात नाहीये. पण त्याने academic रस्ता निवडला तो *मुद्दामहून* — कारण "smartest kid" चं काम पैसे कमावणं नव्हे, ज्ञानात भर घालणं असतं, अशी अस्पष्ट संस्कारी कथा त्याच्या डोक्यात बसली आहे. आणि जर हाच रस्ता त्याला फळ देत नसेल — म्हणजे थोडक्यात — *त्याची ओळखच चुकीची होती.* म्हणून तो थांबू शकत नाही. हाच परfectionism चा खरा आधार: हुशारीच्या ओळखीच्या रक्षणाचा.
+केदार चं friend group IIT चा. Akshay Google ला, Niranjan Meta ला, Pratik startup founder. तीन जणांनी मागच्या वर्षी Bay Area मध्ये घरं घेतली — $2-3 million, 30-वर्ष mortgage. केदारचा salary $36,000 stipend. Materially तो कुठेच जात नाहीये. पण त्याने academic रस्ता निवडला तो *मुद्दामहून* — कारण "smartest kid" चं काम पैसे कमावणं नव्हे, ज्ञानात भर घालणं असतं, अशी अस्पष्ट संस्कारी कथा त्याच्या डोक्यात बसली आहे. आणि जर हाच रस्ता त्याला फळ देत नसेल — म्हणजे थोडक्यात — *त्याची ओळखच चुकीची होती.* म्हणून तो थांबू शकत नाही. हाच perfectionism चा खरा आधार: हुशारीच्या ओळखीच्या रक्षणाचा.
 
 Daniel Gilbert "Stumbling on Happiness" मध्ये एक observation मांडतो — आपण कोणत्या रस्त्यात किती सुखी होऊ हे आपण भयंकर खराब अंदाज करतो. कारण आपण भविष्यातल्या स्वतःचं सध्याचं brain वापरून imagine करतो — आणि सध्याचं brain identity ने भारलेलं आहे. आणि अजून एक गोष्ट: दुसऱ्याच्या रस्त्याचं imagination आपण फक्त त्या रस्त्याच्या *highlights* बघून करतो — Instagram posts, LinkedIn updates, Diwali च्या photos. खरा day-to-day grass दिसतच नाही.
 
@@ -32,7 +32,7 @@ Academia ची काही legitimate शक्ती आहेत ज्य�
 
 ## ही पाच techniques वापरा
 
-1. **"Done is better than perfect" चा deliberate practice.** एक छोटा project निवडा — एक blog post, एक tool, एक paper draft — आणि *उघडपणे कमी quality ला* submit करा. स्वतःला सांगा "हे B+ आहे, A नाही, आणि तरी मी पाठवतोय." हा psychological वजन उचलण्याचा practice आहे. पहिल्या दहा वेळा अस्वस्थ वाटेल. अकराव्या वेळी काहीतरी सुटलंय वाटेल. परfectionism ही habit आहे, ती practice नी मोडते.
+1. **"Done is better than perfect" चा deliberate practice.** एक छोटा project निवडा — एक blog post, एक tool, एक paper draft — आणि *उघडपणे कमी quality ला* submit करा. स्वतःला सांगा "हे B+ आहे, A नाही, आणि तरी मी पाठवतोय." हा psychological वजन उचलण्याचा practice आहे. पहिल्या दहा वेळा अस्वस्थ वाटेल. अकराव्या वेळी काहीतरी सुटलंय वाटेल. perfectionism ही habit आहे, ती practice नी मोडते.
 
 2. **तुमच्यापेक्षा हुशार लोक जिथे आहेत तिथे जाणीवपूर्वक जा.** लहानपणापासून केदार सगळ्या classroom मध्ये top होता. हे flatter वाटतं पण खरं तर growth रोखतं. Reading group जिथे तुम्ही "मला कळत नाही" बोलू शकता, conferences जिथे एक legendary researcher तुमच्या समोर बसलाय — हे circles शोधा. "मी सर्वांत हुशार आहे" ही feeling एक वजन आहे; तिचा भार उतरवायला तुमच्यापेक्षा वरचे लोक हवेत.
 
