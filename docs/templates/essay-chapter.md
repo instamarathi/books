@@ -1,9 +1,9 @@
 ---
 title: <Marathi chapter title>
 slug: <NN-topic>
-order: <1-9>
+order: <1..N>
 summary: <one-line Marathi/Marathi+English description of the argument>
-read_time: <integer minutes, usually 5-8>
+read_time: <integer minutes, usually 5-10>
 ---
 
 <!--
@@ -12,8 +12,14 @@ Template for kind: "essay" chapters.
 A chapter argues or reflects on one idea. It is not a how-to checklist
 and it is not a story. Headings are optional; flowing prose is the default.
 
+Length and chapter count:
+- 700-1500 words per chapter. Reflections that need a longer arc are fine,
+  but stay phone-readable.
+- A book of essays is usually 7-12 chapters. Pick the count the argument
+  needs; do not pad to hit 9, do not skip a real chapter to stay under 12.
+
 Universal rules (CLAUDE.md):
-- 700-1000 words, Devanagari prose with Roman loanwords (no टॅन्ट्रम).
+- Devanagari prose with Roman loanwords (no टॅन्ट्रम).
 - Marathi-context examples and references — village, city, joint family,
   generational shifts, festivals, language politics.
 - Original prose; no quoting / paraphrasing source text.

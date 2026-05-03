@@ -72,17 +72,26 @@ Pick a credit line for meta.json. Format:
 For original fiction (no source book), omit `credit` entirely.
 
 ================================================================
-STEP 3 — PLAN THE 9 CHAPTERS
+STEP 3 — PLAN THE CHAPTERS
 ================================================================
 
-Map the source book's principles into 9 chapter topics that:
-- Are coherent (each chapter covers one clear idea).
+The chapter count depends on the kind you picked in Step 2:
+
+  - howto:   exactly 9 chapters. The shape is fixed.
+  - essay:   7-12 chapters. Pick the count the argument actually needs;
+             do not pad to hit 9, do not skip a real chapter to stay under 12.
+  - fiction: variable. A short-story collection might be 6 chapters; a
+             serialized novella might be 15+. Match the story's structure.
+
+Plan chapter topics that:
+- Are coherent (each chapter covers one clear idea, scene, or beat).
 - Are sequenced (build on each other where natural; standalone where not).
-- Suit Marathi-context examples — drop or replace any source-book idea that
-  is hopelessly tied to Western culture (e.g., 401(k), Thanksgiving).
-- Add 1-2 chapters specific to the Marathi reader if the source book has only
-  6-7 transferable themes (e.g., a "common pitfalls" chapter, a "how to start
-  this week" chapter, a Marathi-context-specific application).
+- For howto/essay: suit Marathi-context examples — drop or replace any
+  source-book idea that is hopelessly tied to Western culture (e.g.,
+  401(k), Thanksgiving). Add Marathi-specific chapters if the source has
+  only 6-7 transferable themes.
+- For fiction: form a coherent arc, even across loosely connected stories.
+  No need to mirror the source — original characters, original plot.
 
 Decide chapter slugs (NN-topic), titles, and one-line summaries. Do not write
 the bodies yet.
@@ -92,14 +101,16 @@ STEP 4 — VERIFY YOUR PLAN BEFORE WRITING
 ================================================================
 
 Sanity-check before generating content:
-- Are the 9 chapters genuinely distinct, or do some overlap?
-- Will every chapter have at least one Marathi-context example you can write
-  without forcing it?
-- Is the source book one whose principles are ideas / frameworks (transferable)
-  rather than one whose value is its specific prose / specific anecdotes?
-  If the latter (e.g., a memoir, a deeply narrative book where stripping the
-  prose leaves nothing), STOP. Write to agent-notes.txt:
-  "<UTC-timestamp> skipped <book line>: not suitable for principle-extraction"
+- Are the chapters genuinely distinct, or do some overlap?
+- Will every chapter have at least one Marathi-context scene/example you
+  can write without forcing it?
+- For howto: is the source book one whose principles are ideas / frameworks
+  (transferable) rather than one whose value is its specific prose / specific
+  anecdotes? If the latter (e.g., a memoir, a deeply narrative book where
+  stripping the prose leaves nothing), reconsider — either switch to
+  kind: "fiction"/"essay" if the source genuinely calls for it, OR STOP.
+  To stop, write to agent-notes.txt:
+    "<UTC-timestamp> skipped <book line>: not suitable for principle-extraction"
   Do NOT remove the line from books.txt — leave it for human review. Exit.
 
 ================================================================
@@ -109,7 +120,10 @@ STEP 5 — WRITE THE BOOK
 Create:
 
   books/<slug>/meta.json
-  books/<slug>/01-<topic>.md  through  09-<topic>.md
+  books/<slug>/01-<topic>.md  through  NN-<topic>.md
+
+(NN is the chapter count you decided in Step 3 — 9 for howto, 7-12 for
+essay, variable for fiction.)
 
 Follow the exact structure specified in CLAUDE.md → "Chapter body — kind: …"
 section that matches the kind you chose in Step 2. Each kind has a canonical
@@ -154,7 +168,13 @@ ABSOLUTE CONTENT RULES (apply to every kind; see CLAUDE.md for full):
    - essay:   flowing prose. Optional pull-quote (a single bolded line on its
               own paragraph). No howto signposts.
 
-6. LENGTH. 700-1000 words per chapter, every kind.
+6. LENGTH BY KIND.
+   - howto:   700-1000 words per chapter (~5-8 minute mobile read).
+   - essay:   700-1500 words. Reflections that need a longer arc are fine.
+   - fiction: 800-2500 words is a reasonable range; longer is OK if the
+              story demands it. Stay phone-readable — avoid single chapters
+              past ~3000 words. Set `read_time` in the frontmatter to match
+              the actual length (10-15 minutes for a 2000+-word chapter).
 
 7. TONE BY KIND.
    - howto:   practical, direct, how-to.

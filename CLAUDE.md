@@ -13,7 +13,7 @@ These rules apply to every chapter generated for this site, whether written manu
 1. **Original prose only.** Chapters inspired by a source book draw on its *principles* (ideas, not copyrightable), but never reproduce, paraphrase, or do "minor changes / substitutions" of the source text. The book is the seed, not the script. If you find yourself remembering a specific sentence from the source, do not write it down — write a fresh sentence in your own words about the same idea. Fiction chapters must be original — do not retell a published story.
 2. **Marathi prose in Devanagari, English loanwords in Roman script.** Example: `मुलाने tantrum केला तर लगेच react करू नका`. This matches how educated Marathi speakers actually write in WhatsApp/messages. Don't transliterate English words to Devanagari (no `टॅन्ट्रम`).
 3. **Tone matches the kind.** Howto: practical, direct, friend-sharing-what-works. Fiction: scenes and dialogue, not preachy. Essay: reflective and argued, not academic. None of them should sound like a generic self-help blog post.
-4. **Length: 700–1000 words per chapter.** ~5–8 minute mobile read. Same target across all kinds.
+4. **Length is kind-dependent.** Howto: 700–1000 words per chapter (~5–8 minute mobile read). Essay: 700–1500 words; reflections that need a longer arc are fine. Fiction: no upper bound — let the scene breathe; 800–2500 words per chapter is a reasonable range, longer is OK if the story demands it. Stay phone-readable: avoid single chapters past ~3000 words.
 5. **Marathi-context examples / scenes only.** Use Indian household scenarios — homework, school, बस, cousins (मामेभाऊ/मावसभाऊ), neighbours, festivals, joint families, dabba, exam pressure, screen time, Marathi-medium vs English-medium school. Do NOT use Western settings unchanged ("soccer practice", "the cabin in the woods", "Thanksgiving") — translate the spirit into something the Marathi reader recognizes from daily life.
 6. **Source book (when there is one) is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual chapters. Original fiction can omit `credit` entirely.
 
@@ -29,8 +29,14 @@ books/<slug>/
   01-<topic>.md
   02-<topic>.md
   ...
-  09-<topic>.md
+  NN-<topic>.md
 ```
+
+Chapter count is **kind-dependent** (see `chapter_order` in `meta.json`):
+
+- `howto` — exactly 9 chapters. The shape is fixed.
+- `essay` — usually 7–12. Pick the count the argument actually needs; do not pad to hit 9, do not skip a real chapter to stay under 12.
+- `fiction` — variable. A short-story collection might be 6 chapters; a serialized novella might be 15+. Length is whatever the story demands.
 
 `meta.json` shape:
 
@@ -41,7 +47,7 @@ books/<slug>/
   "subtitle": "<one-line description in Marathi or English>",
   "kind": "howto",
   "credit": "ही प्रकरणं <source-book-name> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली.",
-  "chapter_order": ["01-...", "02-...", ..., "09-..."]
+  "chapter_order": ["01-...", "02-...", ..., "NN-..."]
 }
 ```
 
@@ -65,13 +71,13 @@ Every chapter file starts with the same frontmatter regardless of kind:
 ---
 title: <Marathi chapter title>
 slug: <NN-topic>
-order: <1-9>
+order: <1..N>
 summary: <one-line Marathi/Marathi+English description>
-read_time: <integer minutes, usually 5-8>
+read_time: <integer minutes; ~5-8 for howto/essay, can be higher for fiction>
 ---
 ```
 
-Required fields: `title`, `slug`, `order`, `read_time`. `summary` is recommended but the parser falls back to the first paragraph if absent.
+Required fields: `title`, `slug`, `order`, `read_time`. `summary` is recommended but the parser falls back to the first paragraph if absent. `read_time` should reflect the actual chapter length — fiction chapters of 2000+ words may legitimately be 10–15 minutes.
 
 Important: if a `summary:` value starts with a `"` (a quoted phrase), wrap the whole summary value in single quotes — otherwise gray-matter's YAML parser treats the leading `"` as the start of a quoted scalar and chokes on the trailing text. Example: `summary: '"बूट जागेवर ठेव" — दिवसातून शंभर वेळा...'`. The browser-side parser in `src/books.ts` is more lenient, but the build-time scripts use gray-matter and will fail.
 
@@ -246,7 +252,7 @@ OG card stubs are NOT gated (a shared link should still unfurl with title + imag
 - Do not transliterate English loanwords to Devanagari (`टॅन्ट्रम`). Keep them in Roman script.
 - Do not write chapters that require Western cultural context to land. Translate examples into Marathi life.
 - Do not put a credit line in individual chapters. It belongs only in `meta.json`.
-- Do not skip any of the 9 chapters for a `howto` or `essay` book — the 9-chapter shape is fixed for those. Fiction may run longer if the story demands it (the renderer doesn't enforce a count), but stay close to 9 unless there's a real reason.
+- Do not pad or skip chapters to hit a target count. Howto is the only kind with a fixed shape (exactly 9). Essay should be the count the argument needs (commonly 7–12). Fiction is whatever the story demands (a collection may be 6, a novella 15+).
 - Do not change the `## Quick reference` heading text — the renderer matches it literally.
 - Do not add `## Quick reference`, `## ही techniques वापरा`, or `## हे टाळा` to `fiction` or `essay` chapters. Those headings are for `howto` only.
 - Do not pick `kind: "howto"` for a memoir, story collection, or essay collection just to fit the existing template. Pick the kind that fits the source.

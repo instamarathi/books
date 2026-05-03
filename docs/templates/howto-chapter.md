@@ -13,8 +13,12 @@ Use this when the chapter teaches a concrete principle and the reader can
 walk away with a checklist of things to try (and things to avoid). Match
 the voice and density of books/how-to-talk/01-feelings.md.
 
+Length and chapter count:
+- 700-1000 words per chapter (~5-8 minute mobile read).
+- A howto book has exactly 9 chapters. The shape is fixed.
+
 Universal rules (CLAUDE.md):
-- 700-1000 words, Devanagari prose with Roman loanwords (no टॅन्ट्रम).
+- Devanagari prose with Roman loanwords (no टॅन्ट्रम).
 - Marathi-context examples only — Indian household, school, बस, festivals.
 - Original prose; no quoting / paraphrasing source text.
 - The literal heading "## Quick reference" is detected by the renderer

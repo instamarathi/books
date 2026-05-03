@@ -1,9 +1,9 @@
 ---
 title: <Marathi chapter title>
 slug: <NN-topic>
-order: <1-9>
+order: <1..N>
 summary: <one-line Marathi/Marathi+English hook for the chapter>
-read_time: <integer minutes, usually 5-8>
+read_time: <integer minutes; match the actual length, 10-15 OK for 2000+ words>
 ---
 
 <!--
@@ -13,9 +13,17 @@ A chapter is a story or scene, not a lesson. There is no "principle" to
 extract, no numbered techniques, no pitfalls, no Quick reference. Write
 free-form Marathi prose.
 
+Length and chapter count:
+- 800-2500 words is a reasonable range per chapter; longer is OK if the
+  story demands it. Stay phone-readable — avoid single chapters past
+  ~3000 words.
+- Chapter count is variable. A short-story collection might be 6 chapters;
+  a serialized novella might be 15+. Match what the story needs, not a
+  fixed number.
+
 Universal rules (CLAUDE.md):
-- 700-1000 words, Devanagari prose with Roman loanwords as people actually
-  speak (no टॅन्ट्रम).
+- Devanagari prose with Roman loanwords as people actually speak
+  (no टॅन्ट्रम).
 - Marathi-context settings — joint family, बस stop, kitchen, festival prep,
   exam season, school, neighbours. Concrete sensory detail.
 - Original story. Do not retell a published work.
