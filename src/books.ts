@@ -53,14 +53,29 @@ export type CategoryKey =
   | "society"
   | "other";
 
+export type BookKind = "howto" | "fiction" | "essay";
+
+export const BOOK_KINDS: BookKind[] = ["howto", "fiction", "essay"];
+
+export const KIND_LABELS: Record<BookKind, string> = {
+  howto: "मार्गदर्शन",
+  fiction: "कथा",
+  essay: "लेख",
+};
+
 export type BookMeta = {
   slug: string;
   title: string;
   subtitle?: string;
   credit?: string;
   category?: CategoryKey;
+  kind?: BookKind;
   chapter_order: string[];
 };
+
+export function bookKind(meta: Pick<BookMeta, "kind">): BookKind {
+  return meta.kind && BOOK_KINDS.includes(meta.kind) ? meta.kind : "howto";
+}
 
 export type Book = BookMeta & {
   chapters: Chapter[];

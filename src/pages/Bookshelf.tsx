@@ -1,8 +1,10 @@
 import { Link } from "react-router-dom";
 import {
   loadBooks,
+  bookKind,
   CATEGORIES,
   CATEGORY_ORDER,
+  KIND_LABELS,
   type Book,
   type Chapter,
   type CategoryKey,
@@ -90,14 +92,20 @@ function BookCard({
     currentChapterOrder !== undefined
       ? book.chapters.find((c) => c.order === currentChapterOrder)
       : undefined;
+  const kind = bookKind(book);
   return (
-    <li className="book-card" data-category={bookCategory(book)}>
+    <li className="book-card" data-category={bookCategory(book)} data-kind={kind}>
       <Link to={`/${book.slug}`} className="book-card-link">
         <BookCover book={book} />
         <div className="book-card-body">
           {book.subtitle && <p className="book-subtitle">{book.subtitle}</p>}
           <div className="book-card-bottom">
-            <span className="book-meta">{book.chapters.length} प्रकरणं</span>
+            <span className="book-meta">
+              {kind !== "howto" && (
+                <span className="book-kind-badge">{KIND_LABELS[kind]}</span>
+              )}
+              {book.chapters.length} प्रकरणं
+            </span>
             <span className="book-card-arrow" aria-hidden="true">→</span>
           </div>
         </div>

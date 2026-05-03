@@ -29,7 +29,7 @@ or just "<Title>" or "<Title> by <Author>". Parse leniently. Do not require
 a specific format.
 
 ================================================================
-STEP 2 — DECIDE THE BOOK SLUG AND TITLE
+STEP 2 — DECIDE THE BOOK SLUG, TITLE, AND KIND
 ================================================================
 
 Pick a short Marathi-friendly slug (kebab-case, ASCII, 1-3 words) for the
@@ -49,8 +49,27 @@ title. Examples:
 Pick a one-line subtitle in Marathi or Marathi+Roman-English describing the
 audience and angle.
 
+Decide the kind. Set `kind` in meta.json to one of:
+
+  - "howto"   — practical/instructional (the default; the existing 9 books
+                are all howto). Use for non-fiction whose principles transfer
+                cleanly into "do this, not that" advice.
+  - "fiction" — narrative. A story or set of scenes. Use only if the source
+                line in books.txt explicitly asks for fiction (e.g., "fiction:
+                <theme>") OR the source is a novel/short-story collection
+                whose value is the storytelling, not extractable principles.
+  - "essay"   — reflective/argumentative. Use for source material that is
+                essays, philosophy, or cultural commentary where the chapters
+                argue a point rather than prescribe steps.
+
+If the books.txt line does not signal a kind, default to "howto". Do not
+guess fiction/essay just because it might be more interesting — pick howto
+unless the source clearly calls for something else.
+
 Pick a credit line for meta.json. Format:
   "ही प्रकरणं <Source Title> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली."
+
+For original fiction (no source book), omit `credit` entirely.
 
 ================================================================
 STEP 3 — PLAN THE 9 CHAPTERS
@@ -92,16 +111,24 @@ Create:
   books/<slug>/meta.json
   books/<slug>/01-<topic>.md  through  09-<topic>.md
 
-Follow the exact structure specified in CLAUDE.md → "Chapter structure" section.
-The canonical reference is books/how-to-talk/01-feelings.md — match its
-voice, density, and structure.
+Follow the exact structure specified in CLAUDE.md → "Chapter body — kind: …"
+section that matches the kind you chose in Step 2. Each kind has a canonical
+reference and a template stub:
 
-ABSOLUTE CONTENT RULES (re-stated for clarity, see CLAUDE.md for full):
+  kind: "howto"   → reference: books/how-to-talk/01-feelings.md
+                    template:  docs/templates/howto-chapter.md
+  kind: "fiction" → template:  docs/templates/fiction-chapter.md
+  kind: "essay"   → template:  docs/templates/essay-chapter.md
+
+Match the chosen template's voice, density, and structure.
+
+ABSOLUTE CONTENT RULES (apply to every kind; see CLAUDE.md for full):
 
 1. ORIGINAL PROSE ONLY. Do not reproduce, paraphrase, or do "minor changes
    and substitutions" of the source book's text. The source is the seed for
    ideas; you write entirely fresh sentences. If a specific sentence from
    the source comes to mind, write something different about the same idea.
+   Fiction must be original — do not retell a published story.
 
 2. NO QUOTING. Do not put text in quotation marks attributed to the source
    author. Do not list the book's "10 rules" or "12 chapter titles" verbatim.
@@ -112,17 +139,27 @@ ABSOLUTE CONTENT RULES (re-stated for clarity, see CLAUDE.md for full):
    in Roman script. Example: "मुलाने tantrum केला तर...". Do NOT transliterate
    English to Devanagari (no टॅन्ट्रम).
 
-4. MARATHI EXAMPLES. Every example, dialogue, scenario must be a
+4. MARATHI EXAMPLES / SCENES. Every example, dialogue, scenario must be a
    Marathi-household scene — homework, school, बस, cousins, neighbours,
    joint family, festivals, dabba, exam stress, screen time. Replace
    anything Western unchanged.
 
-5. STRUCTURE. Each chapter: opening scenario → bolded principle → 3-5 numbered
-   techniques with example dialogues → 2-3 pitfalls → "## Quick reference"
-   block with do/don't lists. The "## Quick reference" heading text is fixed
-   (the renderer detects it literally).
+5. STRUCTURE BY KIND.
+   - howto:   opening scenario → bolded principle → 3-5 numbered techniques
+              with example dialogues → 2-3 pitfalls → "## Quick reference"
+              block with do/don't lists. The "## Quick reference" heading
+              text is fixed (the renderer detects it literally).
+   - fiction: free-form prose. No "## Quick reference", no "## ही techniques
+              वापरा", no "## हे टाळा", no numbered technique lists.
+   - essay:   flowing prose. Optional pull-quote (a single bolded line on its
+              own paragraph). No howto signposts.
 
-6. LENGTH. 700-1000 words per chapter. Tone: practical, direct, how-to.
+6. LENGTH. 700-1000 words per chapter, every kind.
+
+7. TONE BY KIND.
+   - howto:   practical, direct, how-to.
+   - fiction: scenes and dialogue, not preachy.
+   - essay:   reflective and argued, not academic.
 
 ================================================================
 STEP 6 — REVIEW AND REPAIR EACH CHAPTER

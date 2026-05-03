@@ -1,6 +1,6 @@
 # instamarathi/books — project guide
 
-This repo is the source of https://instamarathi.github.io/books/ — a phone-first Marathi reading site that hosts original Marathi-language books. Each "book" on the site is a 9-chapter book inspired by the principles of a popular non-fiction book, contextualized for Marathi-speaking families and professionals.
+This repo is the source of https://instamarathi.github.io/books/ — a phone-first Marathi reading site that hosts original Marathi-language books. Most books are 9-chapter how-to titles inspired by the principles of a popular non-fiction book, but the site also supports fiction (original Marathi stories) and essay collections, contextualized for Marathi-speaking families and professionals.
 
 This file is loaded by Claude on every session. It is the source of truth for content rules, structure, and tooling.
 
@@ -8,14 +8,14 @@ This file is loaded by Claude on every session. It is the source of truth for co
 
 ## Authoring rules — non-negotiable
 
-These rules apply to every chapter generated for this site, whether written manually or by a scheduled agent.
+These rules apply to every chapter generated for this site, whether written manually or by a scheduled agent. They are about voice, not structure — they hold across howto, fiction, and essay alike.
 
-1. **Original prose only.** Chapters are inspired by a source book's *principles* (which are ideas, not copyrightable), but never reproduce, paraphrase, or do "minor changes / substitutions" of the source text. The book is the seed, not the script. If you find yourself remembering a specific sentence from the source, do not write it down — write a fresh sentence in your own words about the same idea.
+1. **Original prose only.** Chapters inspired by a source book draw on its *principles* (ideas, not copyrightable), but never reproduce, paraphrase, or do "minor changes / substitutions" of the source text. The book is the seed, not the script. If you find yourself remembering a specific sentence from the source, do not write it down — write a fresh sentence in your own words about the same idea. Fiction chapters must be original — do not retell a published story.
 2. **Marathi prose in Devanagari, English loanwords in Roman script.** Example: `मुलाने tantrum केला तर लगेच react करू नका`. This matches how educated Marathi speakers actually write in WhatsApp/messages. Don't transliterate English words to Devanagari (no `टॅन्ट्रम`).
-3. **Tone: practical, direct, how-to.** Not literary, not academic, not preachy. Each chapter reads like a friend who has tried the principles and is sharing what works.
-4. **Length: 700–1000 words per chapter.** ~5–8 minute mobile read.
-5. **Marathi-context examples only.** Use Indian household scenarios — homework, school, बस, cousins (मामेभाऊ/मावसभाऊ), neighbours, festivals, joint families, dabba, exam pressure, screen time, Marathi-medium vs English-medium school. Do NOT use Western examples unchanged ("soccer practice", "the cabin in the woods", "Thanksgiving") — translate the spirit of the example into something the Marathi reader recognizes from daily life.
-6. **Source book is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual chapters.
+3. **Tone matches the kind.** Howto: practical, direct, friend-sharing-what-works. Fiction: scenes and dialogue, not preachy. Essay: reflective and argued, not academic. None of them should sound like a generic self-help blog post.
+4. **Length: 700–1000 words per chapter.** ~5–8 minute mobile read. Same target across all kinds.
+5. **Marathi-context examples / scenes only.** Use Indian household scenarios — homework, school, बस, cousins (मामेभाऊ/मावसभाऊ), neighbours, festivals, joint families, dabba, exam pressure, screen time, Marathi-medium vs English-medium school. Do NOT use Western settings unchanged ("soccer practice", "the cabin in the woods", "Thanksgiving") — translate the spirit into something the Marathi reader recognizes from daily life.
+6. **Source book (when there is one) is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual chapters. Original fiction can omit `credit` entirely.
 
 ---
 
@@ -39,16 +39,27 @@ books/<slug>/
   "slug": "<book-slug>",
   "title": "<Marathi title>",
   "subtitle": "<one-line description in Marathi or English>",
+  "kind": "howto",
   "credit": "ही प्रकरणं <source-book-name> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली.",
   "chapter_order": ["01-...", "02-...", ..., "09-..."]
 }
 ```
 
+The `kind` field picks the chapter template. Allowed values:
+
+- `"howto"` — practical/instructional. Numbered techniques, pitfalls, and a `## Quick reference` block. **Default if `kind` is omitted** (preserves backward compatibility for the 9 existing books).
+- `"fiction"` — narrative. Free-form prose, scenes, dialogue. No techniques, no pitfalls, no Quick reference.
+- `"essay"` — reflective/argumentative. Flowing prose, optional pull-quote, optional closing thought. No fixed sections.
+
+Pick the kind that fits the source material. Do not force a memoir, short-story collection, or essay collection into the howto shape — pick `fiction` or `essay` instead.
+
+`credit` is optional for `fiction` (an original story has no source to credit). For `howto` and `essay` it remains expected.
+
 ---
 
-## Chapter structure (every chapter, every book)
+## Universal frontmatter (every chapter, every kind)
 
-Markdown file with YAML frontmatter:
+Every chapter file starts with the same frontmatter regardless of kind:
 
 ```markdown
 ---
@@ -58,7 +69,19 @@ order: <1-9>
 summary: <one-line Marathi/Marathi+English description>
 read_time: <integer minutes, usually 5-8>
 ---
+```
 
+Required fields: `title`, `slug`, `order`, `read_time`. `summary` is recommended but the parser falls back to the first paragraph if absent.
+
+Important: if a `summary:` value starts with a `"` (a quoted phrase), wrap the whole summary value in single quotes — otherwise gray-matter's YAML parser treats the leading `"` as the start of a quoted scalar and chokes on the trailing text. Example: `summary: '"बूट जागेवर ठेव" — दिवसातून शंभर वेळा...'`. The browser-side parser in `src/books.ts` is more lenient, but the build-time scripts use gray-matter and will fail.
+
+What follows the frontmatter depends on `kind`.
+
+---
+
+## Chapter body — `kind: "howto"`
+
+```markdown
 <Opening scenario — one paragraph, Marathi-context, sets up the problem.>
 
 **<Bolded principle in Marathi+Roman-English, 1–2 lines.>**
@@ -91,11 +114,35 @@ read_time: <integer minutes, usually 5-8>
 - <phrase 3>
 ```
 
-The literal heading `## Quick reference` is detected by the renderer (case-insensitive) and styled as a `QuickRefCard` block. Do not change this heading text or the styling will break.
+The literal heading `## Quick reference` is detected by the renderer (case-insensitive) and styled as a `QuickRefCard` block. **Only `howto` chapters use this heading.** Do not change the heading text or the styling will break.
 
-Important: if a `summary:` value starts with a `"` (a quoted phrase), wrap the whole summary value in single quotes — otherwise gray-matter's YAML parser treats the leading `"` as the start of a quoted scalar and chokes on the trailing text. Example: `summary: '"बूट जागेवर ठेव" — दिवसातून शंभर वेळा...'`. The browser-side parser in `src/books.ts` is more lenient, but the build-time scripts use gray-matter and will fail.
+Canonical reference: `books/how-to-talk/01-feelings.md`. Template stub: `docs/templates/howto-chapter.md`.
 
-The canonical reference chapter is `books/how-to-talk/01-feelings.md` — match its voice, structure, and density.
+---
+
+## Chapter body — `kind: "fiction"`
+
+Free-form Marathi prose. A chapter is a story, scene, or set of scenes — there is no "principle" to extract. Use `## <heading>` only if you genuinely need a section break (e.g., time-skip, POV change). Most fiction chapters can be written as continuous prose with paragraph breaks.
+
+What works:
+- Open with action or dialogue, not a setup paragraph.
+- Use real Marathi household detail (smell of दुपारची kitchen, बस stop, rickshaw stand, festival prep) to ground the scene.
+- Keep dialogue in Devanagari + Roman loanwords, the same way the rest of the site does.
+- If you want a short reflective beat at the chapter's end, write it as prose — not a "Quick reference" card.
+
+Do NOT include `## Quick reference`, `## ही techniques वापरा`, `## हे टाळा`, or numbered technique lists. Those are for `howto` only.
+
+Template stub: `docs/templates/fiction-chapter.md`.
+
+---
+
+## Chapter body — `kind: "essay"`
+
+Flowing Marathi prose with one clear argument or reflection per chapter. Headings are optional. A pull-quote (a single bolded line on its own paragraph) is fine if it carries the chapter's central claim. A closing thought paragraph is fine.
+
+Avoid the howto signposts (`## ही techniques वापरा`, `## हे टाळा`, `## Quick reference`). The essay carries itself; lists tend to flatten it.
+
+Template stub: `docs/templates/essay-chapter.md`.
 
 ---
 
@@ -106,7 +153,8 @@ The canonical reference chapter is `books/how-to-talk/01-feelings.md` — match 
 | Stack | Vite + React 18 + TypeScript | Matches sibling project at `../carousels`; reuses auth/progress hooks |
 | Routing | Path-based (`react-router-dom` BrowserRouter) | Per-chapter Open Graph tags must resolve for crawlers |
 | Markdown | `react-markdown` + `remark-gfm`, loaded via `import.meta.glob` | All books bundle at build time; no runtime fetch |
-| Quick-ref styling | Marker-heading detection (`## Quick reference`) | Simpler than custom remark plugin or frontmatter block |
+| Quick-ref styling | Marker-heading detection (`## Quick reference`) | Simpler than custom remark plugin or frontmatter block; opportunistic — only `howto` chapters include it |
+| Book kinds | `kind` field in `meta.json` (`howto` \| `fiction` \| `essay`); defaults to `howto` | Each kind has its own chapter template; the renderer is structure-agnostic and just renders markdown, with a soft hook for `## Quick reference` |
 | Auth | Firebase Auth, Google provider, popup | Reuses existing `carousel-2a740` Firebase project |
 | Database | Firestore, single `users/{uid}` doc | Same shape as carousels; book/chapter progress added under `progress[bookSlug]` |
 | Progress write | Debounced 1500 ms, flushed on `pagehide` | Matches carousels |
@@ -172,6 +220,10 @@ public/                 Static assets (favicon, robots.txt, og/* generated)
 docs/superpowers/
   specs/                Design specs (one per major change)
   plans/                Implementation plans (one per spec)
+docs/templates/
+  howto-chapter.md      Template stub for kind: "howto" chapters
+  fiction-chapter.md    Template stub for kind: "fiction" chapters
+  essay-chapter.md      Template stub for kind: "essay" chapters
 firestore.rules         Firestore security (copied from carousels)
 .github/workflows/      GitHub Actions deploy
 CLAUDE.md               This file
@@ -194,7 +246,9 @@ OG card stubs are NOT gated (a shared link should still unfurl with title + imag
 - Do not transliterate English loanwords to Devanagari (`टॅन्ट्रम`). Keep them in Roman script.
 - Do not write chapters that require Western cultural context to land. Translate examples into Marathi life.
 - Do not put a credit line in individual chapters. It belongs only in `meta.json`.
-- Do not skip any of the 9 chapters for a book. The shape is fixed.
+- Do not skip any of the 9 chapters for a `howto` or `essay` book — the 9-chapter shape is fixed for those. Fiction may run longer if the story demands it (the renderer doesn't enforce a count), but stay close to 9 unless there's a real reason.
 - Do not change the `## Quick reference` heading text — the renderer matches it literally.
+- Do not add `## Quick reference`, `## ही techniques वापरा`, or `## हे टाळा` to `fiction` or `essay` chapters. Those headings are for `howto` only.
+- Do not pick `kind: "howto"` for a memoir, story collection, or essay collection just to fit the existing template. Pick the kind that fits the source.
 - Do not enable analytics, comments, or social features without an explicit ask.
 - Do not commit secrets. The Firebase config is intentionally public; that's fine. Anything else is not.
