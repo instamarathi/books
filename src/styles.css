@@ -167,6 +167,18 @@ main {
 .book-meta {
   color: var(--fg-muted);
   font-size: 0.88em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.book-kind-badge {
+  display: inline-block;
+  padding: 0.05em 0.5em;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.85em;
+  color: var(--fg);
+  background: var(--bg);
 }
 
 /* Book cover — typographic, no images */
