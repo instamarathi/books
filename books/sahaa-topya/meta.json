@@ -1,0 +1,19 @@
+{
+  "slug": "sahaa-topya",
+  "title": "सहा विचार टोप्या",
+  "subtitle": "एकाच डोक्यात सहा वेगळे विचार — पण एकत्र भांडत बसण्याऐवजी एक एक करून",
+  "category": "mindset",
+  "kind": "essay",
+  "credit": "ही प्रकरणं Edward de Bono यांच्या 'Six Thinking Hats' या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली.",
+  "chapter_order": [
+    "01-gondhal",
+    "02-pandhri-topi",
+    "03-laal-topi",
+    "04-kaali-topi",
+    "05-pivli-topi",
+    "06-hirvi-topi",
+    "07-nili-topi",
+    "08-kram",
+    "09-rojachya-jeevani"
+  ]
+}
