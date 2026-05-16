@@ -10,7 +10,7 @@ Nagpur-च्या trip-ला आजीला Aditi भेटली. आजी
 
 "ही मुलगी interview-साठी आली नाहीये. ती observe करायला आली आहे — आपण ती interview-साठी candidate आहोत."
 
-Aditi-ने हे ऐकलं. ती हसली. आजी-ला तिच्याकडे directly बघून म्हटली:
+Aditi-ने हे ऐकलं. ती हसली. आजी तिच्याकडे थेट बघून म्हटली:
 
 "नाही आजी, मी interview-साठीच आले. पण मी interview-ला answer करायला नाही, मी interview-ला participant व्हायला."
 
@@ -30,7 +30,7 @@ Trip-च्या शेवटी, train-मध्ये, परत Pune-कड�
 
 "नाही. मी अजून पूर्ण सांगितलं नाहीये."
 
-"Adii. तू six months-पासून मला कौतुक करत्येस की मी आजीला त्यांच्या condition बद्दल open नव्हतो, आणि तू स्वतःच्या आईला..."
+"Adii. तू सहा महिन्यांपासून मला कौतुक करत्येस की मी आजीला त्यांच्या condition बद्दल open नव्हतो, आणि तू स्वतःच्या आईला..."
 
 "मला माहीत आहे."
 
@@ -222,7 +222,7 @@ Aditi-ने deep breath घेतला.
 
 "काय?"
 
-"त्याला कधीतरी Nashik-ला आण. आईला फार-च्या-फार emotional होऊ देऊ नकोस. आणि मला stand-up comedy not actually स्थळ-meet-style बघायचा आहे. एक relaxed संध्याकाळ."
+"त्याला कधीतरी Nashik-ला आण. आईला फार-च्या-फार emotional होऊ देऊ नकोस. आणि मला एक stand-up-style संध्याकाळ हवीये — स्थळ-दाखवायचं format नको. Relaxed."
 
 "OK बाबा."
 
@@ -270,7 +270,7 @@ Kaustubh-ने pause घेतला.
 
 "OK. तुला काय वाटतंय?"
 
-"मला वाटतंय — हे एक practical idea आहे. कारण आपण actually एकमेकांच्या habits बघितले नाहीयेत. आपण फक्त date-वर भेटतो. PG-मध्ये मी, flat-मध्ये तू."
+"मला वाटतंय — हे एक practical idea आहे. कारण आपण खरंच एकमेकांच्या habits बघितले नाहीयेत. आपण फक्त date-वर भेटतो. PG-मध्ये मी, flat-मध्ये तू."
 
 "True."
 
@@ -290,7 +290,7 @@ Kaustubh-ने pause घेतला.
 
 "काय?"
 
-"आपण live-in करू. आणि आपण families-ला सांगू की 'engagement झाली आहे, formal लग्न Mar nextonth-च्या आत होईल.' म्हणजे technically live-in हे pre-marital नाही, post-engagement आहे."
+"आपण live-in करू. आणि आपण families-ला सांगू की 'engagement झाली आहे, formal लग्न पुढच्या काही महिन्यांत होईल.' म्हणजे technically live-in हे pre-marital नाही, post-engagement आहे."
 
 "Adii."
 
@@ -316,9 +316,9 @@ Kaustubh-ने pause घेतला.
 
 "हं?"
 
-"मला actually तुझ्याशी लग्न करायचंय."
+"मला खरंच तुझ्याशी लग्न करायचंय."
 
-"मला पण actually तुझ्याशी लग्न करायचंय."
+"मला पण खरंच तुझ्याशी लग्न करायचंय."
 
 "मग ठरलं."
 
@@ -360,9 +360,9 @@ Kaustubh-ने pause घेतला.
 
 "बघ. Vikram-ने पुढच्या Sunday-ला scooter मला give करायला refuse केला."
 
-"Hyatchaa-तला culture आहे scooter-वर."
+"Pune-मध्ये scooter-वर सगळे possessive असतात."
 
-"नाही. त्याने bahaane केला. Real reason हा की त्याला माहित आहे की मी move out करत आहे."
+"नाही. त्याने बहाणा केला. खरं कारण हे की त्याला माहित आहे की मी move out करत आहे."
 
 "त्याला कसं माहित?"
 
@@ -374,7 +374,7 @@ Kaustubh-ने pause घेतला.
 
 "Sorry."
 
-"नाही sorry-ची गरज नाही. मला actually त्या flat-तून सुटायचं होतं. पण Vikram-च्या scooter-ला आता मला miss करावी लागेल."
+"नाही sorry-ची गरज नाही. मला खरं तर त्या flat-तून सुटायचं होतं. पण Vikram-च्या scooter-ला आता मला miss करावी लागेल."
 
 "मी scooter घेईन एक नवीन."
 
@@ -402,7 +402,7 @@ Wednesday-ला broker-शी meeting.
 
 "काय?"
 
-"Aman bhau-ला maybe सांगू नकोस की आपण live-in करत आहोत."
+"Aman bhau-ला अजून तरी सांगू नकोस की आपण live-in करत आहोत."
 
 "का?"
 

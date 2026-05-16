@@ -44,7 +44,7 @@ Kaustubh-ने reply केला:
 
 > *OK.*
 
-मग ten minutes काही नाही.
+मग दहा minutes काही नाही.
 
 मग Kaustubh-ने reply केला:
 
@@ -62,7 +62,7 @@ Kaustubh ने एक तासाने reply केला:
 
 एक तासाने.
 
-Aditi-ला आता खात्री पटली की काहीतरी wrong होतं. Kaustubh एका तासात reply करत नव्हता normally. तो दहा minutes-च्या आत reply करायचा, किंवा नंतर "sorry, on a call" वगैरे context देऊन reply करायचा. एक तास without context म्हणजे sulking होतं.
+Aditi-ला आता खात्री पटली की काहीतरी wrong होतं. Kaustubh एरवी एका तासात reply करत नव्हता. तो दहा minutes-च्या आत reply करायचा, किंवा नंतर "sorry, on a call" वगैरे context देऊन reply करायचा. एक तास context-शिवाय म्हणजे sulking होतं.
 
 ती screen कडे बघत बसली.
 
@@ -136,7 +136,7 @@ Kaustubh-ने Vikram-कडे बघितलं. Vikram असं काह�
 
 "मग?"
 
-"मग मला आणि त्या मुलीला three hours पाच जणांच्या group dinner-मध्ये बसून बसून conversation pad करत बसावी लागली."
+"मग मला आणि त्या मुलीला तीन तास पाच जणांच्या group dinner-मध्ये बसून conversation pad करत बसावी लागली."
 
 "OK Vikram. Thanks. मी विचार करतो."
 
@@ -162,7 +162,7 @@ Aditi-ने हे message रात्री दोन वाजता बघ�
 
 रात्री दोन वाजताचा "हो ठीक आहे" हा reply emotionally flat होता. कुठलाही energy नव्हता. कुठलंही "great!" किंवा "cool" नव्हतं. फक्त "हो ठीक आहे".
 
-Kaustubh-ने तो reply Wednesday सकाळी सहा वाजता बघितला. तो six-thirty-च्या gym-ला जायचा होता, तेच त्याचं routine होतं — gym, मग shower, मग office.
+Kaustubh-ने तो reply Wednesday सकाळी सहा वाजता बघितला. तो साडेसहाच्या gym-ला जायचा होता, तेच त्याचं routine होतं — gym, मग shower, मग office.
 
 "हो ठीक आहे."
 
@@ -174,7 +174,7 @@ Kaustubh-ने तो reply Wednesday सकाळी सहा वाजता
 
 म्हणजे Snehal आणि Anuj-ला plan-मध्ये include करणं तिला आवडलं नव्हतं.
 
-म्हणजे — wait — म्हणजे तिला actually दोघं एकत्र जायचं होतं? म्हणजे "आपण फक्त दोघं?" चं तिचं reply "बघू कोण free आहे" हे actually disappointed होतं, कारण तिला हे hint द्यायचं होतं की हो, फक्त दोघं?
+म्हणजे — wait — म्हणजे तिला खरंच दोघं एकत्र जायचं होतं? म्हणजे "आपण फक्त दोघं?" चं तिचं reply "बघू कोण free आहे" हे खरं तर disappointed होतं, कारण तिला हे hint द्यायचं होतं की हो, फक्त दोघं?
 
 OK. म्हणजे.
 
@@ -210,9 +210,9 @@ Anuj-ने तीनदा ring नंतर उचलला. "Bhau, सका�
 
 त्याने type केला:
 
-> *बघ, मला actually फक्त दोघं जायचंय movie-ला. ठीक?*
+> *बघ, मला खरं तर फक्त दोघं जायचंय movie-ला. ठीक?*
 
-मग delete केला. हे too direct होतं. जर ती actually group plan-ला OK होती, तर हा message तिला weird वाटेल.
+मग delete केला. हे too direct होतं. जर ती खरंच group plan-ला OK होती, तर हा message तिला weird वाटेल.
 
 त्याने type केला:
 
@@ -236,7 +236,7 @@ Aditi-ने हा message दहा वाजता बघितला, orient
 
 "बघू कोण free आहे."
 
-ती smile पडली. कारण हे exact words तिचे होते. म्हणजे तो thoda mock करत होता. म्हणजे तो रागावलेला नव्हता. म्हणजे — wait — म्हणजे आत्ता तो pretend करत होता की group plan, पण actually त्याला फक्त दोघं भेटायचं होतं? पण मग त्याने Anuj-ला का mention केला?
+ती smile पडली. कारण हे exact words तिचे होते. म्हणजे तो थोडा mock करत होता. म्हणजे तो रागावलेला नव्हता. म्हणजे — wait — म्हणजे आत्ता तो pretend करत होता की group plan, पण खरं तर त्याला फक्त दोघं भेटायचं होतं? पण मग त्याने Anuj-ला का mention केला?
 
 ती confused होती.
 
@@ -270,7 +270,7 @@ Aditi-ने phone Snehal-कडे केला. Snehal-ने पूर्ण 
 
 "Snehal."
 
-"मी फक्त एवढं सांगते — just मित्र असलेले लोक five hours एका 'बघू कोण free आहे' च्या ambiguity-वर सोडत नाहीत."
+"मी फक्त एवढं सांगते — just मित्र असलेले लोक पाच तास एका 'बघू कोण free आहे' च्या ambiguity-वर सोडत नाहीत."
 
 "मग काय करतेस तू?"
 

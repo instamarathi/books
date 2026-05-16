@@ -60,7 +60,7 @@ Pranjal-ने मान हलवली. "Pi-aunty technique. Last week मी 
 
 तेवढ्यात door-च्या बाहेर pattern-मध्ये pattering सुरू झालं. Vipula aunty-च्या चपलांचा आवाज, जो हळू आणि predictable होता.
 
-Aditi-ने laptop तत्काळ झाकलं. blanket खेचलं. lights बंद केले. आणि एका minute-मध्ये जगातील सर्वात लवकर झोपणारी पोरगी असल्याचा act केला.
+Aditi-ने laptop लगेच झाकलं. blanket खेचलं. lights बंद केले. आणि एका minute-मध्ये जगात सगळ्यात लवकर झोपणारी पोरगी असल्याचा act केला.
 
 Door-च्या बाहेर थांबा. एक minute. दोन minutes.
 
@@ -78,7 +78,7 @@ Pranjal-ने whisper केला: "मी पण नाही."
 
 ---
 
-बाणेर-च्या "Sai Heights" मध्ये Kaustubh, Anuj आणि एक तिसरा मुलगा — Vikram — एका 2BHK-मध्ये राहत होते. Vikram एका वेगळ्या startup-मध्ये होता, completely वेगळ्या sector-मध्ये (EV scooters), आणि त्याचं main contribution कुटुंबाला हे होतं की त्याच्याकडे एक scooter होती जी तो कधी कधी weekends-ला share करायचा.
+बाणेर-च्या "Sai Heights" मध्ये Kaustubh, Anuj आणि एक तिसरा मुलगा — Vikram — एका 2BHK-मध्ये राहत होते. Vikram एका वेगळ्या startup-मध्ये होता, अगदी वेगळ्या sector-मध्ये (EV scooters), आणि त्याचं main contribution कुटुंबाला हे होतं की त्याच्याकडे एक scooter होती जी तो कधी कधी weekends-ला share करायचा.
 
 Saturday सकाळी आठ वाजता Kaustubh kitchen-मध्ये गेला. Sink-मध्ये pans पडलेले होते. एक pan अशी होती जिच्यात गेल्या weekend ची ग्रेव्ही अजून दिसत होती. Anuj-ने ती गेल्या Sunday-ला बनवली होती, Tuesday-ला rest of it खाल्ली होती, आणि Wednesday-ला सांगितलं होतं की "Friday-ला धुणार."
 
@@ -150,7 +150,7 @@ Vikram-ने pencil वाजवणं थांबवलं. "तुला म
 
 "मग आधीच airport-ला सोडून ये आज."
 
-"नाही, तो आत्ता magarpatta-ला आहे. आम्ही एकत्र घरी येणार आहोत. मग सकाळी ten वाजता तो माझ्या इथून airport-ला जाणार."
+"नाही, तो आत्ता magarpatta-ला आहे. आम्ही एकत्र घरी येणार आहोत. मग सकाळी दहा वाजता तो माझ्या इथून airport-ला जाणार."
 
 Kaustubh-ने हे ऐकलं आणि त्याला असं वाटलं की हे arrangement unnecessarily complicated आहे. पण bachelor flats मध्ये unnecessarily complicated arrangements हे norm होतं.
 

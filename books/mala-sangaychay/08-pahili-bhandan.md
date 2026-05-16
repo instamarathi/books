@@ -30,7 +30,7 @@ Wednesday सकाळी दहा वाजता Aditi-ने calendar बघ
 
 "Wednesday-ची साडेसातची, US-शी."
 
-Manager-ने tablet-वर बघितलं. "Client-ने ही slot specifically asked. त्यांचा side-ला flexibility नाही."
+Manager-ने tablet-वर बघितलं. "Client-ने हीच slot मागितली आहे. त्यांच्याकडून flexibility नाही."
 
 "OK." ती तिच्या desk-ला परत आली.
 
@@ -118,7 +118,7 @@ Komal हसली. "Thumbs-up emoji हा passive-aggressive form आहे, �
 
 > *Forget it.*
 
-Aditi-ने phone screen बघितली. "Forget it" हा passive-aggressive च्या पुढचा level होता. म्हणजे actually तो नाराज होता.
+Aditi-ने phone screen बघितली. "Forget it" हा passive-aggressive च्या पुढचा level होता. म्हणजे खरंच तो नाराज होता.
 
 ती call लावली.
 

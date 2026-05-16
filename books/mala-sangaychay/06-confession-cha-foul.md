@@ -42,7 +42,7 @@ Snehal door-वर.
 
 ---
 
-The Place एक small café होतं. आत आठ tables. एका कोपऱ्यात एक brick wall ज्यावर "Live laugh love" लिहिलेलं होतं, ज्याचा Marathi translation Aditi-च्या मनात "जगा हसा प्रेम करा" असा झाला, जो complete weird sound करत होता.
+The Place एक small café होतं. आत आठ tables. एका कोपऱ्यात एक brick wall ज्यावर "Live laugh love" लिहिलेलं होतं, ज्याचा Marathi translation Aditi-च्या मनात "जगा हसा प्रेम करा" असा झाला, जो अगदी weird वाटत होता.
 
 Kaustubh आधीच एका corner table-वर बसलेला होता. Mug हातात, coffee अजून आलेली नव्हती. हा रिक्त mug ठेवायचा त्याचा एक तरीक होता — एखाद्या hand position-मध्ये राहायला कशालातरी धरणं हवं असायचं.
 
@@ -164,7 +164,7 @@ Aditi-ने reply केला: "Brownie सोडून बाकी सगळ
 
 "Adii, मला तू..."
 
-एक uncle, jogger, मागून पुढे निघून, मध्ये येऊन उभा. खालचा waistband खाली, कंबरेला hands ठेवून, breathing thoda heavy.
+एक uncle, jogger, मागून पुढे निघून, मध्ये येऊन उभा. खालचा waistband खाली, कंबरेला hands ठेवून, breathing थोडी heavy.
 
 "Excuse me. Time?"
 
@@ -226,7 +226,7 @@ Aditi-च्या मेंदूत एक तीन-second silent decision tr
 
 - Option एक: हो म्हणायचं. Pranjal येते. आत्ताची conversation cancel.
 - Option दोन: नाही म्हणायचं. Pranjal-ला weird वाटेल. PG-ला रात्री Vipula aunty pre-warned होईल.
-- Option तीन: 'आम्ही actually पुढे जायचं ठरवलंय' म्हणून excuse.
+- Option तीन: 'आम्ही खरं तर पुढे जायचं ठरवलंय' म्हणून excuse.
 
 ती option तीन-कडे जाणार होती. पण Kaustubh आधीच म्हणाला:
 
@@ -396,7 +396,7 @@ Aditi-ने एक deep breath घेतला.
 
 "OK," Aditi म्हणाली, हसून. "Step one done. Step two काय?"
 
-"Step two म्हणजे..." Kaustubh म्हणाला. "मला actually माहीत नाही. हे माझ्या pre-prepared script-मध्ये नव्हतं."
+"Step two म्हणजे..." Kaustubh म्हणाला. "मला खरंच माहीत नाही. हे माझ्या pre-prepared script-मध्ये नव्हतं."
 
 "मग आपण improvise करू."
 
@@ -410,11 +410,11 @@ Aditi-ने एक deep breath घेतला.
 
 "काय?"
 
-"Aman bhau ने actually AWS issue नव्हता."
+"Aman bhau-कडे खरं तर AWS issue नव्हता."
 
 "...काय?"
 
-"मी सकाळी coffee-वर त्याला message केला होता की 'मी Aditi-शी emotionally complicated conversation करणार आहे आत्ता', आणि त्याने reply केला 'Bhau, मला lunch-च्या आधी office-ला आव.' मला वाटलं emergency. पण emergency नव्हती."
+"मी सकाळी coffee-वर त्याला message केला होता की 'मी Aditi-शी emotionally complicated conversation करणार आहे आत्ता', आणि त्याने reply केला 'Bhau, मला lunch-च्या आधी office-ला ये.' मला वाटलं emergency. पण emergency नव्हती."
 
 "मग आज सकाळी काय zalele?"
 

@@ -30,7 +30,7 @@ Handshake नंतर पहिले काही weeks दोघांचे 
 
 ---
 
-Snehal-ने एका Thursday संध्याकाळी directly विचारलं: "तुम्ही बॉयफ्रेंड-गर्लफ्रेंड आहात ना?"
+Snehal-ने एका Thursday संध्याकाळी थेट विचारलं: "तुम्ही बॉयफ्रेंड-गर्लफ्रेंड आहात ना?"
 
 "नाही."
 
@@ -80,7 +80,7 @@ Snehal-ने मान हलवली. "OK. पण एक problem आहे."
 
 "हो."
 
-"Vipula aunty-ने काय म्हटलं exactly?"
+"Vipula aunty-ने नक्की काय म्हटलं?"
 
 "'Aditi-चा मित्र दर Saturday-ला येतो. Sometimes दोन वेळा. हे "मित्र" थोडं intense आहे.'"
 
@@ -110,7 +110,7 @@ Aman bhau-ने एका Friday सकाळी office-मध्ये Kaustub
 
 "तिने तुझ्याकडून referral मागायचा का?"
 
-"Aman bhau. Aditi already Cognizant-मध्ये आहे."
+"Aman bhau. Aditi आधीच Cognizant-मध्ये आहे."
 
 "नाही, मला referral हवा आहे ती तुझ्या company-त त्या role-ला transfer होईल का?"
 
@@ -120,7 +120,7 @@ Kaustubh-ने laptop बाजूला ठेवला.
 
 "बघ, मी पाहत होतो — तू तिच्याशी talking आहेस. तू पुढच्या वर्षात तिच्याशी settle होशील. म्हणून मला curious आहे की तुझ्या जोडीदारीच्या career-वर पण मी थोडा influence टाकू शकतो का."
 
-"Aman bhau. आम्ही 'settle' नाही होणार. आम्ही actually अजून बॉयफ्रेंड-गर्लफ्रेंड पण नाही."
+"Aman bhau. आम्ही 'settle' नाही होणार. आम्ही खरं तर अजून बॉयफ्रेंड-गर्लफ्रेंड पण नाही."
 
 "मग काय आहात?"
 
@@ -140,7 +140,7 @@ Aman bhau-ने डोळे बारीक केले. "Bhau. हे answer
 
 Kaustubh laptop उघडत असताना त्याच्या डोक्यात Aman bhau-ची Founders-investor-pitch-analogy घोळत होती.
 
-"बघू नंतर" हे actually एक "I don't know yet and I'm not ready to commit" चं cover होतं, हे त्याला कळत होतं. ते कधी पर्यंत चालेल हा एक प्रश्न होता.
+"बघू नंतर" हे खरं तर एक "I don't know yet and I'm not ready to commit" चं cover होतं, हे त्याला कळत होतं. ते कधी पर्यंत चालेल हा एक प्रश्न होता.
 
 ---
 
@@ -220,7 +220,7 @@ Komal-ने pause घेतला. "Adii. हे एक रीतीच्य�
 
 Saturday सकाळी Aditi Wakad-च्या Starbucks-मध्ये Sneha-शी भेटली.
 
-Sneha tall होती, थोडी formal-dressed, एक handbag जी एक brand-वाली होती ज्याचं नाव Aditi-ने एका advertisement-मध्ये बघितलं होतं पण कधी buy केलेलं नव्हतं. ती confident-वाटली. Twenty-three, MBA, finance background.
+Sneha tall होती, थोडी formal-dressed, एक handbag जी एका brand-ची होती ज्याचं नाव Aditi-ने एका advertisement-मध्ये बघितलं होतं पण कधी buy केलेलं नव्हतं. ती confident वाटली. तेवीस वर्षांची, MBA, finance background.
 
 ती बसली. "Aditi. Thanks आल्याबद्दल."
 
@@ -304,7 +304,7 @@ Aditi-ला आता थोडंसं वाटायला लागलं 
 
 "मी IIT नाही. पण logic universal आहे."
 
-Aditi हसली. ती हसली कारण Sneha actually likeable होती, expected नव्हतं तरीही.
+Aditi हसली. ती हसली कारण Sneha खरंच likeable होती, expected नव्हतं तरीही.
 
 "Sneha. Thanks."
 
@@ -372,7 +372,7 @@ Kaustubh-च्या face-वर तीन expressions एका second-मध�
 
 "...काय?"
 
-"हो. आणि Sneha actually quite cool आहे. ती मला सगळं सांगितलं. आजीची condition, family wishlist, आणि की तू मला त्या बद्दल कधीच सांगितलं नाहीस."
+"हो. आणि Sneha खरंच cool आहे. तिने मला सगळं सांगितलं. आजीची condition, family wishlist, आणि की तू मला त्याबद्दल कधीच सांगितलं नाहीस."
 
 Kaustubh गप्प.
 
