@@ -2,352 +2,340 @@
 title: साडीतली मैत्रीण
 slug: 05-saree-madhli-maitrin
 order: 5
-summary: एका colleague च्या reception साठी Aditi साडीत आली. Kaustubh-ला पाच second-मध्ये कळलं की त्याच्या डोक्यात तीन वर्षांचा एक misunderstanding होता.
+summary: Tanaya-च्या reception साठी Aditi पहिल्यांदा साडीत. Kaustubh-ला पाच second-त कळलं की हे conversation आता पुढे जाणार नाही — पुढे गेलं तर नीट जाईल. आणि Snehal रात्री रडली.
 read_time: 12
 ---
 
-Friday ची movie झाली. ती छान झाली. ती एवढी छान झाली की दोघांनी ठरवलं की "movies हे आपलं ठरलेलं routine" करायचं, आणि मग पुढचे तीन weekends-मध्ये एकही movie बघितली नाही — कारण plan करायला बसलं की दोघं choices वर argue करायचे आणि शेवटी "मग पुढच्या weekend" वर पुढे ढकलायचे.
+Casablanca-च्या दोन weeks-नंतर Tanaya Joshi-चं reception-ला सगळी CS batch Pune-त collect झाली.
 
-म्हणून पुढच्या भेटी कोणत्याही औपचारिक reason-शिवाय झाल्या. Hinjewadi-च्या Marriot-च्या lobby-मध्ये एकदा (Aditi-च्या company-च्या town hall नंतर), एका bookstore-मध्ये एकदा (Crossword Aundh), Phoenix-च्या एका pani-puri stall-वर एकदा. Pani-puri वाली Marathi बायको होती, तिने त्यांच्याकडे बघून — दोन वेळा — विचारलं, "जोडी ना?" आणि दोघांनी "नाही नाही" लागोलाग म्हटलं, पण इतकं लागोलाग की pani-puri वाली हसली.
+Tanaya एका Pune-च्या मुलाशी लग्न करत होती. JW Marriott. Senapati Bapat Road. एक formal evening. साडी का सलवार choice होती.
 
-मग एक day, Aditi-ने Kaustubh-ला message केला:
+"साडी का सलवार?" Kaustubh-ने WhatsApp-वर विचारलं.
 
-> *Tanaya Joshi cha reception साठी येतोयस ना? तुला invite पाठवलं होतं ना मी?*
+"साडी."
 
-Tanaya हीचा एक IIT batchmate होती. Madras-मध्ये CS-च्या batch-च्याच, खूप close नाही, पण जवळची ओळख. ती Pune-च्याच एका मुलाशी लग्न करत होती. Reception Pune-मध्ये होतं. Aditi आधीच ठरवून बसली होती की येणार.
+"पहिल्यांदा?"
 
-Kaustubh-ने reply केला:
+"पहिल्यांदा."
 
-> *Invite आला. मी विसरलो होतो. कधी?*
+"YouTube?"
 
-> *Saturday. Senapati Bapat Road, J W Marriott.*
+"YouTube."
 
-> *OK येतो. साडी का सलवार?*
+"मी पण YouTube. Blazer कसा घालायचा वर."
 
-Aditi-ने पाहिलं हे message. हसली. कारण हा प्रश्न weird होता — पुरुषाला साडीत प्रश्न विचारायचा हक्क नसतो. पण Kaustubh-ने तो प्रश्न functional वाटून विचारला होता, judgment-शिवाय. आणि she actually उत्तर पण देणार होती.
-
-> *साडी.*
-
-> *पहिल्यांदा साडी?*
-
-> *पहिल्यांदा.*
-
-> *म्हणजे तू...*
-
-> *म्हणजे मी YouTube बघून शिकत्ये pleats कसे करायचे.*
-
-> *मी पण YouTube बघू का मला blazer कसा घालायचा हे? कारण मी कधीच blazer घातला नाहीये.*
-
-> *Blazer? Reception-ला?*
-
-> *Aman bhau-ने सांगितलं की reception-ला blazer घालायचा असतो. त्याच्याकडून घेणार आहे.*
-
-> *Aman bhau-चा blazer तुला fit होईल?*
-
-> *नाही.*
-
-> *मग?*
-
-> *Aman bhau-ने सांगितलं की 'fit नसलेला blazer हा loose-fit fashion आहे'.*
-
-> *Aman bhau तुला कुठलंही justify करायला शिकवतोय.*
-
-> *हो.*
-
-ती हसून phone ठेवली. Saturday अजून पाच दिवस लांब होता. पाच दिवस तिने साडी, blouse, mehendi (मेहंदी सोप्या designs), bangles, आणि एक "natural" makeup look हे सगळं plan करायला घेतले. हे सगळं तिने स्वतःला explain केलं की "Tanaya साठी" आहे. पण Snehal हे "Tanaya-साठी" excuse एका minute मध्ये disprove केलं.
-
-"Adii. तू Tanaya-शी कधी CS classes-मध्ये एकत्र बसली नव्हतीस."
-
-"बसले होते."
-
-"एकदा. विशेषतः last year-च्या लग्न-पूर्व सेमिस्टर मध्ये."
-
-"मी Tanaya-च्या जवळची आहे."
-
-"Aditi. Snehal-ने डोळे बारीक केले. "तू सहा महिने पूर्वी मला सांगितलं होतं की Tanaya हीचं नाव कधी कधी तुला आठवत नसतं conversation-मध्ये."
-
-"... सहा महिन्यांत perspective बदलू शकते."
-
-"Adii."
-
-"OK Fine. मी Kaustubh-साठी साडी नेसतेय."
-
-"Thank god."
-
-"पण हे formal नाही declare झालेलं."
-
-"मला माहीत आहे."
-
----
-
-Saturday संध्याकाळी सात वाजता Aditi PG-च्या आरशासमोर उभी होती. साडी होती — एक dark green silk, आईची, ज्याला तिने specially Nashik-वरून courier करून मागवलेली होती. Blouse एक matching gold-bordered होती. केसांत एक braid, एक मोगऱ्याची वेणी — Wakad-च्या florist-वरून तिने सकाळी घेतलेली होती. Pleats तिने अर्धा तास मध्ये केले होते, Pranjal-च्या मदतीने, ज्याला YouTube reference video pause करत होती.
-
-Komal-ने बघून म्हटलं, "Adii. तू khupach सुंदर दिसतेस."
-
-"Snehal-ने पण सांगितलं."
-
-"पण तू स्वतःला सुंदर वाटतेस का?"
-
-"मला weird वाटतंय. मी नेहमी jeans-वर."
-
-"मग jeans घाल."
+"तू कधी blazer घातला नाहीस आधी?"
 
 "नाही."
 
-"का नाही?"
+"Then how did you survive convocation?"
 
-Aditi-ने pause घेतला.
-
-"कारण आज मला साडीत दिसायचंय."
-
-"कुणाला?"
-
-ती हसली. "Tanaya-ला."
-
-Komal-ने डोळे फिरवले. "OK Tanaya-ला."
-
----
-
-Kaustubh J W Marriott-च्या reception hall-च्या gate-वर उभा होता. Aman bhau-चा blazer अपेक्षेपेक्षा जास्त loose होता. खांद्यांचा cut त्याच्या खांद्यावरून दोन inches खाली होता. Sleeves त्याच्या मनगटापर्यंत येण्याऐवजी हाताच्या तळव्यापर्यंत येत होती. आत shirt एक crisp white होता पण blazer-च्या oversize-मुळे एकूण look हा "मुलाने उसना blazer घातला आहे" असा होता.
-
-त्याने स्वतःला आरशात दहा वेळा बघितलं होतं Vikram च्या room-मध्ये.
-
-"Bhau," Vikram म्हणाला, "तू एका kid सारखा दिसतोयस."
-
-"Aman bhau-ने सांगितलं की loose-fit fashion आहे."
-
-"Aman bhau wrong आहे."
-
-"Aman bhau founder आहे."
-
-"Founder-ला सगळं माहीत नसतं."
-
-Kaustubh ने हे argue केलं नव्हतं तेव्हा. आता gate-वर उभा होता, blazer-चे sleeves थोडे up-rolled करून, hands खिशात ठेवून, असं वाटत होतं की चालू वाऱ्यावर ती sleeves कधी पुन्हा खाली पडेल.
-
-तेवढ्यात Aditi आत आली.
-
-त्याने पहिल्या second-मध्ये तिला नाही ओळखलं. कारण त्याच्या डोक्यात Aditi म्हणजे एक jeans-T-shirt, खांद्यावर एक messenger bag, झोपेची एक थोडी कमी, hair tied back, IIT-च्या hostel-च्या dustbin-कडे जाताना ज्या expression मध्ये असायची ती expression.
-
-आज ती green silk-मध्ये होती. केसांना एक braid. हातात bangles. आणि face थोडं असं — relaxed, थोडं conscious, थोडं smile-ready.
-
-त्याने पाच second-मध्ये एक realization झाली.
-
-ही माझी best friend आहे, हे एक.
-ही मला सुंदर वाटतेय, हे दोन.
-दोन एक-कडे जोडल्या तर मी आता काय करू, हे तीन.
-
-तो थोडा paralyzed झाला. Sleeves अजून थोडे खाली आल्या.
-
-"Kaustubh!" Aditi त्याच्याकडे चालत येत म्हणाली. "तू वेळेवर आलास?"
-
-"मी..."
-
-"तू OK आहेस?"
-
-"मी OK आहे."
-
-"तुझा blazer..."
-
-"मला माहित आहे."
+"मी काळी gown-तच होतो आत. Blazer हे convocation-नंतरचं adventure."
 
 "Aman bhau चा?"
 
+"Aman bhau चा."
+
+"Aman bhau चा blazer तुला फिट होईल?"
+
+"Aman bhau-ने सांगितलं की fit नसलेला blazer हा 'loose-fit fashion' आहे. हा एक relativistic concept आहे, सांगितलं."
+
+"Aman bhau तुला कुठलंही justify करायला शिकवतोय."
+
+"मला माहित आहे."
+
+---
+
+Saturday सकाळी Aditi PG-च्या आरशासमोर. साडी — एक dark green silk, आईची, Nashik-वरून courier करून मागवलेली. Blouse एक matching gold-bordered. केसांत एक braid, मोगऱ्याची वेणी जी ती सकाळी Wakad-च्या एका florist-वरून घेऊन आलेली.
+
+Pleats तिने अर्धा तास तिथे काढत राहिले. Snehal door-वर.
+
+"मदत?"
+
 "हो."
 
-"OK." तिने एक look दिला blazer-कडे. "Sleeves एकदा रोल कर."
+Snehal आत आली. एक beat तिने Aditi-ला बघितलं — साडीत, अर्धा-pleats बांधलेली, केसांच्या एक strand-त मोगरा. एक beat. मग तिच्या पुढे बसून pleats काढायला सुरू केली.
 
-त्याने sleeves रोल केल्या, परत.
+"तुझ्या आईची साडी?"
 
-"बघ. आता OK वाटतोय."
+"हो."
+
+"रंग कमी fancy. Suits you."
+
+"Thanks."
+
+Pleats बांधताना Snehal-ने काही न बोलता काम केलं. Aditi-ला हे आवडलं — Snehal-च्या silences-त एक pleasant quality होती. Necessary चं नाही बोलायचं. हे एका Marathi-medium upbringing-चा एक उरलेला सूक्ष्म चांगुलपणा, Aditi-ने स्वतःला सांगितलं.
+
+"Snehal."
+
+"हं."
+
+"तू OK आहेस?"
+
+"हो."
+
+"Casablanca-च्या रात्री तू tight smile केलेलास."
+
+Snehal एक beat थांबली. हात अजून pleats-त.
+
+"मी तुला सांगू पाहिजे का?"
+
+"... बोल."
+
+"Adii. मी तुला सांगणार नव्हते. पण आता तू विचारलंस."
+
+"बोल."
+
+"मला Kaustubh आवडतो. आवडायचा. म्हणजे — मी त्याला एकदा भेटले food-court-त, मग एकदा एका कुठल्यातरी casual lunch-त तुम्ही दोघं आणि मी होतो, आणि एका भेटीत आणि एका casual lunch-त मला एक 'मला आवडतोय' phase आला. हे ridiculous आहे, मला माहीत आहे. पण ते झालं."
+
+Aditi pleats सोडली. आरशात Snehal-ला बघितली.
+
+"...Snehal."
+
+"नको म्हणू sorry. हे माझं internal होतं. तू मला सांगणार नव्हतीस की 'आम्ही together आहोत' पण ते mostly clear होतं तीन weeks पासून. आणि मला माहित होतं तू आणि तो match आहात. मी तुला सरकवायला नाही जाणार. मी फक्त आत्ता तुला सांगितलं, कारण तू विचारलंस. तू नंतर कधीतरी कळावं हा एक weird angle राहायला नकोय."
+
+"Snehal — मी तुला माहित नव्हतं —"
+
+"मी कोणालाच सांगितलं नव्हतं. म्हणून तुला माहित नव्हतं. हे फार normal आहे."
+
+"मी — मला माफ कर."
+
+"का?"
+
+"...माहित नाही."
+
+"Adii. मला माफी नकोय. मला फक्त — तुझ्याकडून honest acknowledgement-ची एक beat. मिळाली. आता पुढे."
+
+ती pleats पुन्हा बांधायला सुरू केली. हात steady. कुठल्याही shake नाहीये. Aditi-ने मग एक beat-त ठरवलं की हे Snehal-च्या dignity-ला honor करण्याची एकमेव पद्धत — पुढे जायचं. कुठलंही extra commentary नाही, sympathy नाही. एक beat-त acknowledge केलं, accepted केलं, पुढे.
+
+ती बसली. Pleats बांधले गेले. मोगरा centered.
+
+"OK," Snehal म्हणाली. "जा."
+
+"Snehal."
+
+"हं."
+
+"Thanks."
+
+"Bye."
+
+ती गेली.
+
+Snehal door-च्या आत. एका minute Aditi-च्या रिक्त bed-वर बसली, मग उठली, kitchen-त चहा-साठी गेली. Vipula aunty kitchen-त — "Aditi कुठे गेली?"
+
+"Reception."
+
+"कुणासोबत?"
+
+"एका IIT batchmate-शी."
+
+"मुलगी?"
+
+"मुलगी."
+
+Snehal हे खोटं काही weight-नशिवाय बोलली. खोटं बोलण्यात तिची practice होती — हे Vipula aunty-ला कधीतरी कळेलच, पण आज नाही. आज Aditi-च्या evening-ची safety होती.
+
+Vipula aunty चहाची झारी काढली.
+
+---
+
+JW Marriott. Reception hall. Kaustubh gate-वर.
+
+Aman bhau-च्या blazer अपेक्षेपेक्षा loose होता. खांद्यांचा cut दोन inches खाली. Sleeves तळव्यापर्यंत. आत white shirt crisp होतं पण blazer-च्या drape-मुळे एकूण look — एका मुलाने उसना घेतलेला blazer.
+
+Aman bhau-च्या वाक्याबद्दल त्याने पुन्हा एक doubt-त switch केली. "Loose-fit fashion" was a phrase Aman bhau invented Friday रात्री दहा वाजता त्याच्याकडे flat-वरून निघण्याच्या आधी, आणि Aman bhau-ने हे phrase कुठेतरी वाचलेलं असेल अशी Kaustubh-ने स्वतःला आशा दिली होती. आता gate-वर उभा असताना त्याला कळतंय की Aman bhau-ने phrase स्वतःच invented केलेलं होतं.
+
+तो sleeves एकदा roll केली. एकदा unroll. तीन वेळा.
+
+मग Aditi आत आली.
+
+तो जागेवर.
+
+Green silk. Braid. Bangles. मोगरा. ती चालत होती तेव्हा साडीची borders तिच्या टाचेला आत-बाहेर touch करत होती, आणि तिचं चालणं — चालणं — हे चार वर्षांत जे Aditi-चं default jeans-walk होतं — हे आता एक थोडंसं slower, deliberate, careful पाऊल झालं होतं, साडीला trip-न-करण्याचं conscious effort, आणि त्या effort-त — त्या effort-त — ती सुंदर वाटली.
+
+त्याच्या डोक्यात तीन गोष्टी एका second-त registered झाल्या:
+
+ही माझी best friend आहे.
+ही मला सुंदर वाटतेय.
+मला हे आत्ता सांगायचं नाहीये — कारण तिला कळलं तर ती हसून सोडून देईल, आणि आत्ता मला हे फक्त बघायचंय एका minute-त.
+
+"Kaustubh!"
+
+"Aditi."
+
+"Sleeves."
+
+"मला माहित आहे."
+
+"Roll कर."
+
+"रोलल्या."
+
+"पुन्हा रोल."
+
+ती हसली. ती हसताना मोगरा थोडा हलला. तो हलणारा मोगरा त्याच्या डोक्यात पुढच्या तीन वर्षांत एक संदर्भ होणार होता — ज्या वेळेला त्याला आठवायचं असेल की Aditi त्याला कुठे आवडत होती, तेव्हा त्याच्या डोक्यात पहिली image हीच असणार होती.
 
 "साडी छान आहे."
 
 "साडी?"
 
-"साडी."
-
-"साडी छान आहे एवढंच?"
-
 "...आणि तू."
 
 "मी?"
 
-"तू पण छान आहेस."
+"तू."
 
-ती हसली. साडी असो किंवा jeans, ती हसलेली Kaustubh-ने पाचशे वेळा बघितली होती, पण आज ते हसणं वेगळं वाटलं. किंवा वेगळं वाटायला त्याची तयारी झाली होती. दोन्ही same होतं.
+ती हसली. पुन्हा. Bangles वाजल्या. एका IIT batchmate तिच्या मागून शिवाजी photographer-कडे जाताना "Adii साडी-त! photo-शी!" ओरडली. ती एका beat-त response-त "जरा थांब" म्हणाली.
 
-ते आत गेले. Tanaya stage-वर तिच्या नवऱ्यासोबत बसली होती. एका IIT-च्या कोनात पंधरा batchmates उभे होते, photos काढत होते, "अरे तू कुठे आहेस आता" "अरे तू पण इथे आहेस का" "Pune ला कधी आलास" वगैरे.
+ते आत. Tanaya stage-वर.
 
-Aditi-ने Kaustubh-ला guide करत stage-कडे नेलं. Tanaya-ला gift दिला. Tanaya-ने Aditi-ला बघून ओरडलं, "Adiii! साडीत!" आणि मग Kaustubh-कडे बघून, "तुम्ही — wait — तुम्ही दोघं एकत्र आलात?"
+Photos. Couple of greetings. Tanaya-ने Aditi-कडे बघून — मग Kaustubh-कडे — एक knowing look. "तुम्ही together आलात?"
 
-Aditi एक beat उशीरा react झाली.
+"नाही, separately."
 
-"नाही, आम्ही separately आलो."
-
-"Pune-मध्ये दोघं?"
-
-"हो."
-
-"एकाच area-मध्ये?"
+"Same area-त?"
 
 "Hinjewadi."
 
-"OK." Tanaya-ने एक knowing look दिला. नवऱ्याकडे वळून, "बघ, या दोघांना मी Madras-मध्ये पहिल्या वर्षात भेटवलं होतं. आता दोघं Pune-मध्ये एकाच area-मध्ये."
+"OK." नवऱ्याकडे वळून, "बघ, ही दोघं Madras-त चार वर्षं एकत्र होते. आता Pune-त एकाच area-त."
 
-नवऱ्याने नम्र smile केली, कारण त्याला हे context कळत नव्हतं.
+"Tanaya, आम्ही just मित्र आहोत."
 
-"Tanaya, आम्ही just मित्र आहोत," Aditi म्हणाली.
-
-"OK."
+"OK." Tanaya-ने एक थोडीशी असहमती-ची smile केली. "OK Adii. Just मित्र."
 
 "Just."
 
-"Just?"
+"OK."
 
-"Just."
+ते photos-च्या area-कडे गेले. एका line-मध्ये पंधरा IIT batchmates. Aditi आणि Kaustubh एकमेकांच्या बाजूला. Photographer — "थोडे जवळ. नाही नाही, थोडे थोडे जवळ. हो."
 
-"Adii. तू reception-ला आलीस साडी नेसून, आणि तो आला Aman bhau-च्या blazer घालून. हे 'just मित्र' look नाही."
+Sleeve. Pallu. Touch.
 
-Kaustubh ने pose break करायचा प्रयत्न केला. "Tanaya, सर्वजण reception-ला formal कपडे घालतात."
+"Photo." Click.
 
-"मला माहित आहे."
+मग ते back-up झाले.
 
-"मग?"
+मग रिसेप्शन dinner. एका table-वर बसले. Tanaya-च्या मामा-मामी-शेजारी. मामांनी Kaustubh-ला विचारलं, "तू कुठल्या company-त?"
 
-"मग 'सर्वजण formal कपडे घालतात' हे defense एक तर weak आहे."
+"Hinjewadi-त एका startup-त."
 
-Aditi-ने subject बदलला. "Tanaya, lighting छान आहे hall-मध्ये."
+"नाव?"
 
-Tanaya-ने हसून सोडलं.
+"Skipthread."
 
-ते photos area-कडे गेले. IIT batchmates एका line-मध्ये उभे होते, group photos. एका minute मध्ये Kaustubh आणि Aditi एकमेकांच्या बाजूला उभे होते एका line-मध्ये, आणि photographer ने सांगितलं, "जरा जवळ. एकमेकांच्या जवळ. हो."
+"मला कधीच ऐकलं नाहीये."
 
-ते थोडे जवळ झाले. Kaustubh-च्या blazer-च्या sleeve ने तिच्या साडीच्या pallu-ला touch केलं. एक second-साठी दोघांच्या मेंदूत एकच विचार आला: हा touch देखील "just मित्र" आहे का?
+"बारा-माणसांची आहे."
 
-Photo झालं. ते back-up झाले.
+"OK." मामांनी एक beat.
 
-"Photo आल्यावर WhatsApp करा!" Tanaya ओरडली.
+मग Aditi-ला, "तू?"
 
----
+"Cognizant."
 
-रात्री साडेदहा वाजता ते reception-च्या बाहेर पडले. Marriott च्या porch-वर एक मंद वारा होता. Pune-च्या February-च्या रात्री असे वारे असतात — थंडी पूर्ण नाही, पण थंडीची आठवण.
+"Cognizant!" मामांचा face थोडा brightened. "माझा पुतण्या तिथे आहे. Senior manager. तू कुठे?"
 
-"मला तुला drop करायचंय," Kaustubh म्हणाला.
+"Phase 1."
 
-"PG-ला?"
-
-"हो."
-
-"Vipula aunty 11-ला lights बंद करते."
-
-"मला माहित आहे."
-
-"Drop करायला किती वेळ?"
-
-"Pune traffic-मध्ये आज Saturday रात्री — सहा minutes. म्हणजे दहा वाजून छप्पन मिनिटांना तू PG-च्या gate-वर."
+"माझा पुतण्या Bangalore-त. पण company same."
 
 "OK."
 
-ते एका Ola-च्या वाट बघत उभे होते. साडी, blazer, मोगरा-ची एक मंद वास, Hinjewadi-च्या रात्रीचा एक pollute air. हे romantic scene नव्हतं. हे फक्त एक scene होतं.
+"छान, बेटा."
 
-Aditi म्हणाली, "Kaustubh."
+Kaustubh एक beat थांबला. मामांनी "छान" त्याला नाही, Aditi-ला म्हटलं होतं. हे ridiculous होतं — एका reception-च्या table-वर एका मामा-ने त्याच्या salary-bracket-ला बघून त्याला "छान" नाही म्हणणं — पण ती embarrassed होणारी गोष्ट होती.
 
-"हं?"
+आणि त्याची embarrassment Aditi-च्या समोर registered झाली. कारण Aditi-ने एक second-त त्याच्या face-कडे बघितलं, परत मामांकडे, परत त्याच्या face-कडे. ती कळून घेतली. मग ती हसून "धन्यवाद, मामा" म्हणाली आणि subject बदलला.
 
-"Tanaya-ला weird वाटलं."
+पण ती subject बदलण्यात — एका थोड्या over-attentiveness-त — त्याने एक save-the-startup-boy gesture register केला. आणि त्या save-च्या gesture-त, त्याच्यासाठी, एक छोटीशी अधिक एका Bangalore-Flipkart-offer-च्या ग़ुनाहाची आठवण लागली.
 
-"मला माहित आहे."
+Dinner पुढे. Music आत. Tanaya stage-वर तिच्या नवऱ्याशी एक slow dance attempt.
 
-"तुला weird वाटलं?"
+रात्री अकरा. Marriott-च्या porch-वर.
 
-"साडीवर?"
-
-"नाही, situation वर."
-
-"होय."
-
-"मला पण होय."
+"Drop करू तुला?" तो विचारला.
 
 "OK."
 
-Ola आली. ते बसले. साडी थोडी door-च्या edge-ला अडकली. ती ओढून आणली. Driver-ने window उघडा ठेवला होता, वारा बारीक होता, साडीची एक थोडी edge तिच्या face-वर येऊन परत जात होती.
-
-PG-कडे जाणारा रस्ता त्यांना पाठ होता. सहा minutes-मध्ये पोचले. खरंच सहा minutes.
-
-ती उतरली. तो उतरला नाही.
-
-"Drop केल्याबद्दल thanks," ती म्हणाली, खाली वाकून window-मधून बघत.
-
-"Adii."
-
-"हं?"
-
-"मला..." तो थांबला.
-
-"काय?"
-
-"Tanaya-ने बरोबर सांगितलं."
-
-"काय बरोबर?"
-
-"की हे just मित्र वाटत नाहीये."
-
-ती door-ला धरून उभी होती.
+Ola. PG-कडे. वारा. आत साडीची एक border window-च्या मध्ये अडकली. ती ओढून आणली. Driver Marathi होता, mute. वडाच्या एका झाडाखालून car पुढे.
 
 "Kaustubh."
 
-"हं?"
+"हं."
 
-"मला आत्ता हे बोलायचं नाहीये."
+"मामा-ने 'छान बेटा' मला म्हटलं तेव्हा तुला weird वाटलं."
 
-"का?"
+"... हो."
 
-"कारण... saree आहे, मोगरा आहे, Pune-ची रात्र आहे. हे सगळं romantic-coded आहे. आपण आत्ता boya conversation केली तर ते environment-वर influence झालेलं असेल. मला clear-headed conversation हवीये."
+"मला माहित होतं."
+
+"मला माहित होतं तुला माहित होतं."
+
+"तू..."
+
+"Adii. आत्ता आपण हे conversation नको. कारण आजच्या environment-त — साडी, मोगरा, Pune-ची रात्र, Marriott-च्या porch — हे conversation केलं तर ते environment-ने influenced असेल. मला sober daylight conversation हवं."
 
 "OK."
-
-"OK?"
-
-"OK. ठीक आहे."
 
 "उद्या?"
 
 "उद्या."
 
-"उद्या sober daylight मध्ये?"
+"सकाळी?"
 
-"उद्या sober daylight मध्ये."
+"सकाळी."
 
-"OK."
-
-तिने door बंद केला. Ola driver-ने window पुन्हा उघडा सोडला, थंडी जात नव्हती गाडीत.
-
-Kaustubh ride-च्या पुढच्या वीस minutes-मध्ये एकही शब्द बोलला नाही. Driver Marathi होता, त्याने Kaustubh-च्या face कडे rear-view मध्ये बघितलं, मग radio थोडा बारीक केला, आणि शेवटी म्हणाला:
-
-"भाऊ, साडी छान होती. नकोच hide करू."
-
-Kaustubh-ने window-च्या बाहेर बघितलं. आला तो उत्तर देऊ शकत नव्हता. Driver-ने मान हलवली, समजून.
-
-बारा kilometres पुढे, बारा kilometres पाठीमागे — Aditi PG-च्या door-च्या आत आली, Vipula aunty kitchen-मधून बघून म्हणाली, "इतकं late?", आणि Aditi-ने reply केला, "Reception aunty, मी सांगितलं होतं", आणि room-मध्ये जाऊन साडी पडल्या जागी ठेवली, बिछान्यावर पडली, ceiling-कडे बघत राहिली.
-
-उद्या sober daylight-मध्ये conversation. हे तिने ठरवलेलं होतं. आता हे keep करायचं होतं.
-
-Komal आत आली. "Adii?"
+ती PG-च्या gate-वर उतरली. तो Ola-च्या window-त वाकून, "Adii."
 
 "हं."
 
-"साडी छान होती."
+"साडी actually really छान आहे."
 
 "मला माहित आहे."
 
-"त्याला आवडली?"
+ती गेली. तो Ola-त शांत बसून flat-कडे जात होता. Driver-ने एका minute-नंतर म्हटलं, "Bhau."
 
-"... हो."
+"हं?"
 
-"मग?"
+"साडी छान होती ती."
 
-"उद्या बघू."
+"मला माहित आहे."
 
-Komal हसली. "OK." आणि light बंद केली.
+"बाह."
 
-मोगऱ्याची वेणी तिच्या केसांत अजून होती. हलकी कोमेजायला लागली होती, पण वास अजून आला. हा वास तिच्या उशीला जाणार होता आत्ता, आणि उद्या सकाळी, ती उठल्यावर, तिला आठवण देणार होती की काल काय झालं — आणि की उद्या daylight-मध्ये काहीतरी ठरायचंय.
+Driver पुढे शांत. Pune-च्या रस्त्यावर एक कुत्रा त्यांच्या समोर अचानक धावत आला, driver-ने brake मारली, कुत्रा side-ला सटकला, सगळं normal झालं. हे रात्रीचा एक standard Pune event.
+
+---
+
+PG-त Aditi room-त. केसांत मोगरा अजून. साडी सोडली, बिछान्यावर ठेवली. नाईट-गाऊन-त एक minute window-कडे.
+
+Snehal आधीच bed-वर, blanket खाली, light बंद, but eyes open.
+
+"Snehal."
+
+"हं."
+
+"मी आले."
+
+"मला कळलं."
+
+"तुझा day कसा होता?"
+
+"OK."
+
+"...Snehal."
+
+"Adii, मी OK आहे. मला तुझ्याशी आज रात्री बोलायला नकोय. कारण मी आत्ता OK आहे, पण बोलायला सुरू केलं तर मी कदाचित OK नसेन. आणि मला आज रात्री OK राहायचं आहे. उद्या बोलू."
+
+"OK."
+
+Aditi bed-वर पडली. कानात — कुठेतरी हलकेच — Snehal-च्या breathing-त एक थोडासा catch. आणि एका सगळ्या PG-त शांततेच्या मधे — Snehal-च्या catch एका minute-त stabilized झाली, मग एका next minute-त ती झोपली.
+
+Aditi त्या breathing-ला ऐकत राहिली, ceiling-कडे बघत.
+
+मोगरा अजून केसांत. वास अजून थोडा. Aditi-ने त्याला pillow-वर ठेवला. आत्ता तो जाणारच होता, उद्या तर तो खराब.
+
+मग ती झोपी गेली. नाही पटकन — पंधरा minutes-त. कारण आत्ता एक नवीन गोष्ट घर-त शिरली होती. एक मुलगा तिला आवडत होता, एक मैत्रीण त्याला आवडत होती, आणि ती मैत्रीण आता तिच्या समोरच्या bed-वर breathe करत होती.
+
+हे सगळं — अनुक्रमे — manageable होतं. पण आज नाही. आज फक्त बंद डोळे.
