@@ -1,242 +1,98 @@
 ---
-title: Hinjewadi चा पहिला Monday
+title: Phase 1 आणि Phase 2
 slug: 02-pahila-monday
 order: 2
-summary: Aditi च्या orientation-मध्ये दोनशे freshers आणि एक PPT. Kaustubh च्या startup-मध्ये बारा माणसं आणि एक तुटलेला AC. आणि दोघं — पहिल्या आठवड्यातच — accidentally Phase 1 च्या food court-मध्ये एकाच table-वर.
-read_time: 11
+summary: Aditi-च्या orientation-त दोनशे freshers आणि एक PPT ज्यात पाच values आहेत. Kaustubh-च्या startup-त बारा माणसं आणि एक AC जो service-साठी थांबलाय. आणि एक food court जिथे ते दोघं प्रेमी नाहीत हे ठरवायला त्यांना अकरा minutes लागले.
+read_time: 10
 ---
 
-Aditi-च्या orientation-मध्ये दोनशे freshers होते. सगळ्यांना एकसारखे blue lanyards मिळाले होते. सगळ्यांच्या laptop bag-मध्ये एकसारखा branded notebook, एक pen, एक re-fillable water bottle, आणि एक pamphlet होतं ज्यावर लिहिलं होतं: "Welcome to the family."
+PPT-ची slide तीन: "Our Values." पाच bullet points, सगळ्यांचे first letters एका acronym मध्ये बसवलेले — "PROUD". Pride, Resilience, Ownership, Unity, Diligence.
 
-Pamphlet-वर बघून तिने पहिल्या minute-लाच ठरवलं की या company-ला family म्हणू नये, कारण family म्हटलं की Pongal-ला अप्पा सांगायचा "रडत नको बसू, बाबा office-ला जातो", तसं इथेही project deadline येताना "रडत नको बसू, हे family साठी आहे" अशी एक भीती होती.
+"Pride आणि Diligence-त repetition आहे ना?" Aditi-च्या बाजूला बसलेली मुलगी कुजबुजली.
 
-HR-ची मॅडम PPT लावत होती. Slide तीन: "Our Values." पाच bullet points. Aditi-ने पहिले तीन वाचले, मग चौथ्याला पोचली: "Customer Obsession." तिच्या बाजूला बसलेल्या मुलीने हलकेच, "Customer Obsession म्हणजे काय? Customer-च्या मागे जायचं का?" विचारलं.
+Aditi वळून बघितली. Notebook वर एक doodle, एक मुलगी जिच्या डोक्यावर एक "PROUD" लिहिलेला हॅट. वरून एक arrow, खाली लिहिलेलं "मीच का?"
 
-"नाही," Aditi कुजबुजली. "म्हणजे Saturday-ला office यायचं."
+"मी Snehal," ती कुजबुजली. "Pune-ची."
 
-ती मुलगी हसली. हसल्यावर तिने सांगितलं, "Hi. मी Snehal. मी Phase 1 च्या PG-मध्ये राहते. वाकड. तू?"
+"मी Aditi."
 
-"मी अजून PG शोधतेय. आज orientation झाल्यावर एका aunty-कडे बघायला जाणार आहे."
+"Nashik-ची?"
 
-"कुठली aunty?"
+"कसं कळलं?"
 
-"99acres-वर list आहे. Vipula aunty. ती म्हणतेय 8500 per month, AC, food included."
+"Joining form-त मी तुझ्या आधी होते, तू नंतर. तुझ्या batch number-मध्ये माझा होता."
 
-"8500-मध्ये AC आणि food? Snehal-ने डोळे बारीक केले. "Adii, बघ, मी सांगतेय — ते photo शोधून ठेव. कारण real photo आणि list वरचा photo यात fifty percent gap असतो."
+ती थांबली. हसली नाही, हसली नाहीये असं दाखवलं नाही. ती फक्त एक beat घेऊन पुढे गेली. नंतर Aditi-ला कळणार होतं की Snehal अशीच होती — observant, deliberate. कुठलंही statement randomly delivered नसायचं.
 
-"मी जाईन तर बघेन ना."
+HR-ची मॅडम पुढची slide लावत म्हणाली, "Customer Obsession."
 
-"येऊ का मीही?"
+"Obsession?" Snehal कुजबुजली.
 
-"का?"
+"म्हणजे Saturday-ला office यायचं."
 
-"कारण माझ्या PG-मध्ये पाच मुली आहेत आणि चार जणींना cooking येतं. मला नाही येतं. आणि मला एक excuse हवाय Saturday-ला बाहेर जायला."
+Snehal-ने notebook-वर एक टीप लिहिली. "Customer Obsession = Saturday." मग Aditi-कडे push केली. Aditi-ने खाली लिहिलं, "आणि Sunday morning calls." Snehal-ने खाली, "मग Sunday afternoon = my life."
 
-"आज Monday आहे."
+मग HR-च्या madam-ने बघितलं, two seats down, आणि दोघी laptop-वर एकाएकी serious झाल्या.
 
-"मला Saturday-पर्यंत excuse hold करायचाय."
+Lunch break-त, बाहेर, food court-त.
 
-Aditi हसली. आधीच एक मैत्रीण मिळाली. Pune पहिल्या तासातच थोडं manageable वाटायला लागलं.
+Phase 1-चं food court हे एक huge open-roof structure होतं ज्याच्या आत दहा vendors होते आणि bench-seating होती. Tile mosaic floor. वर एक exposed metal grid ज्याला industrial-cute design म्हणून architect-ने pass केला असेल पण actually पैसे कमी पडले होते म्हणून ceiling नव्हता. एक पंखा प्रत्येक बेंच-च्या वर.
 
----
+Aditi-ने paneer wrap घेतलं. Snehal-ने thali. एका corner-च्या bench-वर बसल्या, समोर तीन Capgemini-च्या मुलं आधीच लंच खात होती.
 
-Hinjewadi Phase 2-मध्ये "Bharat House" नावाची एक तीन मजली building होती ज्याच्या पहिल्या मजल्यावर "Skipthread Technologies Pvt Ltd" नावाचं एक board लागलेलं होतं. Board इतका नवीन होता की त्यावरचा film-ही अजून निघालेला नव्हता.
+मग Aditi-च्या समोर, समोरच्या bench-वर, एक मुलगा बसलेला होता. एका startup-च्या T-shirt-त. समोर एक empty plate. एका paani-च्या glass-कडे बघत.
 
-Kaustubh-ने film च्या एका कोपऱ्याला धरून थोडंसं ओढलं. तेवढ्यात आतून एक आवाज आला, "Bhau! आत ये! Door उघडं आहे!"
+ती paneer wrap-चा घास घेणार होती. हात मध्यात थांबला.
 
-तो आत गेला.
+"Kaustubh?"
 
-Office एका open hall सारखं होतं. आठ tables. सहा माणसं. एका कोपऱ्यात एक coffee machine जी जुनी दिसत होती. दुसऱ्या कोपऱ्यात एक exercise mat ज्यावर "Aman च्या gym-ची वस्तू, हलवायची नाही" असं लिहिलेलं sticky note होतं.
+तो वर बघितला.
 
-एक मनुष्य त्याच्याकडे चालत आला. T-shirt-वर "Skipthread" आणि below "We're hiring" असं लिहिलेलं होतं — Kaustubh joining आज होणार होता हे माहीत असूनही.
+"...Adii?"
 
-"Kaustubh? Welcome bhau. मी Aman. Founder. आपण call केला होता."
+"तू Phase 1-त काय करतोयस?"
 
-"Hi. हो."
+"मी Phase 1-त नाहीये. मी Phase 2-त आहे. मला Aman bhau-ने इथून lasagna pickup करायला सांगितलं."
 
-"बघ, formal नको. इथे सगळे एकमेकांना bhau म्हणतात. तू मला Aman bhau. मी तुला Kaustubh bhau."
+"तुझा founder?"
 
-"मी... ठीक आहे."
+"माझा founder."
 
-"तुझा laptop आणलाय का?"
+"Toilet-ला गेलाय का?"
 
-"हो."
+"...कसं कळलं?"
 
-"Charger?"
+"मला वाटलं. कारण समोर plate empty आहे, paani आहे, आणि तू बसलेला आहेस. हे toilet-च्या आधी एक वाजवायचा setup असतो."
 
-"हो."
+"Adii."
 
-"Mouse?"
-
-"नाही."
-
-Aman-ने shrugged. "मग आपण आज तू bhau Anuj-च्या मागे बसून बघ. Anuj bhau! हा Kaustubh. तुझ्या बाजूला बसतोय आज."
-
-Anuj-ने मान वर केली. Anuj-च्या डोळ्याखालची काळी कडा बघून Kaustubh-ला असं वाटलं की Anuj-ला झोपलेला नसून दोन दिवस झाले आहेत, पण विचारणं impolite होतं.
-
-"AC लागत नाहीये का?" Kaustubh-ने विचारलं.
-
-Office-च्या वातावरणावरून हे already कळत होतं की उत्तर "नाही" होतं, पण विचारणं हे small-talk-चा एक भाग होता.
-
-"AC आहे," Aman म्हणाला, ceiling कडे बघत. "Service हवीय. आपण याच मजल्यावर आहोत म्हणून आम्ही ground floor च्या paneer-वाल्याच्या AC च्या hot air-च्या वर बसून काम करतो. म्हणजे थंड हवा आम्हाला पण मिळते. Kind of."
-
-"Kind of?"
-
-"बघ. Pune-च्या summer-मध्ये आपण bhau झालो की hot air सुद्धा cool वाटायला लागते. हे एक concept आहे."
-
-Kaustubh-ने Anuj-कडे बघितलं. Anuj-ने मान हलवली, जणू तो Aman-च्या या concept-च्या ऐकण्याची तीनशे आठवीसवी time होती आणि तरी तो complain करत नव्हता.
-
-Kaustubh laptop उघडत असताना, त्याला असं वाटलं की या ठिकाणी पुढचे दोन वर्षं काही गोष्टी weird असणार आहेत.
-
-मग त्याला आठवलं — आज सकाळी निघताना आईने सांगितलं होतं, "बाळा, पुणे आहे, समजून घे. आणि office-च्या लोकांशी जुळवून घे." तेव्हा तो हसला होता. आता त्याला त्या वाक्याची weight जरा जास्त कळायला लागली होती.
-
----
-
-Lunch-च्या वेळी Aditi आणि Snehal Phase 1 च्या आत असलेल्या एका huge food court-मध्ये गेल्या. हा food court दहा vendors असलेला होता आणि bench-style बसण्याची व्यवस्था होती. म्हणजे जिथे जागा मिळेल तिथे बसायचं. कुणाशी ओळख आहे का नाही, important नव्हतं.
-
-Aditi-ने paneer wrap घेतलं. Snehal-ने thali. दोघी एका table-वर बसल्या जिथे आधीच चार जण होते — तीन माणसं Capgemini-च्या lanyard-मध्ये, एक मुलगा कुठलं तरी startup-चं T-shirt घातलेला, ज्याच्या समोर एक empty plate होती आणि एक phone त्याने face-down ठेवलेला होता.
-
-Aditi बसली, paneer wrap उघडलं. ती चावायला सुरुवात करणार तेवढ्यात startup T-shirt-वाला मनुष्य खाली बघत म्हणाला:
-
-"Adii?"
-
-Aditi-ने वर बघितलं.
-
-समोर Kaustubh.
-
-तिच्या तोंडात paneer wrap-चा एक मोठा घास, जो अजून चावायचा होता.
-
-"Mmf?"
-
-"तू... तू Phase 1-मध्ये काय करतेयस?"
-
-ती चावत होती. चावत होती. चावत होती. paneer-ची चूकीची timing.
-
-Kaustubh विचारच होता: "तू तुझ्या orientation-मध्ये नाहीयेस?"
-
-"मफ — wait," Aditi-ने हात वर केला. ती मोठ्याने गिळली. "मी lunch-ला आले. आमचं food court हे आहे. तू?"
-
-"मी पण lunch-ला आलोय."
-
-"तू Phase 2-मध्ये नाहीयेस?"
-
-"मी Phase 2-मध्ये आहे. पण Aman bhau — माझा founder — त्याला Phase 1 च्या Domino-च्या lasagna-ची craving येते कधी कधी. मला ओढून आणलाय."
-
-"कुठे आहे तो?"
-
-"Toilet-ला गेलाय."
-
-"Toilet?"
-
-"हो. म्हणाला 'lunch-च्या आधी नेहमी जातो.' OK?"
-
-Aditi हसली. Snehal तिच्याकडे "हा कोण आहे?" expression-ने बघत होती.
-
-"Snehal, हा Kaustubh. माझा IIT batchmate. Mech. आता Hinjewadi Phase 2-मध्ये startup-मध्ये आहे."
-
-"Hi," Snehal म्हणाली. मग Aditi-कडे वळून, "तू मला सांगितलंच नाहीस की तुझा एक IIT batchmate इथेच आहे म्हणून."
-
-Aditi-ने Kaustubh-कडे एक look दिला जो "तू माझा IIT batchmate आहेस, मित्र आहेस, पण आत्ता मला हे explain करत बसायचं नाहीये" हे conveys करतो.
-
-"Snehal," ती म्हणाली, "मी अजून ओळख करून द्यायला सुरुवात केली नव्हती. आपण Monday सकाळी भेटलोय फक्त."
-
-"OK OK, sorry. मला असं वाटलं की तू मुद्दाम सांगितलं नाहीस."
-
-"मी मुद्दाम नाही सांगितलं नाही. मला आत्ता कळलं की तो इथे असेल हे."
-
-"मी इथे रोज नसतो," Kaustubh म्हणाला, खोटं बोलण्याची एक थोडी मदत करायला. "हे coincidence आहे."
-
-"पण तू Phase 2-मध्ये आहेस ना?" Snehal-ने विचारलं.
-
-"हो."
-
-"मग आज इथे?"
-
-"Founder-ला Lasagna craving."
-
-"Oh."
-
-तीन seconds शांतता.
-
-Aditi-ला आता आठवलं — Marina-वर ठरवलेलं, पहिला महिना नाही भेटायचं. आणि आत्ता पहिल्या Monday-ला, lunch-च्या पहिल्या तासाला, ते अगदी समोर बसले होते.
-
-ती हसली. हसू दाबू शकत नव्हती.
-
-"काय?" Kaustubh-ने विचारलं.
-
-"काही नाही."
-
-"नाही, सांग."
-
-"आपण Marina-वर ठरवलेलं ते आठवलं."
-
-"मला पण आठवलं."
-
-"म्हणजे हे count होतं की नाही?"
-
-"हे count नाही, कारण हे accidental आहे."
-
-"Marina-वर 'भेटू नये' म्हटलं की 'accidental भेट चालेल' म्हटलेलं?"
-
-"मला Marina-वर एवढ्या details मध्ये नव्हतं बोललेलं तुझ्याशी."
-
-"मलाही नव्हतं." ती हसली. "OK ठरलं तर — हे count नाही."
-
-"हे count नाही."
-
-Snehal दोघांकडे आलटून पालटून बघत होती. तिच्या plate-वरचा बटाटा थंड व्हायला लागला होता पण तिचं तिला कळत नव्हतं, कारण इथे काहीतरी interesting चालू होतं ज्याचा शेवट तिला actually बघायचा होता.
-
-तेवढ्यात Aman bhau आला. Toilet-वरून. Hands अजून ओले. Lasagna ची box घेऊन.
-
-"Bhau! चल, vehicle कुठे लावलीस?"
-
-"Lunch करूया ना इथेच?"
-
-"नाही bhau, Anuj एकटा आहे office-मध्ये. Lasagna इथून पासून घेऊन, Phase 2-ला office मध्ये बसून, ही plan आहे."
-
-Kaustubh उभा राहिला. "Adii, उद्या बघू?"
-
-"नाही."
-
-"नाही?"
+"हं."
 
 "पहिला महिना."
 
-"OK OK. Right. पहिला महिना."
+"मला माहीत आहे."
 
-"मग बघू कधी पुढे."
+"मी इथे intentionally नाहीये."
 
-"बघू कधी पुढे."
+"मला माहीत आहे."
 
-Aman bhau मध्ये येऊन म्हणाला, "अरे, हिच्या ओळखीची मुलगी आहे का तू? कशी ओळखता एकमेकांना?"
+ते दोघं एकमेकांकडे बघत बसले. Snehal दोघांकडे आलटून पालटून. तिच्या plate-वरचा बटाटा थंड व्हायला लागला होता, ती तसं काही दाखवू न देता दोघांकडे बघत होती, जणू एका Marathi serial-च्या साडेसातच्या episode मधे काहीतरी पुढे होणार होतं ते रोखून बघायचं होतं.
 
-"College," Kaustubh म्हणाला.
+"मी जातो आता," Kaustubh म्हणाला, उठून. Plate तसाच ठेवून — कुणीतरी lasagna घेऊन येणार होतं ना. "Aman bhau आला की आम्ही लगेच निघू. Bye Adii."
 
-"IIT?"
+"Bye."
 
-"हो."
+मग Snehal-कडे, थोडा awkward — "Hi, मी Kaustubh."
 
-Aman bhau-ने Aditi-कडे एक थोडा longer look दिला, मग Kaustubh कडे, मग परत Aditi कडे.
+"Snehal."
 
-"OK bhau. चल."
+"OK bye."
 
-ते गेले. Kaustubh-ने एक hand wave दिला, थोडा weak. Aditi-ने back वेव केलं, ती पण weak.
+तो गेला. एक minute-नंतर एक Aman-bhau-दिसणारा माणूस आला, lasagna-ची box घेऊन, T-shirt-वर "Skipthread" आणि below "We're hiring" लिहिलेलं. Aman-ने Aditi-कडे एक look दिला, थोडा मिनीटभर थांबला, मग Snehal-कडे एक knowing look — जणू त्याला कुठल्यातरी अनुपस्थित context-ची आधीच idea होती — आणि गेला.
 
-Snehal दोघांच्या जाण्याकडे बघत होती. मग Aditi-कडे वळून:
+Snehal Aditi-कडे.
 
-"पहिला महिना म्हणजे?"
-
-"पहिला महिना नाही भेटायचं. आम्ही ठरवलं होतं."
-
-"का?"
-
-"कारण..." Aditi विचार करत बसली. ती कारण आता unconvincing वाटायला लागलं होतं तिला. "कारण आम्हाला Pune ची सवय करायची आहे. एकमेकांची नाही."
-
-Snehal-ने हळूच मान हलवली. "ठीक आहे. एकच doubt आहे."
-
-"काय?"
-
-"तो just मित्र आहे का?"
+"तो just मित्र आहे?"
 
 "हो."
 
@@ -244,12 +100,92 @@ Snehal-ने हळूच मान हलवली. "ठीक आहे. ए�
 
 "Just."
 
-"OK." Snehal-ने आपलं चपाती-चं रोल फिरवायला घेतलं. "मग ठीक आहे. मला फक्त असं वाटलं की 'just मित्र' असलेले लोक एकमेकांकडे बघून तसे हसत नाहीत."
+"Adii."
 
-"कसे?"
+"Snehal, तू मला फक्त दोन तासांपासून ओळखतेस."
 
-"कसे हे माहीत असेलच."
+"मला माहित आहे. म्हणून मी सरळ विचारतेय. कारण मला नंतर असं वाटायला नकोय की मी काही miss केलं."
 
-Aditi-ने paneer wrap-चा शेवटचा घास घेतला. हा घास तिने हळू चावला. विचार करत. पण विचार पूर्ण होईपर्यंत lunch break संपायला आला, आणि तिला परत orientation hall-कडे चालायला लागलं.
+"OK तर हो — आम्ही IIT-त चार वर्षं एकत्र होतो. Just मित्र. आत्ता आम्ही दोघं Pune-त, एकाच area-त, वेगवेगळ्या company-त. आम्ही ठरवलंय की पहिला महिना नाही भेटायचं. कारण आम्हाला Pune-ची सवय करायची आहे एकट्याने."
 
-रस्त्यात एक PPT-ची आठवण झाली: "Customer Obsession." आणि ती हसली, कारण आत्ता तिच्या डोक्यात customer नव्हता.
+"पण तुम्ही आत्ता भेटलात."
+
+"Accidentally."
+
+"OK." Snehal-ने एक sip घेतला. एक beat. "Adii, मला एक सांगू?"
+
+"हं."
+
+"माझ्या एका IIT Bombay-च्या friend-चा पण असाच एक 'just मित्र' होता. Pune-त. पहिल्या वर्षात त्यांनी ठरवलं होतं ते 'समजून घेऊ नंतर'. आता ते married आहेत."
+
+"Snehal —"
+
+"मी फक्त एक data point शेअर करत आहे. Conclusion तुझा."
+
+ती हसली. Aditi-ला हे आवडलं नाही पण आवडलं. ही data point शेअर करण्याची manner — जणू एका study-ची findings — हे Snehal-चं फक्त एका सकाळी कळणारं trademark.
+
+---
+
+Skipthread च्या office-त AC service-साठी थांबला होता. म्हणजे Aman-च्या मते — "बघ bhau, खाली paneer-वाला त्याचा AC रात्री बंद करत नाही. आपण तिथल्या hot air-च्या वर बसून काम करतो. म्हणजे शेवटी थंड हवा आपल्याकडे येते. कन्व्हेक्शन."
+
+"Aman bhau, convection थंड हवा खाली नेतं, वर नाही."
+
+"Bhau, मी IIT चा नाहीये. मला physics-त lose नाही करायचं. मला business मध्ये win करायचं आहे. AC service-ला परवडत नाही या quarter-त. End of conversation."
+
+Kaustubh-ने laptop-वर बसून, lasagna एका paper plate-त ठेवून, एका bug-ला debug करायला बसला. आजची task — एका customer-च्या Excel-API-त एका columns mismatch fix करायचा होता. हे जे काम होतं हे त्याने IIT-त एक hostel-च्या CTF-वीकेंडच्या रात्री दोन तासांत केलं असतं. आत्ता हे त्याचं चार-तासाचं deliverable होतं.
+
+Anuj त्याच्या बाजूला बसून एका docs-च्या tab-त scroll करत होता. Anuj-च्या डोळ्याखाली काळा, नेहमीसारखा.
+
+"Bhau," Anuj म्हणाला, "तू आज सकाळी Phase 1-त गेलास?"
+
+"Lasagna."
+
+"OK."
+
+"का?"
+
+"नाही, मला उगाच कळलं."
+
+Aman bhau आला, खिशात एक pen-stand, "Bhau, उद्या Friday demo आहे. Excel-API एक्सप्रोम्प्टली काम करायला हवा. तू आज night-out करू शकतोस का?"
+
+"Aman bhau, मी आधीच night-outs केलेत three weeks-त चार वेळा."
+
+"बघ, equity आहे तुझी. हे तुझंच startup आहे. Night-out तुझ्या startup-साठी."
+
+"Equity 0.4 percent आहे माझी. Twenty-thousand-च्या salary वर."
+
+"Bhau."
+
+"मी आज जातो night-out-ला. पण पुढच्या आठवड्यात compensatory off."
+
+"Bhau, compensatory off एक corporate concept आहे. आपण startup आहोत."
+
+"Aman bhau."
+
+"OK OK. Pudhachya Tuesday, compensatory off."
+
+तो गेला. Kaustubh एका minute शांत बसला. Lasagna थंड व्हायला सुरू झालेलं. एका थोड्या, बारीक विचाराने त्याला आत्ता डोक्यात आलं — Cognizant-त Aditi आत्ता एका AC-असलेल्या room-त बसून PPT बघत असेल. तिच्या PPT-त "PROUD" वगैरे values असतील. तिचा manager तिच्या salary-च्या double-वर असेल. तिची "compensatory off" policy तीन pages-त लिहिलेली असेल company handbook-त.
+
+आणि त्याला, हे — हे जे आत्ता त्याचं desk-वरचं reality — हे थोडंसं embarrassing वाटलं तिच्यासमोर.
+
+मग त्याने हे शेजारी ठेवलं. कारण त्याला तिच्यासमोर embarrassed व्हायला नको होतं. कारण तो तिचा "Pune-त guide" होणार होता — हे त्याच्या डोक्यात default होतं. Pune-त ती नवी, तो जुना. ती ITT-त एक रिक्षाशी bargain करायला घाबरायची, तो calmly "तीस रुपये" बोलायचा. ती Madras-च्या एका Tamil-only बस-conductor-शी confused झाली होती, त्याने middle-मध्ये Tamil-त — खऱ्या Tamil-त नाही, Madras-त चार वर्षांत collect केलेल्या rudimentary Tamil-त — translation केलेली. हे anchor होतं त्याचं.
+
+Pune-त तीच एक new थी. तो जुना. हे anchor.
+
+पण जर तिचं company "PROUD" PPT-वाली, manager-त formal communication-वाली, ITT-च्या CSE-ची top fifteen-त रॅंक असलेली — तर त्याचं "guide" role थोडंसं... shaky वाटायला लागलेलं.
+
+त्याने laptop-ची brightness वाढवली. Bug-ला बघितलं. एक column-name typo होतं API-त. Five-minute fix. त्याने fix केला. एक PR raise केला. कोणीतरी review करेल कधीतरी.
+
+Lasagna अजून थंड. त्याने एक घास घेतला. Aman bhau-ने delivery-कडून घेताना "spicy" mark केलेलं होतं. तोंडात मिरचीचा एक तीव्र झटका.
+
+"Aman bhau," तो ओरडला. "तू spicy का मागवलंस?"
+
+"Pune-ची lasagna spicy हवीच bhau!"
+
+"Aman bhau, lasagna Italian आहे."
+
+"Bhau, इथल्या menu-त ते Italian नाहीये. ते Pune-Italian आहे."
+
+Kaustubh-ने एक paani प्यायला. एका paneer wrap-ची आठवण आली. एका Phase 1-च्या food court-त एक मुलगी एका bench-वर बसून तिच्या new colleague-शी बोलत होती. ती lasagna spicy मागवणार नव्हती. तिचं company तिला Italian-Italian dish देणार होतं, Pune-Italian नाही.
+
+हे फक्त एक थोडंसं observation. पण ते दिवसभर त्याच्या डोक्याच्या मागे एका शांत noise सारखं वाजत राहिलं.

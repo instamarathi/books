@@ -2,372 +2,328 @@
 title: WhatsApp चा घोटाळा
 slug: 04-whatsapp-ghotala
 order: 4
-summary: एका movie plan-च्या double-meaning text-वरून तीन दिवस miscommunication. Aditi-ला वाटलं तो रागावलाय. Kaustubh-ला वाटलं ती रागावलीय. खरं तर दोघांना काहीच कळलं नव्हतं.
-read_time: 11
+summary: Movie plan-वर एक innocent प्रश्न. एका dot नंतर दुसरा dot. दहा minutes-त एका Tuesday रात्रीचं एक miscommunication एका तीन-दिवसांच्या misunderstanding-त बदललं. आणि Snehal नेहमीसारखं बघत होती.
+read_time: 9
 ---
 
-Tuesday रात्री Aditi-ने Kaustubh-ला message केला:
-
-> *Friday ला movie?*
-
-Kaustubh ने अर्ध्या तासाने reply केला:
+> *Friday-ला movie?*
 
 > *कुठली?*
 
-Aditi-ने reply केला:
+> *Inox-त काहीतरी नवीन आलंय. तू बघ list. कुठली बघायचीये तुला?*
 
-> *Inox मध्ये काही नवीन आलंय का बघते. तू बघ पण.*
+> *OK बघतो.*
 
-Kaustubh-ने reply केला:
+मग दहा minutes.
 
-> *OK.*
-
-मग पाच minutes काही नाही.
-
-मग Kaustubh-ने reply केला:
+मग —
 
 > *आपण फक्त दोघं?*
 
-Aditi एक minute screen बघत बसली.
+Aditi screen-कडे बघत बसली.
 
-हा एक interesting question होता. "आपण फक्त दोघं" हे शब्द दोन meanings असू शकत होते: एक — practical, म्हणजे "इतर मित्रांना पण विचारायचंय का?", दुसरं — implication-loaded, म्हणजे "ही एक date आहे का?"
+ती PG-च्या bed-वर होती. लाईट कमी. Snehal समोरच्या bed-वर laptop-वर एका spreadsheet-त. ती कधी laptop-वरून वर बघेल हे predictable नव्हतं — Snehal हे observe-न-दाखवता-observe-करण्यात master होती.
 
-ती एक IIT CSE होती. ambiguity तिच्या type-च्या मेंदूसाठी uncomfortable होती. ती ambiguity solve करायला बघायची. पण इथे ambiguity solve करायचं म्हणजे तिने त्याला विचारायचं की "तू कुठलं meaning meant करत आहेस?", आणि हे विचारणं म्हणजे ambiguity-च्या दुसऱ्या meaning-कडे implicitly attention द्यायचं — म्हणजे, हे एक date आहे की नाही या question-कडे.
+Aditi-ने type केला:
 
-ती पाच मिनिटं विचार करत बसली. मग reply केला:
+> *कोण free आहे ते बघू.*
+
+— मग delete.
+
+> *दोघंच चालेल.*
+
+— मग delete.
+
+> *तुला काय वाटतंय?*
+
+— मग delete.
+
+शेवटी —
 
 > *बघू कोण free आहे.*
 
-हे एक brilliant non-committal reply होता, ती स्वतःलाच धन्यवाद देत गेली. हा reply दोन्ही meanings honor करत होता. जर तो practical असेल तर "बघू कोण free आहे" perfectly aligned होतं. जर तो implication-loaded असेल, तर "बघू कोण free आहे" subtly म्हणत होतं की "हे date नाहीये, हे group plan आहे."
+Send.
 
-Kaustubh-ने reply केला:
+ती phone खाली ठेवली. Snehal वर बघितली नाही. एका beat-मध्ये Aditi-ला कळलं की Snehal-ने actually बघितलंच होतं, फक्त बघून बघितलं-नाही म्हणून दाखवायची दया दाखवली होती.
+
+Phone पुन्हा vibrate.
 
 > *OK.*
 
-मग ten minutes काही नाही.
+मग दहा minutes काही नाही.
 
-मग Kaustubh-ने reply केला:
+मग —
 
 > *Cool.*
 
-Aditi-ला हा "Cool" आवडला नाही. "OK" आणि "OK Cool" मध्ये emotional gap होता. "OK Cool" हा एक थोडा passive-aggressive register होता. खासकरून जेव्हा "OK" आधीच आला होता आणि मग दहा minutes नंतर "Cool" extra add झाला.
+Aditi एका minute "Cool"-ला बघत राहिली.
 
-तिने reply केला:
+"Cool" हा एक problem होता.
 
-> *तू OK आहेस ना?*
+"OK" आणि "OK Cool" मध्ये एक gap होता. "OK" emotionally neutral. "OK Cool" थोडंसं passive-aggressive — specifically जेव्हा "Cool" हा "OK"-च्या दहा minutes नंतर add झाला. म्हणजे — त्याने reply केला "OK", मग एक pause, मग एक "Cool" — हे एक afterthought होतं. आणि afterthought-त meaning असतो.
 
-Kaustubh ने एक तासाने reply केला:
+ती type केला:
+
+> *तू OK आहेस?*
+
+एक तासाने reply आला —
 
 > *हो.*
 
-एक तासाने.
+एक तासाने. एक तासाने.
 
-Aditi-ला आता खात्री पटली की काहीतरी wrong होतं. Kaustubh एका तासात reply करत नव्हता normally. तो दहा minutes-च्या आत reply करायचा, किंवा नंतर "sorry, on a call" वगैरे context देऊन reply करायचा. एक तास without context म्हणजे sulking होतं.
+Aditi phone bedside-वर ठेवला. एका minute शांत बसली.
 
-ती screen कडे बघत बसली.
+मग Snehal-ने laptop बंद केला.
 
-मग ठरवलं की पुढचा move त्याचा होता.
+"Adii."
 
----
+"हं."
 
-Kaustubh त्याच्या flat-मध्ये Vikram-च्या Bluetooth speaker-वर शाहरुख खान-ची "Tujhe Dekha To" full volume-वर लावून phone-कडे बघत होता.
+"दहा minutes-पासून तू phone-वर बघून बघतेस आणि smile-suppressed face करतेस."
 
-"Bhau," Vikram म्हणाला, kitchen-मधून येत. "हे गाणं मी आता तीन तासांपासून ऐकतोय."
+"मी smile-suppress नाही करत."
 
-"मला विचार करायचाय."
+"OK. मग frown-suppress."
 
-"Movie-च्या plan-वर?"
+"Snehal."
 
-"होय."
+"बघू द्या phone."
 
-"मग गाणं बंद कर. विचार speaker-वर नाही होत."
+"नको."
 
-"नाही, मला हे गाणं ऐकलं की focus येतो."
+"Adii."
 
-Vikram-ने एक deep breath घेतला, स्वतःच्या जागी बसून, आणि म्हणाला:
+"Snehal — हे complicated आहे."
 
-"मला सांग problem काय आहे."
+"मला सांग. मी outside perspective देते."
 
-"मी तिला विचारलं 'आपण फक्त दोघं?' आणि तिने reply केला 'बघू कोण free आहे.' म्हणजे काय?"
+Aditi-ने phone Snehal-कडे केला. Snehal-ने पूर्ण thread scroll केला. एका beat-त वाचून संपलं. ती phone परत Aditi-कडे केली.
 
-"म्हणजे तिने तुला reject केलं."
+"Adii."
 
-"नाही नाही, ती फक्त unsure आहे की हे date आहे का group plan."
+"हं."
 
-"मग ती reject नाही, ती confused आहे."
+"तू त्याला 'बघू कोण free आहे' का म्हणालीस?"
 
-"नाही नाही, मी confused आहे, ती just non-committal आहे."
+"कारण 'आपण फक्त दोघं' हे ambiguous होतं. तो practical विचारत होता की implication-loaded?"
 
-"मग problem काय?"
+"मग तू direct विचार ना."
 
-"म्हणजे मला माहीत नाही ती date समजतेय का group plan."
+"Direct विचारलं की तो 'मला practical म्हणायचं होतं' म्हणेल जरी practical नसेल तरी. हे defensive answer-design आहे."
 
-"तू तिला विचार."
-
-"तसं विचारलं तर मी असं imply करेन की मी date imagine केलं होतं."
-
-"मग तू न विचार. Plan group plan कर."
-
-"Group plan कर म्हणजे?"
-
-"म्हणजे, तुम्ही चौघं जायचं. तू, ती, आणि अजून दोघं."
-
-"पण मला तिच्याशी एकट्यात बोलायचं होतं."
-
-"मग group plan कर आणि शेवटी एकटं राहायचा arrangement कर."
+"Adii. तू engineering करते कुठल्या specific कारणासाठी?"
 
 "म्हणजे?"
 
-"म्हणजे, चौघं movie-नंतर एका café-ला जाणार आहोत. तू ठरवलेलं असेल की café-च्या आधी दोघं dropping out करतील. म्हणजे शेवटी फक्त तू आणि ती."
+"म्हणजे — एक मुलगा तुला विचारतो 'आपण फक्त दोघं?' आणि तू पाच options consider करून शेवटी 'बघू कोण free आहे' म्हणतेस. हे engineering नाहीये. हे avoidance आहे. Engineering म्हणजे शोधून बघणे. Avoidance म्हणजे शोधायचंच नाही."
 
-Kaustubh-ने Vikram-कडे बघितलं. Vikram असं काही suggestion देईल हे त्याने expect केलं नव्हतं.
+ती हे एका steady tone-त म्हणाली. Snehal-ची हीच quality — sharp, but not cruel. Aditi-ला अपवाद इथे — Snehal कधीच hurtful नव्हती. Just clear-eyed.
 
-"हे कधी काम केलंय तुला?"
+"Snehal —"
 
-"दोनदा. एकदा Bangalore, एकदा Pune."
+"मला माहीत आहे, मला माहीत आहे, हे personal आहे. मी फक्त — observation शेअर करत आहे."
 
-"दोन्ही वेळी success?"
+"Conclusion?"
 
-"नाही. एकदा success, एकदा disaster."
+"Conclusion तुझा."
 
-"Disaster का?"
+Aditi-ने मग एक deep breath घेतला, phone उचलला, type केला:
 
-"कारण ज्या दोघांना मी drop out करायला सांगितलेलं, ते drop out करायला विसरले. ते café-पर्यंत आले."
+> *Kaustubh, मी कन्फ्यूज्ड आहे. तू "आपण फक्त दोघं" विचारलं तेव्हा तुला date imagine होतं का group plan?*
 
-"मग?"
+Send.
 
-"मग मला आणि त्या मुलीला three hours पाच जणांच्या group dinner-मध्ये बसून बसून conversation pad करत बसावी लागली."
+मग एका beat-त delete-च्या आधी ती सेंट झालेली होती.
 
-"OK Vikram. Thanks. मी विचार करतो."
+ती phone खाली ठेवली. भुवया-त एक थोडासा arc.
 
-Vikram उठून गेला. "Tujhe Dekha To" तसंच चालू होतं.
+"मी direct जाऊन बघितलं," ती म्हणाली Snehal-ला.
 
-Kaustubh-ने phone उचलला. Type केलं:
+"Good."
 
-> *Movie-ला Snehal आणि Anuj-ला विचारतो. ठीक आहे का?*
+मग दोन minutes-त reply.
 
-Aditi-ने हे message रात्री दोन वाजता बघितलं. ती झोपायला आधी phone बघत होती, एक bad habit.
+> *Group plan. कारण तू 'बघू कोण free आहे' म्हणालीस, तर मी विचारलं 'OK group plan.'*
 
-"Snehal आणि Anuj-ला विचारतो."
+मग —
 
-म्हणजे.
+> *पण honestly?*
 
-म्हणजे त्याने "आपण फक्त दोघं?" विचारलं होतं फक्त म्हणून की त्याच्या डोक्यात group plan होता. म्हणजे त्याला date imagine नव्हतं केलेलं. म्हणजे "बघू कोण free आहे" हे तिचं brilliant non-committal reply unnecessarily defensive होता. म्हणजे तिचं brain-ने पाच minutes रचलेलं ambiguity-management हे entirely waste वेळ होता. म्हणजे तो just एक मित्र होता आणि ती जास्त विचार करत होती.
+मग —
 
-ती बाजूला वळून झोपायला बघितली. झोप येणार नव्हती.
+> *मला फक्त तू असली असती तरी चाललं असतं.*
 
-तिने reply केला:
+Aditi-ने हे वाचलं. मग आणखी वाचलं.
 
-> *हो ठीक आहे.*
+मग ती smile-suppressed पुन्हा झाली.
 
-रात्री दोन वाजताचा "हो ठीक आहे" हा reply emotionally flat होता. कुठलाही energy नव्हता. कुठलंही "great!" किंवा "cool" नव्हतं. फक्त "हो ठीक आहे".
+"काय?" Snehal विचारली.
 
-Kaustubh-ने तो reply Wednesday सकाळी सहा वाजता बघितला. तो six-thirty-च्या gym-ला जायचा होता, तेच त्याचं routine होतं — gym, मग shower, मग office.
+"त्याने honest सांगितलं."
 
-"हो ठीक आहे."
+"मग तू पण honest सांग."
 
-रात्री दोन वाजता पाठवलेला message.
+> *मला पण फक्त तू असला असतास तरी चाललं असतं.*
 
-म्हणजे ती रागावली होती. कारण नाहीतर रात्री दोन वाजता ती reply का करेल? आणि "हो ठीक आहे" का? "Cool" का नाही? "Great" का नाही?
+Send.
 
-म्हणजे त्याने काहीतरी wrong केलं होतं.
+मग एक minute काही नाही.
 
-म्हणजे Snehal आणि Anuj-ला plan-मध्ये include करणं तिला आवडलं नव्हतं.
+मग —
 
-म्हणजे — wait — म्हणजे तिला actually दोघं एकत्र जायचं होतं? म्हणजे "आपण फक्त दोघं?" चं तिचं reply "बघू कोण free आहे" हे actually disappointed होतं, कारण तिला हे hint द्यायचं होतं की हो, फक्त दोघं?
+> *Then Friday — दोघंच?*
 
-OK. म्हणजे.
+> *दोघंच.*
 
-म्हणजे त्याने आता एक dumb move केलं होतं Anuj-ला include करून.
+> *Inox?*
 
-त्याने phone लावला. Anuj-च्या number-वर.
+> *कुठलीही movie. मला माहीत नाही.*
 
-Anuj-ने तीनदा ring नंतर उचलला. "Bhau, सकाळी सहा?"
+> *Pune Films-वर एक classic-week चालू आहे. Casablanca लागलेली आहे.*
 
-"Anuj. Friday-ला movie cancel."
+> *Casablanca?*
 
-"...काय?"
+> *मी कधीच बघितली नाहीये.*
 
-"Movie cancel."
+> *मीही नाही.*
 
-"मी अजून invite नाही झालो."
+> *Plan.*
 
-"OK. तू invite होणार नाहीस."
+> *Plan.*
 
-"OK."
+ती phone खाली ठेवली. Snehal वर बघितली, थोडा blank face — चांगल्या manner-त, judgment-शिवाय — मग म्हणाली, "OK. तू ठरवलंस की हे date आहे."
 
-"Sorry."
+"Date नाही."
 
-"OK bhau."
+"Snehal —"
 
-तो call कापला. आता त्याला फक्त Aditi-ला एक नवीन message करायचा होता.
+"OK fine. हे एक 'reading-a-book-of-the-same-genre' आहे."
 
-त्याने type केला:
+"... हो, हे जरा बरं वाटतंय."
 
-> *Anuj busy आहे. Snehal-ला विचारायचं की cancel?*
+Snehal हसली. हे एक specific हसणं होतं — actual मनापासूनचं, पण थोडं — थोडं — कुठेतरी एका layer खाली, एक थंडसर line.
 
-मग delete केला. Snehal-ला विचारणं हे "मी अजून half-committed आहे group plan-ला" असं impression देत होतं.
+Aditi-ला ती line कळली नाही.
 
-त्याने type केला:
+म्हणजे — कळली, पण as Snehal-ची-personality म्हणून. Snehal-त नेहमीच एक थंडसर layer होती observations-च्या खाली. Aditi-ला हे already कळून चुकलेलं होतं.
 
-> *बघ, मला actually फक्त दोघं जायचंय movie-ला. ठीक?*
+म्हणून ती ती line एका minute-त pocketed केली आणि पुढे गेली — Casablanca-ला कोणत्या कपड्यांत जायचं, popcorn घ्यायचं की नाही, गाडी कोणी आणायची.
 
-मग delete केला. हे too direct होतं. जर ती actually group plan-ला OK होती, तर हा message तिला weird वाटेल.
-
-त्याने type केला:
-
-> *Snehal busy आहे का?*
-
-मग delete केला. हे passing the buck होतं.
-
-शेवटी त्याने type केला:
-
-> *बघू कोण free आहे.*
-
-आणि पाठवलं.
-
-मग त्याला कळलं की हे exact words तिने त्याला पाठवलेले होते. म्हणजे आता तो तिचाच sentence parrot करत होता. जे एकतर एक clever callback होतं, किंवा एक creepy mirror.
-
-ती cleverness म्हणून घेईल अशी आशा होती.
+ती line of Snehal-च्या smile-त ज्या specific quality होती — ती quality Aditi-ला later कळणार होती. आत्ता नाही.
 
 ---
 
-Aditi-ने हा message दहा वाजता बघितला, orientation च्या मध्ये.
+Friday रात्री Pune Films-च्या एका छोट्या hall-त ते बसले. Twenty-five people भर होते. Black-and-white screen. Subtitles. Casablanca-च्या पहिल्या दहा minutes-त Aditi-च्या डोक्यात एक मूळ realization झाला — हे actually एक classic आहे, हे एक थोडं-थोडं engaging आहे, मी हे केला पाहिजे होतं आधी.
 
-"बघू कोण free आहे."
+Kaustubh-च्या डोक्यात त्याहून सोपं — ती शेजारी आहे. तीच काळी टॉप. हाताला किंचित-थंडसर. Hall-च्या AC-त. आणि ती शेजारी आहे.
 
-ती smile पडली. कारण हे exact words तिचे होते. म्हणजे तो thoda mock करत होता. म्हणजे तो रागावलेला नव्हता. म्हणजे — wait — म्हणजे आत्ता तो pretend करत होता की group plan, पण actually त्याला फक्त दोघं भेटायचं होतं? पण मग त्याने Anuj-ला का mention केला?
+मध्यांतर नाही. Movie ends. Lights on. ती वर बघितली.
 
-ती confused होती.
+"मी Bogart-त sounding दिसते का?"
 
-Snehal बाजूला बसून तिच्या phone-कडे बघत होती.
+"...काय?"
 
-"काय?" Aditi-ने विचारलं.
+"म्हणजे — मला आत्ता एक trench-coat घालून थोडंसं 'I think this is the beginning of a beautiful friendship' म्हणावंसं वाटतंय. पण मी तीन-foot-eleven आहे आणि trench-coat-त मी एक blanket-त पडलेल्या draped clothes-line सारखी दिसेन."
 
-"तू पाच minutes-पासून phone-कडे बघून हसत आहेस."
-
-"मी हसत नाहीये."
-
-"तू smile-suppressed expression करत आहेस."
-
-"नाही."
+तो हसला. एका मोठ्या हसण्याने. कारण ती classic line-ला मी-घालू-तर-दिसेन-कशी-त convert करत होती हे typically Aditi होतं.
 
 "Adii."
 
-"Snehal."
+"हं."
 
-"काय चाललंय?"
+"मी तुला हे सांगायचं होतं breakfast-च्या दिवशी."
 
-Aditi-ने phone Snehal-कडे केला. Snehal-ने पूर्ण thread वाचला.
+"काय?"
 
-मग वर बघितलं.
+ती समोर stood, hall-च्या बाहेर पावसाळ्याच्या आधीच्या दमट हवेत.
 
-"तुम्ही दोघं just मित्र आहात?"
+"नाही. Important नाही. Movie-वर बोलू."
 
-"हो."
+"Kaustubh."
 
-"Just?"
+"Adii."
 
-"Snehal."
+"बोल."
 
-"मी फक्त एवढं सांगते — just मित्र असलेले लोक five hours एका 'बघू कोण free आहे' च्या ambiguity-वर सोडत नाहीत."
+"नको."
 
-"मग काय करतेस तू?"
+"बोल."
 
-"मी तुझ्या जागी असते तर त्याला call करते आत्ता."
+तो थांबला. एका beat. मग — "मी तुला हे सांगायचं होतं की मला तू आवडतेस. पण मी ते सांगणार होतो आणि मी ते सांगायला घाबरतोय. कारण तू breakfast-च्या दिवशी मला 'तू perfect वाटायचा, आता तू human वाटतोयस' असं काहीतरी सांगितलंस. आणि मला त्या sentence-च्या एका corner-मध्ये एक थोडंसं — मला नक्की कळत नाहीये पण — एक थोडंसं superiority वाटलं. आणि मला त्या superiority खाली एका मुलगी-ला आवडतंय असं सांगायला weird वाटतंय."
 
-"Office मध्ये?"
+ती silence-त उभी राहिली.
 
-"Bathroom-मध्ये."
+"...काय?"
 
-"Bathroom?"
+"मला माहित होतं की हे confusing वाटेल."
 
-"हो. Office मधल्या मुली bathroom-मध्ये जातात important phone calls साठी. आपण ladies असलो की हे allowed आहे."
+"Kaustubh, तू मला आवडतोयस हे एका 'superiority' च्या आरोपानंतर सांगितलंस का?"
 
-Aditi उठली. Bathroom-कडे चालत गेली. आत बसून, lock लावून, Kaustubh-ला call केला.
+"नाही."
 
-तीन ring नंतर त्याने उचलला.
+"मग?"
 
-"Adii?"
+"मी सांगितलं. आणि मग मी सांगितलं की मी का सांगत नव्हतो. हे दोन वेगवेगळ्या गोष्टी आहेत."
 
-"Kaustubh, मला तू honest answer दे."
+ती बघितली त्याच्याकडे.
+
+मग बघितली खाली.
+
+मग पुन्हा वर.
+
+"Kaustubh."
+
+"हं."
+
+"तू मला आवडतोस."
+
+"...OK."
+
+"पण आपण आत्ता रस्त्यावर उभं राहून हे conversation पुढे करायचं नाहीये."
 
 "OK."
 
-"तुला Friday-ला movie-ला फक्त माझ्यासोबत यायचंय की group?"
+"उद्या?"
 
-एक pause.
+"उद्या."
 
-"Group."
+ते उभे राहिले. वारा. कुठेतरी एका speaker-वर एक auto-rickshaw-वाला त्याच्या driver-friend-शी बोलत होता, voice loud. हे romantic moment नव्हतं. हे एक थोडंसं confused, थोडंसं embarrassed, थोडंसं — दोघांच्या डोक्यात — relieved.
 
-"OK." तिने एक beat घेतला.
+मग ती हसली. एक थोडी, fully-aware हसू — कारण ती-तो "मला तू आवडतोस" हे आत्ता-च्या-आत्ता या रस्त्यावर sodium-yellow lights-च्या खाली, एका auto-rickshaw-च्या उगाच ओरडणाऱ्या background-त घडला. आणि ती ज्या scene-ची ती कधीतरी imagined ती ही scene नव्हती. आणि ती scene नसल्याबद्दल ती हसली.
 
-"Adii?"
+तो हसला. कारण ती हसली. आणि कारण त्याने आत्ता एक truth सांगितली होती जी fifty-percent-त self-deprecating आणि fifty-percent-त brave होती, आणि तिने ती accept केली होती, आणि हे — आत्ता — हे enough होतं.
 
-"हो."
+ते दोन Ola वेगवेगळ्या PG आणि flat-कडे गेले.
 
-"मला honest सांगायचंय?"
+PG-त Snehal door उघडली. Aditi आत आली. केसांत किंचित Pune-च्या pre-monsoon humidity-ची लाट.
 
-"हो."
+"Movie कशी होती?" Snehal विचारली.
 
-"मला फक्त तुझ्यासोबत यायचंय."
+"Movie छान होती."
 
-"मग 'group' का म्हटलंस?"
+"आणि?"
 
-"कारण मी विचारलं 'आपण फक्त दोघं' आणि तू 'बघू कोण free आहे' म्हटलंस, म्हणून मला वाटलं तू group prefer करतेस."
+Aditi एक beat थांबली.
 
-"मी ते म्हटलं कारण 'आपण फक्त दोघं' हे ambiguous होतं — date आहे का group plan?"
+"आणि तो म्हणाला 'तू मला आवडतेस.'"
 
-"मला माहीत नव्हतं की हे ambiguous वाटू शकतं."
+Snehal-ने काही न बोलता एक tight smile केली. Tight, polite — आणि Aditi-च्या डोक्यात तो smile पंधरा seconds-नंतर एका prick म्हणून register झाला, पण तेव्हा Snehal आधीच bathroom-कडे वळलेली होती.
 
-"Kaustubh. तू IIT-चा आहेस. ambiguity तुला कळते."
+"Snehal."
 
-"माझा IIT department Mech होता. Aditi. Mechanical engineers ambiguity-ला 'wave function' म्हणून treat नाही करत. आम्हाला नट आणि बोल्ट कळतात."
+"हं?"
 
-ती bathroom-मध्ये जोरात हसली. Bathroom-मध्ये echo झाला. बाहेर एक sweeping aunty गेली, तिने ओझरतं door कडे बघितलं, मग चालत गेली.
+"तू OK आहेस?"
 
-"OK," Aditi म्हणाली, हसू तसंच ठेवून. "Plan revised. Friday-ला आपण दोघं movie. Snehal नाही. Anuj नाही."
+"मी OK आहे. Tired. Goodnight."
 
-"Vikram नाही."
+"Goodnight."
 
-"Vikram कधीच नव्हता."
+Bathroom door बंद झाला.
 
-"OK Cool."
+Aditi bed-वर बसली. Phone bedside. Kaustubh-शी shabby auto-rickshaw-च्या background-वर "मला तू आवडतोस" — ती गोष्ट तिच्या डोक्यात अजून एक recursive loop-त playing होती. आणि त्याच loop-च्या एका corner-मध्ये, Snehal-च्या tight smile-ची एक थोडी आठवण.
 
-"OK Cool."
+ती loop हलवायला, ती light बंद केली आणि उशीला तोंड वळवून पडली.
 
-ती call कापली. Mirror-मध्ये बघितलं. केसांना तेल नव्हतं आज, हे एक blessing होतं. पण हसू अजून तसंच होतं.
-
-ती बाहेर आली. Snehal table-वर बसून तिच्याकडे बघत होती.
-
-"काय झालं?"
-
-"Friday-ला दोघंच."
-
-"Date?"
-
-"नाही. Movie."
-
-"Adii."
-
-"Movie."
-
-"Adii."
-
-"OK, half-date."
-
-"Adii."
-
-"OK, full date. पण मी declare नाही केलं. तू declare नाही करायचं. तो pretty obvious आहे की हे date आहे, पण आम्ही declare नाही करणार."
-
-"का?"
-
-"कारण declare केलं की मग next conversation 'आपलं काय आहे' होईल आणि मला त्या conversation-साठी अजून तयार नाहीये."
-
-"OK." Snehal-ने एक sip घेतला coffee चा. "तुझ्या केसांना तेल लागलंय का?"
-
-"नाही."
-
-"OK. Good."
-
-Aditi laptop-वर परत आली. Slide चालू होती: "Career Growth at Cognizant." तिच्या मनात Friday रात्र होती.
+उद्या sober daylight conversation. हे ठरलं होतं.
