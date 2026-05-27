@@ -4,6 +4,10 @@ import satori from "satori";
 import { Resvg } from "@resvg/resvg-js";
 import { readAllChapters } from "./_chapters";
 
+function stripStrikethrough(s: string): string {
+  return s.replace(/~~(.*?)~~/g, "$1");
+}
+
 const ROOT = path.resolve(".");
 const BOOKS_DIR = path.join(ROOT, "books");
 const DIST = path.join(ROOT, "dist");
@@ -62,7 +66,7 @@ async function main() {
               type: "div",
               props: {
                 style: { fontSize: "72px", lineHeight: 1.2 },
-                children: c.title,
+                children: stripStrikethrough(c.title),
               },
             },
             {

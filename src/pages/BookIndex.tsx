@@ -2,6 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { findBook, loadBooks } from "../books";
 import { useAuth } from "../useAuth";
 import { useProgress } from "../useProgress";
+import { renderTitle } from "../renderTitle";
 
 const FREE_CHAPTER_ORDER = 1;
 
@@ -20,7 +21,7 @@ export const BookIndex = () => {
 
   return (
     <section className="book-index">
-      <h2>{book.title}</h2>
+      <h2>{renderTitle(book.title)}</h2>
       {book.subtitle && <p className="book-subtitle">{book.subtitle}</p>}
       {book.credit && <p className="book-credit">{book.credit}</p>}
       {!user && (

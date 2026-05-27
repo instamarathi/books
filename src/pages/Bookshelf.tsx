@@ -12,6 +12,7 @@ import {
 import { useAuth } from "../useAuth";
 import { useProgress, type ProgressMap } from "../useProgress";
 import { BookCover } from "../components/BookCover";
+import { renderTitle } from "../renderTitle";
 
 function bookCategory(book: Book): CategoryKey {
   return book.category && CATEGORIES[book.category] ? book.category : "other";
@@ -70,9 +71,9 @@ function FeaturedHero({
         <div className="featured-body">
           <span className="featured-eyebrow">{eyebrow}</span>
           <h1 id="featured-title" className="featured-chapter-title">
-            {chapter.title}
+            {renderTitle(chapter.title)}
           </h1>
-          <p className="featured-book-name">{book.title}</p>
+          <p className="featured-book-name">{renderTitle(book.title)}</p>
           {teaser && <p className="featured-teaser">{teaser}</p>}
           <span className="featured-cta">{cta}</span>
         </div>
@@ -115,7 +116,7 @@ function BookCard({
           to={`/${book.slug}/${continueChapter.slug}`}
           className="book-continue"
         >
-          वाचणं सुरू ठेवा: {continueChapter.order}. {continueChapter.title} →
+          वाचणं सुरू ठेवा: {continueChapter.order}. {renderTitle(continueChapter.title)} →
         </Link>
       )}
     </li>

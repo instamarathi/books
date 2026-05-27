@@ -1,5 +1,6 @@
 import type { Book, CategoryKey } from "../books";
 import { CATEGORIES } from "../books";
+import { renderTitle } from "../renderTitle";
 
 const GRADIENTS: Record<CategoryKey, string> = {
   career: "linear-gradient(135deg, #C76C2D 0%, #7C3A12 100%)",
@@ -34,7 +35,7 @@ export function BookCover({
       <span className="book-cover-eyebrow">
         <span aria-hidden="true">{meta.emoji}</span> {meta.label}
       </span>
-      <span className="book-cover-title">{book.title}</span>
+      <span className="book-cover-title">{renderTitle(book.title)}</span>
     </div>
   );
 }

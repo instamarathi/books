@@ -8,6 +8,10 @@ const DIST = path.join(ROOT, "dist");
 
 const TEMPLATE = fs.readFileSync(path.join(DIST, "index.html"), "utf-8");
 
+function stripStrikethrough(s: string): string {
+  return s.replace(/~~(.*?)~~/g, "$1");
+}
+
 function escAttr(s: string): string {
   return String(s)
     .replace(/&/g, "&amp;")
@@ -66,16 +70,16 @@ function main() {
   const chapters = readAllChapters(BOOKS_DIR);
   for (const c of chapters) {
     const html = injectMeta(TEMPLATE, {
-      title: `${c.title} — instamarathi books`,
+      title: `${stripStrikethrough(c.title)} — instamarathi books`,
       description: c.summary,
-      "og:title": c.title,
+      "og:title": stripStrikethrough(c.title),
       "og:description": c.summary,
       "og:type": "article",
       "og:url": chapterUrl(c.bookSlug, c.chapterSlug),
       "og:image": ogImage(c.bookSlug, c.chapterSlug),
       "og:locale": "mr_IN",
       "twitter:card": "summary_large_image",
-      "twitter:title": c.title,
+      "twitter:title": stripStrikethrough(c.title),
       "twitter:description": c.summary,
       "twitter:image": ogImage(c.bookSlug, c.chapterSlug),
     });
@@ -91,10 +95,10 @@ function main() {
       title: string; subtitle?: string;
     };
     const html = injectMeta(TEMPLATE, {
-      title: `${m.title} — instamarathi books`,
-      description: m.subtitle ?? m.title,
-      "og:title": m.title,
-      "og:description": m.subtitle ?? m.title,
+      title: `${stripStrikethrough(m.title)} — instamarathi books`,
+      description: m.subtitle ?? stripStrikethrough(m.title),
+      "og:title": stripStrikethrough(m.title),
+      "og:description": m.subtitle ?? stripStrikethrough(m.title),
       "og:type": "book",
       "og:url": `${SITE_ORIGIN}${SITE_BASE}${bookSlug}/`,
       "og:locale": "mr_IN",
