@@ -51,6 +51,7 @@ export type CategoryKey =
   | "parenting"
   | "home"
   | "society"
+  | "fiction"
   | "other";
 
 export type BookKind = "howto" | "fiction" | "essay";
@@ -112,6 +113,11 @@ export const CATEGORIES: Record<
     blurb: "चळवळ, माध्यमं आणि आजूबाजूचा गोंधळ समजून घेणं.",
     emoji: "🧭",
   },
+  fiction: {
+    label: "कथा",
+    blurb: "मूळ मराठी कथा आणि भावनिक प्रसंग.",
+    emoji: "✦",
+  },
   other: {
     label: "इतर",
     blurb: "इतर विषयांवरची पुस्तकं.",
@@ -125,6 +131,7 @@ export const CATEGORY_ORDER: CategoryKey[] = [
   "parenting",
   "home",
   "society",
+  "fiction",
   "other",
 ];
 

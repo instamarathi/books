@@ -1,14 +1,67 @@
+import type { CSSProperties } from "react";
 import type { Book, CategoryKey } from "../books";
 import { CATEGORIES } from "../books";
 import { renderTitle } from "../renderTitle";
 
-const GRADIENTS: Record<CategoryKey, string> = {
-  career: "linear-gradient(135deg, #C76C2D 0%, #7C3A12 100%)",
-  mindset: "linear-gradient(135deg, #5B8C5A 0%, #2F5530 100%)",
-  parenting: "linear-gradient(135deg, #D49A2C 0%, #7C5612 100%)",
-  home: "linear-gradient(135deg, #6B8FB5 0%, #3C5B80 100%)",
-  society: "linear-gradient(135deg, #9B6BB5 0%, #5E3A76 100%)",
-  other: "linear-gradient(135deg, #6B6359 0%, #3A342F 100%)",
+const COVER_THEMES: Record<
+  CategoryKey,
+  {
+    a: string;
+    b: string;
+    c: string;
+    line: string;
+    tag: string;
+  }
+> = {
+  career: {
+    a: "#263F6B",
+    b: "#D9AA45",
+    c: "#6F2F2A",
+    line: "rgba(255, 244, 210, 0.72)",
+    tag: "rgba(0, 0, 0, 0.34)",
+  },
+  mindset: {
+    a: "#2F5D50",
+    b: "#E8BE55",
+    c: "#24324F",
+    line: "rgba(255, 255, 255, 0.68)",
+    tag: "rgba(0, 0, 0, 0.28)",
+  },
+  parenting: {
+    a: "#375E57",
+    b: "#D8B657",
+    c: "#442C59",
+    line: "rgba(255, 255, 255, 0.72)",
+    tag: "rgba(0, 0, 0, 0.3)",
+  },
+  home: {
+    a: "#C84032",
+    b: "#E4B84F",
+    c: "#182336",
+    line: "rgba(255, 255, 255, 0.74)",
+    tag: "rgba(0, 0, 0, 0.32)",
+  },
+  society: {
+    a: "#2C335F",
+    b: "#E5D07D",
+    c: "#2F7B73",
+    line: "rgba(255, 244, 210, 0.74)",
+    tag: "rgba(0, 0, 0, 0.32)",
+  },
+  fiction: {
+    a: "#6B2E3F",
+    b: "#E0A84D",
+    c: "#1E3149",
+    line: "rgba(255, 245, 225, 0.72)",
+    tag: "rgba(0, 0, 0, 0.3)",
+  },
+  other: {
+    a: "#88AEB6",
+    b: "#22263F",
+    c: "#D7A448",
+    line: "rgba(255, 255, 255, 0.68)",
+    tag: "rgba(0, 0, 0, 0.28)",
+  },
 };
 
 function categoryOf(book: Book): CategoryKey {
@@ -26,11 +79,19 @@ export function BookCover({
 }) {
   const cat = categoryOf(book);
   const meta = CATEGORIES[cat];
+  const cover = COVER_THEMES[cat];
   return (
     <div
-      className={`book-cover book-cover-${variant}`}
+      className={`book-cover book-object book-cover-${variant}`}
       data-category={cat}
-      style={{ background: GRADIENTS[cat] }}
+      data-cover-theme="poster"
+      style={{
+        "--cover-a": cover.a,
+        "--cover-b": cover.b,
+        "--cover-c": cover.c,
+        "--cover-line": cover.line,
+        "--cover-tag": cover.tag,
+      } as CSSProperties}
     >
       <span className="book-cover-eyebrow">
         <span aria-hidden="true">{meta.emoji}</span> {meta.label}
