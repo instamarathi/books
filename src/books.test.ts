@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { parseChapter } from "./books";
+import { parseChapter, loadBooks } from "./books";
 
 describe("parseChapter", () => {
   it("extracts frontmatter and body from raw markdown", () => {
@@ -51,5 +51,19 @@ title: only title
 body
 `;
     expect(() => parseChapter(raw, "b", "s")).toThrow(/missing required field/i);
+  });
+});
+
+describe("book content", () => {
+  it("keeps chapter frontmatter slugs aligned with chapter_order", () => {
+    for (const book of loadBooks()) {
+      const expected = new Set(book.chapter_order);
+      for (const chapter of book.chapters) {
+        expect(
+          expected.has(chapter.slug),
+          `${book.slug}/${chapter.slug} is not listed in chapter_order`,
+        ).toBe(true);
+      }
+    }
   });
 });

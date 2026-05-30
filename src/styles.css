@@ -405,6 +405,18 @@ main {
 .chapter-row-locked .chapter-number {
   font-size: 0.95em;
 }
+.chapter-art {
+  margin: 0 0 1.5rem 0;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+}
+.chapter-art-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 .signin-gate {
   margin: 3rem 0;
   padding: 2rem 1.5rem;

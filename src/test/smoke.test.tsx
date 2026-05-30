@@ -15,11 +15,14 @@ describe("App routing", () => {
 
   it("renders BookIndex at /:bookSlug", () => {
     render(
-      <MemoryRouter initialEntries={["/how-to-talk"]}>
+      <MemoryRouter initialEntries={["/vachun-hot-nahi"]}>
         <App />
       </MemoryRouter>,
     );
-    expect(screen.getByRole("heading", { name: /मुलांशी कसं बोलावं/ })).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: /वाचून होत नाही/ })).toBeInTheDocument();
+    expect(
+      screen.queryByLabelText("प्रकरणांचं चित्रमय preview"),
+    ).not.toBeInTheDocument();
   });
 
   it("renders Chapter at /:bookSlug/:chapterSlug", () => {

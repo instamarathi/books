@@ -8,6 +8,7 @@ import { BackToTop } from "../components/BackToTop";
 import { SignInGate } from "../components/SignInGate";
 import { useAuth } from "../useAuth";
 import { useProgress } from "../useProgress";
+import { chapterArtUrl } from "../chapterArt";
 
 const FREE_CHAPTER_ORDER = 1;
 
@@ -36,11 +37,17 @@ export const Chapter = () => {
   }
 
   const isLocked = !user && chapter.order > FREE_CHAPTER_ORDER;
+  const art = chapterArtUrl(book.slug, chapter.slug);
 
   if (isLocked) {
     return (
       <article className="chapter">
         <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
+        {art && (
+          <figure className="chapter-art">
+            <img src={art} alt="" className="chapter-art-image" loading="eager" />
+          </figure>
+        )}
         <SignInGate loading={loading} signIn={signIn} chapterTitle={chapter.title} />
       </article>
     );
@@ -58,6 +65,11 @@ export const Chapter = () => {
         <h1>{chapter.title}</h1>
         <p className="chapter-meta">{chapter.read_time} मिनिटे</p>
       </header>
+      {art && (
+        <figure className="chapter-art">
+          <img src={art} alt="" className="chapter-art-image" loading="eager" />
+        </figure>
+      )}
       <ChapterBody body={chapter.body} />
       <nav className="chapter-nav">
         {prev ? (
