@@ -33,6 +33,10 @@ describe("App routing", () => {
     );
     expect(screen.getAllByText(/Midlife Redesign – English/i).length).toBeGreaterThan(0);
     expect(screen.queryByText(/वाचून होत नाही/)).not.toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: /Mindset/i })).toBeInTheDocument();
+    expect(screen.getByText(/Start reading/i)).toBeInTheDocument();
+    expect(screen.queryByText(/आत्म-विकास/)).not.toBeInTheDocument();
+    expect(screen.queryByText(/प्रकरणं/)).not.toBeInTheDocument();
   });
 
   it("renders BookIndex at /:bookSlug", () => {

@@ -1,6 +1,6 @@
 import type { CSSProperties } from "react";
 import type { Book, CategoryKey } from "../books";
-import { CATEGORIES } from "../books";
+import { categoryInfo, CATEGORIES } from "../books";
 import { renderTitle } from "../renderTitle";
 
 const COVER_THEMES: Record<
@@ -78,7 +78,7 @@ export function BookCover({
   variant?: Variant;
 }) {
   const cat = categoryOf(book);
-  const meta = CATEGORIES[cat];
+  const meta = categoryInfo(book, cat);
   const cover = COVER_THEMES[cat];
   return (
     <div

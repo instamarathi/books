@@ -5,7 +5,9 @@ import {
   bookLanguage,
   CATEGORIES,
   CATEGORY_ORDER,
-  KIND_LABELS,
+  categoryInfo,
+  chapterCountLabel,
+  kindLabel,
   type Book,
   type Chapter,
   type CategoryKey,
@@ -63,9 +65,21 @@ function FeaturedHero({
   mode: "today" | "continue";
 }) {
   const teaser = chapter.summary || chapterTeaser(chapter.body);
-  const eyebrow =
-    mode === "continue" ? "वाचणं सुरू ठेवा" : "आजचं पहिलं प्रकरण";
-  const cta = mode === "continue" ? "तिथून पुढे →" : "वाचायला सुरू करा →";
+  const lang = bookLanguage(book);
+  const eyebrow = mode === "continue"
+    ? lang === "english"
+      ? "Continue reading"
+      : "वाचणं सुरू ठेवा"
+    : lang === "english"
+      ? "Today's first chapter"
+      : "आजचं पहिलं प्रकरण";
+  const cta = mode === "continue"
+    ? lang === "english"
+      ? "Continue from here →"
+      : "तिथून पुढे →"
+    : lang === "english"
+      ? "Start reading →"
+      : "वाचायला सुरू करा →";
   return (
     <section className="featured" aria-labelledby="featured-title">
       <Link to={`/${book.slug}/${chapter.slug}`} className="featured-link">
@@ -96,6 +110,7 @@ function BookCard({
       ? book.chapters.find((c) => c.order === currentChapterOrder)
       : undefined;
   const kind = bookKind(book);
+  const lang = bookLanguage(book);
   return (
     <li className="book-card" data-category={bookCategory(book)} data-kind={kind}>
       <Link to={`/${book.slug}`} className="book-card-link">
@@ -105,9 +120,9 @@ function BookCard({
           <div className="book-card-bottom">
             <span className="book-meta">
               {kind !== "howto" && (
-                <span className="book-kind-badge">{KIND_LABELS[kind]}</span>
+                <span className="book-kind-badge">{kindLabel(book, kind)}</span>
               )}
-              {book.chapters.length} प्रकरणं
+              {chapterCountLabel(book, book.chapters.length)}
             </span>
             <span className="book-card-arrow" aria-hidden="true">→</span>
           </div>
@@ -118,7 +133,7 @@ function BookCard({
           to={`/${book.slug}/${continueChapter.slug}`}
           className="book-continue"
         >
-          वाचणं सुरू ठेवा: {continueChapter.order}. {renderTitle(continueChapter.title)} →
+          {lang === "english" ? "Continue reading" : "वाचणं सुरू ठेवा"}: {continueChapter.order}. {renderTitle(continueChapter.title)} →
         </Link>
       )}
     </li>
@@ -186,22 +201,22 @@ export const BookshelfView = ({
       ) : null}
 
       {sectionsToRender.length > 1 && (
-        <nav className="bookshelf-nav" aria-label="विषय">
+        <nav className="bookshelf-nav" aria-label={language === "english" ? "Topics" : "विषय"}>
           {sectionsToRender.map((k) => (
             <a key={k} href={`#cat-${k}`} className="bookshelf-nav-chip">
-              <span aria-hidden="true">{CATEGORIES[k].emoji}</span>
-              {CATEGORIES[k].label}
+              <span aria-hidden="true">{categoryInfo({ language, slug: "" }, k).emoji}</span>
+              {categoryInfo({ language, slug: "" }, k).label}
             </a>
           ))}
         </nav>
       )}
 
       {visibleBooks.length === 0 ? (
-        <p>(अजून पुस्तके नाहीत.)</p>
+        <p>{language === "english" ? "(No books yet.)" : "(अजून पुस्तके नाहीत.)"}</p>
       ) : (
         sectionsToRender.map((k) => {
           const list = grouped.get(k)!;
-          const cat = CATEGORIES[k];
+          const cat = categoryInfo({ language, slug: "" }, k);
           return (
             <div key={k} id={`cat-${k}`} className="category-section">
               <header className="category-header">

@@ -64,6 +64,15 @@ export const KIND_LABELS: Record<BookKind, string> = {
   essay: "लेख",
 };
 
+export const KIND_LABELS_BY_LANGUAGE: Record<BookLanguage, Record<BookKind, string>> = {
+  marathi: KIND_LABELS,
+  english: {
+    howto: "Guide",
+    fiction: "Fiction",
+    essay: "Essay",
+  },
+};
+
 export type BookMeta = {
   slug: string;
   title: string;
@@ -93,6 +102,22 @@ export function readTimeLabel(
   minutes: number,
 ): string {
   return `${minutes} ${bookLanguage(meta) === "english" ? "min" : "मिनिटे"}`;
+}
+
+export function chapterCountLabel(
+  meta: Pick<BookMeta, "language" | "slug">,
+  count: number,
+): string {
+  return bookLanguage(meta) === "english"
+    ? `${count} chapter${count === 1 ? "" : "s"}`
+    : `${count} प्रकरणं`;
+}
+
+export function kindLabel(
+  meta: Pick<BookMeta, "language" | "slug">,
+  kind: BookKind,
+): string {
+  return KIND_LABELS_BY_LANGUAGE[bookLanguage(meta)][kind];
 }
 
 export type Book = BookMeta & {
@@ -141,6 +166,57 @@ export const CATEGORIES: Record<
     emoji: "📚",
   },
 };
+
+export const CATEGORIES_BY_LANGUAGE: Record<
+  BookLanguage,
+  Record<CategoryKey, { label: string; blurb: string; emoji: string }>
+> = {
+  marathi: CATEGORIES,
+  english: {
+    career: {
+      label: "Career",
+      blurb: "New roles, managers, and work problems.",
+      emoji: "💼",
+    },
+    mindset: {
+      label: "Mindset",
+      blurb: "Inner conversations, priorities, and a calmer mind.",
+      emoji: "🌱",
+    },
+    parenting: {
+      label: "Parenting",
+      blurb: "Talking with children, habits, and the home atmosphere.",
+      emoji: "👪",
+    },
+    home: {
+      label: "Home and life",
+      blurb: "Daily home life, time planning, and simple habits.",
+      emoji: "🏠",
+    },
+    society: {
+      label: "Society and ideas",
+      blurb: "Movements, media, and understanding the noise around us.",
+      emoji: "🧭",
+    },
+    fiction: {
+      label: "Fiction",
+      blurb: "Original stories and emotional scenes.",
+      emoji: "✦",
+    },
+    other: {
+      label: "Other",
+      blurb: "Books on other subjects.",
+      emoji: "📚",
+    },
+  },
+};
+
+export function categoryInfo(
+  meta: Pick<BookMeta, "language" | "slug">,
+  category: CategoryKey,
+): { label: string; blurb: string; emoji: string } {
+  return CATEGORIES_BY_LANGUAGE[bookLanguage(meta)][category];
+}
 
 export const CATEGORY_ORDER: CategoryKey[] = [
   "career",

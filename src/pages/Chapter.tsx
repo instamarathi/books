@@ -1,6 +1,6 @@
 import { useCallback } from "react";
 import { useParams, Link } from "react-router-dom";
-import { findBook, findChapter, loadBooks, readTimeLabel } from "../books";
+import { bookLanguage, findBook, findChapter, loadBooks, readTimeLabel } from "../books";
 import { ChapterBody } from "../components/ChapterBody";
 import { TopBar } from "../components/TopBar";
 import { ReadingProgressBar } from "../components/ReadingProgressBar";
@@ -16,6 +16,7 @@ export const Chapter = () => {
   const { bookSlug, chapterSlug } = useParams<{ bookSlug: string; chapterSlug: string }>();
   const book = findBook(loadBooks(), bookSlug ?? "");
   const chapter = book ? findChapter(book, chapterSlug ?? "") : undefined;
+  const language = book ? bookLanguage(book) : bookLanguage({ slug: bookSlug ?? "" });
 
   const { user, loading, signIn, signOut: _signOut } = useAuth();
   void _signOut;
@@ -30,8 +31,11 @@ export const Chapter = () => {
 
   if (!book || !chapter) {
     return (
-      <article className="chapter reading-page-shell">
-        <p>प्रकरण सापडलं नाही. <Link to="/">मुख्य पानावर परत</Link></p>
+      <article className={`chapter reading-page-shell ${language === "english" ? "reading-page-shell-english" : "reading-page-shell-marathi"}`}>
+        <p>
+          {language === "english" ? "Chapter not found." : "प्रकरण सापडलं नाही."}{" "}
+          <Link to="/">{language === "english" ? "Back to home" : "मुख्य पानावर परत"}</Link>
+        </p>
       </article>
     );
   }
@@ -41,14 +45,14 @@ export const Chapter = () => {
 
   if (isLocked) {
     return (
-      <article className="chapter reading-page-shell">
+      <article className={`chapter reading-page-shell ${language === "english" ? "reading-page-shell-english" : "reading-page-shell-marathi"}`}>
         <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
         {art && (
           <figure className="chapter-art">
             <img src={art} alt="" className="chapter-art-image" loading="eager" />
           </figure>
         )}
-        <SignInGate loading={loading} signIn={signIn} chapterTitle={chapter.title} />
+        <SignInGate loading={loading} signIn={signIn} chapterTitle={chapter.title} language={language} />
       </article>
     );
   }
@@ -58,7 +62,7 @@ export const Chapter = () => {
   const next = idx >= 0 ? book.chapters[idx + 1] : undefined;
 
   return (
-    <article className="chapter reading-page-shell">
+    <article className={`chapter reading-page-shell ${language === "english" ? "reading-page-shell-english" : "reading-page-shell-marathi"}`}>
       <ReadingProgressBar onProgress={onProgress} />
       <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
       <header className="chapter-header">

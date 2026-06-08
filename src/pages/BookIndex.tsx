@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { findBook, loadBooks, readTimeLabel } from "../books";
+import { bookLanguage, findBook, loadBooks, readTimeLabel } from "../books";
 import { useAuth } from "../useAuth";
 import { useProgress } from "../useProgress";
 import { renderTitle } from "../renderTitle";
@@ -9,24 +9,27 @@ const FREE_CHAPTER_ORDER = 1;
 export const BookIndex = () => {
   const { bookSlug } = useParams<{ bookSlug: string }>();
   const book = findBook(loadBooks(), bookSlug ?? "");
+  const language = book ? bookLanguage(book) : bookLanguage({ slug: bookSlug ?? "" });
 
   const { user } = useAuth();
   const { completedChapters } = useProgress(user);
 
   if (!book) {
-    return <p>पुस्तक सापडले नाही.</p>;
+    return <p>{language === "english" ? "Book not found." : "पुस्तक सापडले नाही."}</p>;
   }
 
   const completed = new Set(completedChapters[book.slug] ?? []);
 
   return (
-    <section className="book-index">
+    <section className={`book-index ${language === "english" ? "book-index-english" : "book-index-marathi"}`}>
       <h2>{renderTitle(book.title)}</h2>
       {book.subtitle && <p className="book-subtitle">{book.subtitle}</p>}
       {book.credit && <p className="book-credit">{book.credit}</p>}
       {!user && (
         <p className="book-paywall-note">
-          पहिलं प्रकरण मोफत. पुढच्यांसाठी sign in करा.
+          {language === "english"
+            ? "The first chapter is free. Sign in for the rest."
+            : "पहिलं प्रकरण मोफत. पुढच्यांसाठी sign in करा."}
         </p>
       )}
       {user && (
