@@ -2,9 +2,11 @@
 title: Stop Running
 slug: 01-stop-running
 order: 1
-summary: You are not failing because you are weak; you are failing because you forgot how to pause.
+summary: 'The book begins with the first redesign skill: interrupting the speed that has started making decisions for you.'
 read_time: 8
 ---
+
+There is a point in midlife when speed stops looking like ambition and starts behaving like a hiding place.
 
 At 6:10 in the morning, Arjun is already late.
 
@@ -70,3 +72,8 @@ Not insight as a grand revelation. Just enough stillness to notice that the worl
 
 If you can learn that once, you can learn it again tomorrow.
 
+That matters because the pause reveals the next problem. Once the speed drops, even briefly, you begin to see how much of the day is not chosen at all. The phone is automatic. The tone of voice is automatic. The answer to every request is automatic. The old role steps forward before the present person has even arrived.
+
+So the first redesign question is not “What should I change?”
+
+It is smaller and more unsettling: “Where am I no longer awake inside my own life?”

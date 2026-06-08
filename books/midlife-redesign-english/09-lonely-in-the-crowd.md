@@ -2,9 +2,11 @@
 title: Lonely in the Crowd
 slug: 09-lonely-in-the-crowd
 order: 9
-summary: A full calendar does not guarantee emotional contact.
+summary: After practical stability comes the quieter question of whether the life is emotionally inhabited.
 read_time: 8
 ---
+
+Once the practical questions have been faced, the emotional question becomes harder to postpone.
 
 Loneliness in midlife is often misunderstood because the outside looks crowded.
 
@@ -58,3 +60,4 @@ When that happens, loneliness does not disappear. But it changes texture. It bec
 
 The difference is not semantic. It is the difference between a life that is merely busy and a life that is emotionally inhabited.
 
+But companionship with others cannot do all the work. If a person has spent decades avoiding their own interior life, even love may not know where to enter. Redesign eventually turns inward, toward the relationship that quietly shapes every other one.

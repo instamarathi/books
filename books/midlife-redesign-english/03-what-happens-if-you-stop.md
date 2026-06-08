@@ -2,11 +2,11 @@
 title: What Happens If You Stop?
 slug: 03-what-happens-if-you-stop
 order: 3
-summary: Stillness does not create emptiness; it reveals what has been hidden by speed.
+summary: Stopping reveals the unfinished truths that speed and autopilot had been keeping out of view.
 read_time: 8
 ---
 
-The question sounds simple until you actually sit down with it.
+The question sounds simple until you actually sit down with it. By now the pattern is clearer: speed hides, autopilot preserves, and stopping exposes.
 
 What happens if you stop?
 
@@ -71,3 +71,8 @@ That boundary is not emptiness.
 
 It is where redesign begins.
 
+And almost immediately, the beginning runs into other people.
+
+Because the moment you stop, you notice how many promises have been made on your behalf by your old self: the self who was always available, always useful, always reasonable, always quick to say yes. Redesign does not stay private for long. It enters the calendar, the family WhatsApp group, the office meeting, the school request, the hospital visit, the wedding list. It asks a difficult social question:
+
+Which parts of your life are full because they matter, and which parts are full because you never learned to refuse?

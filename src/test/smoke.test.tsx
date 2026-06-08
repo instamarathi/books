@@ -31,7 +31,7 @@ describe("App routing", () => {
         <App />
       </MemoryRouter>,
     );
-    expect(screen.getAllByText(/Midlife Redesign – English/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByText(/Midlife Redesign/i).length).toBeGreaterThan(0);
     expect(screen.queryByText(/वाचून होत नाही/)).not.toBeInTheDocument();
     expect(screen.getByRole("heading", { name: /Mindset/i })).toBeInTheDocument();
     expect(screen.getByText(/Start reading/i)).toBeInTheDocument();

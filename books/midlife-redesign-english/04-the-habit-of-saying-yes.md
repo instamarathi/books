@@ -2,9 +2,11 @@
 title: The Habit of Saying Yes
 slug: 04-the-habit-of-saying-yes
 order: 4
-summary: Midlife often turns yes into a reflex, even when the price is hidden.
+summary: Once you stop moving automatically, the hidden cost of reflexive yes becomes visible.
 read_time: 8
 ---
+
+Once a person has paused long enough to see the crowd of obligations, the next discovery is uncomfortable: not every burden arrived by force.
 
 In India, a yes can sound generous and still be destructive.
 
@@ -43,9 +45,7 @@ If you are exhausted, saying yes when you mean maybe is dishonest. If your child
 
 That sentence matters because postponed noes do not disappear. They leak out as resentment, lateness, irritability, health problems, and emotional distance. You may remain outwardly cooperative while inwardly turning colder each month. People call you dependable, but what they are really seeing is a person who has become too worn down to protest.
 
-The family notices only after the mood changes.
-The office notices only after the quality drops.
-The body notices before everyone else does.
+The family notices only after the mood changes. The office notices only after the quality drops. The body notices before everyone else does.
 
 Kunal once agreed to organize his sister’s wedding travel because “it would be easier if I just handled it.” What he did not say was that he had also agreed to finish a major project, accompany his father to a procedure in Mumbai, and host a visiting client from Chennai in the same week. By the time the wedding arrives, he is irritated with everyone, including himself. The original favor did not ruin him. The accumulation did.
 
@@ -63,3 +63,4 @@ Kunal begins to notice that the requests that scare him most are often the ones 
 
 What changes his life is not the refusal itself. It is the discovery that his value does not vanish when his availability shrinks.
 
+That discovery prepares the harder work. Seeing the yes habit is one thing. Learning how to refuse without turning into either a martyr or a rebel is another. Midlife redesign becomes real only when insight enters speech.

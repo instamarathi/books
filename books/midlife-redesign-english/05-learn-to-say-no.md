@@ -2,11 +2,11 @@
 title: Learn to Say No
 slug: 05-learn-to-say-no
 order: 5
-summary: Boundaries are not a personality trait; they are a skill you need to practice.
+summary: Refusal turns the insight of the previous chapter into adult speech.
 read_time: 8
 ---
 
-Most people in midlife do not need more courage. They need better refusal.
+Most people in midlife do not need a louder personality. They need a cleaner refusal.
 
 That sounds softer than it is. Saying no can be one of the most difficult acts in an Indian adult life because the word does not land as a simple boundary. It lands as a judgment on character. Refuse one family obligation and someone may interpret it as disrespect. Decline one office demand and someone may call you unhelpful. Draw one line around your time and someone may accuse you of changing.
 
@@ -38,7 +38,7 @@ Many people imagine that saying no must be sharp, dramatic, or final. It does no
 
 These are not slogans. They are forms of adult speech.
 
-The first few times, your body may interpret them as danger. Your pulse may rise. You may feel the old urge to soften the boundary by overexplaining. That is normal. You are not learning a new sentence only. You are learning a new relationship to disapproval.
+The first few times, your body may interpret these sentences as danger. Your pulse may rise. You may feel the old urge to soften the boundary by overexplaining. That is normal. You are not learning a new sentence only. You are learning a new relationship to disapproval.
 
 And disapproval, in Indian families and offices, is often exaggerated in our heads.
 
@@ -54,3 +54,4 @@ Her life did not become easier because she became harder. It became easier becau
 
 That is what no does in midlife. It clears the fog.
 
+Once the fog clears, a deeper layer appears. Some yeses were habits, but others were protected by beliefs so old that they no longer sounded like beliefs. They sounded like truth. To redesign the second half of life, a person has to examine not only what they do, but the inherited instructions that made those actions feel compulsory.

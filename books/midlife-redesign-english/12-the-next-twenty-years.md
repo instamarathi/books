@@ -2,9 +2,11 @@
 title: The Next Twenty Years
 slug: 12-the-next-twenty-years
 order: 12
-summary: Midlife is not a decline story; it is the start of a long design phase.
+summary: The closing chapter gathers the book’s argument into a practical vision for the second half of life.
 read_time: 8
 ---
+
+Speed is only the first symptom. Under it sit autopilot, reflexive yes, inherited belief, worship of experience, money fear, loneliness, self-abandonment, and the atmosphere children absorb. Redesign is not one decision. It is a sequence of recoveries.
 
 The most dangerous sentence in midlife is not “I am tired.”
 
@@ -41,7 +43,7 @@ When people realize there are only so many seasons left, they become less intere
 
 That is not a threat. It is an invitation.
 
-You do not need a grand reinvention. Most people will not and should not blow up their lives. What they need is a more intelligent arrangement of the life they already have. Better boundaries. More accurate money habits. Fewer reflexive yeses. Fewer inherited beliefs. Better sleep. Cleaner friendships. Less emotional hiding. More honest conversations with spouses, children, parents, and self.
+You do not need a grand reinvention. Most people will not and should not blow up their lives. What they need is a more intelligent arrangement of the life they already have: better boundaries, more accurate money habits, fewer reflexive yeses, fewer inherited beliefs, better sleep, cleaner friendships, less emotional hiding, and more honest conversations with spouses, children, parents, and self.
 
 That is redesign.
 
@@ -70,3 +72,4 @@ It is “What can I still build?”
 
 The answer will differ for every person. But the willingness to ask it at all is already a different life.
 
+That is the redesign: the slow return of choice to places where habit, fear, duty, and speed had taken over.

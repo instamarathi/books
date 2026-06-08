@@ -2,9 +2,11 @@
 title: Relationship with Self
 slug: 10-relationship-with-self
 order: 10
-summary: The relationship you neglect most is often the one that shapes every other relationship.
+summary: Emotional contact with others depends on the neglected capacity to remain in contact with yourself.
 read_time: 8
 ---
+
+After loneliness, it is tempting to look only for better people, deeper conversations, or more affectionate relationships. Those matter. But they cannot replace the relationship a person has refused to build with themselves.
 
 Most adults can describe what other people need from them.
 
@@ -59,3 +61,4 @@ The point is not to become detached. It is to become inhabited.
 
 When a person is inhabited, they can be generous without disappearing. They can be connected without being swallowed. They can love without constant self-betrayal. That is a far more practical definition of maturity than most of us were given.
 
+It also changes what the next generation learns from us. Children do not inherit only our advice. They inherit our way of being under pressure. A redesigned adult becomes a different curriculum.

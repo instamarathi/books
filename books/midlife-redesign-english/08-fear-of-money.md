@@ -2,9 +2,11 @@
 title: Fear of Money
 slug: 08-fear-of-money
 order: 8
-summary: In midlife, money fear is rarely just about math; it is about safety, status, and control.
+summary: Money is where old beliefs, past experience, and fear gather into one practical test.
 read_time: 8
 ---
+
+After speed, autopilot, yes, no, belief, and experience, money can look like a separate subject. It is not. Money is where all those themes gather and demand evidence.
 
 Money fear in India is rarely abstract.
 
@@ -62,3 +64,4 @@ The midlife redesign of money begins when you stop treating fear as a financial 
 
 Then the numbers become numbers again.
 
+And when the numbers become numbers, another truth becomes harder to avoid: many adults have built financially functional lives that remain emotionally undernourished. The bills are paid, the duties are managed, the outward structure stands. Yet inside the structure, a person may still feel unseen. Safety has to make room for contact.

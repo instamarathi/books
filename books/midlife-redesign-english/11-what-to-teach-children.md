@@ -2,9 +2,11 @@
 title: What to Teach Children
 slug: 11-what-to-teach-children
 order: 11
-summary: Children learn less from your advice than from the way you live under pressure.
+summary: The redesigned adult becomes the real curriculum children absorb.
 read_time: 8
 ---
+
+By this point in the book, redesign has moved from speed to speech, from belief to money, from loneliness to the self. It cannot stop there, because adults do not redesign in isolation. Their way of living becomes the weather of the home.
 
 Every Indian parent says they want the best for their children.
 
@@ -62,3 +64,4 @@ Many parents in India think they are preparing children for the future by intens
 
 Midlife is when you can notice that and choose differently.
 
+The point was never simply to feel calmer this week or to say no to one extra obligation. The deeper question is what kind of next twenty years this redesigned adult is now capable of building.

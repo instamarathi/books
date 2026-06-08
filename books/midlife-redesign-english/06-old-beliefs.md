@@ -2,9 +2,11 @@
 title: Old Beliefs
 slug: 06-old-beliefs
 order: 6
-summary: The beliefs that helped you survive earlier can become the beliefs that keep you small later.
+summary: 'After behavior comes belief: the old instructions that keep outdated lives intact.'
 read_time: 8
 ---
+
+After the first honest refusals, many people discover that the argument is not only with other people. It is also with the old court inside their own head.
 
 By the time people reach midlife, they have accumulated an invisible museum of beliefs.
 
@@ -65,3 +67,4 @@ That freedom is subtle. It shows up when you do not apologize for taking care of
 
 That is not rebellion. That is adulthood.
 
+But adulthood has one more test. It is easy to question beliefs in theory. It is harder to question the authority of your own past, especially when that past speaks in the voice of experience: “I know, because I have lived.”

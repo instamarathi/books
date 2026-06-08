@@ -2,9 +2,11 @@
 title: The Weight of Experience
 slug: 07-the-weight-of-experience
 order: 7
-summary: Experience only becomes wisdom when you can slow it down, examine it, and use it well.
+summary: Old beliefs often hide inside experience, which is why experience must be examined instead of worshipped.
 read_time: 8
 ---
+
+Once inherited beliefs are on the table, experience becomes the next witness.
 
 People love to say that experience teaches you everything.
 
@@ -63,3 +65,4 @@ That is a crucial difference.
 
 The point of midlife is not to become cynical about the past. It is to stop worshipping it. Once you do that, experience becomes lighter. You can carry it without being crushed by it.
 
+This matters most when the stakes become concrete. Beliefs can be debated. Experience can be reinterpreted. But money has a way of making fear sound factual. The redesign problem is no longer abstract at all. It sits in bank statements, school fees, medical bills, aging parents, and the private arithmetic of safety.
