@@ -1,6 +1,6 @@
 import { useCallback } from "react";
 import { useParams, Link } from "react-router-dom";
-import { findBook, findChapter, loadBooks } from "../books";
+import { findBook, findChapter, loadBooks, readTimeLabel } from "../books";
 import { ChapterBody } from "../components/ChapterBody";
 import { TopBar } from "../components/TopBar";
 import { ReadingProgressBar } from "../components/ReadingProgressBar";
@@ -30,7 +30,7 @@ export const Chapter = () => {
 
   if (!book || !chapter) {
     return (
-      <article className="chapter">
+      <article className="chapter reading-page-shell">
         <p>प्रकरण सापडलं नाही. <Link to="/">मुख्य पानावर परत</Link></p>
       </article>
     );
@@ -41,7 +41,7 @@ export const Chapter = () => {
 
   if (isLocked) {
     return (
-      <article className="chapter">
+      <article className="chapter reading-page-shell">
         <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
         {art && (
           <figure className="chapter-art">
@@ -58,12 +58,12 @@ export const Chapter = () => {
   const next = idx >= 0 ? book.chapters[idx + 1] : undefined;
 
   return (
-    <article className="chapter">
+    <article className="chapter reading-page-shell">
       <ReadingProgressBar onProgress={onProgress} />
       <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
       <header className="chapter-header">
         <h1>{chapter.title}</h1>
-        <p className="chapter-meta">{chapter.read_time} मिनिटे</p>
+        <p className="chapter-meta">{readTimeLabel(book, chapter.read_time)}</p>
       </header>
       {art && (
         <figure className="chapter-art">

@@ -6,6 +6,7 @@ import { FontSizeToggle } from "./components/FontSizeToggle";
 import { ShareButton } from "./components/ShareButton";
 import { useAuth } from "./useAuth";
 import { Bookshelf } from "./pages/Bookshelf";
+import { LanguageHome } from "./pages/LanguageHome";
 import { BookIndex } from "./pages/BookIndex";
 import { Chapter } from "./pages/Chapter";
 import { PrintBook } from "./pages/PrintBook";
@@ -13,7 +14,13 @@ import { PrintBook } from "./pages/PrintBook";
 export const App: React.FC = () => {
   const { user, loading, signIn, signOut } = useAuth();
   const location = useLocation();
-  useEffect(() => { window.scrollTo(0, 0); }, [location.pathname]);
+  useEffect(() => {
+    try {
+      window.scrollTo(0, 0);
+    } catch {
+      // jsdom does not implement scrollTo; ignore in tests.
+    }
+  }, [location.pathname]);
   const shareUrl = window.location.origin + location.pathname;
   return (
     <>
@@ -30,7 +37,9 @@ export const App: React.FC = () => {
       </header>
       <main>
         <Routes>
-          <Route path="/" element={<Bookshelf />} />
+          <Route path="/" element={<LanguageHome />} />
+          <Route path="/marathi" element={<Bookshelf language="marathi" />} />
+          <Route path="/english" element={<Bookshelf language="english" />} />
           <Route path="/print/:bookSlug" element={<PrintBook />} />
           <Route path="/:bookSlug" element={<BookIndex />} />
           <Route path="/:bookSlug/:chapterSlug" element={<Chapter />} />

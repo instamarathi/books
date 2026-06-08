@@ -71,11 +71,28 @@ export type BookMeta = {
   credit?: string;
   category?: CategoryKey;
   kind?: BookKind;
+  language?: "marathi" | "english";
   chapter_order: string[];
 };
 
+export type BookLanguage = "marathi" | "english";
+
+export function bookLanguage(meta: Pick<BookMeta, "language" | "slug">): BookLanguage {
+  if (meta.language === "english" || meta.language === "marathi") {
+    return meta.language;
+  }
+  return meta.slug.endsWith("-english") ? "english" : "marathi";
+}
+
 export function bookKind(meta: Pick<BookMeta, "kind">): BookKind {
   return meta.kind && BOOK_KINDS.includes(meta.kind) ? meta.kind : "howto";
+}
+
+export function readTimeLabel(
+  meta: Pick<BookMeta, "language" | "slug">,
+  minutes: number,
+): string {
+  return `${minutes} ${bookLanguage(meta) === "english" ? "min" : "मिनिटे"}`;
 }
 
 export type Book = BookMeta & {

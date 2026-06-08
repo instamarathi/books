@@ -2,12 +2,14 @@ import { Link } from "react-router-dom";
 import {
   loadBooks,
   bookKind,
+  bookLanguage,
   CATEGORIES,
   CATEGORY_ORDER,
   KIND_LABELS,
   type Book,
   type Chapter,
   type CategoryKey,
+  type BookLanguage,
 } from "../books";
 import { useAuth } from "../useAuth";
 import { useProgress, type ProgressMap } from "../useProgress";
@@ -123,13 +125,28 @@ function BookCard({
   );
 }
 
-export const Bookshelf = () => {
+export const Bookshelf = ({
+  language,
+}: {
+  language?: BookLanguage;
+}) => {
   const books = loadBooks();
+  return <BookshelfView books={books} language={language} />;
+};
+
+export const BookshelfView = ({
+  books,
+  language,
+}: {
+  books: Book[];
+  language?: BookLanguage;
+}) => {
   const { user } = useAuth();
   const { progress } = useProgress(user);
+  const visibleBooks = language ? books.filter((b) => bookLanguage(b) === language) : books;
 
   const grouped = new Map<CategoryKey, Book[]>();
-  for (const b of books) {
+  for (const b of visibleBooks) {
     const k = bookCategory(b);
     if (!grouped.has(k)) grouped.set(k, []);
     grouped.get(k)!.push(b);
@@ -138,12 +155,22 @@ export const Bookshelf = () => {
     (k) => (grouped.get(k)?.length ?? 0) > 0,
   );
 
-  const inProgress = findInProgress(books, progress);
-  const featuredBook = inProgress ? null : pickFeaturedBook(books);
+  const inProgress = findInProgress(visibleBooks, progress);
+  const featuredBook = inProgress ? null : pickFeaturedBook(visibleBooks);
   const featuredChapter = featuredBook?.chapters.find((c) => c.order === 1);
 
   return (
     <section className="bookshelf">
+      {language && (
+        <div className="language-switcher">
+          <Link to="/marathi" className={language === "marathi" ? "active" : ""}>
+            Marathi books
+          </Link>
+          <Link to="/english" className={language === "english" ? "active" : ""}>
+            English books
+          </Link>
+        </div>
+      )}
       {inProgress ? (
         <FeaturedHero
           book={inProgress.book}
@@ -169,7 +196,7 @@ export const Bookshelf = () => {
         </nav>
       )}
 
-      {books.length === 0 ? (
+      {visibleBooks.length === 0 ? (
         <p>(अजून पुस्तके नाहीत.)</p>
       ) : (
         sectionsToRender.map((k) => {

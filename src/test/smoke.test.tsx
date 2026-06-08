@@ -4,13 +4,35 @@ import { MemoryRouter } from "react-router-dom";
 import { App } from "../App";
 
 describe("App routing", () => {
-  it("renders Bookshelf at /", () => {
+  it("renders the language chooser at /", () => {
     render(
       <MemoryRouter initialEntries={["/"]}>
         <App />
       </MemoryRouter>,
     );
+    expect(screen.getByRole("link", { name: /^Marathi books$/i })).toBeInTheDocument();
+    expect(screen.getByRole("link", { name: /^English books$/i })).toBeInTheDocument();
+  });
+
+  it("renders the Marathi bookshelf at /marathi", () => {
+    render(
+      <MemoryRouter initialEntries={["/marathi"]}>
+        <App />
+      </MemoryRouter>,
+    );
     expect(screen.getByRole("heading", { name: /कारकीर्द/i })).toBeInTheDocument();
+    expect(screen.getAllByText(/वाचून होत नाही/).length).toBeGreaterThan(0);
+    expect(screen.queryByText(/Midlife Redesign/i)).not.toBeInTheDocument();
+  });
+
+  it("renders the English bookshelf at /english", () => {
+    render(
+      <MemoryRouter initialEntries={["/english"]}>
+        <App />
+      </MemoryRouter>,
+    );
+    expect(screen.getAllByText(/Midlife Redesign – English/i).length).toBeGreaterThan(0);
+    expect(screen.queryByText(/वाचून होत नाही/)).not.toBeInTheDocument();
   });
 
   it("renders BookIndex at /:bookSlug", () => {

@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="mr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Book Cover Options</title>
+  <style>
+    :root {
+      --bg: #14120f;
+      --panel: #1d1914;
+      --line: #352e23;
+      --text: #f1eadc;
+      --muted: #b7ad9c;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Mukta, Inter, system-ui, sans-serif;
+      padding: 28px;
+    }
+    h1 { margin: 0 0 8px; font-size: 30px; line-height: 1.15; }
+    .lede { margin: 0 0 24px; color: var(--muted); font-size: 18px; }
+    .options {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 22px;
+    }
+    .option {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: #191611;
+      padding: 18px;
+    }
+    .option h2 { margin: 0 0 4px; font-size: 22px; }
+    .option p { margin: 0 0 16px; color: var(--muted); line-height: 1.45; }
+    .shelf {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+    .cover {
+      position: relative;
+      aspect-ratio: 2 / 3;
+      min-height: 228px;
+      overflow: hidden;
+      border-radius: 8px 14px 14px 8px;
+      box-shadow: 18px 22px 36px -24px rgba(0, 0, 0, 0.75);
+      isolation: isolate;
+    }
+    .cover::after {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 17px;
+      background: rgba(0, 0, 0, 0.22);
+      border-right: 1px solid rgba(255, 255, 255, 0.16);
+      z-index: 5;
+    }
+    .tag {
+      position: absolute;
+      z-index: 10;
+      left: 26px;
+      top: 22px;
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 0;
+      color: rgba(255, 255, 255, 0.88);
+    }
+    .title {
+      position: absolute;
+      z-index: 10;
+      left: 26px;
+      right: 20px;
+      bottom: 24px;
+      font-size: 28px;
+      font-weight: 900;
+      line-height: 1.06;
+      letter-spacing: 0;
+      color: #fffaf0;
+    }
+    .small .title { font-size: 25px; }
+
+    /* A: editorial paperback */
+    .a {
+      background: #f2dfbb;
+      color: #1b1510;
+      border: 1px solid rgba(255,255,255,0.2);
+    }
+    .a .tag { color: #6b2d1e; }
+    .a .title { color: #22170f; text-shadow: none; }
+    .a::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(94, 44, 28, 0.08) 1px, transparent 1px),
+        linear-gradient(0deg, rgba(94, 44, 28, 0.06) 1px, transparent 1px);
+      background-size: 26px 26px;
+    }
+    .a .big {
+      position: absolute;
+      right: -18px;
+      top: 38px;
+      font-size: 140px;
+      font-weight: 900;
+      line-height: 1;
+      color: rgba(114, 43, 28, 0.16);
+    }
+    .a.green { background: #dceacb; }
+    .a.green .tag { color: #285a39; }
+    .a.green .big { color: rgba(40, 90, 57, 0.18); }
+
+    /* B: premium illustrated symbol */
+    .b {
+      background:
+        radial-gradient(circle at 78% 18%, rgba(255,255,255,0.18), transparent 28%),
+        linear-gradient(140deg, #234438, #0e241f 62%, #081411);
+    }
+    .b.copper {
+      background:
+        radial-gradient(circle at 82% 22%, rgba(255,255,255,0.16), transparent 28%),
+        linear-gradient(140deg, #a55d32, #572611 62%, #1a0d08);
+    }
+    .b .symbol {
+      position: absolute;
+      inset: 58px 24px auto auto;
+      width: 96px;
+      aspect-ratio: 1;
+      border: 2px solid rgba(255, 243, 216, 0.38);
+      transform: rotate(-18deg);
+    }
+    .b .symbol::before, .b .symbol::after {
+      content: "";
+      position: absolute;
+      background: rgba(255, 243, 216, 0.44);
+    }
+    .b .symbol::before { width: 130%; height: 2px; left: -15%; top: 50%; }
+    .b .symbol::after { width: 2px; height: 130%; left: 50%; top: -15%; }
+
+    /* C: bold modern series */
+    .c {
+      background: #10100e;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+    }
+    .c::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(135deg, transparent 0 52%, rgba(255,255,255,0.1) 52% 53%, transparent 53%),
+        linear-gradient(90deg, #e8be55 0 38%, #263f6b 38% 70%, #b64234 70%);
+    }
+    .c.blue::before {
+      background:
+        linear-gradient(135deg, transparent 0 52%, rgba(255,255,255,0.12) 52% 53%, transparent 53%),
+        linear-gradient(90deg, #88aeb6 0 38%, #22263f 38% 70%, #d7a448 70%);
+    }
+    .c .tag {
+      color: #fff;
+      background: rgba(0, 0, 0, 0.28);
+      padding: 3px 8px;
+      border-radius: 999px;
+    }
+    .c .title {
+      left: 24px;
+      right: 18px;
+      bottom: 20px;
+      padding-top: 12px;
+      border-top: 2px solid rgba(255,255,255,0.7);
+      text-shadow: 0 2px 12px rgba(0,0,0,0.45);
+    }
+
+    /* D: block title field */
+    .d {
+      background: #efe4c7;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+    }
+    .d::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(18, 18, 16, 0.14) 0 1px, transparent 1px),
+        linear-gradient(180deg, #1b1a16 0 45%, #efe4c7 45% 100%);
+      background-size: 100% 100%, 100% 100%;
+    }
+    .d.green::before {
+      background:
+        linear-gradient(90deg, rgba(18, 18, 16, 0.14) 0 1px, transparent 1px),
+        linear-gradient(180deg, #18372e 0 45%, #d6e3c1 45% 100%);
+    }
+    .d .tag {
+      color: #efe4c7;
+      border: 1px solid rgba(239, 228, 199, 0.42);
+      padding: 3px 8px;
+    }
+    .d.green .tag { color: #e7f4da; }
+    .d .title {
+      left: 24px;
+      right: 18px;
+      bottom: 22px;
+      color: #1b1a16;
+      text-shadow: none;
+    }
+
+    /* E: diagonal series band */
+    .e {
+      background: #13110e;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+    }
+    .e::before {
+      content: "";
+      position: absolute;
+      inset: -30%;
+      background:
+        linear-gradient(115deg, transparent 0 34%, #d9aa45 34% 48%, transparent 48%),
+        linear-gradient(115deg, transparent 0 52%, #6f2f2a 52% 68%, transparent 68%),
+        linear-gradient(115deg, #202f5a 0 30%, #13110e 30% 100%);
+      transform: rotate(-8deg);
+    }
+    .e.teal::before {
+      background:
+        linear-gradient(115deg, transparent 0 34%, #e5d07d 34% 48%, transparent 48%),
+        linear-gradient(115deg, transparent 0 52%, #2f7b73 52% 68%, transparent 68%),
+        linear-gradient(115deg, #2c335f 0 30%, #111219 30% 100%);
+    }
+    .e .tag {
+      color: #f6ead0;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 3px 8px;
+      border-radius: 999px;
+    }
+    .e .title {
+      left: 24px;
+      right: 18px;
+      bottom: 22px;
+      text-shadow: 0 2px 14px rgba(0,0,0,0.58);
+    }
+
+    /* F: poster split with spine label */
+    .f {
+      background: #ebe1cf;
+      border: 1px solid rgba(255,255,255,0.2);
+    }
+    .f::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(180deg, #c84032 0 34%, #e4b84f 34% 62%, #182336 62% 100%);
+    }
+    .f.violet::before {
+      background:
+        linear-gradient(180deg, #375e57 0 34%, #d8b657 34% 62%, #442c59 62% 100%);
+    }
+    .f .tag {
+      left: auto;
+      right: 16px;
+      top: 18px;
+      writing-mode: vertical-rl;
+      background: rgba(0,0,0,0.28);
+      padding: 8px 4px;
+      border-radius: 999px;
+    }
+    .f .title {
+      left: 24px;
+      right: 42px;
+      bottom: 22px;
+      padding-top: 12px;
+      border-top: 2px solid rgba(255,255,255,0.72);
+      text-shadow: 0 2px 13px rgba(0,0,0,0.5);
+    }
+    @media (max-width: 1000px) {
+      .options { grid-template-columns: 1fr; }
+      .shelf { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    }
+    @media (max-width: 620px) {
+      body { padding: 16px; }
+      .shelf { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .cover { min-height: 190px; }
+      .title { font-size: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <h1>Cover directions</h1>
+  <p class="lede">C is the base direction. D, E, and F are three related variants we can mix across book folders.</p>
+
+  <main class="options">
+    <section class="option">
+      <h2>A. Editorial Paperback</h2>
+      <p>Light, literary, Marathi-bookstore feel. More readable and warmer, less app-like.</p>
+      <div class="shelf">
+        <div class="cover a"><span class="tag">आत्म-विकास</span><span class="big">१</span><span class="title">काय खरंच मोलाचं आहे?</span></div>
+        <div class="cover a green small"><span class="tag">लेख</span><span class="big">२</span><span class="title">वाचून होत नाही</span></div>
+      </div>
+    </section>
+
+    <section class="option">
+      <h2>B. Premium Symbol</h2>
+      <p>Dark, richer, more “book cover” than card. Each category can get one strong abstract symbol.</p>
+      <div class="shelf">
+        <div class="cover b"><span class="tag">आत्म-विकास</span><span class="symbol"></span><span class="title">मिडलाइफ क्रायसिस रीडिझाईन</span></div>
+        <div class="cover b copper small"><span class="tag">कारकीर्द</span><span class="symbol"></span><span class="title">नव्या भूमिकेत पहिले ९० दिवस</span></div>
+      </div>
+    </section>
+
+    <section class="option">
+      <h2>C. Modern Series</h2>
+      <p>Most distinctive in the grid. Bold color blocking makes the bookshelf feel like a designed collection.</p>
+      <div class="shelf">
+        <div class="cover c"><span class="tag">समाज</span><span class="title">सहा विचार टोप्या</span></div>
+        <div class="cover c blue small"><span class="tag">घर</span><span class="title">निटनेटके घर</span></div>
+      </div>
+    </section>
+
+    <section class="option">
+      <h2>D. Block Field</h2>
+      <p>Cleaner and more literary than C, but still bold. Good for essay/self-reflection books.</p>
+      <div class="shelf">
+        <div class="cover d"><span class="tag">लेख</span><span class="title">वाचून होत नाही</span></div>
+        <div class="cover d green small"><span class="tag">आत्म-विकास</span><span class="title">मिडलाइफ क्रायसिस रीडिझाईन</span></div>
+      </div>
+    </section>
+
+    <section class="option">
+      <h2>E. Diagonal Band</h2>
+      <p>Sharper and more energetic. Useful for career, society, thinking, and argument-heavy books.</p>
+      <div class="shelf">
+        <div class="cover e"><span class="tag">कारकीर्द</span><span class="title">नव्या भूमिकेत पहिले ९० दिवस</span></div>
+        <div class="cover e teal small"><span class="tag">समाज</span><span class="title">रिस्क का घेत नाही?</span></div>
+      </div>
+    </section>
+
+    <section class="option">
+      <h2>F. Poster Split</h2>
+      <p>Most graphic and shelf-visible. Works when we want the collection to feel designed and high-contrast.</p>
+      <div class="shelf">
+        <div class="cover f"><span class="tag">घर</span><span class="title">निटनेटके घर</span></div>
+        <div class="cover f violet small"><span class="tag">पालकत्व</span><span class="title">मुलांशी कसं बोलायचं</span></div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

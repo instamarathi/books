@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { findBook, loadBooks } from "../books";
+import { findBook, loadBooks, readTimeLabel } from "../books";
 import { useAuth } from "../useAuth";
 import { useProgress } from "../useProgress";
 import { renderTitle } from "../renderTitle";
@@ -52,7 +52,7 @@ export const BookIndex = () => {
               <Link to={`/${book.slug}/${c.slug}`}>
                 <span className="chapter-number">{marker}</span>
                 <span className="chapter-title">{c.title}</span>
-                <span className="chapter-meta">{c.read_time} मि</span>
+                <span className="chapter-meta">{readTimeLabel(book, c.read_time)}</span>
               </Link>
             </li>
           );

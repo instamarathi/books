@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { parseChapter, loadBooks } from "./books";
+import { parseChapter, loadBooks, bookLanguage, readTimeLabel } from "./books";
 
 describe("parseChapter", () => {
   it("extracts frontmatter and body from raw markdown", () => {
@@ -65,5 +65,16 @@ describe("book content", () => {
         ).toBe(true);
       }
     }
+  });
+
+  it("marks the English edition book as english", () => {
+    const book = loadBooks().find((b) => b.slug === "midlife-redesign-english");
+    expect(book).toBeDefined();
+    expect(bookLanguage(book!)).toBe("english");
+  });
+
+  it("formats read time by book language", () => {
+    expect(readTimeLabel({ slug: "midlife-redesign-english", language: "english" }, 8)).toBe("8 min");
+    expect(readTimeLabel({ slug: "midlife-redesign", language: "marathi" }, 8)).toBe("8 मिनिटे");
   });
 });

@@ -134,6 +134,90 @@ main {
   padding: 1.25rem;
 }
 
+.language-home {
+  min-height: calc(100vh - 8rem);
+  display: grid;
+  place-items: center;
+  padding: 2rem 0 4rem;
+}
+.language-home-panel {
+  width: min(720px, 100%);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at top left, color-mix(in srgb, var(--accent-soft) 38%, transparent), transparent 48%),
+    color-mix(in srgb, var(--paper-elevated) 94%, transparent);
+  box-shadow: 0 24px 60px -40px var(--book-shadow);
+  padding: 2rem;
+}
+.language-home-eyebrow {
+  margin: 0 0 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.8em;
+  color: var(--fg-muted);
+}
+.language-home h1 {
+  margin: 0;
+  font-size: clamp(2rem, 6vw, 3.4rem);
+  line-height: 1.05;
+}
+.language-home-copy {
+  margin: 0.9rem 0 1.5rem;
+  color: var(--fg-muted);
+  max-width: 54ch;
+}
+.language-home-actions {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+.language-home-card,
+.language-switcher a {
+  text-decoration: none;
+}
+.language-home-card {
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: var(--card-bg);
+  color: var(--fg);
+  padding: 1.15rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  transition: transform 120ms ease, border-color 120ms ease, box-shadow 120ms ease;
+}
+.language-home-card:hover {
+  transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--accent) 32%, var(--border));
+  box-shadow: 0 18px 42px -28px var(--book-shadow);
+}
+.language-home-label {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.language-home-subtitle {
+  color: var(--fg-muted);
+}
+.language-switcher {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.language-switcher a {
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--fg);
+  border-radius: 999px;
+  padding: 0.45rem 0.8rem;
+}
+.language-switcher a.active {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+}
+
 .book-list {
   list-style: none;
   padding: 0;
