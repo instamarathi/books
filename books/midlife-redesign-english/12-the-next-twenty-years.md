@@ -2,7 +2,7 @@
 title: The Next Twenty Years
 slug: 12-the-next-twenty-years
 order: 12
-summary: The closing chapter gathers the book’s argument into a practical vision for the second half of life.
+summary: This chapter gathers the book’s argument into a practical vision for the second half of life.
 read_time: 8
 ---
 
@@ -73,3 +73,7 @@ It is “What can I still build?”
 The answer will differ for every person. But the willingness to ask it at all is already a different life.
 
 That is the redesign: the slow return of choice to places where habit, fear, duty, and speed had taken over.
+
+---
+
+Choice returns through small, repeatable acts. The final chapter gathers twelve of them for ordinary, pressured days.
