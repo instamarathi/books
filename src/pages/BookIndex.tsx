@@ -1,65 +1,36 @@
 import { Link, useParams } from "react-router-dom";
 import { bookLanguage, findBook, loadBooks, readTimeLabel } from "../books";
-import { useAuth } from "../useAuth";
-import { useProgress } from "../useProgress";
 import { renderTitle } from "../renderTitle";
-
-const FREE_CHAPTER_ORDER = 1;
 
 export const BookIndex = () => {
   const { bookSlug } = useParams<{ bookSlug: string }>();
   const book = findBook(loadBooks(), bookSlug ?? "");
   const language = book ? bookLanguage(book) : bookLanguage({ slug: bookSlug ?? "" });
 
-  const { user } = useAuth();
-  const { completedChapters } = useProgress(user);
-
   if (!book) {
     return <p>{language === "english" ? "Book not found." : "पुस्तक सापडले नाही."}</p>;
   }
-
-  const completed = new Set(completedChapters[book.slug] ?? []);
 
   return (
     <section className={`book-index ${language === "english" ? "book-index-english" : "book-index-marathi"}`}>
       <h2>{renderTitle(book.title)}</h2>
       {book.subtitle && <p className="book-subtitle">{book.subtitle}</p>}
       {book.credit && <p className="book-credit">{book.credit}</p>}
-      {!user && (
-        <p className="book-paywall-note">
-          {language === "english"
-            ? "The first chapter is free. Sign in for the rest."
-            : "पहिलं प्रकरण मोफत. पुढच्यांसाठी sign in करा."}
-        </p>
-      )}
-      {user && (
-        <p className="book-actions">
-          <Link to={`/print/${book.slug}`} className="book-pdf-btn">
-            📄 Download PDF
-          </Link>
-        </p>
-      )}
+      <p className="book-actions">
+        <Link to={`/print/${book.slug}`} className="book-pdf-btn">
+          📄 Download PDF
+        </Link>
+      </p>
       <ol className="chapter-list">
-        {book.chapters.map((c) => {
-          const locked = !user && c.order > FREE_CHAPTER_ORDER;
-          const marker = completed.has(c.order)
-            ? "✓"
-            : locked
-              ? "🔒"
-              : `${c.order}.`;
-          return (
-            <li
-              key={c.slug}
-              className={"chapter-row" + (locked ? " chapter-row-locked" : "")}
-            >
-              <Link to={`/${book.slug}/${c.slug}`}>
-                <span className="chapter-number">{marker}</span>
-                <span className="chapter-title">{c.title}</span>
-                <span className="chapter-meta">{readTimeLabel(book, c.read_time)}</span>
-              </Link>
-            </li>
-          );
-        })}
+        {book.chapters.map((c) => (
+          <li key={c.slug} className="chapter-row">
+            <Link to={`/${book.slug}/${c.slug}`}>
+              <span className="chapter-number">{c.order}.</span>
+              <span className="chapter-title">{c.title}</span>
+              <span className="chapter-meta">{readTimeLabel(book, c.read_time)}</span>
+            </Link>
+          </li>
+        ))}
       </ol>
     </section>
   );

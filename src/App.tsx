@@ -1,10 +1,8 @@
 import React, { useEffect } from "react";
 import { Routes, Route, Link, useLocation } from "react-router-dom";
-import { AuthWidget } from "./components/AuthWidget";
 import { ThemeToggle } from "./components/ThemeToggle";
 import { FontSizeToggle } from "./components/FontSizeToggle";
 import { ShareButton } from "./components/ShareButton";
-import { useAuth } from "./useAuth";
 import { Bookshelf } from "./pages/Bookshelf";
 import { LanguageHome } from "./pages/LanguageHome";
 import { BookIndex } from "./pages/BookIndex";
@@ -12,7 +10,6 @@ import { Chapter } from "./pages/Chapter";
 import { PrintBook } from "./pages/PrintBook";
 
 export const App: React.FC = () => {
-  const { user, loading, signIn, signOut } = useAuth();
   const location = useLocation();
   useEffect(() => {
     try {
@@ -32,7 +29,6 @@ export const App: React.FC = () => {
           <FontSizeToggle />
           <ThemeToggle />
           <ShareButton title="instamarathi books" url={shareUrl} />
-          <AuthWidget user={user} loading={loading} signIn={signIn} signOut={signOut} compact />
         </div>
       </header>
       <main>

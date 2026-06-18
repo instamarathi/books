@@ -13,8 +13,6 @@ import {
   type CategoryKey,
   type BookLanguage,
 } from "../books";
-import { useAuth } from "../useAuth";
-import { useProgress, type ProgressMap } from "../useProgress";
 import { BookCover } from "../components/BookCover";
 import { renderTitle } from "../renderTitle";
 
@@ -38,21 +36,6 @@ function pickFeaturedBook(books: Book[]): Book | null {
   const start = new Date(new Date().getFullYear(), 0, 0).getTime();
   const dayOfYear = Math.floor((Date.now() - start) / 86400000);
   return books[dayOfYear % books.length];
-}
-
-function findInProgress(
-  books: Book[],
-  progress: ProgressMap,
-): { book: Book; chapter: Chapter } | null {
-  for (const slug of Object.keys(progress)) {
-    const bp = progress[slug];
-    if (!bp?.current_chapter) continue;
-    const book = books.find((b) => b.slug === slug);
-    if (!book) continue;
-    const chapter = book.chapters.find((c) => c.order === bp.current_chapter);
-    if (chapter) return { book, chapter };
-  }
-  return null;
 }
 
 function FeaturedHero({
@@ -98,19 +81,8 @@ function FeaturedHero({
   );
 }
 
-function BookCard({
-  book,
-  currentChapterOrder,
-}: {
-  book: Book;
-  currentChapterOrder: number | undefined;
-}) {
-  const continueChapter =
-    currentChapterOrder !== undefined
-      ? book.chapters.find((c) => c.order === currentChapterOrder)
-      : undefined;
+function BookCard({ book }: { book: Book }) {
   const kind = bookKind(book);
-  const lang = bookLanguage(book);
   return (
     <li className="book-card" data-category={bookCategory(book)} data-kind={kind}>
       <Link to={`/${book.slug}`} className="book-card-link">
@@ -128,14 +100,6 @@ function BookCard({
           </div>
         </div>
       </Link>
-      {continueChapter && (
-        <Link
-          to={`/${book.slug}/${continueChapter.slug}`}
-          className="book-continue"
-        >
-          {lang === "english" ? "Continue reading" : "वाचणं सुरू ठेवा"}: {continueChapter.order}. {renderTitle(continueChapter.title)} →
-        </Link>
-      )}
     </li>
   );
 }
@@ -156,8 +120,6 @@ export const BookshelfView = ({
   books: Book[];
   language?: BookLanguage;
 }) => {
-  const { user } = useAuth();
-  const { progress } = useProgress(user);
   const visibleBooks = language ? books.filter((b) => bookLanguage(b) === language) : books;
 
   const grouped = new Map<CategoryKey, Book[]>();
@@ -170,8 +132,7 @@ export const BookshelfView = ({
     (k) => (grouped.get(k)?.length ?? 0) > 0,
   );
 
-  const inProgress = findInProgress(visibleBooks, progress);
-  const featuredBook = inProgress ? null : pickFeaturedBook(visibleBooks);
+  const featuredBook = pickFeaturedBook(visibleBooks);
   const featuredChapter = featuredBook?.chapters.find((c) => c.order === 1);
 
   return (
@@ -186,13 +147,7 @@ export const BookshelfView = ({
           </Link>
         </div>
       )}
-      {inProgress ? (
-        <FeaturedHero
-          book={inProgress.book}
-          chapter={inProgress.chapter}
-          mode="continue"
-        />
-      ) : featuredBook && featuredChapter ? (
+      {featuredBook && featuredChapter ? (
         <FeaturedHero
           book={featuredBook}
           chapter={featuredChapter}
@@ -227,11 +182,7 @@ export const BookshelfView = ({
               </header>
               <ul className="book-list">
                 {list.map((b) => (
-                  <BookCard
-                    key={b.slug}
-                    book={b}
-                    currentChapterOrder={progress[b.slug]?.current_chapter}
-                  />
+                  <BookCard key={b.slug} book={b} />
                 ))}
               </ul>
             </div>

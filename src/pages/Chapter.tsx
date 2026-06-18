@@ -1,33 +1,16 @@
-import { useCallback } from "react";
 import { useParams, Link } from "react-router-dom";
 import { bookLanguage, findBook, findChapter, loadBooks, readTimeLabel } from "../books";
 import { ChapterBody } from "../components/ChapterBody";
 import { TopBar } from "../components/TopBar";
 import { ReadingProgressBar } from "../components/ReadingProgressBar";
 import { BackToTop } from "../components/BackToTop";
-import { SignInGate } from "../components/SignInGate";
-import { useAuth } from "../useAuth";
-import { useProgress } from "../useProgress";
 import { chapterArtUrl } from "../chapterArt";
-
-const FREE_CHAPTER_ORDER = 1;
 
 export const Chapter = () => {
   const { bookSlug, chapterSlug } = useParams<{ bookSlug: string; chapterSlug: string }>();
   const book = findBook(loadBooks(), bookSlug ?? "");
   const chapter = book ? findChapter(book, chapterSlug ?? "") : undefined;
   const language = book ? bookLanguage(book) : bookLanguage({ slug: bookSlug ?? "" });
-
-  const { user, loading, signIn, signOut: _signOut } = useAuth();
-  void _signOut;
-  const { recordProgress } = useProgress(user);
-
-  const onProgress = useCallback(
-    (frac: number) => {
-      if (book && chapter) recordProgress(book.slug, chapter.order, frac);
-    },
-    [book, chapter, recordProgress],
-  );
 
   if (!book || !chapter) {
     return (
@@ -40,22 +23,7 @@ export const Chapter = () => {
     );
   }
 
-  const isLocked = !user && chapter.order > FREE_CHAPTER_ORDER;
   const art = chapterArtUrl(book.slug, chapter.slug);
-
-  if (isLocked) {
-    return (
-      <article className={`chapter reading-page-shell ${language === "english" ? "reading-page-shell-english" : "reading-page-shell-marathi"}`}>
-        <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
-        {art && (
-          <figure className="chapter-art">
-            <img src={art} alt="" className="chapter-art-image" loading="eager" />
-          </figure>
-        )}
-        <SignInGate loading={loading} signIn={signIn} chapterTitle={chapter.title} language={language} />
-      </article>
-    );
-  }
 
   const idx = book.chapters.findIndex((c) => c.order === chapter.order);
   const prev = idx > 0 ? book.chapters[idx - 1] : undefined;
@@ -63,7 +31,7 @@ export const Chapter = () => {
 
   return (
     <article className={`chapter reading-page-shell ${language === "english" ? "reading-page-shell-english" : "reading-page-shell-marathi"}`}>
-      <ReadingProgressBar onProgress={onProgress} />
+      <ReadingProgressBar />
       <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
       <header className="chapter-header">
         <h1>{chapter.title}</h1>

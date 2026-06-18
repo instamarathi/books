@@ -2,17 +2,14 @@ import { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import { bookLanguage, findBook, loadBooks } from "../books";
 import { ChapterBody } from "../components/ChapterBody";
-import { SignInGate } from "../components/SignInGate";
-import { useAuth } from "../useAuth";
 
 export const PrintBook = () => {
   const { bookSlug } = useParams<{ bookSlug: string }>();
   const book = findBook(loadBooks(), bookSlug ?? "");
   const language = book ? bookLanguage(book) : bookLanguage({ slug: bookSlug ?? "" });
-  const { user, loading, signIn } = useAuth();
 
   useEffect(() => {
-    if (loading || !book || !user) return;
+    if (!book) return;
     let cancelled = false;
     const trigger = () => {
       if (!cancelled) window.print();
@@ -27,7 +24,7 @@ export const PrintBook = () => {
     return () => {
       cancelled = true;
     };
-  }, [book, loading, user]);
+  }, [book]);
 
   if (!book) {
     return (
@@ -35,17 +32,6 @@ export const PrintBook = () => {
         {language === "english" ? "Book not found." : "पुस्तक सापडले नाही."}{" "}
         <Link to="/">{language === "english" ? "Back to home" : "मुख्य पानावर परत"}</Link>
       </p>
-    );
-  }
-
-  if (loading || !user) {
-    return (
-      <SignInGate
-        loading={loading}
-        signIn={signIn}
-        chapterTitle={`${book.title} — Download PDF`}
-        language={language}
-      />
     );
   }
 
