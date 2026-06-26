@@ -1,0 +1,18 @@
+{
+  "slug": "he-sagla-kasa-chalta",
+  "title": "हे सगळं कसं चालतं?",
+  "subtitle": "AI आणि digital जगाचं प्रामाणिक स्पष्टीकरण — गोंधळलेल्या, पण हुशार वाचकांसाठी",
+  "category": "technology",
+  "kind": "essay",
+  "credit": "ही प्रकरणं एका software engineer ने, AI आणि digital तंत्रज्ञान सामान्य मराठी वाचकाला समजावं या हेतूने, मूळ स्वरूपात लिहिलेली आहेत.",
+  "chapter_order": [
+    "01-ai-kasa-samajta",
+    "02-vichar-ki-andaj",
+    "03-data-kuthe-jato",
+    "04-algorithm-guntvun-thevta",
+    "05-deepfake-khara-khota",
+    "06-naukri-ghein-ka",
+    "07-online-paisa",
+    "08-shahanpane-vapar"
+  ]
+}
