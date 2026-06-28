@@ -60,6 +60,9 @@ export const PrintBook = () => {
           <p className="print-book-subtitle">{book.subtitle}</p>
         )}
         {book.credit && <p className="print-book-credit">{book.credit}</p>}
+        {book.sources && (
+          <p className="print-book-credit print-book-sources">{book.sources}</p>
+        )}
         <p className="print-book-source">instamarathi.github.io/books</p>
       </section>
 

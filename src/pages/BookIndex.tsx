@@ -16,6 +16,7 @@ export const BookIndex = () => {
       <h2>{renderTitle(book.title)}</h2>
       {book.subtitle && <p className="book-subtitle">{book.subtitle}</p>}
       {book.credit && <p className="book-credit">{book.credit}</p>}
+      {book.sources && <p className="book-credit book-sources">{book.sources}</p>}
       <p className="book-actions">
         <Link to={`/print/${book.slug}`} className="book-pdf-btn">
           📄 Download PDF

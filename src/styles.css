@@ -514,6 +514,11 @@ main {
   border-left: 4px solid var(--accent-soft);
   padding-left: 0.9rem;
 }
+.book-sources {
+  font-style: normal;
+  font-size: 0.82em;
+  line-height: 1.6;
+}
 .chapter-list {
   list-style: none;
   padding: 0;
@@ -980,6 +985,10 @@ main {
   font-size: 0.95em;
   max-width: 28em;
   margin: 1.5rem auto;
+}
+.print-book-sources {
+  font-size: 0.8em;
+  line-height: 1.6;
 }
 .print-book-source {
   color: var(--fg-muted);

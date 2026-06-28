@@ -78,6 +78,7 @@ export type BookMeta = {
   title: string;
   subtitle?: string;
   credit?: string;
+  sources?: string;
   category?: CategoryKey;
   kind?: BookKind;
   language?: "marathi" | "english";
