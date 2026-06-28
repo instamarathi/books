@@ -40,14 +40,17 @@ This is a learned, brain-level pattern with a real mechanism — not a flaw, and
 - **The reward mismatch** — a small, certain, frequent hit (the high of starting / fast early progress) out-competes the large, uncertain, distant hit (a finished thing with real users/payoff). Modern instant-feedback tools (apps, social media, AI) shorten everyone's reward loop and make this worse.
 - **Invisible abandonment** — with no external accountability, dropped projects don't haunt you; they vanish, so the pattern never self-corrects.
 - **Finished = identity** — you are your finished things, not your ideas; ideas are cheap.
+- **Depth is the real insurance; variety belongs in the hobby lane** — the smartest rationalization for scatter is fear of obsolescence ("if I commit fully to one thing and that field dies, I'm finished"). The answer: keep variation in the *hobby/exploration* lane, commit the *main* lane to depth. When the main thing itself keeps varying you're not hedging — you're stuck *in* the variation, never progressing. Many open avenues never cross the threshold where they make real money or impact; that threshold lives on the far side of depth. Mastery and a finished body of work transfer and compound — they are better insurance than a drawer of shallow starts.
 
 ## Research anchors (drawn on, recombined as original prose — never reproduced)
 
 Behavioral science: novelty/dopamine and reward-prediction (anticipation beats reward), delayed gratification (marshmallow test), executive-function development, growth vs fixed mindset and effort-praise (Dweck), grit / "hard thing rule" (Duckworth), identity vs role confusion (Erikson), *the dip* (Godin), hyperbolic discounting / temporal discounting, variable/intermittent reinforcement, the progress principle and goal-gradient (Amabile), attention residue (Leroy), WIP limits / Little's law, regret research (we regret unfinished inactions).
 
+Career/strategy (for the obsolescence-fear chapter): *Range* (Epstein) — sample broadly *then* commit, "match quality"; the misuse of "optionality"; the barbell strategy (safe deep core + experimental edges, mapping to the main-vs-hobby split); the impact/monetization threshold and specific-knowledge/leverage idea.
+
 Source books for the `credit` line: *Essentialism* (McKeown), *The One Thing* (Keller), *Deep Work* (Newport), *Finish* (Acuff), *The War of Art* (Pressfield).
 
-## Structure — 9 essays
+## Structure — 10 essays
 
 Stage chapters (2–7) each move, in flowing prose (no headings, no checklists, no howto signposts), through **how it emerges → how to spot it → what to do at that age.**
 
@@ -58,8 +61,9 @@ Stage chapters (2–7) each move, in flowing prose (no headings, no checklists, 
 5. **तिशी — सुरू केलेलं सगळं, अर्धवट** — adulthood (~30). The full pattern with real stakes (side-business, courses, half-done home project, gym plan). The dopamine economics, made universal: hyperbolic discounting + variable reward; instant-feedback tools (apps, social media, AI) shrink the loop so the small weekly hit beats the slow real payoff.
 6. **चाळिशी — "मी नक्की काय बांधलं?"** — midlife (40). The reckoning; cost compounds; reinvention-as-escape. Spot: serial pivots, "this time it's different." Do: the legacy lens; completion as meaning.
 7. **साठीनंतर — "someday" चं खण** — 60+. The drawer of someday-projects; regret research (we regret the unfinished). But: never too late — one finishing project, and helping others finish.
-8. **कोणत्याही वयात बदल शक्य आहे** — cross-stage change, as thinking tools not checklists: the swap mindset; **how many in parallel** (one finishing slot, at most one exploring); **how to assess a new pickup** (two honest questions — "what am I dropping, eyes open?" / "still interesting after the honeymoon?").
-9. **संपवणारा माणूस — आणि मिळणारं स्वातंत्र्य** — benefits & identity. What ships when you finish one thing to real quality; the rare-but-real high; why the next idea waiting is freedom, not loss. Close.
+8. **एका गोष्टीवर सगळं लावलं, आणि ती industry बुडली तर?** — the obsolescence fear, steelmanned and answered. The insurance instinct is real but misfires when applied to the *main* lane; variation belongs in the hobby/exploration lane. When the main thing keeps varying you're stuck *in* the variation, never progressing; many open avenues never cross the money/impact threshold, which lives on the far side of depth. Depth (mastery + a finished body of work that transfers and compounds) is the better insurance. Anchored in *Range* (sample then commit), barbell strategy, optionality-misuse. Not scolding — it takes the fear seriously and dismantles it.
+9. **कोणत्याही वयात बदल शक्य आहे** — cross-stage change, as thinking tools not checklists: the swap mindset; **how many in parallel** — one deep *main* lane (the finishing slot) plus a varied *hobby/explore* lane; **how to assess a new pickup** (two honest questions — "what am I dropping, eyes open?" / "still interesting after the honeymoon?", and "does this belong in the main lane or the hobby lane?").
+10. **संपवणारा माणूस — आणि मिळणारं स्वातंत्र्य** — benefits & identity. What ships when you finish one thing to real quality; the rare-but-real high; why the next idea waiting is freedom, not loss; and how depth gives more security, not less. Close.
 
 ## meta.json
 
@@ -79,8 +83,9 @@ Stage chapters (2–7) each move, in flowing prose (no headings, no checklists, 
     "05-tishi",
     "06-chaalishi",
     "07-saathi-nantar",
-    "08-konatyahi-vayat-badal",
-    "09-sampavnara-manus"
+    "08-industry-budali-tar",
+    "09-konatyahi-vayat-badal",
+    "10-sampavnara-manus"
   ]
 }
 ```
@@ -88,7 +93,7 @@ Stage chapters (2–7) each move, in flowing prose (no headings, no checklists, 
 ## Constraints / non-goals
 
 - No `## Quick reference`, no numbered-technique lists, no howto signposts (this is `essay`).
-- No checklists anywhere; the "assess / how many parallel" answers live in ch. 8 as thinking tools.
+- No checklists anywhere; the "assess / how many parallel" answers live in ch. 9 as thinking tools.
 - Not autobiographical; no maker/Claude-Code-specific framing.
 - Original prose only; research and source-book *principles* only — never reproduce or paraphrase source text.
 - Each chapter 700–1500 words; phone-readable.
