@@ -1,0 +1,23 @@
+{
+  "slug": "the-poverty-within",
+  "title": "The Poverty Within",
+  "subtitle": "Why the mind stays in survival mode even after the pocket is full — and how to get out of it",
+  "category": "mindset",
+  "kind": "essay",
+  "credit": "These chapters draw on behavioural-science research into scarcity (Mullainathan and Shafir), chronic stress and allostatic load, hope theory (Snyder; Lybbert and Wydick), self-efficacy (Bandura) and economic mobility — written originally for the reader's context.",
+  "sources": "Underlying research: bandwidth tax and the sugarcane-farmer study — Mani, Mullainathan, Shafir and Zhao (Science, 2013); childhood adversity and allostatic load — Psychoneuroendocrinology review (2021) and Gilgoff et al. (Stress, UCLA, 2024); hope = aspirations/agency/pathways and the Oaxaca experiment — Lybbert and Wydick (2018), Snyder; self-efficacy — Bandura; the aspirations window — Genicot and Ray (Econometrica, 2017); the future self — Hershfield et al.; weak ties and mobility — Granovetter and Chetty et al. (Nature, 2022); cash transfers and mental health — GiveDirectly / J-PAL. Some of these findings are limited or contested — the book says so honestly.",
+  "chapter_order": [
+    "01-what-is-inner-poverty",
+    "02-the-first-buffer",
+    "03-tell-your-body",
+    "04-hope-can-be-learned",
+    "05-letting-go-the-poverty-identity",
+    "06-who-are-you-watching",
+    "07-tomorrows-you-a-stranger",
+    "08-the-door-wont-open-alone",
+    "09-fear-and-the-ninety-percent",
+    "10-the-rich-friend-and-the-net",
+    "11-closing-the-back-door",
+    "12-enough-and-onward"
+  ]
+}
