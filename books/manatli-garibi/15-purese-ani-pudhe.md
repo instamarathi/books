@@ -1,7 +1,7 @@
 ---
 title: पुरेसं, आणि पुढे
-slug: 10-purese-ani-pudhe
-order: 10
+slug: 15-purese-ani-pudhe
+order: 15
 summary: पैसा आणि मन — दोन्ही एकत्र बदलले तरच survival mode मधून खरी सुटका; आणि ती हळूहळू, मुलांसाठीसुद्धा.
 read_time: 7
 ---
