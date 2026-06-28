@@ -1,0 +1,20 @@
+{
+  "slug": "manatli-garibi",
+  "title": "मनातली गरिबी",
+  "subtitle": "खिसा भरला, तरी मन survival mode मध्येच का राहतं — आणि त्यातून बाहेर कसं पडायचं",
+  "category": "mindset",
+  "kind": "essay",
+  "credit": "ही प्रकरणं scarcity (Mullainathan व Shafir), chronic stress व allostatic load, hope theory (Snyder; Lybbert व Wydick), self-efficacy (Bandura) आणि economic mobility यांवरील वर्तन-शास्त्रीय संशोधनावर आधारित आहेत — मराठी वाचकांच्या context साठी मूळ लेखन.",
+  "chapter_order": [
+    "01-survival-mode-mhanje-kay",
+    "02-khisa-bharla-tari-bhiti",
+    "03-pahila-aushadh-buffer",
+    "04-shariraala-saang",
+    "05-aasha-hi-skill",
+    "06-konakade-baghun",
+    "07-udyacha-swatala-bhet",
+    "08-ektyane-sutka-nahi",
+    "09-garibichi-olakh-sodne",
+    "10-purese-ani-pudhe"
+  ]
+}
