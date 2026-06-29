@@ -1,7 +1,7 @@
 ---
 title: Enough, and Onward
-slug: 12-enough-and-onward
-order: 12
+slug: 13-enough-and-onward
+order: 13
 summary: Only when money and mind change together is there real escape from survival mode — slowly, modestly, and for the next generation of children too.
 read_time: 8
 ---
