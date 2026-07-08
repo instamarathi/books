@@ -1,0 +1,19 @@
+{
+  "slug": "ghoda-kuthe-adlay",
+  "title": "घोडं कुठे अडलंय?",
+  "subtitle": "Analysis paralysis सोडून निर्णय घेण्याची सवय लावणारा practical guide — शाळा संपल्यापासून करिअरच्या सुरुवातीपर्यंत (16-22)",
+  "category": "mindset",
+  "kind": "howto",
+  "credit": "ही प्रकरणं Thinking in Bets (Annie Duke) आणि The Paradox of Choice (Barry Schwartz) या पुस्तकांमधल्या विचारांवर, तसंच निर्णय-शास्त्रातील संशोधनावर (Bezos यांची reversible-decisions चौकट, Suzy Welch यांचा 10-10-10 नियम, Gollwitzer यांचं implementation-intentions संशोधन, Gilovich व Medvec यांचं regret-संशोधन, Bandura यांचं self-efficacy संशोधन) आधारित आहेत — मराठी context साठी पुन्हा लिहिलेली.",
+  "chapter_order": [
+    "01-vichar-mhanje-pragati-nahi",
+    "02-stream-college-nivadtana",
+    "03-don-offers-madhe-adkalyavar",
+    "04-nokri-ki-shikshan",
+    "05-gharchyanna-nahi-mhantana",
+    "06-nata-tikvaycha-ki-sodaycha",
+    "07-motha-paishacha-nirnay",
+    "08-navya-shaharat-ekta-jane",
+    "09-chuk-nirnay-tharla-tar"
+  ]
+}
