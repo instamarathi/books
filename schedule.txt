@@ -97,11 +97,40 @@ Decide chapter slugs (NN-topic), titles, and one-line summaries. Do not write
 the bodies yet.
 
 ================================================================
+STEP 3B — PLAN NARRATIVE VARIETY (howto and fiction only)
+================================================================
+
+Skip this step for kind: "essay" — essays are argument-driven, not
+scene-driven, so this doesn't apply the same way.
+
+AI-drafted chapters in the same book tend to converge on one narrative
+engine by default: protagonist stuck → one friend/senior delivers a
+reframing line → protagonist writes it down on paper → clean resolution.
+Repeated across 9 chapters, this reads as one story retold with different
+names. Before writing any chapter body, write one line per chapter
+assigning three things (full menu and reasoning in CLAUDE.md →
+"Structural variety across chapters"):
+
+  - opening-scene-type   (how the chapter starts)
+  - insight-source       (who or what triggers the reframe)
+  - resolution-mechanic  (how the vague problem becomes workable)
+
+No two chapters may repeat the same combination of all three. At least one
+chapter should end with the technique correctly applied and the outcome
+still mixed or unresolved — not neatly solved.
+
+If two planned chapters converge on the same shape, change one now, before
+drafting starts. Fixing this after the prose is written is much weaker than
+planning it in.
+
+================================================================
 STEP 4 — VERIFY YOUR PLAN BEFORE WRITING
 ================================================================
 
 Sanity-check before generating content:
 - Are the chapters genuinely distinct, or do some overlap?
+- Does the narrative-variety plan from Step 3B hold — no repeated
+  (opening-scene-type, insight-source, resolution-mechanic) combination?
 - Will every chapter have at least one Marathi-context scene/example you
   can write without forcing it?
 - For howto: is the source book one whose principles are ideas / frameworks

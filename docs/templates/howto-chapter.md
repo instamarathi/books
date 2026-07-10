@@ -23,6 +23,12 @@ Universal rules (CLAUDE.md):
 - Original prose; no quoting / paraphrasing source text.
 - The literal heading "## Quick reference" is detected by the renderer
   (case-insensitive). Do not rename it.
+
+Before drafting the book's chapters, plan opening-scene-type, insight-source,
+and resolution-mechanic per chapter so no two chapters run the same story
+engine (protagonist stuck → one friend reframes it → writes it on paper →
+clean resolution, repeated 9 times, is the default failure mode). See
+CLAUDE.md → "Structural variety across chapters" for the full menu.
 -->
 
 <Opening scenario — one paragraph, Marathi-context, sets up the problem the

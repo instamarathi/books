@@ -39,6 +39,11 @@ What works:
   POV change). Continuous prose with paragraph breaks is the default.
 - A short reflective beat at the end is fine — write it as prose, not as
   a card.
+
+Before drafting the book's chapters, plan opening-scene-type, insight-source,
+and resolution-mechanic per chapter so scenes/stories don't converge on one
+default shape across the book. See CLAUDE.md → "Structural variety across
+chapters" for the full menu.
 -->
 
 <Opening scene — drop the reader directly into the moment. Dialogue, action,
