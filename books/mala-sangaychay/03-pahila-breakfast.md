@@ -160,7 +160,7 @@ Flat actually clean होतं. Kaustubh-ला हे observation थोड�
 
 "...Cooker नाहीये."
 
-"तीन-तीन maharashtraian engineers एका flat-त, cooker नाहीये?"
+"तीन-तीन maharashtrian engineers एका flat-त, cooker नाहीये?"
 
 "बघ — आम्ही Swiggy-वर dependent आहोत."
 
@@ -168,7 +168,7 @@ Flat actually clean होतं. Kaustubh-ला हे observation थोड�
 
 "बाजूच्या shelf-वर."
 
-"OK. मी पोहे करते. तू scrambled eggs कर ratlach सांगितल्याप्रमाणे. आपण दोन-वस्तू breakfast करू."
+"OK. मी पोहे करते. तू scrambled eggs कर, आधी सांगितल्याप्रमाणे. आपण दोन-वस्तू breakfast करू."
 
 "Adii, तू guest आहेस."
 
@@ -178,7 +178,7 @@ Flat actually clean होतं. Kaustubh-ला हे observation थोड�
 
 ती पोहे बनवायला लागली. Confidently. तेलाचा फेस, मोहरी, कांदा. तिने एका कांद्याला किसून — किसून, कारण त्याच्या flat-मध्ये एक kitchen knife होता जो tomato-ला dent करायचा फक्त — चिरून घेतलं. एक minute-मध्ये kitchen-मध्ये एक मोहरी-कांदा-कोथिंबीरचा वास भरून गेला.
 
-तो eggs scramble करायला उभा. तीन eggs phodla. एका bowl-त. हलवायला सुरू. तिच्या नकळत त्याने तिच्याकडे बघितलं — ती stove-वर ओठ थोडे आत वळवून, सरळ नजर, हात steady. हे scene त्याच्या IIT-च्या डोक्यात कधीच आलेलं नव्हतं — Aditi-ला kitchen-त बघणं. ती ITT-त कधीच kitchen-त गेलेली नव्हती, hostel-ला mess होतं, घरी ती student होती. इथे ती कुणीतरी वेगळी होती — efficient, at-home, focused — आणि त्या efficient-at-home-focused Aditi-ने त्याच्या flat-ला minutes-त takeover केलं होतं.
+तो eggs scramble करायला उभा. तीन eggs phodla. एका bowl-त. हलवायला सुरू. तिच्या नकळत त्याने तिच्याकडे बघितलं — ती stove-वर ओठ थोडे आत वळवून, सरळ नजर, हात steady. हे scene त्याच्या IIT-च्या डोक्यात कधीच आलेलं नव्हतं — Aditi-ला kitchen-त बघणं. ती IIT-त कधीच kitchen-त गेलेली नव्हती, hostel-ला mess होतं, घरी ती student होती. इथे ती कुणीतरी वेगळी होती — efficient, at-home, focused — आणि त्या efficient-at-home-focused Aditi-ने त्याच्या flat-ला minutes-त takeover केलं होतं.
 
 त्याच्या डोक्यात एक थोडा बारीक विचार — हा फार dangerous आहे.
 
@@ -256,7 +256,7 @@ Pohe झाले. Eggs झाले — over-scrambled, थोडे rubbery, �
 
 "का?"
 
-"कारण तू मला फार perfect वाटायचास. IIT-त सगळ्यांत smart बातांच्या IDs-वर तुझा code review go-to असायचा. कुठलाही professor-ची काय response असेल हे तू first guess करायचास. आत्ता आला तर तू एका Pune-च्या startup-त, एका AC नसलेल्या office-त, एका Anuj-च्या flat-त एका over-scrambled egg-त. हे human आहे."
+"कारण तू मला फार perfect वाटायचास. IIT-त सगळ्यांत smart बॅचच्या IDs-वर तुझा code review go-to असायचा. कुठलाही professor-ची काय response असेल हे तू first guess करायचास. आत्ता आला तर तू एका Pune-च्या startup-त, एका AC नसलेल्या office-त, एका Anuj-च्या flat-त एका over-scrambled egg-त. हे human आहे."
 
 "Adii. हे compliment वाटत नाहीये."
 
@@ -322,7 +322,7 @@ Anuj bedroom-तून बाहेर आला.
 
 "OK."
 
-पण OK नव्हतं. तो बसून बसून ती Aditi-च्या आवाजात बोललेली "मला तू जवळ वाटतोयस" ही sentence डोक्यात ringing — पण ringing एक specific frequency-वर — जी frequency त्याला nervously अंतर्मनात कुठेतरी कळत होती. ती frequency होती — "तू मला उंचावरून खाली आल्यावर जवळचा वाटतोयस." हे compliment होतं, पण compliment-च्या foundations एका subtle hierarchy-वर बांधलेली होती. आणि त्या hierarchy-त त्याची position थोडी खालची होती.
+पण OK नव्हतं. तो बसून राहिला — ती Aditi-च्या आवाजात बोललेली "मला तू जवळ वाटतोयस" ही sentence त्याच्या डोक्यात ringing होती — पण एका specific frequency-वर — जी frequency त्याला nervously अंतर्मनात कुठेतरी कळत होती. ती frequency होती — "तू मला उंचावरून खाली आल्यावर जवळचा वाटतोयस." हे compliment होतं, पण compliment-च्या foundations एका subtle hierarchy-वर बांधलेली होती. आणि त्या hierarchy-त त्याची position थोडी खालची होती.
 
 बाहेर एक ola driver कुठेतरी horn मारत होता. Anuj kitchen-कडे गेला, उरलेले scrambled eggs एका microwave-त ठेवायला. Pohe संपले होते — Aditi-ने actually चांगले बनवले होते, इतके चांगले की दोघांनी संपवले होते — आणि dabba रिकामा, धुतलेला, table-वर.
 

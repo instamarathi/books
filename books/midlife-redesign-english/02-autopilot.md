@@ -69,7 +69,7 @@ These are not glamorous questions. They are maintenance questions.
 
 But maintenance is what midlife is for.
 
-A train does not need a speech. It needs tracks. A household does not need constant moral drama. It needs clear signals. A person does not need to become heroic every morning. They need enough awareness to know whether they are living by choice or by repeat.
+A train does not need a speech. It needs tracks. A household does not need constant moral drama. It needs clear signals. A person does not need to become heroic every morning. They need enough awareness to know whether they are living by choice or by rote.
 
 Meera reaches the office and realizes she has driven the last ten minutes without remembering the road. That moment should worry her more than it does. Not because she is unsafe, but because her attention has become so fragmented that even her competence now runs in the background. She sits in the parking lot for a minute, turns off the engine, and lets the silence arrive before she opens the door.
 

@@ -62,7 +62,7 @@ Kaustubh त्याच्या seat-वर परत. Laptop उघडलं.
 
 PR-च्या comment-त त्याने टाईप केला — एका जुनी habit-त, हसून-स्वतःशी सांगायला हसून — "Tested locally, works in dev, prays for prod." मग submit.
 
-PR-च्या submit झाल्यावर एक beat-त त्याने laptop-ला एक minute झाकलं आणि एका window-कडे बघितला. बाहेर एक uncle paneer-वाला त्याच्या stove-वर panettone, समोरच्या building-च्या एका balcony-त एक aunty कुंडीला पाणी. हे normal August एक Pune-च्या उत्पादन-process. पण आत — आत — Anuj एका lift-त, Sneha एका शेजारच्या row-त stuff packing, Aman bhau एका corner-त एका calm pose-शी एका failed funding-round-ची weight pretending-not-to-carry. आणि Kaustubh — एका 0.4-percent-equity-वर एका 'I survived this round'-त बसून.
+PR-च्या submit झाल्यावर एक beat-त त्याने laptop-ला एक minute झाकलं आणि एका window-कडे बघितला. बाहेर एक uncle paneer-वाला त्याच्या stove-वर पनीर भाजत, समोरच्या building-च्या एका balcony-त एक aunty कुंडीला पाणी. हे normal August, एक रोजचं Pune-चं चित्र. पण आत — आत — Anuj एका lift-त, Sneha एका शेजारच्या row-त stuff packing, Aman bhau एका corner-त एका calm pose-शी एका failed funding-round-ची weight pretending-not-to-carry. आणि Kaustubh — एका 0.4-percent-equity-वर एका 'I survived this round'-त बसून.
 
 त्याच्या डोक्यात एक specific thought घुमत राहिला — एका 'I survived'-त एक 'I survived' नव्हता. एक 'I am next.' होता. कारण Skipthread सहा weeks-त lead-investor मिळाला नाही तर ten more people same boat-त. आणि स्वतःला सांगायला तो आत्ता एका twenty-thousand-च्या salary-वर एका startup-त एका 0.4-percent-equity-वर "I'm in" अशी एक statement maintain करत होता. पण ती statement आज एका beat-त शिथिल झाली.
 
@@ -240,7 +240,7 @@ Aditi एका edge-त बसली. Kaustubh एका opposite बेड-च
 
 "Vipula aunty allow नाही करणार."
 
-"मला माहित आहे. एका jवळच्या hotel-त?"
+"मला माहित आहे. एका जवळच्या hotel-त?"
 
 "Wakad-त एक small hotel आहे — Hotel Bharati. PG-च्या तीन buildings पुढे."
 
@@ -250,7 +250,7 @@ Aditi एका edge-त बसली. Kaustubh एका opposite बेड-च
 
 "ये."
 
-ते उठले. ती एका minute-त bag-त एक dabba — आईने Padwa-नंतर पाठवलेली एक खीर dabba ज्यात उरलेली खीर एक — आणि एक small towel टाकले. ती VL Vipula aunty-शी एका 'मी एका मैत्रिणीच्या new-PG-त house-warming-ला जाते रात्री' lie सांगून बाहेर आली.
+ते उठले. ती एका minute-त bag-त एक dabba — आईने Padwa-नंतर पाठवलेली एक खीर dabba ज्यात उरलेली खीर एक — आणि एक small towel टाकले. ती Vipula aunty-शी एका 'मी एका मैत्रिणीच्या new-PG-त house-warming-ला जाते रात्री' lie सांगून बाहेर आली.
 
 Hotel Bharati. एक sixty-rupees-per-hour-त rate. कोणाला कळणार नाही. ते एका small room-त. Bed. एक खिडकी. एक fan. एक basic.
 

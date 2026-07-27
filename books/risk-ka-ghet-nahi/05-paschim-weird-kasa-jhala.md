@@ -20,15 +20,15 @@ read_time: 7
 
 आता त्याच गावात Catholic Church येते. आणि ती हळूहळू एक विचित्र कायदा सुरू करते: cousin marriage बंद. पहिल्या cousins शी सुरुवातीला, मग second, मग third, मग सहावा cousin पर्यंत. आणि nephew-niece, in-laws, यांच्याशी पण लग्न नाही. Polygamy बंद. Adoption ला निरुत्साहित. Concubines बंद. आणि "consanguinity" चं चांगलंच विस्तृत frame.
 
-हे पहिले 500 वर्षांत झपाट्याने पसरत नाही. पण हजार वर्षांत — 500 ते 1500 CE — अव्याहत spread होत राहतं. आणि याचा side-effect Henrich आणि त्याच्या team ने quantitatively तपासलाय — ज्या भागात Church जास्त वर्षं राहिली, तिथे आजसुद्धा individualistic, low-trust-towards-kin, high-trust-towards-strangers, अशी psychological patterns दिसतात.
+हे पहिल्या 500 वर्षांत झपाट्याने पसरत नाही. पण हजार वर्षांत — 500 ते 1500 CE — अव्याहत spread होत राहतं. आणि याचा side-effect Henrich आणि त्याच्या team ने quantitatively तपासलाय — ज्या भागात Church जास्त वर्षं राहिली, तिथे आजसुद्धा individualistic, low-trust-towards-kin, high-trust-towards-strangers, अशी psychological patterns दिसतात.
 
 ## हे का काम करतं
 
-Cousin marriage बंद केलं म्हणजे काय होतं? कुटुंब वाढतं — रक्ताचं रक्ताशी जोडलं जात नाही. एखाद्या तरुणाला बायको शोधायला clan च्या बाहेर जावं लागतं, गावच्या बाहेर जावं लागतं, कधी कधी संपूर्ण नवीन शहरात. म्हणजे loyalty network पातळ होतं. आणि identity "Sokul Marcus" (Marcus the kinsman of someone) न राहता "Marcus the individual" बनू लागतं.
+Cousin marriage बंद केलं म्हणजे काय होतं? कुटुंब वाढतं — रक्ताचं रक्ताशी जोडलं जात नाही. एखाद्या तरुणाला बायको शोधायला clan च्या बाहेर जावं लागतं, गावच्या बाहेर जावं लागतं, कधी कधी संपूर्ण नवीन शहरात. म्हणजे loyalty network पातळ होतं. आणि identity "सकुल Marcus" (Marcus the kinsman of someone) न राहता "Marcus the individual" बनू लागतं.
 
 जेव्हा clans पातळ होतात, तेव्हा एक pocket तयार होतं ज्यामध्ये काही नवीन institutions भरून घेतात — guilds (व्यावसायिक संघ), monasteries (धार्मिक), universities (1100 CE पासून), corporations (1500 च्या आसपास). ही voluntary associations आहेत — रक्ताने नाही, choice ने जोडलेली. यांच्यामध्ये भाग घ्यायला तुम्हाला तुमच्या clan ला विचारावं लागत नाही, फक्त rules पाळावे लागतात.
 
-म्हणजे एक माणूस आता दहा वेगवेगळ्या associations मध्ये असू शकतो — guild member, monastery oblate, town citizen, university student, और बायकोच्या कुटुंबाशी थोडं आणि स्वतःच्या कुटुंबाशी थोडं nexus. यापैकी कुठलाही एक relationship त्याच्यावर absolute claim ठेवू शकत नाही. हीच individualism ची structural सुरुवात आहे.
+म्हणजे एक माणूस आता दहा वेगवेगळ्या associations मध्ये असू शकतो — guild member, monastery oblate, town citizen, university student, आणि बायकोच्या कुटुंबाशी थोडं आणि स्वतःच्या कुटुंबाशी थोडं nexus. यापैकी कुठलाही एक relationship त्याच्यावर absolute claim ठेवू शकत नाही. हीच individualism ची structural सुरुवात आहे.
 
 ## Psychology कशी बदलते
 
@@ -39,7 +39,7 @@ Henrich चा सर्वात interesting claim हा की हे फक�
 - **Guilt वाढली, shame कमी झाली.** Kin society मध्ये "लोक काय म्हणतील" (shame) हे primary control. WEIRD society मध्ये "मला काय वाटतं" (guilt) हे primary control. Internalized morality वाढली.
 - **Achievement-based identity.** "मी कुणाचा मुलगा" पेक्षा "मी काय करतो" हे ओळखीचं केंद्र.
 
-ही चारही shifts risk-taking ला पाठिंबा देतात. Strangers वर trust = unfamiliar partners सोबत startup शक्य. Analytical = abstract opportunities बघता येतात. Guilt > shame = कुटुंब naराज झालं तरी मनावर वजन कमी. Achievement-based = career हीच identity, ती बदलायला permission स्वतःलाच द्यायची.
+ही चारही shifts risk-taking ला पाठिंबा देतात. Strangers वर trust = unfamiliar partners सोबत startup शक्य. Analytical = abstract opportunities बघता येतात. Guilt > shame = कुटुंब नाराज झालं तरी मनावर वजन कमी. Achievement-based = career हीच identity, ती बदलायला permission स्वतःलाच द्यायची.
 
 Adam ला हे सगळं inherited मिळालंय. रोहनला यापैकी काहीच नाही.
 
@@ -51,6 +51,6 @@ Adam ला हे सगळं inherited मिळालंय. रोहनल
 
 ## म्हणून...
 
-रोहन conservative आहे, हे personality चं observation नाही — हे हजार वर्षांच्या structural difference चं outcome आहे. आणि Adam bold आहे हे पण personality नाही — पाच पिढ्यांपूर्वी त्याच्या पूर्वजांना church ने kinship मधून सोडवलं, मग enlightenment ने individual rights दिले, मग welfare state ने safety net दिलं. हा एक 1500 वर्षांचा compounding effect आहे.
+रोहन conservative आहे, हे personality चं observation नाही — हे हजार वर्षांच्या structural difference चं outcome आहे. आणि Adam bold आहे हे पण personality नाही — शतकानुशतकांपूर्वी त्याच्या पूर्वजांना church ने kinship मधून सोडवलं, मग enlightenment ने individual rights दिले, मग welfare state ने safety net दिलं. हा एक 1500 वर्षांचा compounding effect आहे.
 
 म्हणूनच भारतात "WEIRD होऊ" अशा सल्ल्याला अर्थ नाही — कारण WEIRD होणं ही personal choice नाहीये, ती civilizational outcome आहे. पण हे समजलं की पुढची दोन प्रश्नं स्पष्ट होतात — पाश्चात्त्य risk-taking किती subsidized आहे (chapter 6), आणि भारतात ते subsidy का नाही (chapter 7). त्या नंतर श्रीमंत भारतीयाचं puzzle उघडायला आपण तयार होऊ.

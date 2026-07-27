@@ -2,13 +2,13 @@
 title: वचन देताना — Overpromise चा सापळा
 slug: 07-vachan
 order: 7
-summary: Boss खुश करायला overpromise करणं हा manager चा सर्वात कोरा सापळा. Underpromise + deliver हा compound interest, overpromise + miss हा compound debt.
+summary: Boss खुश करायला overpromise करणं हा manager चा सर्वात मोठा सापळा. Underpromise + deliver हा compound interest, overpromise + miss हा compound debt.
 read_time: 10
 ---
 
-विवेक engineering manager होऊन तीन महिने झाले. एका Tuesday ला director ने roadmap meeting मध्ये विचारलं — "हे payment integration किती वेळ लागेल?" विवेक ने पटकन — "तीन आठवडे." Director हसले, "great, मी CEO ला सांगतो." Meeting नंतर विवेक तत्क्षणी ची senior engineer कडे गेला आणि विचारलं — "खरंच तीन आठवडे लागतील?" त्या engineer ने laptop उघडला, dependencies list केल्या, edge cases मोजल्या आणि शांत आवाजात — "विवेक, सहा आठवडे minimum, आणि ते integration partners च्या response time वर depend आहे." विवेक च्या पोटात गोळा. CEO पर्यंत आता "तीन आठवडे" गेलं होतं. आता दोन options — boss कडे जाऊन correct करायचं (embarrassing), किंवा team ला push करून तीन आठवड्यात deliver करायचा प्रयत्न (impossible). त्याने दुसरा निवडला, team साठी सहा आठवडे hell झाले, integration shipped साडेपाच आठवड्यांनी, quality compromised, आणि CEO आला director कडे — "तुम्ही तीन आठवडे म्हणाला होतात ना?"
+विवेक engineering manager होऊन तीन महिने झाले. एका Tuesday ला director ने roadmap meeting मध्ये विचारलं — "हे payment integration किती वेळ लागेल?" विवेक ने पटकन — "तीन आठवडे." Director हसले, "great, मी CEO ला सांगतो." Meeting नंतर विवेक तत्क्षणी एका senior engineer कडे गेला आणि विचारलं — "खरंच तीन आठवडे लागतील?" त्या engineer ने laptop उघडला, dependencies list केल्या, edge cases मोजल्या आणि शांत आवाजात — "विवेक, सहा आठवडे minimum, आणि ते integration partners च्या response time वर depend आहे." विवेक च्या पोटात गोळा. CEO पर्यंत आता "तीन आठवडे" गेलं होतं. आता दोन options — boss कडे जाऊन correct करायचं (embarrassing), किंवा team ला push करून तीन आठवड्यात deliver करायचा प्रयत्न (impossible). त्याने दुसरा निवडला, team साठी सहा आठवडे hell झाले, integration shipped साडेपाच आठवड्यांनी, quality compromised, आणि CEO आला director कडे — "तुम्ही तीन आठवडे म्हणाला होतात ना?"
 
-**Overpromise हा short-term हसरा निर्णय आणि long-term विषारी debt आहे. एक "त्रुसरा आठवडा" वर्षभर तुमच्या credibility ला खाऊन टाकतो.**
+**Overpromise हा short-term हसरा निर्णय आणि long-term विषारी debt आहे. एक "चुकीचा आठवडा" वर्षभर तुमच्या credibility ला खाऊन टाकतो.**
 
 नवीन manager ला overpromise करायचं मोह सर्वात तीव्र असतो — कारण boss खुश दिसायचं असतं, "competent" वाटायचं असतं, "no" म्हणायला कठीण असतं. आणि एका तासात तुम्ही तीन वर्षांची credibility घालवू शकता. एकदा तुम्ही miss झालात, boss पुढच्या वेळी तुमच्या estimate ला automatic 1.5x ने multiply करायला लागेल. दोनदा miss झालात, तो तुमच्या team च्या लोकांकडे जाऊन parallel verify करायला लागेल. तीनदा miss झालात, तुमच्यावर "high-risk" tag पडेल जो काढायला वर्षं लागतात. Underpromise + deliver याची विरुद्ध दिशा आहे — पहिल्यांदा boss थोडा disappointed वाटेल "इतका वेळ का?", पण deliver केल्यावर "हा reliable आहे" हा compound interest वर्षानुवर्ष चालत राहतो.
 

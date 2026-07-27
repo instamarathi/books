@@ -26,7 +26,7 @@ read_time: 6
 
 - **Mortality awareness = anxiety** — "वेळ कमी आहे" हे ऐकल्यावर panic येतो काही जणांना. हे aim नाही. Aim आहे clarity — "मी आत्ता जे करतोय ते खरंच important आहे का?" Panic नाही, focus आहे.
 - **"YOLO" चा misuse** — "वेळ कमी आहे म्हणून आत्ता enjoy करतो" — म्हणजे savings नाही, health नाही, relationships नाही. हे urgency चा wrong direction आहे. Urgency म्हणजे important गोष्टी आत्ता करा, सगळ्या indulgences आत्ता करा असं नाही.
-- **"Settle झाल्यावर सुरू करतो"** — "मुलाचं admission झाल्यावर", "loan फेडल्यावर", "promotion मिळाल्यावर" — हे milestones कधीच fully settle होत नाहीत. एक milestone संपलं की दुसरं येतं. "Settle" ही state नसते — ती excuse असते.
+- **"Settle झाल्यावर सुरू करतो"** — "मुलाचं admission झाल्यावर", "loan फेडल्यावर", "promotion मिळाल्यावर" — हे milestones कधीच पूर्णपणे settle होत नाहीत. एक milestone संपलं की दुसरं येतं. "Settle" ही state नसते — ती excuse असते.
 
 ## Quick reference
 

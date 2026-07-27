@@ -27,7 +27,7 @@ That is what decommodification does. It removes basic survival from the pure mar
 
 - **Calling welfare a handout** - A floor is not laziness. It is the reason a citizen can move without falling through the building.
 - **Assuming talent explains the outcome** - Talent matters, but the ability to keep trying matters too.
-- **Ignoring the legal system** - Bankruptcy law, labor protection, and public insurance all shape how bold a person can be.
+- **Ignoring the legal system** - Bankruptcy law, labour protection, and public insurance all shape how bold a person can be.
 
 ## Quick reference
 

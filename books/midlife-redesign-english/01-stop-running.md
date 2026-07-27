@@ -38,7 +38,7 @@ That is not moral failure. It is pattern failure.
 
 The good news is that patterns can be seen. But they cannot be seen while they are running the show.
 
-Look at how a morning actually works in many Indian homes. The mother in Jaipur who wakes before everyone, packs lunch, checks the school uniform, answers the maids’ absence, and then opens her office laptop. The father in Chennai who leaves home with a half-finished cup of tea and spends the metro ride mentally composing the emails he will send at 10 a.m. The shop owner in Surat who can count stock faster than he can ask himself whether he is tired. The school principal in Guwahati who spends the whole day making decisions for others and reaches home with no language left for her own feelings.
+Look at how a morning actually works in many Indian homes. The mother in Jaipur who wakes before everyone, packs lunch, checks the school uniform, works around the maid’s absence, and then opens her office laptop. The father in Chennai who leaves home with a half-finished cup of tea and spends the metro ride mentally composing the emails he will send at 10 a.m. The shop owner in Surat who can count stock faster than he can ask himself whether he is tired. The school principal in Guwahati who spends the whole day making decisions for others and reaches home with no language left for her own feelings.
 
 Every one of them is competent. Every one of them is also in danger of becoming invisible to themselves.
 

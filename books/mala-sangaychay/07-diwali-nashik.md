@@ -42,7 +42,7 @@ Nashik road. एका dhaba-वर थांबले — Kaustubh-ने थ�
 
 "म्हणजे — तू IIT-त 'मला coffee हवीये, आपण एका Café Coffee Day-ला थांबू' म्हणायचास. आता तू 'मी एक चहा घेईन' म्हणतोयस. हे एक Pune-शी जुळवून घेण्याचा signal आहे."
 
-"Nashik-ला direct्ली एका Marathi household-त जाणार आहे मी, मला Marathi बोलायची practice हवीये."
+"Nashik-ला directly एका Marathi household-त जाणार आहे मी, मला Marathi बोलायची practice हवीये."
 
 "Kaustubh."
 
@@ -52,7 +52,7 @@ Nashik road. एका dhaba-वर थांबले — Kaustubh-ने थ�
 
 "मला माहित आहे. पण तू मला 'Pune-च्या startup-वाला' म्हणून introduce करणार आहेस, आणि एका Marathi-medium-Nashik-वाला आई-बाबा-च्या समोर मी 'OK so basically I'm into product engineering' म्हणून बोललो तर ते एक — एक — असं वाटेल की मी 'मराठी कमी, English जास्त' wala मुलगा आहे."
 
-"Kaustubh, तू literally एका Pune-मधल्या Marathi-घरात लहान झालास. तुझी मराठी मला बघून सुद्धा strong."
+"Kaustubh, तू literally एका Pune-मधल्या Marathi-घरात लहान झालास. तुझी मराठी मलाही strong वाटते."
 
 "Adii."
 
@@ -234,7 +234,7 @@ Aditi kitchen-तून बाहेर आली. Trays-त नाश्ता.
 
 बाबा-ने मामी-कडे एक look — Aditi-कडे एक look — Kaustubh-कडे एक look — मग आजी-कडे. आजी-ने एक neutral expression maintain केली, but Aditi-ला कळलं की आजी कुणाला तरी कधीतरी 'मी already interrogate केलंय' अशी confidence message दिली होती.
 
-ते नाश्ता खात बसले. पोहे — Nashik-style, खूप कांदा. एक छोटी ती बहीण — सिया — एका twelve-year-old version of Aditi — आत आली. एका IIT-pattern questions त्यांच्या समोर pose-केली — Madras कुठे, food कसं, Tamil लोक English बोलतात का — आणि Kaustubh ने patiently उत्तरे दिली, तर सिया-ने एक final question — "तू माझ्या ताईचा boyfriend आहेस का?" — directly Aditi-वर बघून विचारली.
+ते नाश्ता खात बसले. पोहे — Nashik-style, खूप कांदा. तिची छोटी बहीण — सिया — एका twelve-year-old version of Aditi — आत आली. IIT-pattern questions त्यांच्या समोर pose-केली — Madras कुठे, food कसं, Tamil लोक English बोलतात का — आणि Kaustubh ने patiently उत्तरे दिली, तर सिया-ने एक final question — "तू माझ्या ताईचा boyfriend आहेस का?" — directly Aditi-वर बघून विचारली.
 
 Room-त एक beat silence.
 
@@ -260,13 +260,13 @@ Aditi-ने बाबांकडे एका 'तुम्हाला कस
 
 "OK. End of speech."
 
-मामी-ने इस "speech"-ला बघून एक 'huh' केला. आजी हसली. आई-कडून — kitchen-त सुरू असलेल्या एका puran-poli-च्या smell-त — एक pleasant hum.
+मामी-ने ह्या "speech"-ला बघून एक 'huh' केला. आजी हसली. आई-कडून — kitchen-त सुरू असलेल्या एका puran-poli-च्या smell-त — एक pleasant hum.
 
 ---
 
 दुपारी जेवण. पुरण-पोळी. कुर्डई. भात. बटाटा-वडा. एक खूप मोठा meal ज्यानंतर Kaustubh-च्या stomach-त संशयास्पद rumbling.
 
-जेवणानंतर सगळे वेगवेगळ्या rooms-त scatter झाले. आजी झोपायला, मामी-मामा terrace-वर walking, सिया एका novel-त, बाबा एका Marathi newspaper-त, आई कितचेन साफ करायला.
+जेवणानंतर सगळे वेगवेगळ्या rooms-त scatter झाले. आजी झोपायला, मामी-मामा terrace-वर walking, सिया एका novel-त, बाबा एका Marathi newspaper-त, आई kitchen साफ करायला.
 
 Aditi-ने Kaustubh-ला बाहेर balcony-त नेलं.
 
@@ -328,7 +328,7 @@ Aditi-ने Kaustubh-ला बाहेर balcony-त नेलं.
 
 "पण इथे जास्त?"
 
-"...बघ — Aditi — एक अधिक."
+"...बघ — Aditi — थोडं अधिक."
 
 "OK. कारण मी एका minute-त आत आल्यावर तुझ्या face-वर एक gap registered झाला होता. कोणीतरी a different Aditi-शी जुळवायचा. मला हे matter — मी आत्तापर्यंत एका home-version-त कुणाला घेऊन आले नव्हते. तू पहिला आहेस."
 
@@ -344,7 +344,7 @@ Aditi-ने Kaustubh-ला बाहेर balcony-त नेलं.
 
 रात्री नऊ. Diwali-च्या lights लागलेल्या. बाहेर fireworks. Padwa special.
 
-Family-तले सगळे terrace-वर. बाबा एका dish-pattern firework — "अनार" — हाताळत होते. सिया lighter घेऊन उभी, फायर-स्टार्टर-च्या role-त. आई आणि मामी एका modak-च्या dish हलवत बोलत होत्या. आजी एका khurci-वर बसून बघत.
+Family-तले सगळे terrace-वर. बाबा एका dish-pattern firework — "अनार" — हाताळत होते. सिया lighter घेऊन उभी, फायर-स्टार्टर-च्या role-त. आई आणि मामी एका modak-च्या dish हलवत बोलत होत्या. आजी एका खुर्ची-वर बसून बघत.
 
 Kaustubh एका corner-त उभा. Aditi त्याच्या जवळ. तेव्हाच त्याचा phone vibrate.
 

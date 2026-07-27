@@ -126,7 +126,7 @@ Snehal Aditi-कडे.
 
 ---
 
-Skipthread च्या office-त AC service-साठी थांबला होता. म्हणजे Aman-च्या मते — "बघ bhau, खाली paneer-वाला त्याचा AC रात्री बंद करत नाही. आपण तिथल्या hot air-च्या वर बसून काम करतो. म्हणजे शेवटी थंड हवा आपल्याकडे येते. कन्व्हेक्शन."
+Skipthread च्या office-त AC service-साठी थांबला होता. म्हणजे Aman-च्या मते — "बघ bhau, खाली paneer-वाला त्याचा AC रात्री बंद करत नाही. आपण तिथल्या hot air-च्या वर बसून काम करतो. म्हणजे शेवटी थंड हवा आपल्याकडे येते. Convection."
 
 "Aman bhau, convection थंड हवा खाली नेतं, वर नाही."
 
@@ -146,7 +146,7 @@ Anuj त्याच्या बाजूला बसून एका docs-च
 
 "नाही, मला उगाच कळलं."
 
-Aman bhau आला, खिशात एक pen-stand, "Bhau, उद्या Friday demo आहे. Excel-API एक्सप्रोम्प्टली काम करायला हवा. तू आज night-out करू शकतोस का?"
+Aman bhau आला, खिशात एक pen-stand, "Bhau, उद्या Friday demo आहे. Excel-API properly काम करायला हवा. तू आज night-out करू शकतोस का?"
 
 "Aman bhau, मी आधीच night-outs केलेत three weeks-त चार वेळा."
 
@@ -172,7 +172,7 @@ Aman bhau आला, खिशात एक pen-stand, "Bhau, उद्या Fr
 
 Pune-त तीच एक new थी. तो जुना. हे anchor.
 
-पण जर तिचं company "PROUD" PPT-वाली, manager-त formal communication-वाली, ITT-च्या CSE-ची top fifteen-त रॅंक असलेली — तर त्याचं "guide" role थोडंसं... shaky वाटायला लागलेलं.
+पण जर तिचं company "PROUD" PPT-वाली, manager-त formal communication-वाली, IIT-च्या CSE-ची top fifteen-त रॅंक असलेली — तर त्याचं "guide" role थोडंसं... shaky वाटायला लागलेलं.
 
 त्याने laptop-ची brightness वाढवली. Bug-ला बघितलं. एक column-name typo होतं API-त. Five-minute fix. त्याने fix केला. एक PR raise केला. कोणीतरी review करेल कधीतरी.
 

@@ -214,7 +214,7 @@ Aditi-ला ती line कळली नाही.
 
 ---
 
-Friday रात्री Pune Films-च्या एका छोट्या hall-त ते बसले. Twenty-five people भर होते. Black-and-white screen. Subtitles. Casablanca-च्या पहिल्या दहा minutes-त Aditi-च्या डोक्यात एक मूळ realization झाला — हे actually एक classic आहे, हे एक थोडं-थोडं engaging आहे, मी हे केला पाहिजे होतं आधी.
+Friday रात्री Pune Films-च्या एका छोट्या hall-त ते बसले. Twenty-five people भर होते. Black-and-white screen. Subtitles. Casablanca-च्या पहिल्या दहा minutes-त Aditi-च्या डोक्यात एक मूळ realization झाला — हे actually एक classic आहे, हे एक थोडं-थोडं engaging आहे, मी हे आधीच बघायला हवं होतं.
 
 Kaustubh-च्या डोक्यात त्याहून सोपं — ती शेजारी आहे. तीच काळी टॉप. हाताला किंचित-थंडसर. Hall-च्या AC-त. आणि ती शेजारी आहे.
 
@@ -236,7 +236,7 @@ Kaustubh-च्या डोक्यात त्याहून सोपं �
 
 "काय?"
 
-ती समोर stood, hall-च्या बाहेर पावसाळ्याच्या आधीच्या दमट हवेत.
+ती समोर उभी राहिली, hall-च्या बाहेर पावसाळ्याच्या आधीच्या दमट हवेत.
 
 "नाही. Important नाही. Movie-वर बोलू."
 
@@ -290,7 +290,7 @@ Kaustubh-च्या डोक्यात त्याहून सोपं �
 
 ते उभे राहिले. वारा. कुठेतरी एका speaker-वर एक auto-rickshaw-वाला त्याच्या driver-friend-शी बोलत होता, voice loud. हे romantic moment नव्हतं. हे एक थोडंसं confused, थोडंसं embarrassed, थोडंसं — दोघांच्या डोक्यात — relieved.
 
-मग ती हसली. एक थोडी, fully-aware हसू — कारण ती-तो "मला तू आवडतोस" हे आत्ता-च्या-आत्ता या रस्त्यावर sodium-yellow lights-च्या खाली, एका auto-rickshaw-च्या उगाच ओरडणाऱ्या background-त घडला. आणि ती ज्या scene-ची ती कधीतरी imagined ती ही scene नव्हती. आणि ती scene नसल्याबद्दल ती हसली.
+मग ती हसली. एक थोडी, fully-aware हसू — कारण ती-तो "मला तू आवडतोस" हे आत्ता-च्या-आत्ता या रस्त्यावर sodium-yellow lights-च्या खाली, एका auto-rickshaw-च्या उगाच ओरडणाऱ्या background-त घडलं. आणि ती ज्या scene-ची ती कधीतरी imagined ती ही scene नव्हती. आणि ती scene नसल्याबद्दल ती हसली.
 
 तो हसला. कारण ती हसली. आणि कारण त्याने आत्ता एक truth सांगितली होती जी fifty-percent-त self-deprecating आणि fifty-percent-त brave होती, आणि तिने ती accept केली होती, आणि हे — आत्ता — हे enough होतं.
 

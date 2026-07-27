@@ -8,7 +8,7 @@ read_time: 10
 
 Sunday सकाळी सात-तीस-ला Aundh-च्या एका park-च्या बाहेर ते भेटले. हे neutral ground होतं — café नाही, restaurant नाही, घर नाही.
 
-जॉगर्स. एक यगा group bench-वर बसून breathing exercise. एक kid एका सायकल-वर तीन rounds मारून बघत. Sunday-च्या सकाळची specific air — Pune-च्या pre-pollution-window, eight-च्या आधी हवा अजून हलकी असते.
+जॉगर्स. एक योगा group bench-वर बसून breathing exercise. एक kid एका सायकल-वर तीन rounds मारून बघत. Sunday-च्या सकाळची specific air — Pune-च्या pre-pollution-window, eight-च्या आधी हवा अजून हलकी असते.
 
 ते walking path-वर सुरू.
 
@@ -162,7 +162,7 @@ Sunday सकाळी सात-तीस-ला Aundh-च्या एका p
 
 "OK?"
 
-"OK. मला thodi honesty वाली एक मूळ frustration आहे — कारण तू मला होकार दिलास, तू मला आवडतोस, आणि आता तू सांगतोयस 'maybe months' wait."
+"OK. मला थोडी honesty वाली एक मूळ frustration आहे — कारण तू मला होकार दिलास, तू मला आवडतोस, आणि आता तू सांगतोयस 'maybe months' wait."
 
 "Adii."
 

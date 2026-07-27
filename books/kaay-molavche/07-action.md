@@ -1,12 +1,12 @@
 ---
-title: अपयश कृती आणतो
+title: आधी कृती, मग motivation
 slug: 07-action
 order: 7
 summary: '"Motivation येईल तेव्हा सुरू करतो" — आणि motivation कधीच येत नाही. Action आधी येतो, inspiration नंतर.'
 read_time: 6
 ---
 
-आदित्यला घरचं लोणचं विकायचंय. आईचं recipe लाजवाब आहे. सोसायटीत सगळे मागतात. "छान business होईल" असं त्याच्या मनात तीन वर्षांपासून आहे. पण "कुठून सुरू करू? Market माहीत नाही. Packaging कुठून मिळेल? Capital नाही. Fail झालो तर?" — हे विचार येतात. तीन वर्षे निघून गेली, एक bottle ही sell झाली नाही. त्याची बहीण मीरा वेगळी. तिने craft candles बनवायला घेतल्या. पहिला batch गेला — रंग उडाला, smell गेला. दुसरा batch — packaging poor होती. तिसरा batch — चांगलं गेलं, 15 candles sold. आता ती consistently करतेय. तिने आदित्यला एकदा सांगितलं: "तू plan करतोयस, मी शिकतेय. शिकणं जास्त fast असतं."
+आदित्यला घरचं लोणचं विकायचंय. आईचं recipe लाजवाब आहे. सोसायटीत सगळे मागतात. "छान business होईल" असं त्याच्या मनात तीन वर्षांपासून आहे. पण "कुठून सुरू करू? Market माहीत नाही. Packaging कुठून मिळेल? Capital नाही. Fail झालो तर?" — हे विचार येतात. तीन वर्षे निघून गेली, एक bottle ही sell झाली नाही. त्याची बहीण मीरा वेगळी. तिने craft candles बनवायला घेतल्या. पहिला batch गेला — रंग उडाला, smell गेला. दुसरा batch — packaging poor होती. तिसरा batch — चांगलं गेलं, 15 candles sold. आता ती सातत्याने करतेय. तिने आदित्यला एकदा सांगितलं: "तू plan करतोयस, मी शिकतेय. शिकणं जास्त fast असतं."
 
 **Inspiration आणि motivation आधी येत नाहीत — ते action नंतर येतात. तुम्ही सुरू केल्यावर clarity येते, motivation येते.**
 
@@ -20,7 +20,7 @@ read_time: 6
 
 3. **Failure ला feedback म्हणा** — मीराचा पहिला candle batch गेला. हे failure नाही — हे information आहे: "रंग कोणता वापरायला नको." दुसरा batch — packaging poor: "cardboard fragile आहे, दुसरं वापरायला हवं." प्रत्येक attempt मध्ये एक question: "यातून मला काय शिकायला मिळालं?" हे question विचारणं म्हणजे failure ला data मध्ये convert करणं. Data useful असतो, drama नाही.
 
-4. **Perfect timing ची वाट बंद करा** — "Diwali नंतर सुरू करतो, मग नवीन वर्षात, मग उन्हाळ्यात सुटी आल्यावर..." हे pattern ओळखा. Timing कधीच perfect नसतं. मुलं होण्याआधी business सुरू करणं कठीण, मुलं झाल्यावर आणखी कठीण. Job असताना कठीण, सोडल्यावर uncertain. म्हणजे — कधीच perfect नाही. Imperfect start घ्या आजच.
+4. **Perfect timing ची वाट बघणं बंद करा** — "Diwali नंतर सुरू करतो, मग नवीन वर्षात, मग उन्हाळ्यात सुटी आल्यावर..." हे pattern ओळखा. Timing कधीच perfect नसतं. मुलं होण्याआधी business सुरू करणं कठीण, मुलं झाल्यावर आणखी कठीण. Job असताना कठीण, सोडल्यावर uncertain. म्हणजे — कधीच perfect नाही. Imperfect start घ्या आजच.
 
 ## हे टाळा
 

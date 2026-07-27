@@ -14,7 +14,7 @@ This is the logic behind Poor Economics. The poor are not irrational. They are l
 
 **When failure is catastrophic, the real problem is not low upside. It is high variance.**
 
-That is why many Indian households do not reject risk. They reject unprotected risk. They will let a son prepare for civil services while working a regular job. They will tolerate a side business so long as the salary continues. They will even praise ambition if the downside has already been covered by someone else.
+That is why many Indian households do not reject risk. They reject unprotected risk. They will let a son or daughter prepare for civil services while working a regular job. They will tolerate a side business so long as the salary continues. They will even praise ambition if the downside has already been covered by someone else.
 
 Scarcity adds another layer. When every bill is pressing for attention, the mind becomes narrower. Long-term planning is not impossible; it is crowded out. A family that is constantly juggling school fees, rent, and medical expenses does not get to think like a portfolio manager. It thinks like a firewall.
 

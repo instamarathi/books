@@ -20,13 +20,13 @@ read_time: 7
 
 3. **"मी हे का करतोय?" खोलवर विचारा** — Job बदलतोय? Surface उत्तर: "पैशासाठी." दुसरं level: "Status साठी." तिसरं level: "घरी सगळे म्हणतात मोठ्या company मध्ये असायला हवं." हे तुमचं value आहे की borrowed value? Job बदलायची असेल — पण genuine growth साठी, किंवा pressure साठी? दोन्ही valid reasons आहेत — पण कोणत्यासाठी बदलतोय हे माहीत असायला हवं.
 
-4. **Values-based छोटे decisions घेणं सुरू करा** — Big life decisions values-based घेणं overwhelming वाटतं. छोट्यातून सुरू करा. "Family important आहे" तर: आज रात्री phone बाजूला ठेऊन जेवण करणं. "Health important आहे" तर: आज एक glass जास्त पाणी. "Creativity important आहे" तर: आज 10 मिनिटं काहीतरी नवीन बनवणं. छोट्या decisions मध्ये values practice झाल्यावर मोठे decisions naturally align होतात.
+4. **Values-based छोटे decisions घेणं सुरू करा** — Big life decisions values-based घेणं overwhelming वाटतं. छोट्यातून सुरू करा. "Family important आहे" तर: आज रात्री phone बाजूला ठेऊन जेवण करणं. "Health important आहे" तर: आज एक glass जास्त पाणी. "Creativity important आहे" तर: आज 10 मिनिटं काहीतरी नवीन बनवणं. छोट्या decisions मध्ये values practice झाल्यावर मोठे decisions आपोआप align होतात.
 
 ## हे टाळा
 
-- **Borrowed values automatically स्वीकारणं** — Society, पालक, peer group यांनी ठरवलेल्या values तुमच्या झाल्या पाहिजेत असं नाही. "सगळे stock market मध्ये पैसे लावतात म्हणून मी" — हे तुमचं value आहे का, की दुसऱ्यांचं? Borrowed values वर build केलेलं life satisfying नसतं.
-- **Values-behavior gap ignore करणं** — "मला माहीत आहे मी नीट करत नाही" म्हणत gap तसाच ठेवणं. हे gap comfortable वाटतं — पण ते trickle-down होऊन मोठ्या dissatisfaction मध्ये येतं.
-- **सगळे conflicting values एकत्र chase करणं** — Freedom आणि security — या दोन्ही simultaneously maximize होत नाहीत. Adventure आणि stability — same. तुम्हाला काय जास्त important आहे ते decide करा, दोन्हींच्या मध्ये अडकू नका.
+- **Borrowed values आपोआप स्वीकारणं** — Society, पालक, peer group यांनी ठरवलेल्या values तुमच्या झाल्या पाहिजेत असं नाही. "सगळे stock market मध्ये पैसे लावतात म्हणून मी" — हे तुमचं value आहे का, की दुसऱ्यांचं? Borrowed values वर build केलेलं life satisfying नसतं.
+- **Values-behavior gap ignore करणं** — "मला माहीत आहे मी नीट करत नाही" म्हणत gap तसाच ठेवणं. हे gap comfortable वाटतं — पण ते हळूहळू वाढत जाऊन मोठ्या dissatisfaction मध्ये बदलतं.
+- **सगळे conflicting values एकत्र chase करणं** — Freedom आणि security — या दोन्ही एकाच वेळी maximize होत नाहीत. Adventure आणि stability — same. तुम्हाला काय जास्त important आहे ते decide करा, दोन्हींच्या मध्ये अडकू नका.
 
 ## Quick reference
 

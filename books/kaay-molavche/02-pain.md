@@ -10,21 +10,21 @@ read_time: 6
 
 **दुखणं टाळता येत नाही — पण कोणत्या कारणासाठी दुखायचं हे तुम्ही निवडू शकता.**
 
-आपण सगळे एक assumption घेऊन जगतो: चांगलं आयुष्य म्हणजे दुखणं नसलेलं आयुष्य. पण असं आयुष्य नसतंच. काहीतरी कायम uncomfortable असतं — exam असेल, नात्यातली ताण असेल, आर्थिक काळजी असेल, शरीराचं काहीतरी असेल. प्रश्न दुखणं येऊ द्यायचं का नाही हा नाही — प्रश्न कोणत्या दुखण्यासाठी होकार द्यायचा हा आहे. तुमच्या goal कडे नेणारा त्रास — तो worthwhile pain आहे. तुम्हाला कुठेही न नेणारी चिंता, jealousy, किंवा old grudge — तो meaningless pain आहे. दोन्हींना energy लागते, पण फक्त एकातून काहीतरी निघतं.
+आपण सगळे एक assumption घेऊन जगतो: चांगलं आयुष्य म्हणजे दुखणं नसलेलं आयुष्य. पण असं आयुष्य नसतंच. काहीतरी कायम uncomfortable असतं — exam असेल, नात्यातला ताण असेल, आर्थिक काळजी असेल, शरीराचं काहीतरी असेल. प्रश्न दुखणं येऊ द्यायचं का नाही हा नाही — प्रश्न कोणत्या दुखण्यासाठी होकार द्यायचा हा आहे. तुमच्या goal कडे नेणारा त्रास — तो worthwhile pain आहे. तुम्हाला कुठेही न नेणारी चिंता, jealousy, किंवा old grudge — तो meaningless pain आहे. दोन्हींना energy लागते, पण फक्त एकातून काहीतरी निघतं.
 
 ## ही चार techniques वापरा
 
-1. **Goal च्या मागे येणारा त्रास आधी ओळखा** — "मला स्वतःचा business सुरू करायचाय" — ठीक आहे. पण हे ठरवण्याआधी विचारा: त्याचा अर्थ काय? सुरुवातीला पैसे कमी, uncertainty जास्त, नाही म्हणणारे customers, long hours, घरचे काळजीत — हे सगळं तुम्हाला accept आहे का? हे process आहे, penalty नाही. जर process नको असेल पण result हवं असेल — तर goal खरा नाही. उदाहरण: "मला weight loss व्हायचंय" म्हणजे रोज exercise, dietary changes, social situations मध्ये वेगळं खाणं — हे तुम्हाला genuinely करायला जमेल का?
+1. **Goal च्या मागे येणारा त्रास आधी ओळखा** — "मला स्वतःचा business सुरू करायचाय" — ठीक आहे. पण हे ठरवण्याआधी विचारा: त्याचा अर्थ काय? सुरुवातीला पैसे कमी, uncertainty जास्त, नाही म्हणणारे customers, long hours, घरचे काळजीत — हे सगळं तुम्हाला accept आहे का? हे process आहे, penalty नाही. जर process नको असेल पण result हवं असेल — तर goal खरा नाही. उदाहरण: "मला weight loss व्हायचंय" म्हणजे रोज exercise, dietary changes, social situations मध्ये वेगळं खाणं — हे तुम्हाला खरंच करायला जमेल का?
 
 2. **Process ला enemy बनवू नका** — आपण result ला love करतो, process ला tolerate करतो. पण process हेच काम आहे. CA exam साठी mock tests मध्ये चुकणं हे failure नाही — ते practice आहे. Business मध्ये पहिले तीन महिने जेमतेम — ते building आहे. मुलाला पोहायला शिकवताना पाणी नाकात जाणं — ते शिकणं आहे. Process uncomfortable असते कारण ती growth आहे. Comfort असती तर grow करण्याची गरजच नसती.
 
 3. **"हे worth it आहे का?" हा एक प्रश्न विचारा** — कधी कधी खूप कठीण वाटतं — exam च्या आधी रात्री, business मधला तिसरा वाईट महिना, नात्यातला मोठा वाद. तेव्हा हा एक प्रश्न: हे worth it आहे का? उत्तर "हो" असेल तर continue करा. उत्तर "नाही" असेल तर — goal आहे की नाही ते reconsider करा. दोन्ही valid answers आहेत. पण हा प्रश्न विचारल्यावर तुम्ही conscious choice घेता, autopilot वर नाही.
 
-4. **Meaningless pain ओळखा आणि सोडा** — Jealousy — कोणाची success बघून आपोआप येतो. Grudge — years जुनी गोष्ट डोक्यात धरून ठेवणं. Overthinking — scenario after scenario imagine करणं जे कदाचित कधीच होणार नाही. हे सगळं pain आहे, energy जाते, पण काहीच बनत नाही. यांना identify करा आणि actively सोडा. सागर रोज Instagram scroll करताना jealous होतो — त्याने एकतर phone खाली ठेवायला हवं, किंवा jealousy ला direction द्यायला हवी: "हे बघून मला काय करायचंय?"
+4. **Meaningless pain ओळखा आणि सोडा** — Jealousy — कोणाची success बघून आपोआप येतो. Grudge — years जुनी गोष्ट डोक्यात धरून ठेवणं. Overthinking — scenario after scenario imagine करणं जे कदाचित कधीच होणार नाही. हे सगळं pain आहे, energy जाते, पण काहीच बनत नाही. यांना identify करा आणि जाणीवपूर्वक सोडा. सागर रोज Instagram scroll करताना jealous होतो — त्याने एकतर phone खाली ठेवायला हवं, किंवा jealousy ला direction द्यायला हवी: "हे बघून मला काय करायचंय?"
 
 ## हे टाळा
 
-- **Result हवंय, process नको** — "मला IAS व्हायचंय पण study नाही करायची" — हे goal नाही, ती fantasy आहे. Goal म्हणजे process ला होकार देणं.
+- **Result हवंय, process नको** — "मला IAS व्हायचंय पण study नाही करायची" — हे goal नाही, हे fantasy आहे. Goal म्हणजे process ला होकार देणं.
 - **सगळ्या दुखण्यातून escape शोधणं** — कठीण conversation avoid करणं, tough decision पुढे ढकलणं, uncomfortable situation पासून दूर पळणं — हे त्या त्रासाला मोठं करतं, कमी नाही. Pain is information — तिला ignore केलं की ती louder होते.
 - **Comfort zone ला safety म्हणणं** — "मी comfortable आहे" हे ऐकायला चांगलं वाटतं. पण comfortable म्हणजे stagnant. Growth uncomfortable असतेच — हे नाकारणं म्हणजे growth नाकारणं.
 

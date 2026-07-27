@@ -18,7 +18,7 @@ First, make failure cheaper. Bankruptcy rules, gig work, second-chance hiring, a
 
 Second, build a real floor. Universal health coverage, portable pensions, and unemployment protection matter more than speeches about entrepreneurship. If the household no longer has to act as the only insurer, young adults can stop treating every career move as a family emergency.
 
-Third, loosen the link between family honor and personal path. This is the slowest lever, but it matters. Every visible example of a young person who took a nonstandard path and survived becomes evidence for the next family. Over time, parents learn a new sentence: "My child can try, and the house will not collapse."
+Third, loosen the link between family honour and personal path. This is the slowest lever, but it matters. Every visible example of a young person who took a nonstandard path and survived becomes evidence for the next family. Over time, parents learn a new sentence: "My child can try, and the house will not collapse."
 
 ## Use these 5 techniques
 
@@ -31,7 +31,7 @@ Third, loosen the link between family honor and personal path. This is the slowe
 ## Avoid these traps
 
 - **Waiting for perfect safety** - Total safety never arrives. The goal is to make failure less catastrophic.
-- **Thinking one policy will fix culture** - Culture shifts slowly, and only after institutions make new behavior easier.
+- **Thinking one policy will fix culture** - Culture shifts slowly, and only after institutions make new behaviour easier.
 - **Confusing a few celebrity successes with broad freedom** - A visible winner does not mean the floor is real for everyone.
 
 ## Quick reference

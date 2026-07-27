@@ -146,7 +146,7 @@ Kaustubh-ने chocobar stick फेकली. हात shirt-ला पुस
 
 मग त्याने हे शेजारी ठेवलं. Sun out होता. Aai वाट बघत होती. Photo काढायचा होता. एक life पूर्ण होत होती, दुसरी सुरू होत होती. हे सगळं ठीक होतं.
 
-रात्री Marina-वर वारा होता. CS batch-ची तीस पोरं एका रिंगणात बसून memories उगाळत होती. Kaustubh वाळूत बसला Aditi-च्या शेजारी. Shreya कुठेतरी एका speaker-वर "Phir bhi tumko chahungaa" लावत होती कारण Shreya-ला एकही convocation moment emotional उत्तेजना-शिवाय जात नव्हतं.
+रात्री Marina-वर वारा होता. CS batch-ची तीस पोरं एका रिंगणात बसून memories उगाळत होती. Kaustubh वाळूत बसला Aditi-च्या शेजारी. Shreya कुठेतरी एका speaker-वर "Phir bhi tumko chahungaa" लावत होती कारण Shreya-ला एकही convocation moment भावनिक झाल्याशिवाय जात नव्हतं.
 
 "मला एक truth सांगू?" Aditi म्हणाली.
 
@@ -166,7 +166,7 @@ Kaustubh-ने chocobar stick फेकली. हात shirt-ला पुस
 
 "OK."
 
-ती मागे झुकली, हात वाळूत खुपसून, dark sky-कडे बघत. Madras एका शेवटच्या रात्री एका शेवटच्या seven-degree-warm वारयाने तिच्या केसांना थोडंसं ओढून घेत होतं.
+ती मागे झुकली, हात वाळूत खुपसून, dark sky-कडे बघत. Madras एका शेवटच्या रात्री एका शेवटच्या seven-degree-warm वाऱ्याने तिच्या केसांना थोडंसं ओढून घेत होतं.
 
 "Maybe मला हे आवडत होतं की तू दूर असणार होतास," ती म्हणाली. "म्हणजे मला तू नको होतास असं नाही, मला तू दूर हवा होतास. Distance हे एक frame असतं, बघ — आत असलेली गोष्ट थोडी सुंदर दिसते जेव्हा frame असतो."
 

@@ -6,11 +6,11 @@ summary: Counter-evidence — Indian YouTubers, indie musicians, D2C founders. �
 read_time: 8
 ---
 
-आत्तापर्यंत आपण भारतीय तरुणाची risk-aversion explain केली — कुटुंबाचा balance sheet, missing welfare state, हजार वर्षांचं non-WEIRD cultural inheritance, community pricing. पण हे पुस्तक determinist नाही. कारण भारतात गेल्या दहा वर्षांत एक छोटासा पण नकारता न येणारा बदल झालाय — काही तरुणांनी unconventional path निवडले, आणि fail झाले नाहीत.
+आत्तापर्यंत आपण भारतीय तरुणाची risk-aversion explain केली — कुटुंबाचा balance sheet, missing welfare state, हजार वर्षांचं non-WEIRD cultural inheritance, community pricing. पण हे पुस्तक determinist नाही. कारण भारतात गेल्या दहा वर्षांत एक छोटासा पण नाकारता न येणारा बदल झालाय — काही तरुणांनी unconventional path निवडले, आणि fail झाले नाहीत.
 
 Mumbai च्या Khar मधल्या एका 2-BHK मधून रहाणारा Bhuvan Bam, YouTube वरच्या short-form comedy ने नंतर BB Ki Vines चा empire उभा केला. Pune मधले Sandeep Maheshwari, motivational speaker. Bangalore च्या एका bedroom मधून सुरू झालेलं Boat (Aman Gupta), आज unicorn. Indore च्या एका 22-वर्षीय मुलीने D2C skincare brand सुरू केला. हे फक्त celebrity examples नाहीत — पण हे show करतात की रस्ता possible आहे. प्रश्न — *कोणत्या conditions मध्ये possible झाला?*
 
-**तीन conditions बहुतेक case मध्ये common — पालकांनी downside explicitly absorb केलाय, peer-group ने shame चा cost कमी केलाय, आणि internet ने failure cheap-and-reversible केलाय. हे तीन structural changes भारतीय risk-taking चा भविष्य ठरवतील.**
+**तीन conditions बहुतेक case मध्ये common — पालकांनी downside explicitly absorb केलाय, peer-group ने shame चा cost कमी केलाय, आणि internet ने failure cheap-and-reversible केलाय. हे तीन structural changes भारतीय risk-taking चं भविष्य ठरवतील.**
 
 ## तीन lever — सुरुवात कुठून
 
@@ -22,7 +22,7 @@ Mumbai च्या Khar मधल्या एका 2-BHK मधून रह�
 
 - **Gig income.** Uber, Swiggy, Zomato, Urban Company, freelancer platforms — यांच्यामुळे "9-to-5 job" नसलेल्या तरुणाला आता उत्पन्नाचा एक continuous flow शक्य आहे. म्हणजे startup करायचं असेल आणि मध्ये एक "rough patch" आला तरी रोज जेवायला पैसे येतात. हे एक micro-cushion आहे.
 
-- **Second-chance hiring.** Indian tech companies (विशेषतः startups) हळूहळू "failed founder" tag positively बघायला शिकत आहेत. Resume वर "एक startup केला, fail झाला" हे आता embarrassment नाही, experience आहे. हे cultural shift आहे, आणि तो हळू हळू spread होतोय.
+- **Second-chance hiring.** Indian tech companies (विशेषतः startups) हळूहळू "failed founder" tag positively बघायला शिकत आहेत. Resume वर "एक startup केला, fail झाला" हे आता embarrassment नाही, experience आहे. हा cultural shift आहे, आणि तो हळू हळू spread होतोय.
 
 - **Internet ने distribution democratize केलं.** एका YouTube channel सुरू करायला कुणाचं permission, कुठलं capital, कुठलं network — काहीच लागत नाही. Failure ची किंमत = काही महिन्यांचा वेळ. Recoverable. हे माध्यम सर्वात मोठं risk-cost reduction आहे.
 
@@ -44,11 +44,11 @@ Mumbai च्या Khar मधल्या एका 2-BHK मधून रह�
 
 हा सगळ्यांत slow आहे, कारण हा cultural आहे, आणि policy ने तो "fix" करता येत नाही.
 
-पण हा बदल आधीच सुरू आहे. प्रत्येक तरुण ज्याने unconventional path निवडला आणि publicly fail होऊन परत उभा राहिला — तो कुटुंबाच्या मनातून थोडा-थोडा भीतीचा थर काढतो. Bhuvan Bam ने early YouTube वर तीन वर्षं काही monetization नव्हतं. Aman Gupta ने पहिल्या business मध्ये fail झाला. Aaditi Palav ने (एक Marathi YouTuber) सुरुवातीला पैसा अजिबात नव्हता. हे सगळे community मध्ये "बघा, हे शक्य आहे" चे live demonstrations आहेत.
+पण हा बदल आधीच सुरू आहे. प्रत्येक तरुण ज्याने unconventional path निवडला आणि publicly fail होऊन परत उभा राहिला — तो कुटुंबाच्या मनातून थोडा-थोडा भीतीचा थर काढतो. Bhuvan Bam ला early YouTube वर तीन वर्षं काही monetization नव्हतं. Aman Gupta पहिल्या business मध्ये fail झाला. Aaditi Palav ला (एक Marathi YouTuber) सुरुवातीला पैसा अजिबात नव्हता. हे सगळे community मध्ये "बघा, हे शक्य आहे" चे live demonstrations आहेत.
 
 आणि हे demonstrations जेव्हा एका area मध्ये (Mumbai, Bangalore, Pune) घनदाट होतात, तेव्हा त्या area मध्ये पुढच्या तरुणाला risk घ्यायची permission मिळायला सोपं जातं. कारण आई-बाबांच्या mind मध्ये एक new template तयार होतो — "मुलगा 25 व्या वर्षी startup करत असेल तर ठीक, पुष्कळ करतात आजकाल."
 
-हा cultural shift compounding आहे. एक generation मध्ये थोडा बदल, पुढच्या generation मध्ये exponentially जास्त. म्हणजे रोहनच्या मुलाला रोहन पेक्षा जास्त permission असेल. Aarav च्या मुलीला Aarav पेक्षा जास्त. ही intergenerational drift चालू आहे, पण ती कुठे एका विशिष्ट पॉइंट वर "click" होईल हे आत्ताच सांगता येणार नाही.
+हा cultural shift compounding आहे. एक generation मध्ये थोडा बदल, पुढच्या generation मध्ये exponentially जास्त. म्हणजे रोहनच्या मुलाला रोहन पेक्षा जास्त permission असेल. Aarav च्या मुलीला Aarav पेक्षा जास्त. ही intergenerational drift चालू आहे, पण ती कुठे एका विशिष्ट point वर "click" होईल हे आत्ताच सांगता येणार नाही.
 
 ## रोहन आणि Adam कडे परत
 
@@ -66,7 +66,7 @@ Adam ची शाश्वती जास्त असेल, पण त्य
 
 रोहन शेवटी काय करेल? बहुधा MNC join करेल, ताईच्या लग्नाचं loan repay करेल, आई-बाबांची साथ देईल. आणि कदाचित 35 व्या वर्षी, थोडंसं cushion निर्माण झाल्यावर, एखादा side project सुरू करेल. हे failure नाहीये — हे delayed risk-taking आहे.
 
-आणि कदाचित, जर पुढची दहा-वीस वर्षं Lever 2 चा push योग्य दिशेने झाला, तर रोहनच्या मुलगा 22 व्या वर्षी risk घेऊ शकेल — Adam सारखा absolute नाही, पण रोहन पेक्षा जास्त. आणि त्याच्या मुलगा त्यापेक्षा जास्त.
+आणि कदाचित, जर पुढची दहा-वीस वर्षं Lever 2 चा push योग्य दिशेने झाला, तर रोहनचा मुलगा 22 व्या वर्षी risk घेऊ शकेल — Adam सारखा absolute नाही, पण रोहन पेक्षा जास्त. आणि त्याचा मुलगा त्यापेक्षा जास्त.
 
 *धैर्य ही mostly infrastructure असते. आणि भारत ती infrastructure हळूहळू बांधतोय.* हे पुस्तक त्या building process चं एक snapshot आहे — कुठून आलोय, कुठे आहोत, कुठे जायचं आहे.
 

@@ -40,5 +40,5 @@ That is why culture can lag behind money by a generation or two. A family may be
 **Avoid:**
 - "Rich people automatically take bigger risks."
 - "Status does not matter once money arrives."
-- "People will say" is a small issue."
+- "'What will people say?' is a small issue."
 - "Culture changes as fast as income."

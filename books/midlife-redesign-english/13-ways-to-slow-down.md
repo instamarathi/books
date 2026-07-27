@@ -22,7 +22,7 @@ You do not need to remember the whole book when a difficult moment arrives. One 
 
 The smallest form of slowing down is to wait ten seconds before responding.
 
-Your child answers sharply. A relative sends a message designed to produce guilt. Somebody dismisses your idea in a meeting. During the first ten seconds, the old self rushes forward with its usual equipment: anger, defence, advice, apology, compliance.
+Your child answers sharply. A relative sends a message designed to produce guilt. Somebody dismisses your idea in a meeting. During the first ten seconds, the old self rushes forward with its usual equipment: anger, defense, advice, apology, compliance.
 
 Do not solve anything during the pause. Take one breath. Notice your feet on the floor. Look away from the screen. Let the body receive the news before the personality performs its familiar response.
 
@@ -72,7 +72,7 @@ In the second, write: “This matters, but it does not have to happen today.”
 
 A medical appointment may belong in the first column. A patient conversation with your teenager may belong in the second. A genuine client crisis may belong in the first. Replying to every email within ten minutes may belong in neither.
 
-Pressure paints every task the same colour. Writing restores distinction.
+Pressure paints every task the same color. Writing restores distinction.
 
 ## 5. Read your calendar as evidence
 
@@ -80,7 +80,7 @@ What you call important is less revealing than what repeatedly receives your tim
 
 Once a month, look back at the previous two weeks. Where did the hours go? Which commitments came from an automatic yes? Which meetings left you irritated? Which conversations made you feel more present? How often was time reserved for yourself and then surrendered to something that appeared more legitimate?
 
-Read the calendar without prosecuting yourself; use it to discover what your life is actually organised around.
+Read the calendar without prosecuting yourself; use it to discover what your life is actually organized around.
 
 If something keeps occupying your calendar without ever being chosen, that area probably needs a boundary.
 
@@ -88,13 +88,13 @@ If something keeps occupying your calendar without ever being chosen, that area 
 
 You do not need to become a person who refuses everything. Begin with one request you would normally accept because guilt arrives faster than thought.
 
-“I cannot organise it this time.”
+“I cannot organize it this time.”
 
 “I cannot stay for the full day, but I can come for an hour.”
 
 “I am not available this weekend. I will look at it on Monday.”
 
-Do not bury the refusal under a long defence. The more you explain, the more material you provide for negotiation.
+Do not bury the refusal under a long defense. The more you explain, the more material you provide for negotiation.
 
 One clean no makes the rest of your yeses more trustworthy. It also gives the body a new piece of evidence: somebody was disappointed, and the world did not end.
 
@@ -173,7 +173,7 @@ Loneliness does not always require a large confession. Sometimes one accurate se
 
 “I do not need advice yet. I only need to say it aloud.”
 
-Choose the person carefully. Not everyone needs access to your interior life. But if nobody has access, people know only your function: provider, manager, parent, organiser, problem-solver.
+Choose the person carefully. Not everyone needs access to your interior life. But if nobody has access, people know only your function: provider, manager, parent, organizer, problem-solver.
 
 One true sentence opens a window in the role.
 
@@ -207,7 +207,7 @@ That would be another version of speed: a new self-improvement project, complete
 
 Choose the method that belongs to the place where your life currently feels most hurried. If you react too quickly, use the ten-second interruption. If your calendar is overcrowded, delay your answers. If money fear is running the household, write the four numbers. If you feel lonely, speak one true sentence. If you cannot hear your own mind, protect the first fifteen minutes of the day.
 
-A method has not failed because you did not practise it every day.
+A method has not failed because you did not practice it every day.
 
 It has worked if you remember it during one important moment:
 

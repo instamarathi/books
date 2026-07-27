@@ -10,7 +10,7 @@ read_time: 10
 
 **Bad news उशिरा देणं हे good news उशिरा देण्यापेक्षा १०x वाईट. लवकर, options सोबत, आणि स्पष्ट — हाच एकमेव सुरक्षित मार्ग.**
 
-Bad news ला natural human reflex असतो — दुर्लक्ष, delay, "गोष्टी आपोआप ठीक होतील" आशा. हा reflex IC म्हणून कधीतरी maybe acceptable होता — स्वतःचा problem स्वतःच handle करायचा. Manager म्हणून हा reflex toxic आहे. कारण तुमचा problem फक्त तुमचा नाही — तो boss चा, customer चा, dependent teams चा problem आहे. आणि त्यांना react करायला, plan करायला, expectations reset करायला जो वेळ हवा तो तुम्ही delay करून त्यांच्याकडून चोरताय. लवकर bad news चा रहस्य — boss तुमच्यावर रागावत नाही bad news साठी, boss तुमच्यावर रागावतो कारण त्याला react करायला वेळ नाही मिळाला. Surface early, surface clearly, आणि options सोबत — हा एकमेव professional approach.
+Bad news ला natural human reflex असतो — दुर्लक्ष, delay, "गोष्टी आपोआप ठीक होतील" आशा. हा reflex IC म्हणून कधीतरी maybe acceptable होता — स्वतःचा problem स्वतःच handle करायचा. Manager म्हणून हा reflex toxic आहे. कारण तुमचा problem फक्त तुमचा नाही — तो boss चा, customer चा, dependent teams चा problem आहे. आणि त्यांना react करायला, plan करायला, expectations reset करायला जो वेळ हवा तो तुम्ही delay करून त्यांच्याकडून चोरताय. लवकर bad news देण्यामागचं रहस्य हे — boss तुमच्यावर रागावत नाही bad news साठी, boss तुमच्यावर रागावतो कारण त्याला react करायला वेळ नाही मिळाला. Surface early, surface clearly, आणि options सोबत — हा एकमेव professional approach.
 
 ## ही चार techniques वापरा
 
@@ -32,7 +32,7 @@ Bad news ला natural human reflex असतो — दुर्लक्ष, 
 
 **बोला:**
 - "Early signal दिसतोय, certainty नाही पण कळवायला हवं म्हणून."
-- "तीन options आहेत — (a), (b), (c). मला (b) रिकmend आहे कारण..."
+- "तीन options आहेत — (a), (b), (c). मला (b) recommend आहे कारण..."
 - "ही माझी चूक, मी हे आधी catch करायला हवं होतं."
 - "हे urgent आहे, १५ मिनिटांचा वेळ देऊ शकता का?"
 

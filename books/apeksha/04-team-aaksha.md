@@ -6,7 +6,7 @@ summary: तुमची team तुमच्याकडून काही ठ
 read_time: 10
 ---
 
-अनिकेत ने पहिल्या महिन्यात team साठी एक मोठा बदल केला — आठवड्याची standup सर्व ३० मिनिटांवरून १५ मिनिटांवर आणली, आणि सोमवारची "all-hands" meeting cancel केली. त्याचं logic — "मला IC असताना meetings खूप वाटायच्या, team ला पण असंच वाटत असेल." पंधरा दिवसांनी एका 1:1 मध्ये एक senior engineer अस्वस्थ होऊन म्हणाली — "अनिकेत, मला कधीच कळत नाही project कुठे आहे. आधी सोमवारी pictureपूर्ण मिळायचं, आता मी guesses वर काम करते. आणि standups मध्ये तू कोणाला feedback देत नाहीस — आधीचे manager तिथे coaching करायचे, आता आम्ही फक्त updates देतो आणि निघतो." अनिकेत ला धक्का बसला. त्याने गृहीत धरलं होतं की team ला meetings कमी हव्यात — actually त्यांना information आणि feedback हवं होतं, आणि meetings हे फक्त delivery vehicle होतं.
+अनिकेत ने पहिल्या महिन्यात team साठी एक मोठा बदल केला — आठवड्याची standup सर्व ३० मिनिटांवरून १५ मिनिटांवर आणली, आणि सोमवारची "all-hands" meeting cancel केली. त्याचं logic — "मला IC असताना meetings खूप वाटायच्या, team ला पण असंच वाटत असेल." पंधरा दिवसांनी एका 1:1 मध्ये एक senior engineer अस्वस्थ होऊन म्हणाली — "अनिकेत, मला कधीच कळत नाही project कुठे आहे. आधी सोमवारी picture पूर्ण मिळायचं, आता मी guesses वर काम करते. आणि standups मध्ये तू कोणाला feedback देत नाहीस — आधीचे manager तिथे coaching करायचे, आता आम्ही फक्त updates देतो आणि निघतो." अनिकेत ला धक्का बसला. त्याने गृहीत धरलं होतं की team ला meetings कमी हव्यात — actually त्यांना information आणि feedback हवं होतं, आणि meetings हे फक्त delivery vehicle होतं.
 
 **तुम्ही गृहीत धरलेल्या team च्या अपेक्षा बहुतेक चुकीच्या असतात — कारण तुम्ही IC म्हणून जे expect करायचात ते तुमच्या team चं representative नाही.**
 

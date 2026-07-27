@@ -16,16 +16,16 @@ read_time: 6
 
 1. **Progress ला achievement मानायला शिका** — राहुल ७५% वरून ८२% वर गेला — सात points ची वाढ. हे साजरं करायला हवं. सुरेश ६५% वरून ७८% गेला — तेरा points. हे पण साजरं. दोघांनी grow केलं. "मी माझ्यापेक्षा better झालो का?" हा प्रश्न "मी इतरांपेक्षा better आहे का?" पेक्षा जास्त useful आहे. तुमच्या आयुष्याची comparison axis तुम्हीच ठरवा — last year च्या तुमच्याशी तुलना करा, शेजाऱ्याशी नाही.
 
-2. **तुलना करणं conscious ने कमी करा** — Social media वर सगळे highlight reel दाखवतात. कोणाचं नवीन घर, कोणाचं promotion, कोणाचा Europe trip. तुम्ही त्यांचं best moment बघता आणि स्वतःच्या ordinary moment शी compare करता. हे fair नाही — तुम्हाला किंवा त्यांना. दर रविवारी दुपारी एखाद्याचं Facebook profile scrolling करून jealous होणं हे meaningless pain आहे. त्या वेळात स्वतःसाठी काहीतरी करा.
+2. **तुलना करणं जाणीवपूर्वक कमी करा** — Social media वर सगळे highlight reel दाखवतात. कोणाचं नवीन घर, कोणाचं promotion, कोणाचा Europe trip. तुम्ही त्यांचं best moment बघता आणि स्वतःच्या ordinary moment शी compare करता. हे fair नाही — तुम्हाला किंवा त्यांना. दर रविवारी दुपारी एखाद्याचं Facebook profile scrolling करून jealous होणं हे meaningless pain आहे. त्या वेळात स्वतःसाठी काहीतरी करा.
 
 3. **Labels सोडा — मुलांचे पण** — "माझा मुलगा genius आहे" हा label त्याला freedom देत नाही — pressure देतो. जेव्हा label च्या विरुद्ध जाईल असं होतं — ८२% आलं, पण genius ला ९५% अपेक्षित — तो failure वाटतो. Labels replace करा: "माझा मुलगा मेहनती आहे" किंवा "माझ्या मुलीला figures चा interest आहे." हे specific, achievable, आणि process-oriented आहेत.
 
-4. **Ordinariness मध्ये quality शोधा** — साधारण दिवस साजरे करणं — आज नाश्ता मस्त झाला, मुलाशी छान गप्पा झाल्या, office मध्ये एक काम नीट पूर्ण केलं — हे count करायला शिका. Big milestones च्या मधले ordinary days हे आयुष्याचा bulk असतात. तिथेच genuinely जगणं आवश्यक आहे, फक्त milestone वर नाही.
+4. **Ordinariness मध्ये quality शोधा** — साधारण दिवस साजरे करणं — आज नाश्ता मस्त झाला, मुलाशी छान गप्पा झाल्या, office मध्ये एक काम नीट पूर्ण केलं — हे count करायला शिका. Big milestones च्या मधले ordinary days हे आयुष्याचा bulk असतात. तिथेच मनापासून जगणं आवश्यक आहे, फक्त milestone वर नाही.
 
 ## हे टाळा
 
 - **Mediocrity ला excuse** — "साधारण असणं ठीक आहे" म्हणजे effort नको असं नाही. तुमच्या best ला aim करा — पण comparison ची obsession सोडा. हे दोन वेगळ्या गोष्टी आहेत.
-- **Social media comparison trap** — कोणाचं शानदार vacation, कोणाचं बढाव — हे compare करायचं base नाही. त्यांचं बाकी आयुष्य तुम्हाला दिसत नाही.
+- **Social media comparison trap** — कोणाचं शानदार vacation, कोणाची बढती — हे compare करायचं base नाही. त्यांचं बाकी आयुष्य तुम्हाला दिसत नाही.
 - **मुलांना label देणं** — "तू खूप हुशार आहेस" ऐवजी "तू खूप मेहनत केलीस" म्हणा. Achievement label करू नका, effort label करा. Intelligence fixed नसते, effort वाढवता येते.
 
 ## Quick reference

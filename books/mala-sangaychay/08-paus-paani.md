@@ -120,7 +120,7 @@ Kaustubh-ने lights लावले. Office एका beat-त familiar-य�
 
 ती phone काढली. एक email open केला. screen Kaustubh-कडे.
 
-He read it.
+त्याने ते वाचलं.
 
 > *Subject: Onsite Opportunity — New Jersey, October*
 > *Aditi, your performance over the last six months has been strong. We'd like to offer you an onsite at our New Jersey office for our financial services client. Duration: 18 months. Decision required by August 15.*
@@ -297,7 +297,7 @@ He read it.
 
 "OK."
 
-ते couch-वर एका थोड्या-formal distance-त पडले. एका थंडशी जमीन-त, एका धुसर-grey Hinjewadi-च्या रात्री-त, एका थोड्या-cold conditioner-त एका थोड्या-थोड्या hopeful, थोड्या-थोड्या hurt एका relationship-त.
+ते couch-वर एका थोड्या-formal distance-त पडले. एका थंडशी जमीन-त, एका धुसर-grey Hinjewadi-च्या रात्री-त, पेडेस्टल-fan-च्या थोड्या-थंड हवेत, थोड्या-थोड्या hopeful, थोड्या-थोड्या hurt एका relationship-त.
 
 बाहेर पाऊस अजून. आत pedestal-fan अजून humming. आणि मध्ये त्या दोघांना झोप आली — रात्री बारा-वाजताला नाही, साडे-एकला — कारण आज रात्री प्रत्येक minute-त एक थोडंसं processing चालू होतं, आणि processing-ला झोप उशिराने येते.
 

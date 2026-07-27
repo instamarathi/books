@@ -14,7 +14,7 @@ But the history is stranger than the myth.
 
 Joseph Henrich's argument is useful because it forces us to stop treating Western psychology as universal psychology. A thousand years of church rules, marriage restrictions, and changing inheritance patterns slowly weakened kinship networks across parts of Europe. When cousin marriage and dense clan life were pushed back, people began to rely less on extended kin and more on voluntary associations, contracts, guilds, towns, and later markets. In time, the inner habits changed too. People became more comfortable dealing with strangers, more likely to think in rules and abstractions, and more inclined to see themselves as individuals rather than just members of a family line.
 
-That is not a better human being. It is a different historical arrangement.
+That does not make him a better human being. It is a different historical arrangement.
 
 India took a different road. Family, caste, community, and marriage networks remained central. In many parts of the country, kinship still structures trust, obligation, and reputation. Even where urban life has weakened the old forms, the habit of thinking through family remains powerful. That is why a person in Chandigarh may still hear a career question as a family question, while a person in Amsterdam may hear the same question as a personal project.
 

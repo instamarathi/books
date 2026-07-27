@@ -8,7 +8,7 @@ read_time: 11
 
 US-च्या onsite-त Aditi अठरा महिन्यांसाठी New Jersey-त गेली नाही.
 
-ती गेली, हे एक interesting fact. ती अकरा महिन्यांत परत आली. Cognizant-ला तिने eight-pm IST-च्या एका exec-call-त "मला Pune-त परत यायचंय" सांगितलं. Exec-ने एका थोड्या वैतागलेला tone-त — "Aditi, हे अठरा-month commitment होतं" — viewed-आहे की reality.
+ती गेली, हे एक interesting fact. ती अकरा महिन्यांत परत आली. Cognizant-ला तिने eight-pm IST-च्या एका exec-call-त "मला Pune-त परत यायचंय" सांगितलं. Exec-ने एका थोड्या वैतागलेल्या tone-त — "Aditi, हे अठरा-month commitment होतं" — जणू एक reality-check दिला.
 
 ती शांत-शांत होती. "Sir, मी सहा-month-त परत आणखी एक negotiate करायला विचारलं तेव्हा तुम्ही 'नाही' म्हणालात. आता मी अकरा-month-त 'मला परत यायचंय' सांगते. हे माझं एक specific personal-decision आहे, मला माहित आहे एक penalty आहे, मी penalty pay करायला तयार आहे."
 
@@ -16,7 +16,7 @@ US-च्या onsite-त Aditi अठरा महिन्यांसाठ�
 
 ती परत Pune-त एका Tuesday-ला. एका Wednesday-ला Kaustubh ने तिला Pune airport-वर pick up केला.
 
-Skipthread सहा-week-runway-ला survive झालं होतं — एका Bombay-च्या VC-ने Series A-त lead घेतला होता. एका 'pre-Series A'-ला 'Series A'-त pivot झालेलं Aman bhau-ने अकरा-months-त नवीन Anuj नाही replaced, पण नवीन एक junior — Riya — एक recent IIT Bombay graduate. Kaustubh-चा role आता slightly larger — एक product-owner-वाला, salary आता forty-thousand. Aman bhau-ने एक "Bhau, congratulations" साठी एक whatsapp sticker पाठवलेला होता तेव्हा.
+Skipthread सहा-week-runway-ला survive झालं होतं — एका Bombay-च्या VC-ने Series A-त lead घेतला होता. 'Pre-Series A' चं 'Series A'-त pivot झाल्यावर Aman bhau-ने अकरा-months-त Anuj-ची जागा नाही भरली, पण एक नवीन junior — Riya, एक recent IIT Bombay graduate — घेतली. Kaustubh-चा role आता slightly larger — एक product-owner-वाला, salary आता forty-thousand. Aman bhau-ने एक "Bhau, congratulations" साठी एक whatsapp sticker पाठवलेला होता तेव्हा.
 
 ते एका Wakad-त एक 2BHK-त त्यांनी अकरा-months-आधी move-in केलं होतं. Aditi-च्या US-त असताना तिने rent half pay करत राहिलेली. Kaustubh-ने half. ही एक odd arrangement होती — एक empty bedroom अकरा-महिने. पण ते दोघांचं ठरून-न-ठरून ठरलेलं default — flat-ची continuity ठेवायची. ती कधीतरी परत येणार होती. ती परत आली.
 
@@ -220,7 +220,7 @@ Kaustubh kitchen-त. एक चहा. एक कुठल्यातरी ol
 
 मग शांत.
 
-Aditi-ने तळव्यावरचा रंग अजून एक beat बघितला. ती सहा-month-नंतर ती फिकटताही गायब होईल. कुठेतरी एका तसा रंग raha जाईल — एका phone-च्या photo-त, एका त्यांच्या डोक्यात, एका balcony-च्या एका रिकाम्या evening-त. हे ठीक होतं. हे चालू-आहे.
+Aditi-ने तळव्यावरचा रंग अजून एक beat बघितला. सहा महिन्यांनंतर ती पूर्ण फिकट होऊन गायब होईल. पण कुठेतरी तो रंग राहील — एका phone-च्या photo-त, एका त्यांच्या डोक्यात, एका balcony-च्या एका रिकाम्या evening-त. हे ठीक होतं. हे चालू-आहे.
 
 Kaustubh-ने तिचा हात धरला. पाच-second-च्या-तो थोडासा cold त्या cooler-November-त. ती हलकेच त्याच्या हाताला press केली back.
 

@@ -134,7 +134,7 @@ Snehal door-च्या आत. एका minute Aditi-च्या रिक�
 
 "मुलगी."
 
-Snehal हे खोटं काही weight-नशिवाय बोलली. खोटं बोलण्यात तिची practice होती — हे Vipula aunty-ला कधीतरी कळेलच, पण आज नाही. आज Aditi-च्या evening-ची safety होती.
+Snehal हे खोटं काही weight-शिवाय बोलली. खोटं बोलण्यात तिची practice होती — हे Vipula aunty-ला कधीतरी कळेलच, पण आज नाही. आज Aditi-च्या evening-ची safety होती.
 
 Vipula aunty चहाची झारी काढली.
 
@@ -144,7 +144,7 @@ JW Marriott. Reception hall. Kaustubh gate-वर.
 
 Aman bhau-च्या blazer अपेक्षेपेक्षा loose होता. खांद्यांचा cut दोन inches खाली. Sleeves तळव्यापर्यंत. आत white shirt crisp होतं पण blazer-च्या drape-मुळे एकूण look — एका मुलाने उसना घेतलेला blazer.
 
-Aman bhau-च्या वाक्याबद्दल त्याने पुन्हा एक doubt-त switch केली. "Loose-fit fashion" was a phrase Aman bhau invented Friday रात्री दहा वाजता त्याच्याकडे flat-वरून निघण्याच्या आधी, आणि Aman bhau-ने हे phrase कुठेतरी वाचलेलं असेल अशी Kaustubh-ने स्वतःला आशा दिली होती. आता gate-वर उभा असताना त्याला कळतंय की Aman bhau-ने phrase स्वतःच invented केलेलं होतं.
+Aman bhau-च्या वाक्याबद्दल त्याने पुन्हा एक doubt-त switch केली. "Loose-fit fashion" हा phrase Aman bhau-ने Friday रात्री दहा वाजता, त्याच्याकडून flat-वरून निघण्याच्या आधी, invent केला होता — आणि Aman bhau-ने हे phrase कुठेतरी वाचलेलं असेल अशी Kaustubh-ने स्वतःला आशा दिली होती. आता gate-वर उभा असताना त्याला कळतंय की Aman bhau-ने phrase स्वतःच invented केलेलं होतं.
 
 तो sleeves एकदा roll केली. एकदा unroll. तीन वेळा.
 
@@ -248,7 +248,7 @@ Kaustubh एक beat थांबला. मामांनी "छान" त�
 
 आणि त्याची embarrassment Aditi-च्या समोर registered झाली. कारण Aditi-ने एक second-त त्याच्या face-कडे बघितलं, परत मामांकडे, परत त्याच्या face-कडे. ती कळून घेतली. मग ती हसून "धन्यवाद, मामा" म्हणाली आणि subject बदलला.
 
-पण ती subject बदलण्यात — एका थोड्या over-attentiveness-त — त्याने एक save-the-startup-boy gesture register केला. आणि त्या save-च्या gesture-त, त्याच्यासाठी, एक छोटीशी अधिक एका Bangalore-Flipkart-offer-च्या ग़ुनाहाची आठवण लागली.
+पण ती subject बदलण्यात — एका थोड्या over-attentiveness-त — त्याने एक save-the-startup-boy gesture register केला. आणि त्या save-च्या gesture-मुळे, त्याला Bangalore-च्या Flipkart offer सोडल्याच्या अपराधीपणाची आणखी एक छोटी आठवण झाली.
 
 Dinner पुढे. Music आत. Tanaya stage-वर तिच्या नवऱ्याशी एक slow dance attempt.
 
@@ -302,7 +302,7 @@ Ola. PG-कडे. वारा. आत साडीची एक border window-
 
 "मला माहित आहे."
 
-"बाह."
+"वाह."
 
 Driver पुढे शांत. Pune-च्या रस्त्यावर एक कुत्रा त्यांच्या समोर अचानक धावत आला, driver-ने brake मारली, कुत्रा side-ला सटकला, सगळं normal झालं. हे रात्रीचा एक standard Pune event.
 
@@ -338,4 +338,4 @@ Aditi त्या breathing-ला ऐकत राहिली, ceiling-कड
 
 मग ती झोपी गेली. नाही पटकन — पंधरा minutes-त. कारण आत्ता एक नवीन गोष्ट घर-त शिरली होती. एक मुलगा तिला आवडत होता, एक मैत्रीण त्याला आवडत होती, आणि ती मैत्रीण आता तिच्या समोरच्या bed-वर breathe करत होती.
 
-हे सगळं — अनुक्रमे — manageable होतं. पण आज नाही. आज फक्त बंद डोळे.
+हे सगळं — हळूहळू — manageable होतं. पण आज नाही. आज फक्त बंद डोळे.
