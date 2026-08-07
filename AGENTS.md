@@ -27,6 +27,30 @@ These rules apply to every chapter generated for this site, whether written manu
 6. **Marathi-context examples / scenes only.** Use Indian household scenarios — homework, school, बस, cousins (मामेभाऊ/मावसभाऊ), neighbours, festivals, joint families, dabba, exam pressure, screen time, Marathi-medium vs English-medium school. Do NOT use Western settings unchanged ("soccer practice", "the cabin in the woods", "Thanksgiving") — translate the spirit into something the Marathi reader recognizes from daily life.
 7. **Source book (when there is one) is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual chapters. Original fiction can omit `credit` entirely.
 
+### Long-form nonfiction quality rules
+
+These rules apply especially to `kind: "essay"` books that build one argument across several chapters. They capture recurring review failures; check them before calling a manuscript complete.
+
+1. **Give each chapter a distinct intellectual job.** Write a one-sentence job for every chapter before drafting. Two chapters may share a character or theme, but they must not reach the same conclusion through renamed concepts. If two chapter summaries could be swapped without changing the book, merge or redesign one.
+2. **Seed recurring characters before asking the reader to remember them.** A returning character must first appear in a complete, memorable scene. On return, include one concrete reminder rather than treating the name as sufficient context. Keep the character's timeline, family situation, work, constraints, and earlier decision consistent.
+3. **Use new scenarios to do new work.** Do not reuse the same corporate resignation, startup, parenting, or prestige story merely with different names. A repeated setting is acceptable only when the later appearance changes the question—for example, from choosing a risk to revisiting it after its costs change.
+4. **Do not force false binaries.** When an argument distinguishes two ideas, actively look for a third case: coercion, abuse, illness, poverty, discrimination, changed circumstances, or genuinely unavailable options. “Chosen cost” must never imply that every burden was freely chosen.
+5. **Stress-test the thesis at its boundaries.** Include cases where the philosophy has limited authority: dependents carry the consequences, consent is weak, safety nets are unequal, a loss is irreversible, survival is at stake, or moral duty overrides expected return. State where the framework helps and where it cannot decide for the reader.
+6. **Separate decision quality from outcome quality.** Whenever success or failure is used as evidence, ask what was knowable at the time, what probability was chosen, what limit was set, and how much luck mattered. A successful gamble is not retroactively wise; a careful failure is not automatically vindicated either—it must still produce learning.
+7. **Make frameworks usable, not merely complete.** More than seven prompts must be grouped into 3–5 named stages. Preserve explicit numbering when the text promises a count. Do not call a framework “एका पानावर” unless it realistically fits on one page in the rendered and print layouts; use “एका नोंदीत” or another accurate label instead.
+8. **Keep evidence categories visibly separate.** Distinguish among:
+   - empirical claims supported by research,
+   - models used as interpretive lenses rather than universal laws,
+   - the author's ethical or philosophical arguments,
+   - fictional scenes used only for illustration.
+   Never describe wholly invented characters as “composite” or “मिश्र पात्रं.” Use that label only when a character genuinely combines documented real cases.
+9. **Put essential source transparency before the paywall.** Because only chapter 1 is public, `meta.json` must summarize the main research traditions or sources in a `sources` field whenever empirical claims materially support the book. Detailed links may appear in a later research note, but the public book page must say what evidence the book relies on and whether its characters are fictional.
+10. **Make research notes phone-readable.** Do not end with one dense citations paragraph. Group sources under short labels such as direct evidence, decision frameworks, and authorial claims. Prefer primary papers or authoritative reviews, link directly, and explain in one line what each source supports. Never present a model's existence as proof of the book's moral conclusion.
+11. **Apply a stricter Marathi test to abstract vocabulary.** Familiar workplace objects and actions may remain English (`manager`, `deadline`, `client`, `feedback`), but abstract connective language should usually be Marathi. Avoid imported prose such as `decision quality`, `reward unequal`, `reality freeze`, `character`, `Trade-off`, or `Costs, probabilities`; prefer `निर्णयाचा दर्जा`, `फायदा असमान`, `वास्तव थांबत नाही`, `ओळखीचा भाग`, `एका फायद्याची दुसरी किंमत`, and `किंमती व शक्यता`. Read the sentence aloud: code-mixing should sound like conversation, not a translated business presentation.
+12. **Design every non-prose element for a phone and for print.** Tables should be rare and materially clearer than prose. When adding a new Markdown structure, verify narrow-screen overflow, readable cell widths, and print styling; add a regression test if renderer or CSS support changes. Long lists need subheadings or stages so they remain scannable.
+13. **Match `read_time` to the manuscript, not the brief.** Estimate it after the final edit. Do not label a short chapter as 15 minutes because the requested book format said 15 minutes, and do not pad prose to reach a number. The chapter should earn its length through scenes, objections, counterexamples, and argument.
+14. **Run an editorial audit in addition to the build.** Search the entire book for prohibited English function words, awkward abstract English, repeated examples, inconsistent character facts, unsupported empirical language, flat lists, tables, and claims that all costs are chosen. A clean build proves that the files parse; it does not prove that the book works.
+
 ---
 
 ## Book structure
@@ -57,6 +81,7 @@ Chapter count is **kind-dependent** (see `chapter_order` in `meta.json`):
   "subtitle": "<one-line description in Marathi or English>",
   "kind": "howto",
   "credit": "ही प्रकरणं <source-book-name> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली.",
+  "sources": "<मुख्य संशोधन आणि काल्पनिक/प्रत्यक्ष उदाहरणांबद्दलची सार्वजनिक नोंद>",
   "chapter_order": ["01-...", "02-...", ..., "NN-..."]
 }
 ```
@@ -69,7 +94,7 @@ The `kind` field picks the chapter template. Allowed values:
 
 Pick the kind that fits the source material. Do not force a memoir, short-story collection, or essay collection into the howto shape — pick `fiction` or `essay` instead.
 
-`credit` is optional for `fiction` (an original story has no source to credit). For `howto` and `essay` it remains expected.
+`credit` is optional for `fiction` (an original story has no source to credit). For `howto` and `essay` it remains expected. Use `sources` when research materially supports the manuscript; this short public note should name the main evidence and clearly label invented characters or scenes. Put full citations in a readable research note inside the book when needed.
 
 ---
 
@@ -191,7 +216,7 @@ Template stub: `docs/templates/essay-chapter.md`.
 
 1. `mkdir books/<slug>`
 2. Write `meta.json`.
-3. Write 9 `.md` chapters following the structure above.
+3. Write the number of `.md` chapters appropriate to the chosen `kind`, and list every one in `chapter_order`.
 4. `npm test && npx tsc --noEmit && npm run build` — all must pass.
 5. `git add -A && git commit -m "book: <slug> — <Marathi-title>" && git push`.
 6. CI deploys to GitHub Pages.
