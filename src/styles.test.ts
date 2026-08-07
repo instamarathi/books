@@ -24,4 +24,11 @@ describe("Kindle theme CSS", () => {
     expect(css).toContain("--cover-b");
     expect(css).toContain("--cover-c");
   });
+
+  it("keeps chapter tables readable on phones and in print", () => {
+    expect(css).toContain(".chapter table {");
+    expect(css).toContain("overflow-x: auto");
+    expect(css).toContain(".print-chapter-body table {");
+    expect(css).toContain("border-collapse: collapse");
+  });
 });

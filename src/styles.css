@@ -634,6 +634,32 @@ main {
 }
 .chapter ol, .chapter ul { padding-left: 1.4em; }
 .chapter strong { color: var(--accent); }
+.chapter table {
+  display: block;
+  width: 100%;
+  margin: 1.4em 0;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.9em;
+  -webkit-overflow-scrolling: touch;
+}
+.chapter th,
+.chapter td {
+  min-width: 9rem;
+  padding: 0.7rem 0.75rem;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.55;
+}
+.chapter th {
+  background: color-mix(in srgb, var(--paper-elevated) 82%, var(--accent-soft));
+  font-weight: 600;
+}
+.chapter th:first-child,
+.chapter td:first-child {
+  min-width: 7rem;
+}
 .quick-ref-card {
   margin: 2rem 0;
   padding: 1.1rem 1.25rem;
@@ -1018,6 +1044,19 @@ main {
 .print-chapter-body ol,
 .print-chapter-body ul { padding-left: 1.4em; }
 .print-chapter-body strong { color: var(--accent); }
+.print-chapter-body table {
+  width: 100%;
+  margin: 1.2em 0;
+  border-collapse: collapse;
+  font-size: 0.82em;
+}
+.print-chapter-body th,
+.print-chapter-body td {
+  padding: 0.45rem 0.5rem;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
 .print-chapter-body p {
   margin: 1.08em 0;
   line-height: 1.78;
