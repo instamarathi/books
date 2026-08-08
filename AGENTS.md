@@ -27,6 +27,17 @@ These rules apply to every chapter generated for this site, whether written manu
 6. **Marathi-context examples / scenes only.** Use Indian household scenarios — homework, school, बस, cousins (मामेभाऊ/मावसभाऊ), neighbours, festivals, joint families, dabba, exam pressure, screen time, Marathi-medium vs English-medium school. Do NOT use Western settings unchanged ("soccer practice", "the cabin in the woods", "Thanksgiving") — translate the spirit into something the Marathi reader recognizes from daily life.
 7. **Source book (when there is one) is credited once per book, on the book index page.** The credit line lives in `books/<slug>/meta.json` under the `credit` field. It does not appear in individual chapters. Original fiction can omit `credit` entirely.
 
+### Hinglish script rules
+
+For books with `"language": "hinglish"`, Hinglish means mixed language **and mixed script**:
+
+- Write Hindi words and Hindi grammar in Devanagari: `अगर`, `नहीं`, `कीमत`, `चुनो`, `कभी`, `बाहर`.
+- Keep actual English words in Roman script: `Success`, `Calendar`, `manager`, `deadline`, `feedback`.
+- Do not write Hindi phonetically in Roman script. **Bad:** `Success nahi, keemat chuno`. **Good:** `Success नहीं, कीमत चुनो`.
+- Do not transliterate English into Devanagari merely to make the line look Hindi. **Bad:** `सक्सेस नहीं, कीमत चुनो`. **Good:** `Success नहीं, कीमत चुनो`.
+- Apply this to book titles, subtitles, chapter frontmatter, chapter prose, dialogue, navigation copy, and summaries. Slugs and filenames remain lowercase Roman ASCII so URLs stay stable.
+- The reading-aloud test: a Hindi word should render as Hindi, and an English word should look exactly as it normally does in English. Script follows the word's language, not the sentence's dominant language.
+
 ### Long-form nonfiction quality rules
 
 These rules apply especially to `kind: "essay"` books that build one argument across several chapters. They capture recurring review failures; check them before calling a manuscript complete.

@@ -79,13 +79,13 @@ describe("book content", () => {
     expect(bookLanguage(book!)).toBe("english");
   });
 
-  it("writes Hinglish book titles in Devanagari", () => {
+  it("uses mixed scripts for Hinglish book titles", () => {
     const hinglishBooks = loadBooks().filter((book) => bookLanguage(book) === "hinglish");
 
     expect(hinglishBooks.length).toBeGreaterThan(0);
     for (const book of hinglishBooks) {
       expect(book.title, book.slug).toMatch(/[\u0900-\u097F]/);
-      expect(book.title, book.slug).not.toMatch(/[A-Za-z]/);
+      expect(book.title, book.slug).toMatch(/[A-Za-z]/);
     }
   });
 
