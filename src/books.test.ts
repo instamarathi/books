@@ -79,6 +79,16 @@ describe("book content", () => {
     expect(bookLanguage(book!)).toBe("english");
   });
 
+  it("writes Hinglish book titles in Devanagari", () => {
+    const hinglishBooks = loadBooks().filter((book) => bookLanguage(book) === "hinglish");
+
+    expect(hinglishBooks.length).toBeGreaterThan(0);
+    for (const book of hinglishBooks) {
+      expect(book.title, book.slug).toMatch(/[\u0900-\u097F]/);
+      expect(book.title, book.slug).not.toMatch(/[A-Za-z]/);
+    }
+  });
+
   it("formats read time by book language", () => {
     expect(readTimeLabel({ slug: "midlife-redesign-english", language: "english" }, 8)).toBe("8 min");
     expect(readTimeLabel({ slug: "midlife-redesign", language: "marathi" }, 8)).toBe("8 मिनिटे");

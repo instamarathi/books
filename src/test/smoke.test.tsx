@@ -47,7 +47,7 @@ describe("App routing", () => {
       </MemoryRouter>,
     );
     expect(screen.getByRole("link", { name: "Hinglish books" })).toHaveClass("active");
-    expect(screen.getAllByText(/Spiral se bahar/i).length).toBeGreaterThan(0);
+    expect(screen.getAllByText(/स्पाइरल से बाहर/).length).toBeGreaterThan(0);
     expect(screen.getByRole("heading", { name: /Self-help/i })).toBeInTheDocument();
     expect(screen.queryByText(/आत्म-विकास/)).not.toBeInTheDocument();
   });
