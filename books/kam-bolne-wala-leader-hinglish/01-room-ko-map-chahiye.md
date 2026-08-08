@@ -1,55 +1,55 @@
 ---
-title: Room ko aur awaaz nahi, map chahiye
+title: Room को और आवाज़ नहीं, map चाहिए
 slug: 01-room-ko-map-chahiye
 order: 1
-summary: Loud hona direction dene jaisa nahi; quiet leader confusion ko visible choices mein badalta hai.
+summary: Loud होना direction देने जैसा नहीं; quiet leader confusion को visible choices में बदलता है.
 read_time: 6
 ---
 
-"Agar sabko bolna hi hai toh meeting kyun rakhi hai?" Farah ne laptop band nahi kiya, bas screen thodi neeche kar di. Noida ki housing society committee pichhle chalis minute se basement seepage par baat kar rahi thi. Treasurer cost repeat kar raha tha, ground-floor residents smell ki complaint, aur builder ka representative har sawaal ko "technical team se check karenge" mein ghuma raha tha. Farah ko public argument pasand nahi tha. Phir bhi usne page par teen lines likhin aur kaha, "Ek minute. Humein aaj cause, temporary safety aur permanent repair mein se kya decide karna hai? Teenon ek saath nahi ho rahe."
+&quot;अगर सबको बोलना ही है तो meeting क्यों रखी है?&quot; फराह ने laptop बंद नहीं किया, बस screen थोड़ी नीचे कर दी. नॉएडा की housing society committee पिछले चालीस minute से basement seepage पर बात कर रही थी. Treasurer cost repeat कर रहा था, ground-floor residents smell की complaint, और builder का representative हर सवाल को &quot;technical team से check करेंगे&quot; में घुमा रहा था. फराह को public argument पसंद नहीं था. फिर भी उसने page पर तीन lines लिखीं और कहा, &quot;एक minute. हमें आज cause, temporary safety और permanent repair में से क्या decide करना है? तीनों एक साथ नहीं हो रहे.&quot;
 
-Room chup hua. Farah ke paas solution nahi tha. Usne bas confusion ko teen alag decisions mein baant diya tha.
+Room चुप हुआ. फरह के पास solution नहीं था. उसने बस confusion को तीन अलग decisions में बाँट दिया था.
 
-**Leadership ka pehla kaam logon ko control karna nahi; unhe yeh dikhana hai ki hum kis decision ke saamne khade hain.**
+**Leadership का पहला काम लोगों को control करना नहीं; उन्हें यह दिखाना है की हम किस decision के सामने खड़े हैं.**
 
-Quiet log aksar sochte hain ki leader banne ke liye fast reply, confident face aur har sawaal ka answer chahiye. Is pressure mein woh ya toh bilkul chup rehte hain, ya kisi loud person ki style copy karte hain. Dono mein unki asli strength gayab ho jaati hai: observe karna, patterns pakadna aur sahi waqt par discussion ko shape dena.
+Quiet लोग अक्सर सोचते हैं की leader बनने के लिए fast reply, confident face और हर सवाल का answer चाहिए. इस pressure में वह या तो बिलकुल चुप रहते हैं, या किसी loud person की style copy करते हैं. दोनों में उनकी असली strength गायब हो जाती है: observe करना, patterns पकड़ना और सही वक़्त पर discussion को shape देना.
 
-## Yeh chaar techniques use karo
+## यह चार techniques उसे करो
 
-1. **Decision ko naam do** — Bolo, "Hum idea collect kar rahe hain ya final choice kar rahe hain?" Brainstorming ke beech voting shuru ho jaaye toh quiet log aur junior log pehle hi withdraw karte hain.
+1. **Decision को नाम दो** — बोलो, &quot;हम idea collect कर रहे हैं या final choice कर रहे हैं?&quot; Brainstorming के बीच voting शुरू हो जाए तो quiet लोग और junior लोग पहले ही withdraw करते हैं.
 
-2. **Facts, fears aur preferences alag karo** — "Repair quote 3.8 lakh hai" fact hai. "Vendor bhaag jayega" fear hai. "Mujhe dusra vendor pasand hai" preference hai. Teeno valid ho sakte hain, lekin ek category nahi.
+2. **Facts, fears और preferences अलग करो** — &quot;Repair quote 3.8 लाख है&quot; fact है. &quot;Vendor भाग जायेगा&quot; fear है. &quot;मुझे दूसरा vendor पसंद है&quot; preference है. तीनो valid हो सकते हैं, लेकिन एक category नहीं.
 
-3. **Do-minute recap do** — Har fifteen minute baad bolo, "Ab tak do agreements aur ek unresolved point hai." Recap kisi ka idea chheenna nahi; shared memory banana hai.
+3. **दो-मिनट recap दो** — हर fifteen minute बाद बोलो, &quot;अब तक दो agreements और एक unresolved point है.&quot; Recap किसी का idea छीनना नहीं; shared memory बनाना है.
 
-4. **Next step ka owner aur date bolo** — "Rohit check karega" adhoora hai. "Rohit Tuesday 6 baje tak do written quotes group mein dalega" usable hai.
+4. **Next step का owner और date बोलो** — &quot;रोहित check करेगा&quot; अधूरा है. &quot;रोहित Tuesday 6 बजे तक दो written quotes group में डालेगा&quot; usable है.
 
-Farah ne committee ko impress nahi kiya. Usne builder ko bhi expose nahi kar diya. Meeting ke end mein sirf itna clear tha ki kal safety inspection hogi, do din mein quote aayenge, aur permanent repair par Sunday ko vote hoga. Leadership kabhi kabhi isi boring clarity se shuru hoti hai.
+फराह ने committee को impress नहीं किया. उसने builder को भी expose नहीं कर दिया. Meeting के end में सिर्फ इतना clear था की कल safety inspection होगी, दो दिन में quote आएंगे, और permanent repair पर Sunday को vote होगा. Leadership कभी कभी इसी boring clarity से शुरू होती है.
 
-Is approach ki limit bhi hai. Agar room mein harassment ho raha ho, casteist comment ko "different perspective" bola ja raha ho, ya powerful person records chhupa raha ho, neutral summary kaafi nahi. Wahan conduct ko seedha naam, formal escalation, evidence ya legal support chahiye. Map banana injustice ko soft language mein chhupana nahi hai.
+इस approach की limit भी है. अगर room में harassment हो रहा हो, casteist comment को &quot;different perspective&quot; बोला जा रहा हो, या powerful person records छुपा रहा हो, neutral summary काफी नहीं. वहां conduct को सीधा नाम, formal escalation, evidence या legal support चाहिए. Map बनाना injustice को soft language में छुपना नहीं है.
 
-Quiet leader ko uncertainty bolne ki practice bhi karni padti hai. "Mujhe answer nahi pata, lekin decision ke liye kaunsi information missing hai woh clear hai" weak line nahi. Fake certainty se better hai. Log perfect leader nahi dhoondh rahe; woh stable ground dhoondh rahe hain.
+Quiet leader को uncertainty बोलने की practice भी करनी पड़ती है. &quot;मुझे answer नहीं पता, लेकिन decision के लिए कौनसी information missing है वह clear है&quot; weak line नहीं. Fake certainty से better है. लोग perfect leader नहीं ढूंढ रहे; वह stable ground ढूंढ रहे हैं.
 
-Farah ne agle Sunday ek aur change kiya. Committee agenda pehle group mein bheja aur residents se kaha ki jo meeting mein bolna nahi chahte, woh Saturday tak concern message kar dein. Teen responses aaye. Ek elderly resident ko Hindi mein note bhejna easy laga; ek tenant ne naam public na karne ko kaha kyunki landlord committee mein tha. Farah ne issues ko consent ke hisaab se agenda mein rakha. Participation ka matlab har person ko mic pakdana nahi; influence ka safe route dena hai.
+फराह ने अगले Sunday एक और change किया. Committee agenda पहले group में भेजा और residents से कहा कि जो meeting में बोलना नहीं चाहते, वह Saturday तक concern message कर दें. तीन responses आये. एक elderly resident को Hindi में note भेजना easy लगा; एक tenant ने नाम public न करने को कहा क्यूंकि landlord committee में था. फराह ने issues को consent के हिसाब से agenda में रखा. Participation का मतलब हर person को mic पकड़ना नहीं; influence का safe route देना है.
 
-Meeting ke baad usne apna recap do residents se check bhi karaya. Treasurer ne point out kiya ki temporary pump ke electricity cost ka owner missing tha. Ground-floor resident ne kaha smell ko "inconvenience" na likhein; health concern likhein. Map leader akela draw kare toh uski blind spots map ka geography ban jaati hain. Shared correction authority ko kam nahi karti, credibility badhati hai.
+Meeting के बाद उसने अपना recap दो residents से check भी कराया. Treasurer ने point out किया की temporary pump के electricity cost का owner missing था. Ground-floor resident ने कहा smell को &quot;inconvenience&quot; न लिखें; health concern लिखें. Map leader अकेला draw करे तो उसकी blind spots map का geography बन जाती हैं. Shared correction authority को काम नहीं करती, credibility बढाती है.
 
-Direction dene ka ek risk hai: clarity ke naam par options jaldi narrow kar dena. Quiet leader bhi apni preference ko neat categories mein chhupa sakta hai. Isliye choice frame karne ke baad poochho, "Koi fourth option hai jo is frame mein gayab ho raha hai?" Kabhi best contribution summary nahi, frame ko reopen karna hota hai.
+Direction देने का एक risk है: clarity के नाम पर options जल्दी narrow कर देना. Quiet leader भी अपनी preference को neat categories में छुपा सकता है. इसलिए choice frame करने के बाद पूछो, &quot;कोई fourth option है जो इस frame में गायब हो रहा है?&quot; कभी best contribution summary नहीं, frame को reopen करना होता है.
 
-## Yeh avoid karo
+## यह avoid करो
 
-- **Har silence bharna** — Pause mein log soch sakte hain; turant bolkar unka thought mat khaao.
-- **Summary ko verdict banana** — Sirf apni side repeat karke usse recap mat bolo.
-- **Urgency invent karna** — Fast decision tabhi jab delay ka actual cost ho.
+- **हर silence भरना** — Pause में लोग सोच सकते हैं; तुरंत बोलकर उनका thought मत खाओ.
+- **Summary को verdict बनाना** — सिर्फ अपनी side repeat करके उससे recap मत बोलो.
+- **Urgency invent करना** — Fast decision तभी जब delay का actual cost हो.
 
 ## Quick reference
 
-**Bolo:**
-- "Abhi exact decision kya hai?"
-- "Fact aur assumption alag kar lete hain."
-- "Owner kaun hai, aur update kab milega?"
+**बोलो:**
+- &quot;अभी exact decision क्या है?&quot;
+- &quot;Fact और assumption अलग कर लेते हैं.&quot;
+- &quot;Owner कौन है, और update कब मिलेगा?&quot;
 
-**Avoid karo:**
-- "Bas meri baat maan lo."
-- "Sab log same page par hain."
-- "Baad mein dekh lenge."
+**Avoid करो:**
+- &quot;बस मेरी बात मान लो.&quot;
+- &quot;सब लोग same page पर हैं.&quot;
+- &quot;बाद में देख लेंगे.&quot;

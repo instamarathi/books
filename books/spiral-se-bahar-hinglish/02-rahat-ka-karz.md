@@ -1,17 +1,17 @@
 ---
-title: Aaj ki rahat, kal ka darr
+title: आज की राहत, कल का डर
 slug: 02-rahat-ka-karz
 order: 2
-summary: Avoidance turant sukoon deti hai, isi liye dimaag usse solution samajh leta hai.
+summary: Avoidance तुरंत सुकून देती है, इसीलिए दिमाग उसे solution समझ लेता है.
 read_time: 2
 ---
 
-Lucknow ki Sana ko client demo dena tha. Meeting se bees minute pehle usne manager ko message kiya: “Migraine ho raha hai, aap take over kar loge?” Demo nikal gaya. Sana ka heartbeat normal hua. Lekin agle demo ka calendar invite dekhte hi darr aur tez tha.
+Lucknow की सना को client demo देना था. Meeting से बीस minute पहले उसने manager को message किया: “Migraine हो रहा है, आप take over कर लोगे?” Demo निकल गया. सना का heartbeat normal हुआ. लेकिन अगले demo का calendar invite देखते ही डर और तेज़ था.
 
-Avoidance ka trap yahi hai: reward turant milta hai, bill baad mein. Dimaag conclusion nikaalta hai ki presentation sach mein dangerous thi aur bachne ki wajah se hum safe rahe. Call postpone karna, test report na kholna, bank balance ignore karna, rishtedaar ki boundary wali baat ko Diwali ke baad tak kheenchna—har jagah chhoti rahat darr ko training de sakti hai.
+Avoidance का trap यही है: reward तुरंत मिलता है, bill बाद में. दिमाग conclusion निकालता है कि presentation सच में dangerous थी और बचने की वजह से हम safe रहे. Call postpone करना, test report न खोलना, bank balance ignore करना, रिश्तेदार की boundary वाली बात को दिवाली के बाद तक खींचना—हर जगह छोटी राहत डर को training दे सकती है.
 
-Iska jawab khud ko stage par dhakel dena nahi. Sana ne agla demo poora nahi liya. Usne pehle paanch minute ka product walkthrough liya, script saamne rakhi, aur manager ko Q&A ke liye saath bithaya. Anxiety gayi nahi; par usne anxiety ke saath rukne ka naya proof banaya.
+इसका जवाब खुद को stage पर धकेल देना नहीं. सना ने अगला demo पूरा नहीं लिया. उसने पहले पाँच minute का product walkthrough लिया, script सामने रखी, और manager को Q&A के लिए साथ बिठाया. Anxiety गई नहीं; पर उसने anxiety के साथ रुकने का नया proof बनाया.
 
-Useful discomfort aur real danger ko mix mat karo. Abusive boss ko akela confront karna, unsafe ghar mein boundary announce karna, ya bina medical support panic ko “willpower” se jhelna bravery test nahi hai. Kabhi support, documentation, therapist, HR ya exit plan pehla step hota hai.
+Useful discomfort और real danger को mix मत करो. Abusive boss को अकेला confront करना, unsafe घर में boundary announce करना, या बिना medical support panic को “willpower” से झेलना bravery test नहीं है. कभी support, documentation, therapist, HR या exit plan पहला step होता है.
 
-Sawaal “main dar kyun raha hoon?” se zyada kaam ka ho sakta hai: “Aaj main kitni chhoti dose mein is situation ke paas ruk sakta hoon?” Darr ko har baar obey na karna hi nayi learning hai. Courage ka matlab calm feel karna nahi; safe limit ke andar bhaage bina thoda aur rukna hai.
+सवाल “मैं डर क्यों रहा हूँ?” से ज़्यादा काम का हो सकता है: “आज मैं कितनी छोटी dose में इस situation के पास रुक सकता हूँ?” डर को हर बार obey न करना ही नई learning है. Courage का मतलब calm feel करना नहीं; safe limit के अंदर भागे बिना थोड़ा और रुकना है.

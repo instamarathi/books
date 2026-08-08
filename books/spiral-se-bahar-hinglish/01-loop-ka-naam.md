@@ -1,17 +1,17 @@
 ---
-title: Loop ko personality mat bolo
+title: Loop को personality मत बोलो
 slug: 01-loop-ka-naam
 order: 1
-summary: Jo tum apni fitrat samajh rahe ho, ho sakta hai woh bas roz repeat hone wala sequence ho.
+summary: जो तुम अपनी फितरत समझ रहे हो, हो सकता है वह बस रोज़ repeat होने वाला sequence हो.
 read_time: 2
 ---
 
-Noida mein rehne wala Kabir har Monday ek hi sentence bolta tha: “Mujhse routine hota hi nahi.” Alarm snooze, phone par cricket clips, cab surge pricing, breakfast skip, stand-up mein late entry. Shaam tak guilt itna badh jaata ki gym jaane ke bajaye woh biryani order karta. Agli subah uske paas kal ka ek aur proof hota: main undisciplined hoon.
+नोएडा में रहने वाला कबीर हर Monday एक ही sentence बोलता था: “मुझसे routine होता ही नहीं.” Alarm snooze, phone पर cricket clips, cab surge pricing, breakfast skip, stand-up में late entry. शाम तक guilt इतना बढ़ जाता कि gym जाने के बजाय वह बिरयानी order करता. अगली सुबह उसके पास कल का एक और proof होता: मैं undisciplined हूँ.
 
-Problem Kabir nahi tha. Problem woh sequence tha jisme har step agle step ko aasaan bana raha tha. Late sleep ne snooze ko, snooze ne rush ko, rush ne shame ko, aur shame ne comfort-order ko dhakka diya. “Main aisa hoon” bolte hi usne ek chalti hui chain ko permanent identity bana diya.
+Problem कबीर नहीं था. Problem वह sequence था जिसमें हर step अगले step को आसान बना रहा था. Late sleep ने snooze को, snooze ने rush को, rush ने shame को, और shame ने comfort-order को धक्का दिया. “मैं ऐसा हूँ” बोलते ही उसने एक चलती हुई chain को permanent identity बना दिया.
 
-Loop pakadne ke liye bade analysis ki zaroorat nahi. Kisi ek repeat hone wale regret ko lo aur chaar cheezein likho: usse just pehle kya hua, tumne kya kiya, turant kya relief mila, aur baad mein kya mehenga pada. Kabir ne dekha ki asli trigger alarm nahi, raat ko bed mein phone charge karna tha. Usne phone drawing room mein rakha. Isse woh suddenly disciplined insaan nahi bana; bas chain ki pehli kadi thodi door ho gayi.
+Loop पकड़ने के लिए बड़े analysis की ज़रूरत नहीं. किसी एक repeat होने वाले regret को लो और चार चीज़ें लिखो: उससे just पहले क्या हुआ, तुमने क्या किया, तुरंत क्या relief मिला, और बाद में क्या महँगा पड़ा. कबीर ने देखा कि असली trigger alarm नहीं, रात को bed में phone charge करना था. उसने phone drawing room में रखा. इससे वह suddenly disciplined इंसान नहीं बना; बस chain की पहली कड़ी थोड़ी दूर हो गई.
 
-Har loop buri bhi nahi hoti. Metro mein baithte hi notes kholna, dinner ke baad parents ko call karna, salary aate hi auto-transfer—yeh bhi loops hain. Farq sirf itna hai ki kuch loops kal ko halka karti hain, kuch aaj ki bechaini ko chup kara kar kal ko bhaari.
+हर loop बुरी भी नहीं होती. Metro में बैठते ही notes खोलना, dinner के बाद parents को call करना, salary आते ही auto-transfer—ये भी loops हैं. फ़र्क़ सिर्फ इतना है कि कुछ loops कल को हल्का करती हैं, कुछ आज की बेचैनी को चुप कराकर कल को भारी.
 
-Apne aap ko judge karne se data kam milta hai. Sequence ko naam dene se choice nazar aati hai. “Main lazy hoon” ek band darwaza hai. “Main anxious hote hi phone kholta hoon” ek handle wala darwaza hai.
+अपने आपको judge करने से data कम मिलता है. Sequence को नाम देने से choice नज़र आती है. “मैं lazy हूँ” एक बंद दरवाज़ा है. “मैं anxious होते ही phone खोलता हूँ” एक handle वाला दरवाज़ा है.

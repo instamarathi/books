@@ -1,33 +1,33 @@
 ---
-title: Team ne sawaal poochna chhod diya
+title: Team ने सवाल पूछना छोड़ दिया
 slug: 01-team-ne-sawaal-chhod-diye
 order: 1
-summary: Quiet office healthy zaroori nahi; kabhi silence woh adaptation hoti hai jo log unpredictable power ke saamne seekhte hain.
+summary: Quiet office healthy ज़रूरी नहीं; कभी silence वह adaptation होती है जो लोग unpredictable power के सामने सीखते हैं.
 read_time: 7
 ---
 
-"Any concerns?" Raghav ne smile ke saath poocha. Ahmedabad ki sales review mein twelve cameras on the, kisi ne kuch nahi kaha. Call end hote hi private chat blink hui: "New target ka calculation samjha kya?" "Nahi. Group mein mat poochna." Do mahine pehle analyst Zoya ne forecast challenge kiya tha. Raghav ne meeting mein laugh karke kaha, "Zoya ko har simple cheez complicated banani hoti hai." Tab se questions private ho gaye.
+&quot;Any concerns?&quot; राघव ने smile के साथ पूछा. अहमदाबाद की sales review में twelve cameras on थे, किसी ने कुछ नहीं कहा. Call end होते ही private chat blink हुई: &quot;New target का calculation समझा क्या?&quot; &quot;नहीं. Group में मत पूछना.&quot; दो महीने पहले analyst ज़ोया ने forecast challenge किया था. राघव ने meeting में laugh करके कहा, &quot;ज़ोया को हर simple चीज़ complicated बनानी होती है.&quot; तब से questions private हो गए.
 
-Raghav chillata nahi tha. Birthday yaad rakhta, client dinner mein juniors ko include karta, aur senior leadership ke saamne warm lagta. Phir bhi team information chhupa rahi thi, early risks late bol rahi thi, aur meetings rehearsed theatre ban gayi thi.
+राघव चिल्लाता नहीं था. Birthday याद रखता, client dinner में juniors को include करता, और senior leadership के सामने warm लगता. फिर भी team information छुपा रही थी, early risks late बोल रही थी, और meetings rehearsed theatre बन गयी थी.
 
-Workplace health ko noise level se mat naapna. Healthy team mein disagreement visible hota hai, mistake relatively early aati hai, aur boss ke mood ke bina facts survive karte hain. Fearful team efficient dikh sakti hai kyunki log debate skip karte hain. Bill baad mein aata hai: rework, silent quitting, scapegoating, health issues.
+Workplace health को noise level से मत नापना. Healthy team में disagreement visible होता है, mistake relatively early आती है, और boss के mood के बिना facts survive करते हैं. Fearful team efficient दिख सकती है क्यूंकि लोग debate skip करते हैं. Bill बाद में आता है: rework, silent quitting, scapegoating, health issues.
 
-Silence ke signals ek incident se proof nahi. Dekho pattern: boss aane par language suddenly positive; bad news messenger repeat punish; decisions ka reason unavailable; one-to-one mein complaints, group mein praise; people unnecessary approval maangte; experienced staff transfer lete. Alternative explanations bhi ho sakte hain—layoff anxiety, unclear reorganization, cultural language gap. Label se pehle timeline aur multiple sources.
+Silence के signals एक incident से proof नहीं. देखो pattern: boss आने पर language suddenly positive; bad news messenger repeat punish; decisions का reason unavailable; one-to-one में complaints, group में praise; people unnecessary approval मांगते; experienced staff transfer लेते. Alternative explanations भी हो सकते हैं—layoff anxiety, unclear reorganization, cultural language gap. Label से पहले timeline और multiple sources.
 
-Zoya ne team ko rebellion ke liye mobilize nahi kiya. Usne target calculation par neutral clarification mail bheja: assumptions, missing data, decision deadline. Do colleagues ne numbers add kiye. Written question ko personality joke banana harder tha. Raghav ne vague reply diya, phir finance ko include karna pada. Target thoda revise hua.
+ज़ोया ने team को rebellion के लिए mobilize नहीं किया. उसने target calculation पर neutral clarification mail भेजा: assumptions, missing data, decision deadline. दो colleagues ने numbers add किये. Written question को personality joke बनाना harder था. राघव ने vague reply दिया, फिर finance को include करना पड़ा. Target थोड़ा revise हुआ.
 
-Yeh happy ending nahi. Zoya ka appraisal uske control mein nahi tha. Usne manager ko cure nahi kiya. Usne sirf reality ko private panic se shared record mein move kiya.
+यह happy ending नहीं. जोया का appraisal उसके control में नहीं था. उसने manager को cure नहीं किया. उसने सिर्फ reality को private panic से shared record में move किया.
 
-Har silence todna safe nahi. Contract worker, visa-dependent employee, caste-marginalized junior ya harassment survivor ke liye visible dissent ka cost high ho sakta hai. "Speak up" institution ki duty ko employee par shift kar sakta hai. Anonymous channel, trusted senior, union, external advice ya strategic silence valid options hain.
+हर silence तोडना safe नहीं. Contract worker, visa-dependent employee, caste-marginalized junior या harassment survivor के लिए visible dissent का cost high हो सकता है. &quot;Speak up&quot; institution की duty को employee पर shift कर सकता है. Anonymous channel, trusted senior, union, external advice या strategic silence valid options हैं.
 
-Apne office ke liye ek week observe karo: last bad news kisne di, uske baad kya hua? Last disagreement se decision better hua ya person small? Team ka calm confidence hai ya calculation? Kabhi toxic room ka pehla evidence shouting nahi hota. Woh sentence hota hai jo sabne type karke delete kiya.
+अपने office के लिए एक week observe करो: last bad news किसने दी, उसके बाद क्या हुआ? Last disagreement से decision better हुआ या person small? Team का calm confidence है या calculation? कभी toxic room का पहला evidence shouting नहीं होता. वह sentence होता है जो सबने type करके delete किया.
 
-Zoya ne question log ke saath ek aur pattern dekha. Junior employees cameras on rakhte, senior people multitask karte; junior se instant answer, senior ko "come back later" allowed. Silence sirf Raghav ki personality se nahi, status rules se bana tha. Team ne pre-read questions anonymous collect karne shuru kiye. Isse hierarchy gayab nahi, but concerns ko entry ka alternate door mila.
+ज़ोया ने question लोग के साथ एक और pattern देखा. Junior employees cameras on रखते, senior people multitask करते; junior से instant answer, senior को &quot;come back later&quot; allowed. Silence सिर्फ राघव की personality से नहीं, status rules से बना था. Team ने pre-read questions anonymous collect करने शुरू किये. इससे hierarchy गायब नहीं, but concerns को entry का alternate door मिला.
 
-Raghav ne next review mein kaha, "People should be courageous enough to speak directly." Sentence reasonable lagta hai. Lekin courage individual resource nahi jo manager demand kare. If earlier dissent humiliation se mila, trust repair boss ka work: acknowledge, response rule, no mockery, follow-through. Safety ko test karne ke liye weakest employee ko first risk nahi lena chahiye.
+राघव ने next review में कहा, &quot;People should be courageous enough to speak directly.&quot; Sentence reasonable लगता है. लेकिन courage individual resource नहीं जो manager demand करे. If earlier dissent humiliation से मिला, trust repair boss का work: acknowledge, response rule, no mockery, follow-through. Safety को test करने के लिए weakest employee को first risk नहीं लेना चाहिए.
 
-Silence kabhi expertise ka sign bhi: team aligned, routine stable, questions pre-resolved. Isliye output and behaviour combine dekho. Kya risk early surface ho raha? Kya people after meeting correction bhejte? Kya manager absent ho toh conversation suddenly honest? Context label ko discipline deta hai.
+Silence कभी expertise का sign भी: team aligned, routine stable, questions pre-resolved. इसलिए output and behaviour combine देखो. क्या risk early surface हो रहा? क्या people after meeting correction भेजते? क्या manager absent हो तो conversation suddenly honest? Context label को discipline देता है.
 
-Finance clarification ke baad Raghav ne Zoya ko "detail-oriented" bolkar next time calculations usi par daal diye. Praise extra cleanup ban sakti thi. Zoya ne analysis own ki, final target decision sales head ke naam record karaya. Speaking up ka reward permanent unpaid policing nahi hona chahiye.
+Finance clarification के बाद राघव ने जोया को &quot;detail-oriented&quot; बोलकर next time calculations उसी पर डाल दिए. Praise extra cleanup बन सकती थी. ज़ोया ने analysis own की, final target decision sales head के नाम record कराया. Speaking up का reward permanent unpaid policing नहीं होना चाहिए.
 
-Two months ka trend mixed tha: forecast errors kam, transfer requests same, meeting questions thode up. Ek metric se culture cured declare nahi hota. Zoya ne external applications active rakhi, kyunki process improvement aur personal safety plan parallel chal sakte hain. Workplace ko chance dena options close karna nahi. Team ne anonymous questions ko temporary bridge maana; quarterly review hoga ki direct challenge safer hua ya nahi. Coping mechanism permanent architecture ban jaaye toh organization fear ko accommodate karta rahega, repair nahi.
+Two months का trend mixed था: forecast errors काम, transfer requests same, meeting questions थोड़े up. एक metric से culture cured declare नहीं होता. ज़ोया ने external applications active राखी, क्यूंकि process improvement और personal safety plan parallel चल सकते हैं. Workplace को chance देना options close करना नहीं. Team ने anonymous questions को temporary bridge माना; quarterly review होगा की direct challenge safer हुआ या नहीं. Coping mechanism permanent architecture बन जाए तो organization fear को accommodate करता रहेगा, repair नहीं.

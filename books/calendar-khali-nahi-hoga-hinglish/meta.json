@@ -1,11 +1,11 @@
 {
   "slug": "calendar-khali-nahi-hoga-hinglish",
   "title": "Calendar कभी खाली नहीं होगा",
-  "subtitle": "Limited waqt mein selection, duty, attention aur result se thoda distance",
+  "subtitle": "Limited वक्त में selection, duty, attention और result से थोड़ा distance",
   "category": "mindset",
   "kind": "essay",
   "language": "hinglish",
-  "credit": "Yeh Oliver Burkeman ki finitude aur time-management thinking, aur Bhagavad Gita ke karma, detachment aur duty ke principles se inspired independent Hinglish adaptation hai.",
-  "sources": "Intellectual base: finitude and attention philosophy, outcome bias and perceived control research, role conflict, caregiving and time-poverty research. Religious ideas ko interpretive lens ki tarah use kiya gaya hai, empirical proof ki tarah nahi. Saare characters aur scenes fictional hain.",
+  "credit": "यह Oliver Burkeman की finitude और time-management thinking, और Bhagavad Gita के karma, detachment और duty के principles से inspired independent Hinglish adaptation है।",
+  "sources": "Intellectual base: finitude and attention philosophy, outcome bias and perceived control research, role conflict, caregiving and time-poverty research. Religious ideas को interpretive lens की तरह use किया गया है, empirical proof की तरह नहीं। सारे characters और scenes fictional हैं।",
   "chapter_order": ["01-backlog-ke-baad", "02-har-haan-ka-kat", "03-attention-rent-par", "04-result-ka-contract", "05-duty-ya-darr", "06-role-se-bahar", "07-slow-ka-proof", "08-sabke-paas-same-hours-nahi", "09-enough-ka-calendar"]
 }

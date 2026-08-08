@@ -1,35 +1,35 @@
 ---
-title: Achha beta ek full-time identity nahi
+title: अच्छा बेटा एक full-time identity नहीं
 slug: 06-role-se-bahar
 order: 6
-summary: Family aur work roles zaroori hain, lekin unka total ban jaana apni values aur capacity dono ko invisible kar deta hai.
+summary: Family और work roles ज़रूरी हैं, लेकिन उनका total बन जाना अपनी values और capacity दोनों को invisible कर देता है.
 read_time: 6
 ---
 
-Placement form mein Kabir ne preferred city ke saamne Lucknow likha, jabki robotics role Hyderabad mein tha. Papa ki stationery shop chal rahi thi, chhota bhai business join kar chuka tha, parents ne usse rukne ko nahi kaha. Phir bhi Kabir ko lagta tha eldest son door gaya toh betrayal. Usne family se baat karne se pehle hi apna option kaat diya.
+Placement form में कबीर ने preferred city के सामने लखनऊ लिखा, जबकि robotics role हैदराबाद में था. पापा की stationery shop चल रही थी, छोटा भाई business join कर चुका था, parents ने उससे रुकने को नहीं कहा. फिर भी कबीर को लगता था eldest son door गया तो betrayal. उसने family से बात करने से पहले ही अपना option काट दिया.
 
-Roles orientation dete hain: parent, partner, sibling, employee, citizen. Problem role mein nahi; problem tab jab inherited script ko current reality samjha jaaye. "Eldest son stays", "good mother available rehti hai", "serious employee late tak rukta hai." Script kab likhi gayi, kiski convenience thi, aaj bhi fit hai?
+Roles orientation देते हैं: parent, partner, sibling, employee, citizen. Problem role में नहीं; problem तब जब inherited script को current reality समझा जाए. &quot;Eldest son stays&quot;, &quot;good mother available रहती है&quot;, &quot;serious employee late तक रुकता है.&quot; Script कब लिखी गयी, किसकी convenience थी, आज भी fit है?
 
-Apna path dhoondhna movie-style passion nahi. Kabir ko robotics divine calling nahi lagti thi. Bas uski skill aur curiosity wahan zyada alive thi. Family business bhi respectable option tha. Honest choice ke liye dono ki cost dekhni thi: Hyderabad ka rent aur distance; Lucknow ka belonging aur possible resentment.
+अपना path ढूंढना movie-style passion नहीं. कबीर को robotics divine calling नहीं लगती थी. बस उसकी skill और curiosity वहाँ ज़्यादा alive थी. Family business भी respectable option था. Honest choice के लिए दोनों की cost देखनी थी: हैदराबाद का rent और distance; लखनऊ का belonging और possible resentment.
 
-Usne parents ke saath conversation ki. Papa ne practical concern rakha: medical emergency mein kaun? Bhai ne hidden concern: agar Kabir future mein business share maangega toh current labour ka kya? Yeh questions guilt nahi, arrangement the. Unhone emergency travel fund, monthly visit expectation aur ownership discussion separate kiya.
+उसने parents के साथ conversation की. पापा ने practical concern रखा: medical emergency में कौन? भाई ने hidden concern: अगर कबीर future में business share माँगेगा तो current labour का क्या? यह questions guilt नहीं, arrangement थे. उन्होंने emergency travel fund, monthly visit expectation और ownership discussion separate किया.
 
-Autonomy ka romantic version dependents bhool sakta hai. Partner ki income par dream pursue karna shared consent maangta hai. Child ko instability ka cost dena "my path" se automatically justified nahi. Apni value choose karna dusron ke claims erase nahi karta.
+Autonomy का romantic version dependents भूल सकता है. Partner की income पर dream pursue करना shared consent मांगता है. Child को instability का cost देना &quot;my path&quot; से automatically जस्टीफ़ाइड नहीं. अपनी value choose करना दूसरों के claims erase नहीं करता.
 
-Aur kuch roles coercive hote hain. Abuse mein "role ko creatively redesign karo" kaafi nahi. Safe housing, money, legal aid aur trusted network pehle ho sakte hain. Immediate leaving impossible ho toh survival choice ko weakness mat bolo.
+और कुछ roles coercive होते हैं. Abuse में &quot;role को creatively redesign करो&quot; काफी नहीं. Safe housing, money, legal aid और trusted network पहले हो सकते हैं. Immediate leaving impossible हो तो survival choice को weakness मत बोलो.
 
-Kabir ne Hyderabad accept kiya with a six-month review. Outcome abhi unknown tha. Decision smart prove tab bhi nahi hota agar promotion mil jaaye. Us waqt available facts, family agreements aur downside limit reasonable the. Bas itna kaha ja sakta tha: usne role ko respect kiya, uske andar gayab nahi hua.
+कबीर ने हैदराबाद accept किया with a six-month review. Outcome अभी unknown था. Decision smart prove तब भी नहीं होता अगर promotion मिल जाए. उस वक़्त available facts, family agreements और downside limit reasonable थे. बस इतना कहा जा सकता था: उसने role को respect किया, उसके अंदर गायब नहीं हुआ.
 
-Hyderabad ke second month father hospitalized hue. Kabir first flight se aaya, emergency fund use hua. Relative ne airport par hi kaha, "Isi liye beta paas hona chahiye." Sentence ne decision ko instantly guilty bana diya. Lekin father ki illness relocation se caused nahi, aur nearby son every emergency prevent nahi karta. Current need par respond karna aur past choice ko moral trial banana alag.
+हैदराबाद के second month father hospitalized हुए. कबीर first flight से आया, emergency fund उसे हुआ. Relative ने airport पर ही कहा, &quot;इसी लिए बीटा पास होना चाहिए.&quot; Sentence ने decision को instantly guilty बना दिया. लेकिन father की illness relocation से caused नहीं, और nearby son every emergency prevent नहीं करता. Current need पर respond करना और past choice को moral trial बनाना अलग.
 
-Kabir two weeks remote raha; employer ne one week allow ki, second unpaid. Bhai ne shop and hospital dono carry kiye and resentment openly bola. Family agreement revise hua: Kabir quarterly extra shop accounting karega, emergency ke baad bhai ko rest cover. Moving away ne responsibility end nahi ki; form changed.
+कबीर two weeks remote रहा; employer ने one week allow की, second unpaid. भाई ने shop and hospital दोनों carry किये and resentment openly बोलै. Family agreement revise हुआ: कबीर quarterly extra shop accounting करेगा, emergency के बाद भाई को rest cover. Moving away ने responsibility end नहीं की; form changed.
 
-Six-month review mein Kabir ne sirf career satisfaction nahi poocha. Parents ki health trajectory, brother workload, travel money, partner plans and his own learning. Life circumstances change toh decision reopen karna inconsistency nahi. Role static script tha; responsibility living negotiation.
+Six-month review में कबीर ने सिर्फ career satisfaction नहीं पूछा. Parents की health trajectory, brother workload, travel money, partner plans and his own learning. Life circumstances change तो decision reopen करना inconsistency नहीं. Role static script था; responsibility living negotiation.
 
-Personal path ka cleanest image individual road hai. Reality network hai. Freedom kisi network se bahar nahi, network mein honest agreements and limits ke saath. Kabir ka decision independent nahi tha; more explicit interdependence tha.
+Personal path का cleanest image individual road है. Reality network है. Freedom किसी network से bahar नहीं, network में honest agreements and limits के साथ. कबीर का decision independent नहीं था; more explicit interdependence था.
 
-Role audit ke liye usne three columns banaye: jo responsibility current reality se aati hai; jo family agreement se; jo sirf imagined judgement se. Parents ki emergency plan first, ownership deal second, har festival presence third. Third category meaningless nahi—belonging mattered—but usse same urgency nahi mili. List ne life choose nahi ki; confusing voices ka source bataya. Kabhi role and value align honge, kabhi conflict. "Apne dil ki suno" se zyada honest kaam yeh dekhna hai ki dil mein kis-kis ki old recording chal rahi hai.
+Role audit के लिए उसने three columns बनाये: जो responsibility current reality से आती है; जो family agreement से; जो सिर्फ imagined judgement से. Parents की emergency plan first, ownership deal second, हर festival presence third. Third category meaningless नहीं—belonging mattered—but उससे same urgency नहीं मिली. List ने life choose नहीं की; confusing voices का source बताया. कभी role and value align होंगे, कभी conflict. &quot;अपने दिल की सुनो&quot; से ज़्यादा honest काम यह देखना है की दिल में किस-किस की old recording चल रही है.
 
-Partner choice bhi later map mein aayi. Kabir ki long-term relationship Hyderabad move se easier hui, family ko pehle detail nahi pata thi. Privacy valid thi, but decision ko "sirf career" bolna incomplete. Honest map mein socially uncomfortable motive ko bhi seat chahiye. Every reason public family debate ka material nahi, lekin khud se hidden reason judgement distort karta hai.
+Partner choice भी later map में आयी. कबीर की long-term relationship हैदराबाद move से easier हुई, family को पहले detail नहीं पता थी. Privacy valid थी, but decision को &quot;सिर्फ career&quot; बोलना incomplete. Honest map में socially uncomfortable motive को भी seat चाहिए. Every reason public family debate का material नहीं, लेकिन खुद से hidden reason judgement distort करता है.
 
-Kabir ne relationship ka future bhi six-month review mein include kiya. Partner ko family duty ka rival nahi banaya, aur family ko career obstacle nahi. Multiple loyalties ko hero-villain story mein fit karna easy tha; actual negotiation mein kisi side ko full win nahi mila. Isi incompleteness ko adult choice kehna pada.
+कबीर ने relationship का future भी six-month review में include किया. Partner को family duty का rival नहीं बनाया, और family को career obstacle नहीं. Multiple loyalties को hero-villain story में fit करना easy था; actual negotiation में किसी side को full win नहीं मिला. इसी incompleteness को adult choice कहना पड़ा.

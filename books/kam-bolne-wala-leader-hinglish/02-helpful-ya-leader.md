@@ -1,55 +1,55 @@
 ---
-title: Sabki help karna leadership nahi hota
+title: सबकी help करना leadership नहीं होता
 slug: 02-helpful-ya-leader
 order: 2
-summary: Reliable hona trust banata hai, lekin har gap khud bharna team ko dependent aur leader ko invisible bana sakta hai.
+summary: Reliable होना trust बनता है, लेकिन हर gap खुद भरना team को dependent और leader को invisible बना सकता है.
 read_time: 6
 ---
 
-"Deck maine bana diya, vendor ko bhi call kar diya, ab event ke din dekh lenge," Manav ne message kiya. Jaipur ke education nonprofit mein woh title ke bina sabka emergency contact tha. Log usse dependable kehte the. Promotion ke waqt director ne kaha, "Manav execution mein excellent hai, par leadership evidence kam hai." Usse gussa aaya. Jis team ka aadha kaam woh bacha raha tha, wahi team use leader nahi dekh rahi thi.
+&quot;Deck मैंने बना दिया, vendor को भी call कर दिया, अब event के दिन देख लेंगे,&quot; मानव ने message किया. जयपुर के education nonprofit में वह title के बिना सबका emergency contact था. लोग उससे dependable कहते थे. Promotion के वक़्त director ने कहा, &quot;मानव execution में excellent है, पर leadership evidence कम है.&quot; उससे गुस्सा आया. जिस team का आधा काम वह बचा रहा था, वही team उसे leader नहीं देख रही थी.
 
-Problem yeh nahi thi ki help bekaar thi. Problem yeh thi ki uski help har baar system ki kami ko invisible kar deti thi.
+Problem यह नहीं थी की help बेकार थी. Problem यह थी की उसकी help हर बार system की कमी को invisible कर देती थी.
 
-**Trust promise poora karne se banta hai; leadership tab dikhti hai jab aap capacity sirf apne andar nahi, group ke andar badhate ho.**
+**Trust promise पूरा करने से बनता है; leadership तब दिखती है जब आप capacity सिर्फ अपने अंदर नहीं, group के अंदर बढ़ाते हो.**
 
-Quiet aur conscientious log "no" bolne ke badle extra task utha lete hain. Short term mein kaam bach jaata hai. Long term mein manager ko staffing gap dikhai nahi deta, teammate seekhta nahi, aur helper ki authority service counter jaisi ho jaati hai: sab aate hain, koi ownership share nahi karta.
+Quiet और conscientious लोग &quot;no&quot; बोलने के बदले extra task उठा लेते हैं. Short term में काम बच जाता है. Long term में manager को staffing gap दिखाई नहीं देता, teammate सीखता नहीं, और helper की authority service counter जैसी हो जाती है: सब आते हैं, कोई ownership share नहीं करता.
 
-## Yeh chaar techniques use karo
+## यह चार techniques उसे करो
 
-1. **Help ki boundary bolo** — "Main first draft par 30 minute de sakta hoon; final version tum own karoge." Isse support bhi milta hai aur task silently transfer bhi nahi hota.
+1. **Help की boundary बोलो** — &quot;मैं first draft पर 30 minute दे सकता हूँ; final version तुम own करोगे.&quot; इससे support भी मिलता है और task silently transfer भी नहीं होता.
 
-2. **Repeat request ko process banao** — Teesri baar same report ban rahi ho toh template, checklist ya short training banao. Har baar rescue karna kindness nahi.
+2. **Repeat request को process बनाओ** — तीसरी बार same report बन रही हो तो template, checklist या short training बनाओ. हर बार rescue करना kindness नहीं.
 
-3. **Hidden work visible karo** — Weekly update mein sirf result nahi, coordination bhi likho: "Three school approvals aligned; fee conflict resolved." Apna credit exaggerate mat karo, par invisible bhi mat rakho.
+3. **Hidden work visible करो** — Weekly update में सिर्फ result नहीं, coordination भी लिखो: &quot;Three school approvals aligned; fee conflict resolved.&quot; अपना credit exaggerate मत करो, पर invisible भी मत रखो.
 
-4. **Bad news jaldi do** — "Main dono deadlines meet nahi kar sakta. Priority choose karni hogi." Reliable hone ka matlab impossible promise lena nahi.
+4. **Bad news जल्दी दो** — &quot;मैं दोनों deadlines meet नहीं कर सकता. Priority choose करनी होगी.&quot; Reliable होने का मतलब impossible promise लेना नहीं.
 
-Manav ne agle event mein logistics sheet banayi aur teen owners rakhe. Pehle week mein follow-up zyada laga. Ek volunteer ne booking miss bhi ki. Manav ne task wapas nahi cheena; usne consequence clear kiya, backup date li aur review kiya ki reminder kahan fail hua. Event perfect nahi tha, lekin agla event uske bina plan ho sakta tha. Yeh zyada useful evidence tha.
+मानव ने अगले event में logistics sheet बनायीं और तीन owners रखे. पहले week में follow-up ज़्यादा लगा. एक volunteer ने booking miss भी की. मानव ने task वापस नहीं छीना; उसने consequence clear किया, backup date ली और review किया की reminder कहाँ fail हुआ. Event perfect नहीं था, लेकिन अगले event उसके बिना plan हो सकता था. यह ज़्यादा useful evidence था.
 
-Har jagah delegation safe nahi hota. Understaffed hospital shift, family medical emergency ya discriminatory office mein kisi vulnerable colleague ko "ownership" dena exploitation ban sakta hai. Capacity ka sawaal resources se juda hai. Agar workload hi unreasonable hai toh better checklist injustice solve nahi karegi; staffing, money ya formal protection chahiye.
+हर जगह delegation safe नहीं होता. Understaffed hospital shift, family medical emergency या discriminatory office में किसी vulnerable colleague को &quot;ownership&quot; देना exploitation बन सकता है. Capacity का सवाल resources से जुड़ा है. अगर workload ही unreasonable है तो better checklist injustice solve नहीं करेगी; staffing, money या formal protection चाहिए.
 
-Earned authority ke teen signals dekho: log aapko sirf kaam karwane nahi, judgement ke liye bulate hain; aapke bina bhi process chalta hai; aur disagreement mein log maante hain ki aap rules sab par same lagaaoge. Yeh title se slow banta hai, par title se zyada durable ho sakta hai.
+Earned authority के तीन signals देखो: लोग आपको सिर्फ काम करवाने नहीं, judgement के लिए बुलाते हैं; आपके बिना भी process चलता है; और disagreement में लोग मानते हैं की आप rules सब पर same लगाओगे. यह title से slow बनता है, पर title से ज़्यादा durable हो सकता है.
 
-Manav ne apne last six weeks ka rescue log banaya. Vendor calls, missing consent forms, late reimbursements, final deck cleanup. List dekhkar ek uncomfortable baat saamne aayi: kuch rescues genuinely urgent the, kuch usne isliye kiye kyunki dusre ka slower method dekhna mushkil tha. Efficiency aur control ek hi behaviour mein mixed the. Usne team se poocha, "Kaunsi cheez main support bolkar wapas le leta hoon?" Ek teammate ne seedha kaha, "Tum first mistake ke baad task khud kar dete ho."
+मानव ने अपने last six weeks का rescue लोग बनाया. Vendor calls, missing consent forms, late reimbursements, final deck cleanup. List देखकर एक uncomfortable बात सामने आई: कुछ rescues genuinely urgent थे, कुछ उसने इसलिए किये क्यूंकि दूसरे का slower method देखना मुश्किल था. Efficiency और control एक ही behaviour में mixed थे. उसने team से पूछा, &quot;कौनसी चीज़ मैं support बोलकर वापस ले लेता हूँ?&quot; एक teammate ने सीधे कहा, &quot;तुम first mistake के बाद task खुद कर देते हो.&quot;
 
-Agli baar intern ne parent consent tracker mein wrong column use kiya. Manav ne tracker replace nahi kiya. Dono ne five records check kiye, error rule samjha, intern ne baaki correct kiya. Isme Manav ke forty minutes lage; khud karta toh twenty lagte. Leadership ka early investment kabhi inefficient dikhta hai. Difference yeh hai ki agle cycle mein twenty minutes repeat nahi hue.
+अगली बार intern ने parent consent tracker में wrong column यूज़ किया. मानव ने tracker replace नहीं किया. दोनों ने five records check किये, error rule समझा, intern ने बाकी correct किया. इसमें मानव के forty minutes लगे; खुद करता तो twenty लगते. Leadership का early investment कभी inefficient दीखता है. Difference यह है कि अगले cycle में twenty minutes repeat नहीं हुए.
 
-Visibility ke saath fairness bhi chahiye. Apna coordination report karte waqt assistants, interns aur operations staff ka work absorb mat karo. "I drove the event" vague ownership hai. Better: "I aligned school approvals; Nilofer closed parent consent and Arjun owned transport." Accurate credit aapki authority ko dilute nahi; team ko signal deta hai ki aapke paas work gayab nahi hota.
+Visibility के साथ fairness भी चाहिए. अपना coordination report करते वक़्त assistants, interns और operations staff का work absorb मत करो. &quot;I drove the event&quot; vague ownership है. Better: &quot;I aligned school approvals; Nilofer closed parent consent and Arjun owned transport.&quot; Accurate credit आपकी authority को dilute नहीं; team को signal देता है की आपके पास work गायब नहीं होता.
 
-## Yeh avoid karo
+## यह avoid करो
 
-- **Martyr score rakhna** — Chupchaap sab karke baad mein gratitude expect mat karo.
-- **Help ke naam par control** — Dusre ka draft har baar rewrite karna learning rokta hai.
-- **Credit se allergic hona** — Contribution honestly batana self-promotion ka crime nahi.
+- **Martyr score रखना** — चुपचाप सब करके बाद में gratitude expect मत करो.
+- **Help के नाम पर control** — दूसरे का draft हर बार rewrite करना learning रोकता है.
+- **Credit से allergic होना** — Contribution honestly बताना self-promotion का crime नहीं.
 
 ## Quick reference
 
-**Bolo:**
-- "Main support karunga; owner tum rahoge."
-- "Dono kaam possible nahi. Priority kaunsi hai?"
-- "Is repeat problem ke liye process banate hain."
+**बोलो:**
+- &quot;मैं support करूँगा; owner तुम रहोगे.&quot;
+- &quot;दोनों काम possible नहीं. Priority कौनसी है?&quot;
+- &quot;इस repeat problem के लिए process बनाते हैं.&quot;
 
-**Avoid karo:**
-- "Koi baat nahi, main kar dunga."
-- "Mere bina kuch hota hi nahi."
-- "Credit ki mujhe parwah nahi."
+**Avoid करो:**
+- &quot;कोई बात नहीं, मैं कर दूंगा.&quot;
+- &quot;मेरे बिना कुछ होता ही नहीं.&quot;
+- &quot;Credit की मुझे परवाह नहीं.&quot;

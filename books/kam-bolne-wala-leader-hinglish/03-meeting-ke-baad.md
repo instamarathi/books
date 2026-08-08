@@ -1,59 +1,59 @@
 ---
-title: Meeting ke baad bhi leadership hoti hai
+title: Meeting के बाद भी leadership होती है
 slug: 03-meeting-ke-baad
 order: 3
-summary: Real-time confidence kam ho toh written clarity, one-to-one listening aur follow-through leadership ka doosra route dete hain.
+summary: Real-time confidence कम हो तो written clarity, one-to-one listening और follow-through leadership का दूसरा route देते हैं.
 read_time: 6
 ---
 
-Client call khatam hone ke saat minute baad Kavya ne team channel par likha: "Mujhe lagta hai humne haan teen alag cheezon ko boli hai." Bengaluru ki product team ne call mein aggressive timeline accept kar li thi. Kavya ko call ke dauran words late milte the; jab tak woh sentence banati, conversation aage badh jaati. Usne contract notes dobara dekhe aur scope ke teen contradictions mark kiye. Manager ne reply kiya, "Good catch. Client ko clarification bhejte hain."
+Client call खत्म होने के सात minute बाद काव्या ने team channel पर लिखा: &quot;मुझे लगता है हमने हाँ तीन अलग चीज़ों को बोली है.&quot; बेंगलुरु की product team ने call में aggressive timeline accept कर ली थी. काव्य को call के दौरान words late मिलते थे; जब तक वह sentence बनती, conversation आगे बढ़ जाती. उसने contract notes दोबारा देखें और scope के तीन contradictions mark किये. Manager ने reply किया, &quot;Good catch. Client को clarification भेजते हैं.&quot;
 
-Kavya ne room win nahi kiya. Usne team ko expensive mistake se bachaya.
+काव्या ने room win नहीं किया. उसने team को expensive mistake से बचाया.
 
-**Fast thinking leadership ka ek format hai, poora definition nahi. Async clarity bhi influence hai.**
+**Fast thinking leadership का एक format है, पूरा definition नहीं. Async clarity भी influence है.**
 
-Introvert label kabhi useful hai, par usse permanent exemption mat banao. "Main meetings mein bol hi nahi sakta" identity ban gayi toh important decisions doosre shape karenge. Goal loud banna nahi; contribution ke multiple channels design karna hai.
+Introvert label कभी useful है, पर उससे permanent exemption मत बनाओ. &quot;मैं meetings में बोल ही नहीं सकता&quot; identity बन गयी तो important decisions दुसरे shape करेंगे. Goal loud बनना नहीं; contribution के multiple channels design करना है.
 
-## Yeh paanch techniques use karo
+## यह पांच techniques उसे करो
 
-1. **Pre-read par comment karo** — Meeting se pehle do risks aur ek question bhejo. Aapka thought room mein aapse pehle pahunch jaata hai.
+1. **Pre-read पर comment करो** — Meeting से पहले दो risks और एक question भेजो. आपका thought room में आपसे पहले पहुँच जाता है.
 
-2. **Opening line ready rakho** — "Mere paas timeline par ek concern hai." Perfect explanation baad mein aa sakti hai; pehle floor lo.
+2. **Opening line ready रखो** — &quot;मेरे पास timeline पर एक concern है.&quot; Perfect explanation बाद में आ सकती है; पहले floor लो.
 
-3. **One-to-one input collect karo** — Junior teammate group mein nahi bolega, shayad private chat mein bole. Permission lekar uska concern anonymize ya credit ke saath room mein lao.
+3. **One-to-one input collect करो** — Junior teammate group में नहीं बोलेगा, शायद private chat में बोले. Permission लेकर उसका concern anonymize या credit के साथ room में लाओ.
 
-4. **Decision note bhejo** — Kya decide hua, kyun, risk kya accept hua, review kab hoga. Written record blame game kam karta hai.
+4. **Decision note भेजो** — क्या decide हुआ, क्यों, risk क्या accept हुआ, review कब होगा. Written record blame game काम करता है.
 
-5. **Late thought ko late excuse mat banao** — Call ke baad issue dikha toh jaldi bolo. "Ab kya fayda" kehkar chup rehna cost badha sakta hai.
+5. **Late thought को late excuse मत बनाओ** — Call के बाद issue दिखा तो जल्दी बोलो. &quot;अब क्या फायदा&quot; कहकर चुप रहना cost बढ़ा सकता है.
 
-Kavya ne agle mahine ek simple habit banayi: har major call se pehle notebook par concern ki first line. Uska anxiety gayab nahi hua. Kuch calls mein woh phir miss karti. Lekin team ko pata tha ki uski written notes optional appendix nahi; decision process ka part hain.
+काव्या ने अगले महीने एक simple habit बनायीं: हर major call से पहले notebook पर concern की first line. उसका anxiety गायब नहीं हुआ. कुछ calls में वह फिर miss करती. लेकिन team को पता था की उसकी written notes optional appendix नहीं; decision process का part हैं.
 
-Async ka dark side bhi hai. Endless documents access ko unequal bana sakte hain; dyslexia, visual disability, language comfort ya caregiving load wale log long notes nahi padh paate. Written work ko power test mat banao. Short summary, accessible format aur clear response window rakho. Urgent safety issue ko comment thread mein park mat karo.
+Async का dark side भी है. Endless documents access को unequal बना सकते हैं; dyslexia, visual disability, language comfort या caregiving load वाले लोग long notes नहीं पढ़ पाते. Written work को power test मत बनाओ. Short summary, accessible format और clear response window रखो. Urgent safety issue को comment thread में park मत करो.
 
-Listening ka matlab agreement nahi. One-to-one mein kisi ne kaha, "Deadline impossible hai," toh pehle samjho: workload, unclear scope, skill gap ya personal crisis? Phir answer do. Quiet leader ki reputation sirf patient listener ki nahi honi chahiye; synthesis aur decision bhi chahiye.
+Listening का मतलब agreement नहीं. One-to-one में किसी ने कहा, &quot;Deadline impossible है,&quot; तो पहले समझो: workload, unclear scope, skill gap या personal crisis? फिर answer दो. Quiet leader की reputation सिर्फ patient listener की नहीं होनी चाहिए; synthesis और decision भी चाहिए.
 
-Written clarity ka ek political effect bhi hota hai. Meeting mein senior person casually bol sakta hai, "Sab comfortable hain." Decision note mein jab owner, cost aur objection dikhte hain, false consensus harder ho jaata hai. Kavya ne objections ko names ke saath tabhi likha jab consent tha; otherwise "one unresolved capacity concern" likha. Transparency ka matlab vulnerable person ko spotlight mein chhodna nahi.
+Written clarity का एक political effect भी होता है. Meeting में senior person casually बोल सकता है, &quot;सब comfortable हैं.&quot; Decision note में जब owner, cost और objection दीखते हैं, false consensus harder हो जाता है. काव्या ने objections को names के साथ तभी लिखा जब consent था; otherwise &quot;one unresolved capacity concern&quot; लिखा. Transparency का मतलब vulnerable person को spotlight में छोड़ना नहीं.
 
-Usne apne manager se meeting design par bhi baat ki. Major decision ke liye pre-read twenty-four hours pehle, first five minutes silent review, aur end par objections round. Isse sirf Kavya nahi, remote teammate aur new joiner bhi better participate karne lage. Accommodation ko private favour ke badle common design banana often stronger hota hai.
+उसने अपने manager से meeting design पर भी बात की. Major decision के लिए pre-read twenty-four hours पहले, first five minutes silent review, और end पर objections round. इससे सिर्फ काव्य नहीं, remote teammate और new joiner भी better participate करने लगे. Accommodation को private favour के बदले common design बनाना often stronger होता है.
 
-Phir bhi live intervention ki practice zaroori rahi. Ek client ne junior designer ko repeatedly interrupt kiya. Post-call note late hota. Kavya ne prepared line use ki: "I want Aditi to finish that point; answer uske context par depend karta hai." Sentence chhota tha. Leadership channel choose karti hai, lekin harm ke waqt convenient channel ka wait nahi karti.
+फिर भी live intervention की practice ज़रूरी रही. एक client ने junior designer को repeatedly interrupt किया. Post-call note late होता. काव्या ने prepared line use की: &quot;I want Aditi to finish that point; answer उसके context पर depend करता है.&quot; Sentence छोटा था. Leadership channel choose करती है, लेकिन harm के वक़्त convenient channel का wait नहीं करती.
 
-## Yeh avoid karo
+## यह avoid करो
 
-- **Private agreement, public silence** — Vulnerable colleague ko support promise karke room mein gayab mat ho.
-- **Novel-length recap** — Decision note ko transcript mat banao.
-- **Writing ko shield banana** — Har difficult conversation mail se mat niptao.
+- **Private agreement, public silence** — Vulnerable colleague को support promise करके room में गायब मत हो.
+- **Novel-length recap** — Decision note को transcript मत बनाओ.
+- **Writing को shield बनाना** — हर difficult conversation mail से मत निपटाओ.
 
 ## Quick reference
 
-**Bolo:**
-- "Mera concern ek line mein yeh hai."
-- "Call ke baad ek contradiction dikha."
-- "Decision, reason aur review date note kar raha hoon."
+**बोलो:**
+- &quot;मेरा concern एक line में यह है.&quot;
+- &quot;Call के बाद एक contradiction दिखा.&quot;
+- &quot;Decision, reason और review date note कर रहा हूँ.&quot;
 
-**Avoid karo:**
-- "Mujhe baad mein thought aaya, chhodo."
-- "Maine document mein likha tha."
-- "Meetings meri personality ke against hain."
+**Avoid करो:**
+- &quot;मुझे बाद में thought आया, छोडो.&quot;
+- &quot;मैंने document में लिखा था.&quot;
+- &quot;Meetings मेरी personality के against हैं.&quot;
 
-Live harm ke waqt written follow-up ka wait nahi; wahan short support line zaroori hai.
+Live harm के वक़्त written follow-up का wait नहीं; वहां short support line ज़रूरी है.

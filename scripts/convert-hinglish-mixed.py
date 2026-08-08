@@ -8,6 +8,7 @@ on explicit book directories and inspect every resulting diff.
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 import json
 import re
 import subprocess
@@ -55,13 +56,83 @@ HINDI_ROMAN = {
     "turant", "us", "uska", "uske", "uski", "usme", "usne", "usse", "utna", "waise",
     "wahan", "wahi", "waqt", "wala", "wale", "wali", "woh", "ya", "yaad", "yahan",
     "ye", "yeh", "zindagi", "zaroor", "zaroori", "zyada", "lo",
+    # Common inflections and connective words found in the longer essay books.
+    "aage", "aana", "aane", "aap", "aapka", "aapke", "aapki", "aapko",
+    "aapse", "aapne", "achhe", "achhi", "agle", "agli", "aaya", "aaye",
+    "aise", "andar", "asli", "bacha", "bachata", "bachna", "banao", "banata",
+    "banaya", "banaye", "banne", "banta", "bata", "bhi", "bol", "bolkar",
+    "chacha", "cheez", "chuka", "chup", "darr", "deta", "dete", "deti",
+    "dil", "dunga", "ek", "gayab", "haan", "hona", "isi", "isse", "itna",
+    "ja", "jaana", "jaldi", "jaisa", "jaisi", "jayega", "kab", "kaafi",
+    "kal", "kare", "karni", "karoge", "khatam", "kiya", "kiye", "koshish",
+    "kya", "kyun", "kyunki", "lage", "lagi", "lekin", "leti", "likha",
+    "maang", "mera", "meri", "mil", "mile", "milna", "mujhe", "neeche",
+    "pada", "padta", "pe", "pehli", "poori", "pooja", "rakha", "rakhna",
+    "rehna", "rehta", "roz", "sach", "sameer", "sana", "sawaal", "seema",
+    "shayad", "shuru", "toh", "tumhe", "unhe", "unhone", "unka", "upar",
+    "use", "usi", "wapas",
+    # Indian names and places should also be rendered in Devanagari.
+    "aarif", "aditi", "ahmedabad", "alka", "anushka", "arun", "arush",
+    "ayesha", "babulal", "bhopal", "chandigarh", "chennai", "devika", "faizan",
+    "ghaziabad", "gurgaon", "hiba", "isha", "jaipur", "kabir", "kanpur",
+    "kavya", "kochi", "kolkata", "kunal", "lucknow", "madhav", "manav",
+    "meher", "meenal", "mumbai", "nandini", "nilofer", "nitin", "noida",
+    "patna", "prateek", "pune", "raghav", "rhea", "ritu", "rohan", "rohit",
+    "shalini", "tara", "vivek", "zoya",
 }
+
+# Dictionary collisions found by auditing the generated prose. These are valid
+# English spellings in some contexts, but Hindi connective/action words in this
+# corpus. Keeping the smaller set separate lets the targeted repair avoid
+# touching complete English sentences that legitimately contain "is/to/do".
+REMAINING_HINDI_ROMAN = {
+    "bach", "bade", "bahut", "band", "bane", "banate", "bani", "bant",
+    "batata", "bhar", "bigad", "bole", "bolo", "bolti", "chal", "chalta",
+    "dar", "dene", "din", "doge", "doon", "hon", "jawab", "jod", "jodo",
+    "karaya", "khadi", "la", "lana", "lao", "mar", "pa", "papa", "pasand",
+    "pooch", "rakh", "reh", "roka", "sake", "subah", "taraf", "toda", "tu",
+}
+HINDI_ROMAN.update(REMAINING_HINDI_ROMAN)
 
 EXPLICIT_ENGLISH = {
     "EMI", "HR", "PM", "ROI",
     "Instagram",
     "startup", "podcast", "podcasts", "layoff", "layoffs", "runway", "spreadsheet",
     "whistleblowing", "childcare", "cowardice", "dependents", "reversible", "irreversible",
+    # Modern work/life vocabulary missing from the system's legacy dictionary.
+    "ADHD", "CC", "OTP", "QA", "WhatsApp",
+    "anonymize", "app", "apps", "async", "bandwidth", "brainstorming", "callback",
+    "became", "behaviour", "box", "caregiver", "caregivers", "caregiving", "casteist",
+    "checkpoint", "checklist", "cheaper", "children's", "clarified", "cleanest",
+    "co-owners", "colour", "committed", "confusing", "controlled", "controlling",
+    "cooperation", "coordinate", "coordination", "counterfactual", "counselling",
+    "counsellor", "coworker", "coworkers", "deeply", "deeper", "demo", "denied",
+    "earlier", "emoji", "end-to-end", "escalation", "evaluator", "expertise",
+    "face-to-face", "father's", "favour", "favourable", "favourite", "favourites",
+    "fewer", "formatting", "freelance", "fridge", "gatekeeping", "goalpost",
+    "goalposts", "handover", "handovers", "healthcare", "healthier", "higher-paid",
+    "hiring", "implied", "inbox", "judgement", "laptop", "larger", "liberating",
+    "mic", "mindset", "mockups", "multitask", "neighbour", "neurodivergent",
+    "newborn", "offline", "one-to-one", "overshare", "packaging", "paid", "paid-work",
+    "paperwork", "people's", "person's", "pharma", "planned", "planning", "policing",
+    "pre-read", "pre-resolved", "pricing", "quitting", "robotics", "rumour", "rumours",
+    "safer", "screenshot", "screenshots", "sexist", "shortcut", "shortcuts", "skipped",
+    "slower", "smallest", "softer", "son's", "spokesperson", "stronger", "theatre",
+    "timeline", "timestamps", "to-do", "unpredictability", "verified", "weaker",
+    "website", "weakest", "widest", "wider", "willpower", "woman's", "women", "workflow",
+    "worksheet", "workaholics",
+}
+EXPLICIT_ENGLISH_LOWER = {word.lower() for word in EXPLICIT_ENGLISH}
+ENGLISH_FUNCTION_WORDS = {
+    "a", "am", "an", "and", "are", "as", "at", "be", "been", "being", "but",
+    "by", "do", "for", "from", "had", "has", "have", "he", "her", "his", "how",
+    "if", "in", "is", "it", "no", "not", "of", "on", "or", "our", "she", "than",
+    "that", "the", "their", "then", "these", "they", "this", "those", "to", "was",
+    "we", "were", "what", "when", "where", "who", "why", "with", "you", "your",
+}
+ENGLISH_SENTENCE_NEUTRAL = {
+    "alka", "arun", "hiba", "isha", "nitin", "prateek", "raghav", "rohan",
+    "sameer", "sandeep", "seema", "tara", "zoya", "log",
 }
 
 
@@ -78,16 +149,24 @@ ENGLISH_WORDS = load_english_words()
 
 
 def is_english(token: str) -> bool:
-    if token in EXPLICIT_ENGLISH or (token.isupper() and len(token) > 1):
-        return True
     lower = token.lower()
+    if lower in EXPLICIT_ENGLISH_LOWER or (
+        token.isupper() and len(token) > 1
+    ):
+        return True
     if lower in HINDI_ROMAN:
         return False
+    if "-" in lower:
+        parts = [part for part in lower.split("-") if part]
+        if parts and all(is_english(part) for part in parts):
+            return True
     if lower in ENGLISH_WORDS:
         return True
-    for suffix in ("s", "es", "ed", "ing"):
+    for suffix in ("s", "es", "ed", "ing", "d"):
         if lower.endswith(suffix) and lower[: -len(suffix)] in ENGLISH_WORDS:
             return True
+    if lower.endswith("ies") and lower[:-3] + "y" in ENGLISH_WORDS:
+        return True
     return False
 
 
@@ -174,26 +253,145 @@ def convert_markdown(raw: str) -> str:
     return "".join(output)
 
 
+def is_english_sentence(text: str) -> bool:
+    tokens = ROMAN_TOKEN.findall(text)
+    if len(tokens) < 4:
+        return False
+    lower = [token.lower() for token in tokens]
+    # In Roman Hindi, this common shape means "two ... were", not English.
+    if lower[0] == "do" and lower[-2:] == ["rest", "vague"]:
+        return False
+    return all(
+        is_english(token)
+        or token.lower() in ENGLISH_FUNCTION_WORDS
+        or token.lower() in ENGLISH_SENTENCE_NEUTRAL
+        for token in tokens
+    )
+
+
+def transliterate_preserving_english_sentences(text: str) -> str:
+    pieces = re.split(r"(?<=[.!?])(\s+)", text)
+    return "".join(
+        piece
+        if piece.isspace() or is_english_sentence(piece)
+        else transliterate(piece)
+        for piece in pieces
+    )
+
+
+def repair_english_sentences(original: str, current: str) -> str:
+    original_lines = original.splitlines(keepends=True)
+    current_lines = current.splitlines(keepends=True)
+    if len(original_lines) != len(current_lines):
+        raise ValueError("Cannot repair a file whose line count changed")
+
+    output: list[str] = []
+    for source_line, current_line in zip(original_lines, current_lines, strict=True):
+        source_sentences = re.split(r"(?<=[.!?])\s+", source_line)
+        if any(is_english_sentence(sentence) and sentence not in current_line for sentence in source_sentences):
+            ending = "\n" if source_line.endswith("\n") else ""
+            content = source_line[:-1] if ending else source_line
+            output.append(transliterate_preserving_english_sentences(content) + ending)
+        else:
+            output.append(current_line)
+    return "".join(output)
+
+
+def repair_remaining_hindi(original: str, current: str) -> str:
+    original_lines = original.splitlines(keepends=True)
+    current_lines = current.splitlines(keepends=True)
+    if len(original_lines) != len(current_lines):
+        raise ValueError("Cannot repair a file whose line count changed")
+
+    output: list[str] = []
+    for source_line, current_line in zip(original_lines, current_lines, strict=True):
+        present = {token.lower() for token in ROMAN_TOKEN.findall(current_line)}
+        if present & REMAINING_HINDI_ROMAN:
+            ending = "\n" if source_line.endswith("\n") else ""
+            content = source_line[:-1] if ending else source_line
+            output.append(transliterate_preserving_english_sentences(content) + ending)
+        else:
+            output.append(current_line)
+    return "".join(output)
+
+
+def repair_missing_english(original: str, current: str) -> str:
+    """Reconvert only lines where a newly protected English token was lost."""
+    original_lines = original.splitlines(keepends=True)
+    current_lines = current.splitlines(keepends=True)
+    if len(original_lines) != len(current_lines):
+        raise ValueError("Cannot repair a file whose line count changed")
+
+    output: list[str] = []
+    for source_line, current_line in zip(original_lines, current_lines, strict=True):
+        expected = Counter(
+            token.lower() for token in ROMAN_TOKEN.findall(source_line) if is_english(token)
+        )
+        present = Counter(token.lower() for token in ROMAN_TOKEN.findall(current_line))
+        if any(present[token] < count for token, count in expected.items()):
+            ending = "\n" if source_line.endswith("\n") else ""
+            content = source_line[:-1] if ending else source_line
+            output.append(transliterate(content) + ending)
+        else:
+            output.append(current_line)
+    return "".join(output)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("directories", nargs="+", type=Path)
+    parser.add_argument(
+        "paths",
+        nargs="+",
+        type=Path,
+        help="Book directories or explicit Markdown files to convert.",
+    )
     parser.add_argument("--write", action="store_true")
     parser.add_argument(
         "--from-head",
         action="store_true",
         help="Read each source file from HEAD, discarding an earlier generated pass.",
     )
+    parser.add_argument(
+        "--repair-english-from-head",
+        action="store_true",
+        help="Reconvert only lines where protected English from HEAD is missing.",
+    )
+    parser.add_argument(
+        "--repair-english-sentences-from-head",
+        action="store_true",
+        help="Restore complete English sentences while converting their surrounding prose.",
+    )
+    parser.add_argument(
+        "--repair-hindi-from-head",
+        action="store_true",
+        help="Reconvert lines containing audited Roman Hindi dictionary collisions.",
+    )
     args = parser.parse_args()
 
-    for directory in args.directories:
-        for path in sorted(directory.glob("*.md")):
+    for source in args.paths:
+        paths = [source] if source.is_file() else sorted(source.glob("*.md"))
+        for path in paths:
             if args.from_head:
                 original = subprocess.check_output(
                     ["git", "show", f"HEAD:{path.as_posix()}"], text=True
                 )
             else:
                 original = path.read_text()
-            converted = convert_markdown(original)
+            if (
+                args.repair_english_from_head
+                or args.repair_english_sentences_from_head
+                or args.repair_hindi_from_head
+            ):
+                if not args.from_head:
+                    raise ValueError("English repair modes require --from-head")
+                if args.repair_hindi_from_head:
+                    converted = repair_remaining_hindi(original, path.read_text())
+                elif args.repair_english_sentences_from_head:
+                    converted = repair_english_sentences(original, path.read_text())
+                else:
+                    converted = repair_missing_english(original, path.read_text())
+            else:
+                converted = convert_markdown(original)
             if args.write:
                 path.write_text(converted)
                 print(f"converted {path}")

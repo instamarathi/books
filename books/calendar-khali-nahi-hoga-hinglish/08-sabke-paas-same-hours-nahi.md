@@ -1,37 +1,37 @@
 ---
-title: Sabke din mein same usable hours nahi hote
+title: सबके दिन में same usable hours नहीं होते
 slug: 08-sabke-paas-same-hours-nahi
 order: 8
-summary: Clock sabko twenty-four hours deta hai, lekin money, health, safety aur care decide karte hain ki kitne hours sach mein apne hain.
+summary: Clock सबको twenty-four hours देता है, लेकिन money, health, safety और care decide करते हैं की कितने hours सच में अपने हैं.
 read_time: 7
 ---
 
-Office workshop mein slide aayi: "You have the same 24 hours as everyone." Back row mein Seema hansi, phir camera off kar diya. Ghaziabad se two-hour commute, diabetic father ki morning insulin, aur ghar pahunchkar daughter ka homework. Uske manager ka commute fifteen minutes tha aur parents ke liye paid caregiver. Clock same tha; usable time nahi.
+Office workshop में slide आयी: &quot;You have the same 24 hours as everyone.&quot; Back row में सीमा हंसी, फिर camera off कर दिया. ग़ज़िआबाद से two-hour commute, diabetic father की morning insulin, और घर पहुंचकर daughter का homework. उसके manager का commute fifteen minutes था और parents के लिए paid caregiver. Clock same था; usable time नहीं.
 
-Time advice aksar inequality ko character mein translate karta hai. Early riser disciplined, late employee careless, side project wala ambitious. Lekin night shift, unsafe transport, domestic labour, disability fatigue, unreliable electricity aur money har routine ko shape karte hain.
+Time advice अक्सर inequality को character में translate करता है. Early riser disciplined, late employee careless, side project वाला ambitious. लेकिन night shift, unsafe transport, domestic labour, disability fatigue, unreliable electricity और money हर routine को shape करते हैं.
 
-Iska matlab personal planning useless nahi. Matlab diagnosis pehle. Time problem four categories mein dekho: volume zyada hai; control kisi aur ke paas; energy limited hai; coordination unfair hai. Har category ka solution alag. Volume mein task cut. Control mein negotiation or collective rule. Energy mein accommodation and rest. Coordination mein load redistribution.
+इसका मतलब personal planning useless नहीं. मतलब diagnosis पहले. Time problem four categories में देखो: volume ज़्यादा है; control किसी और के पास; energy limited है; coordination unfair है. हर category का solution अलग. Volume में task cut. Control में negotiation or collective rule. Energy में accommodation and rest. Coordination में load redistribution.
 
-Seema ne productivity app nahi li. Usne manager ko commute story ke badle deliverable data diya aur two fixed remote mornings propose ki. Company ne full flexibility deny ki, one morning accept. Husband ne father ki insulin training li. Har week three hours nikle. Yeh abundance nahi, margin tha.
+सीमा ने productivity app नहीं ली. उसने manager को commute story के बदले deliverable data दिया और two fixed remote mornings propose की. Company ने full flexibility deny की, one morning accept. Husband ने father की insulin training ली. हर week three hours निकले. यह abundance नहीं, margin था.
 
-Negotiation fail bhi ho sakti thi. Precarious employee demand raise karke job risk nahi le sakta. Workplace discrimination polite request se solve nahi. Union, policy, legal protection, public childcare aur accessible transport individual calendar se bahar ke answers hain. Personal framework ki authority yahin tak hai.
+Negotiation fail भी हो सकती थी. Precarious employee demand raise करके job risk नहीं ले सकता. Workplace discrimination polite request से solve नहीं. Union, policy, legal protection, public childcare और accessible transport individual calendar से bahar के answers हैं. Personal framework की authority यहीं तक है.
 
-Privilege guilt bhi solution nahi. Jiske paas support hai woh usse waste kare tab equality nahi badhti. Better sawaal: apni flexibility ka use sirf output badhane mein karoge, ya care share, colleague protect aur collective improvement mein bhi?
+Privilege guilt भी solution नहीं. जिसके पास support है वह उससे waste करे तब equality नहीं बढ़ती. Better सवाल: अपनी flexibility का उसे सिर्फ output बढ़ने में करोगे, या care share, colleague protect और collective improvement में भी?
 
-Workshop ke baad Seema ne slide screenshot delete nahi kiya. Usne HR feedback mein attach karke likha, "Hours same hain; control same nahi. Next session mein workload and caregiving data include karein." Calendar ka problem individual weakness se nikal kar design question bana.
+Workshop के बाद सीमा ने slide screenshot delete नहीं किया. उसने HR feedback में attach करके लिखा, &quot;Hours same हैं; control same नहीं. Next session में workload and caregiving data include करें.&quot; Calendar का problem individual weakness से निकल कर design question बना.
 
-Next quarter data ne another pattern dikhaya: early meetings consistently mothers nahi, long-distance commuters and night-support staff miss kar rahe the. Attendance ko commitment metric banaya gaya tha. Team ne core hours define kiye and meetings rotate. Rotation perfect fairness nahi—kisi week someone still inconvenienced—but same group permanent payer nahi raha.
+Next quarter data ने another pattern दिखाया: early meetings consistently mothers नहीं, long-distance commuters and night-support staff miss कर रहे थे. Attendance को commitment metric बनाया गया था. Team ने core hours define किये and meetings rotate. Rotation perfect fairness नहीं—किसी week someone still inconvenienced—but same group permanent payer नहीं रहा.
 
-Seema ke remote morning par manager ne more output expect karna shuru kiya, as if commute saving company-owned capacity. Accommodation productivity bonus contract nahi. She clarified deliverables same; recovered time insulin and sleep ke liye. Flexible work ka purpose body se extra extraction nahi.
+सीमा के remote morning पर manager ने more output expect करना शुरू किया, as if commute saving company-owned capacity. Accommodation productivity bonus contract नहीं. She clarified deliverables same; recovered time insulin and sleep के लिए. Flexible work का purpose body से extra extraction नहीं.
 
-Time poverty mental bandwidth bhi leti hai. Complex coordination, transport uncertainty and bills planning capacity consume karte hain. Isko "better system banao" bolna limited help. Cash transfer, reliable service and stable schedule more powerful. Personal tips structural demand ko polite mat karein.
+Time poverty mental bandwidth भी लेती है. Complex coordination, transport uncertainty and bills planning capacity consume करते हैं. इसको &quot;better system बनाओ&quot; बोलना limited help. Cash transfer, reliable service and stable schedule more powerful. Personal tips structural demand को polite मत करें.
 
-Ghar par husband insulin dena seekh gaya, lekin daughter ka homework ab bhi Seema ke paas default tha. Ek adjustment full equality ka proof nahi. Monthly household review uncomfortable tha kyunki love aur labour same conversation mein aaye. Unhone paid tutor afford nahi kiya; father-daughter homework alternate days start hua. Progress partial.
+घर पर husband insulin देना सीख गया, लेकिन daughter का homework अब भी सीमा के पास default था. एक adjustment full equality का proof नहीं. Monthly household review uncomfortable था क्यूंकि love और labour same conversation में आये. उन्होंने paid tutor afford नहीं किया; father-daughter homework alternate days start हुआ. Progress partial.
 
-Twenty-four hours wali line attractive hai kyunki fairness natural lagti hai. Real fairness design karni padti hai, aur uske liye aksar money, policy aur dusre logon ka cooperation chahiye.
+Twenty-four hours वाली line attractive है क्यूंकि fairness natural लगती है. Real fairness design करनी पड़ती है, और उसके लिए अक्सर money, policy और दूसरे लोगों का cooperation चाहिए.
 
-Seema ne apni three recovered hours ka side course start nahi kiya. Pehle month sirf sleep and medical paperwork. Productivity culture freed time ko turant new achievement se bharna chahta hai. Margin ka first use recovery ho sakta hai. Later she chose one certification module, not full program. Opportunity ka pace energy se match hua. Usable time count mein mental transition bhi aata hai: dialysis coordination se complex analysis tak brain instant switch nahi. Buffer waste nahi, system cost hai.
+सीमा ने अपनी three recovered hours का side course start नहीं किया. पहले month सिर्फ sleep and medical paperwork. Productivity culture freed time को तुरंत new achievement से भरना चाहता है. Margin का first उसे recovery हो सकता है. Later she chose one certification module, not full program. Opportunity का pace energy से match हुआ. Usable time count में mental transition भी आता है: dialysis coordination से complex analysis तक brain instant switch नहीं. Buffer waste नहीं, system cost है.
 
-HR workshop ke revised slide par likha tha: "Time access is designed." Line perfect nahi, but blame ki direction badli. Participants ne personal hack ke saath one policy ask likha. Seema ka ask predictable core hours tha. Kisi aur ka accessible transport allowance. Individual days unequal the; solutions bhi same template ke nahi ho sakte.
+HR workshop के revised slide पर लिखा था: &quot;Time access is designed.&quot; Line perfect नहीं, but blame की direction बदली. Participants ने personal hack के साथ one policy ask लिखा. सीमा का ask predictable core hours था. किसी और का accessible transport allowance. Individual days unequal थे; solutions भी same template के नहीं हो सकते.
 
-Policy asks budget maangte the, isliye sab accept nahi hue. Rejection ke reasons written maange gaye aur next review date set hui. Structural change motivational session se slower tha, lekin constraint employee ki character flaw bankar disappear nahi hua. Jo organization abhi fund nahi kar sakti, usse cost ka record phir bhi rakhna chahiye.
+Policy asks budget मांगते थे, इसलिए सब accept नहीं हुए. Rejection के reasons written मांगे गए और next review date set हुई. Structural change motivational session से slower था, लेकिन constraint employee की character flaw बनकर disappear नहीं हुआ. जो organization अभी fund नहीं कर सकती, उससे cost का record फिर भी रखना चाहिए.

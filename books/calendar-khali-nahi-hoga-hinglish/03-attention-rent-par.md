@@ -1,35 +1,35 @@
 ---
-title: Tumhara attention rent par chadh chuka hai
+title: तुम्हारा attention rent पर चढ़ चुका है
 slug: 03-attention-rent-par
 order: 3
-summary: Waqt sirf hours ka issue nahi; fragmented attention decide karta hai ki hum kis cheez ko apni zindagi banne dete hain.
+summary: वक़्त सिर्फ hours का issue नहीं; fragmented attention decide करता है की हम किस चीज़ को अपनी ज़िन्दगी बनने देते हैं.
 read_time: 6
 ---
 
-Metro mein seat milte hi Anushka ne novel khola. Do lines ke baad school group ping, phir manager ka reaction emoji, phir shopping app ka "last chance". Rajiv Chowk tak usne page same rakha aur phone eleven baar unlock kiya. Screen time report shaam ko boli: social apps forty-two minutes. Uska experience tha: poora din kisi ne chhote tukdon mein le liya.
+मेट्रो में seat मिलते ही अनुष्का ने novel खोला. दो lines के बाद school group ping, फिर manager का reaction emoji, फिर shopping app का &quot;last chance". Rajiv Chowk तक उसने page same रखा और phone eleven बार unlock किया. Screen time report शाम को बोली: social apps forty-two minutes. उसका experience था: पूरा दिन किसी ने छोटे टुकड़ों में ले लिया.
 
-Time aur attention same nahi. Aap ek ghanta child ke saath ho sakte ho, par half-mind notification par. Aap desk par eight hours ho, par deep task ko eight-minute fragments. Calendar occupancy activity dikhata hai; consciousness kahan gayi, nahi.
+Time और attention same नहीं. आप एक घंटा child के साथ हो सकते हो, पर half-mind notification पर. आप desk पर eight hours हो, पर deep task को eight-minute fragments. Calendar occupancy activity दिखता है; consciousness कहाँ गयी, नहीं.
 
-Apps attention capture ke liye design hoti hain, offices fast response reward karte hain, family groups silence ko rudeness samajh sakte hain. Isliye distraction ko sirf weak willpower kehna incomplete hai. Environment vote karta hai.
+Apps attention capture के लिए design होती हैं, offices fast response reward करते हैं, family groups silence को rudeness समझ सकते हैं. इसलिए distraction को सिर्फ weak willpower कहना incomplete है. Environment vote करता है.
 
-Anushka ne digital purity challenge nahi liya. Usne teen doors banaye. Commuting ke first twenty minutes phone bag ke inner pocket; manager ke saath actual response expectation clear; school group mute, partner emergency call karega. First week mein woh baar-baar pocket tak gayi. Habit ne argument nahi kiya; haath bas chala. Third week mein novel finish nahi hua, par forty pages hue.
+अनुष्का ने digital purity challenge नहीं लिया. उसने तीन doors बनाये. Commuting के first twenty minutes phone bag के inner pocket; manager के साथ actual response expectation clear; school group mute, partner emergency call करेगा. First week में वह बार-बार pocket तक गयी. Habit ने argument नहीं किया; हाथ बस चला. Third week में novel finish नहीं हुआ, पर forty pages हुए.
 
-Attention protection sab jobs mein possible nahi. Delivery worker ka phone tool hai; on-call doctor notification ignore nahi kar sakta; caregiver ko reachable rehna padta hai. Control ke size ke hisaab se experiment chuno: five-minute window, notification categories, shared backup, ya sirf ek app home screen se hatana. Ideal routine ko moral rank mat banao.
+Attention protection सब jobs में possible नहीं. Delivery worker का phone tool है; on-call doctor notification ignore नहीं कर सकता; caregiver को reachable रहना पड़ता है. Control के size के हिसाब से experiment चुनो: five-minute window, notification categories, shared backup, या सिर्फ एक app home screen से हटाना. Ideal routine को moral rank मत बनाओ.
 
-Ek aur danger hai: focus ko loved ones ke against fortress banana. "Deep work" bolkar partner ko saara domestic interruption de dena concentration nahi, load transfer hai. Protected time reciprocal aur negotiated hona chahiye.
+एक और danger है: focus को loved ones के against fortress बनाना. &quot;Deep work&quot; बोलकर partner को सारा domestic interruption दे देना concentration नहीं, load transfer है. Protected time reciprocal और negotiated होना चाहिए.
 
-Attention par ethical question yeh hai: jo cheez baar-baar mind mein entry leti hai, kya usse permission mili thi? Har ping enemy nahi, har family request distraction nahi. Lekin default access ko conscious access banana padta hai.
+Attention पर ethical question यह है: जो चीज़ बार-बार mind में entry लेती है, क्या उससे permission मिली थी? हर ping enemy नहीं, हर family request distraction नहीं. लेकिन default access को conscious access बनना पड़ता है.
 
-Anushka ne commute productive nahi banaya. Kabhi woh novel padhti, kabhi bas window dekhti. Usne sirf itna recover kiya ki Rajiv Chowk pahunchne tak subah ka pehla thought kisi sale banner ka nahi hota tha.
+अनुष्का ने commute productive नहीं बनाया. कभी वह novel पढ़ती, कभी बस window देखती. उसने सिर्फ इतना recover किया की Rajiv Chowk पहुँचने तक सुबह का पहला thought किसी sale banner का नहीं होता था.
 
-Attention audit mein usne har interruption ko equal nahi maana. Daughter ka voice note relationship tha; school app ka fourth reminder administrative noise; manager ka emoji no action; medicine alert essential. Digital minimalism ke aesthetics se zyada useful tha access ko category dena. Phone black-and-white karna easy, boss expectation clarify karna harder. Harder step ne zyada attention recover ki.
+Attention audit में उसने हर interruption को equal नहीं माना. Daughter का voice note relationship था; school app का fourth reminder administrative noise; manager का emoji no action; medicine alert essential. Digital minimalism के aesthetics से ज़्यादा useful था access को category देना. Phone black-and-white करना easy, boss expectation clarify करना harder. Harder step ने ज़्यादा attention recover की.
 
-Usne self-interruption bhi notice ki. Difficult paragraph aate hi haath apne aap inbox kholta, notification ke bina bhi. External design aur internal avoidance saath kaam kar rahe the. Usne reading target bada nahi kiya; discomfort ke baad five breaths tak page par rehna practice ki. Kuch evenings brain bahut tired tha. Rest ko failed focus nahi bola.
+उसने self-interruption भी notice की. Difficult paragraph आते ही हाथ अपने आप inbox खोलता, notification के बिना भी. External design और internal avoidance साथ काम कर रहे थे. उसने reading target बड़ा नहीं किया; discomfort के बाद five breaths तक page पर रहना practice की. कुछ evenings brain बहुत tired था. Rest को failed focus नहीं बोला.
 
-Attention morality shame create kar sakti hai—"present parent" ka ideal, perfect meditator, distraction-free worker. Mind wandering human hai. Goal continuous control nahi; repeated return and better environment. Depression, ADHD, trauma or anxiety attention affect kare toh diagnosis ko discipline problem mat banao. Professional assessment and accommodation relevant ho sakte hain.
+Attention morality shame create कर सकती है—&quot;present parent&quot; का ideal, perfect meditator, distraction-free worker. Mind wandering human है. Goal continuous control नहीं; repeated return and better environment. Depression, ADHD, trauma or anxiety attention affect करे तो diagnosis को discipline problem मत बनाओ. Professional assessment and accommodation relevant हो सकते हैं.
 
-Novel finish hone par Anushka ne reading streak post nahi ki. Next book immediately order bhi nahi. Usse yeh evidence mila ki forty minutes create nahi hue the; fragmented access thoda restrict hua tha. Waqt same, ownership slightly different.
+Novel finish होने पर अनुष्का ने reading streak post नहीं की. Next book immediately order भी नहीं. उससे यह evidence मिला की forty minutes create नहीं हुए थे; fragmented access थोड़ा restrict हुआ था. वक़्त same, ownership slightly different.
 
-Office response rule ka test crisis week mein hua. Product outage ke waqt alerts essential the; normal focus block suspend hua. Next day manager ne emergency mode default rakhna chaha. Team ne outage window close karke usual rule restore kiya. Exceptional urgency agar formally end na ho toh permanent access ban jaati hai. Attention boundary mein emergency start se zyada emergency finish important. Anushka ne yeh bhi dekha ki colleagues ka backup turn lena padta; phone-off privilege kisi aur ki invisible vigilance par nahi tikna chahiye. Rotation ne focus ko private luxury se team resource banaya.
+Office response rule का test crisis week में हुआ. Product outage के वक़्त alerts essential थे; normal focus block suspend हुआ. Next day manager ने emergency mode default रखना चाहा. Team ने outage window close करके usual rule restore किया. Exceptional urgency अगर formally end न हो तो permanent access बन जाती है. Attention boundary में emergency start से ज़्यादा emergency finish important. अनुष्का ने यह भी देखा की colleagues का backup turn लेना पड़ता; phone-off privilege किसी और की invisible vigilance पर नहीं टिकना चाहिए. Rotation ने focus को private luxury से team resource बनाया.
 
-Ghar par usne same rule impose nahi kiya. Partner ke work calls aur school emergencies ke saath commute block coordinate hua. Attention sovereignty unilateral silence nahi; shared expectation hai. Ek evening daughter ne urgent na hote hue call kiya. Anushka ne answer liya, phir novel par return kiya. Boundary ka purpose relationship ko punish karna nahi, interruption ke baad choice wapas paana tha.
+घर पर उसने same rule impose नहीं किया. Partner के work calls और school emergencies के साथ commute block coordinate हुआ. Attention sovereignty unilateral silence नहीं; shared expectation है. एक evening daughter ने urgent न होते हुए call किया. अनुष्का ने answer लिया, फिर novel पर return किया. Boundary का purpose relationship को punish करना नहीं, interruption के बाद choice वापस पाना था.

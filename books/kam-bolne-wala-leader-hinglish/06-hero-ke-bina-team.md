@@ -1,59 +1,59 @@
 ---
-title: Tumhare bina team rukti hai toh yeh compliment nahi
+title: तुम्हारे बिना team रुकती है तो यह compliment नहीं
 slug: 06-hero-ke-bina-team
 order: 6
-summary: Shared roles, small rituals aur decision records leader ko bottleneck banne se bachate hain.
+summary: Shared roles, small rituals और decision records leader को bottleneck बनने से बचते हैं.
 read_time: 6
 ---
 
-Madhav dengue se hospital mein tha jab family business ka dispatch ruk gaya. Indore ki packaging unit mein vendor rates, approval limits aur urgent-client rules sirf uske dimaag mein the. Chacha ne phone par kaha, "Tu rest kar, bas OTP aur rate bata de." Madhav ko ek saath important aur trapped feel hua.
+माधव dengue से hospital में था जब family business का dispatch रुक गया. इंदौर की packaging unit में vendor rates, approval limits और urgent-client rules सिर्फ उसके दिमाग में थे. चाचा ने phone पर कहा, &quot;तू rest कर, बस OTP और rate बता दे.&quot; माधव को एक साथ important और trapped feel हुआ.
 
-**Agar har answer leader ke paas hai, team organized nahi; leader-shaped dependency mein hai.**
+**अगर हर answer leader के पास है, team organized नहीं; leader-shaped dependency में है.**
 
-## Yeh paanch techniques use karo
+## यह पांच techniques उसे करो
 
-1. **Decision rights likho** — Kaun 10,000 tak approve kar sakta hai? Kaun customer refund? Role title nahi, actual authority.
+1. **Decision rights लिखो** — कौन 10,000 तक approve कर सकता है? कौन customer refund? Role title नहीं, actual authority.
 
-2. **Backup owner rakho** — Critical task ka ek shadow person ho. Backup ka matlab unpaid double workload nahi; capacity plan karo.
+2. **Backup owner रखो** — Critical task का एक shadow person हो. Backup का मतलब unpaid double workload नहीं; capacity plan करो.
 
-3. **Minimum decision log banao** — Kya decide hua, kyun, kab review hoga. Novel nahi.
+3. **Minimum decision लोग बनाओ** — क्या decide हुआ, क्यों, कब review होगा. Novel नहीं.
 
-4. **Fixed rhythm rakho** — Monday priorities, Wednesday risk check, Friday review. Ritual anxiety kam karta hai.
+4. **Fixed rhythm रखो** — Monday priorities, Wednesday risk check, Friday review. Ritual anxiety काम करता है.
 
-5. **Leader-free test karo** — Ek meeting skip karke dekho. Baad mein team ke decision ko sirf style difference ke liye reverse mat karo.
+5. **Leader-free test करो** — एक meeting skip करके देखो. बाद में team के decision को सिर्फ style difference के लिए reverse मत करो.
 
-Madhav ne recovery ke baad sab document karne ki heroic koshish nahi ki. Usne pehle top five recurring decisions liye. Niece Pooja ko vendor comparison diya, accounts head ko approval band, aur urgent dispatch ke criteria board par lagaye. Ek month tak errors hue. Do vendors ko late reply mila. Lekin error learning tha; pehle wala dependence sirf delay tha.
+माधव ने recovery के बाद सब document करने की heroic कोशिश नहीं की. उसने पहले top five recurring decisions लिए. Niece पूजा को vendor comparison दिया, accounts head को approval बंद, और urgent dispatch के criteria board पर लगाये. एक month तक errors हुए. दो vendors को late reply मिला. लेकिन error learning था; पहले वाला dependence सिर्फ delay था.
 
-Systems humanity ka replacement nahi. Chronic illness wale employee ko rigid ritual fit na ho toh accommodation chahiye. Family business mein older worker read nahi kar paata toh video ya voice process better ho sakta hai. Documentation access badhaye, gatekeeping nahi.
+Systems humanity का replacement नहीं. Chronic illness वाले employee को rigid ritual fit न हो तो accommodation चाहिए. Family business में older worker read नहीं कर पाटा तो video या voice process better हो सकता है. Documentation access बढ़ाये, gatekeeping नहीं.
 
-Leader-free team ka matlab accountability-free team bhi nahi. Power distribute karte waqt grievance route aur audit rakho. Nahi toh local bully chhoti authority capture kar lega.
+Leader-free team का मतलब accountability-free team भी नहीं. Power distribute करते वक़्त grievance route और audit रखो. नहीं तो local bully छोटी authority capture कर लेगा.
 
-Madhav ne approval limits banate waqt ek mistake ki. Usne Pooja ko purchase authority di, lekin vendor bank details accounts software mein add karne ka access nahi. Har order phir uske OTP par aata. Paper par delegation, practice mein permission queue. Team ne end-to-end task map kiya: information, decision, system access, money limit, escalation. Jahan ek link leader ke paas raha, bottleneck wahin shift hua.
+माधव ने approval limits बनाते वक़्त एक mistake की. उसने पूजा को purchase authority दी, लेकिन vendor bank details accounts software में add करने का access नहीं. हर order फिर उसके OTP पर आता. Paper पर delegation, practice में permission queue. Team ने end-to-end task map किया: information, decision, system access, money limit, escalation. जहाँ एक link leader के पास रहा, bottleneck वहीँ shift हुआ.
 
-Family hierarchy bhi system mein ghusi hui thi. Senior worker Ramesh Pooja se instruction lene mein uncomfortable tha kyunki woh younger woman thi. Madhav ne private mein Pooja ko "thoda softly handle" karne ko nahi kaha. Usne team meeting mein role authority clear ki and disrespect ke liye same conduct rule lagaya. Process chart social bias automatically nahi hataata; leader ko rule enforce karna padta hai.
+Family hierarchy भी system में घुसी हुई थी. Senior worker Ramesh पूजा से instruction लेने में uncomfortable था क्यूंकि वह younger woman थी. माधव ने private में पूजा को &quot;थोड़ा softly handle&quot; करने को नहीं कहा. उसने team meeting में role authority clear की and disrespect के लिए same conduct rule लगाया. Process chart social bias automatically नहीं हटाता; leader को rule enforce करना पड़ता है.
 
-Monthly review mein loss aur speed dono dekhe. Pooja ke first independent purchase mein rate two percent higher tha, delivery two days faster. Madhav ka instinct cheaper vendor ko correct answer bolna tha. Client penalty add hui toh Pooja ka trade-off reasonable nikla. Delegation ka matlab sirf task nahi, judgement ko different answer dene ki jagah.
+Monthly review में loss और speed दोनों देखे. पूजा के first independent purchase में rate two percent higher था, delivery two days faster. माधव का instinct cheaper vendor को correct answer बोलना था. Client penalty add हुई तो पूजा का trade-off reasonable निकला. Delegation का मतलब सिर्फ task नहीं, judgement को different answer देने की जगह.
 
-Team ne ek escalation rule bhi likha: safety, fraud concern aur client commitment limit cross ho toh same day raise; normal rate difference next review tak. Pehle har uncertainty urgent ban kar Madhav ke phone par aati thi. Categories ne team ko permission di ki small reversible decision khud le aur irreversible risk jaldi share kare.
+Team ने एक escalation rule भी लिखा: safety, fraud concern और client commitment limit cross हो तो same day raise; normal rate difference next review तक. पहले हर uncertainty urgent बन कर माधव के phone पर आती थी. Categories ने team को permission दी की small reversible decision खुद ले और irreversible risk जल्दी share करे.
 
-System banane ke baad leader ka kaam vanish nahi. Coaching, resource conflict aur exception judgement rehta hai. Difference yeh hai ki leader routine ke beech busy dikhne ke badle actual difficult decisions ke liye available hota hai. Madhav important kam nahi hua; uski importance ka shape healthy hua.
+System बनने के बाद leader का काम vanish नहीं. Coaching, resource conflict और exception judgement रहता है. Difference यह है की leader routine के बीच busy दिखने के बदले actual difficult decisions के लिए available होता है. माधव important कम नहीं हुआ; उसकी importance का shape healthy हुआ.
 
-Hospital ke next follow-up par usne phone off rakha. Unit chali, ek small error next review ke liye note hua. Dependency ka first test perfection nahi, recoverability tha.
+Hospital के next follow-up पर उसने phone off रखा. Unit चली, एक small error next review के लिए note हुआ. Dependency का first test perfection नहीं, recoverability था.
 
-## Yeh avoid karo
+## यह avoid करो
 
-- **Sab kuch document karna** — High-risk recurring decisions se shuru karo.
-- **Delegation bina authority** — Task dekar har choice approve mat karo.
-- **Return par overwrite** — Team ka decision alag tha, isliye galat nahi.
+- **सब कुछ document करना** — High-risk recurring decisions से शुरू करो.
+- **Delegation बिना authority** — Task देकर हर choice approve मत करो.
+- **Return पर overwrite** — Team का decision अलग था, इसलिए गलत नहीं.
 
 ## Quick reference
 
-**Bolo:**
-- "Is decision ka owner aur limit kya hai?"
-- "Mere unavailable hone par backup kaun?"
-- "Hum is choice ko kab review karenge?"
+**बोलो:**
+- &quot;इस decision का owner और limit क्या है?&quot;
+- &quot;मेरे unavailable होने पर backup कौन?&quot;
+- &quot;हम इस choice को कब review करेंगे?&quot;
 
-**Avoid karo:**
-- "Mujhe har cheez CC karo."
-- "Tum decide karo, pehle mujhse pooch lena."
-- "Mere bina yahan kuch nahi chalta."
+**Avoid करो:**
+- &quot;मुझे हर चीज़ CC करो.&quot;
+- &quot;तुम decide करो, पहले मुझसे पूछ लेना.&quot;
+- &quot;मेरे बिना यहाँ कुछ नहीं चलता.&quot;

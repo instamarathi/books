@@ -1,59 +1,59 @@
 ---
-title: Center chhodna bhi leadership hai
+title: Center छोड़ना भी leadership है
 slug: 09-center-chhodna
 order: 9
-summary: Ethical leader apni importance protect nahi karta; woh power, information aur credit ko wapas group mein circulate karta hai.
+summary: Ethical leader अपनी importance protect नहीं करता; वह power, information और credit को वापस group में circulate करता है.
 read_time: 6
 ---
 
-"Aap aaye bina annual meeting kaise hogi?" residents ne Joseph uncle se poocha. Mumbai ki tenants association unhone twelve saal sambhali thi. Har landlord dispute, plumber contact aur municipal letter unke phone mein tha. Seventy ke baad hearing weak ho rahi thi, phir bhi woh chair chhod nahi pa rahe the. Unhe power ka shauk nahi lagta tha. Unhe darr tha ki unke baad kaam bigad jayega.
+&quot;आप आये बिना annual meeting कैसे होगी?&quot; residents ने Joseph uncle से पूछा. मुंबई की tenants association उन्होंने twelve साल संभाली थी. हर landlord dispute, plumber contact और municipal letter उनके phone में था. Seventy के बाद hearing weak हो रही थी, फिर भी वह chair छोड़ नहीं पा रहे थे. उन्हें power का शौक नहीं लगता था. उन्हें डर था की उनके बाद काम बिगड़ जायेगा.
 
-Trust aur control kab mix ho gaye, unhe khud pata nahi chala.
+Trust और control कब mix हो गए, उन्हें खुद पता नहीं चला.
 
-**Leadership ka final test yeh nahi ki log aapko kitna maante hain; yeh hai ki aap unhe apne bina kitna capable chhodte ho.**
+**Leadership का final test यह नहीं कि लोग आपको कितना मानते हैं; यह है कि आप उन्हें अपने बिना कितना capable छोड़ते हो.**
 
-## Yeh paanch techniques use karo
+## यह पांच techniques उसे करो
 
-1. **Information share karo** — Contacts, passwords, history aur open risks institution ke paas hon, personal phone mein nahi.
+1. **Information share करो** — Contacts, passwords, history और open risks institution के पास हों, personal phone में नहीं.
 
-2. **Successor clone mat dhoondho** — Values aur judgement dekho; speaking style nahi.
+2. **Successor clone मत ढूंढो** — Values और judgement देखो; speaking style नहीं.
 
-3. **Real authority do** — New lead ko agenda decide karne do. Sirf ceremony transfer mat karo.
+3. **Real authority दो** — New lead को agenda decide करने दो. सिर्फ ceremony transfer मत करो.
 
-4. **Public credit shift karo** — "Mere guidance mein" jodne ki zaroorat har baar nahi.
+4. **Public credit shift करो** — &quot;मेरे guidance में&quot; जोड़ने की ज़रुरत हर बार नहीं.
 
-5. **Review aur recall rule banao** — Distributed power bhi misuse ho sakti hai. Term, audit aur complaint path rakho.
+5. **Review और recall rule बनाओ** — Distributed power भी misuse हो सकती है. Term, audit और complaint path रखो.
 
-Joseph uncle ne six-month handover rakha. College student Ayesha digital records sambhalti, shopkeeper Babulal vendor relations, aur working parent Lina meeting schedule. Pehli annual meeting lambi chali. Do forms galat submit hue. Joseph ne beech mein chair wapas nahi li. Unhone sirf history clarify ki jab poocha gaya. Team unki copy nahi bani; association ka shape badla.
+Joseph uncle ने six-month handover रखा. College student आयेशा digital records संभालती, shopkeeper बाबूलाल vendor relations, और working parent Lina meeting schedule. पहली annual meeting लम्बी चली. दो forms गलत submit हुए. Joseph ने बीच में chair वापस नहीं ली. उन्होंने सिर्फ history clarify की जब पूछा गया. Team उनकी copy नहीं बनी; association का shape बदला.
 
-Kabhi transition voluntary nahi hota. Illness, funding loss ya political capture abrupt change la sakta hai. Isliye succession retirement ke last month ka task nahi. Aur leader ko hata dena har baar progress nahi; marginalized founder ko "professionalization" ke naam par side karna bhi power grab ho sakta hai. Process fair, transparent aur challengeable hona chahiye.
+कभी transition voluntary नहीं होता. Illness, funding loss या political capture abrupt change ला सकता है. इसलिए succession retirement के last month का task नहीं. और leader को हटा देना हर बार progress नहीं; marginalized founder को &quot;professionalization&quot; के नाम पर side करना भी power grab हो सकता है. Process fair, transparent और challengeable होना चाहिए.
 
-Quiet leaders bhi ego se free nahi. Unka ego spotlight nahi, indispensability mein chhup sakta hai: "Main toh bas service kar raha hoon" ke saath har key hold karna. Apni absence ka evidence dekho. Team stumble karegi. Stumble failure nahi; agar har stumble par aap control lete ho toh learning kabhi group ki nahi banegi.
+Quiet leaders भी ego से free नहीं. उनका ego spotlight नहीं, indispensability में छुप सकता है: &quot;मैं तो बस service कर रहा हूँ&quot; के साथ हर key hold करना. अपनी absence का evidence देखो. Team stumble करेगी. Stumble failure नहीं; अगर हर stumble पर आप control लेते हो तो learning कभी group की नहीं बनेगी.
 
-Handover ke third month ek landlord notice aaya. New committee ne reply draft kiya, Joseph uncle ko wording risky lagi. Unhone direct lawyer ko call karne ke badle concern committee ko bheja: "Clause four ka meaning confirm karna chahiye." Ayesha ne legal clinic consult ki aur revised reply choose kiya. Advice mila, authority return nahi hui. Yeh difference transition ka daily discipline tha.
+Handover के third month एक landlord notice आया. New committee ने reply draft किया, Joseph uncle को wording risky लगी. उन्होंने direct lawyer को call करने के बदले concern committee को भेजा: &quot;Clause four का meaning confirm करना चाहिए.&quot; आएशा ने legal clinic consult की और revised reply choose किया. Advice मिला, authority return नहीं हुई. यह difference transition का daily discipline था.
 
-New committee mein bhi power equal nahi thi. Ayesha digital access control kar sakti thi, Babulal vendors influence, Lina schedule. Unhone quarterly access audit and two-signature expense rule banaya. "Shared leadership" bol dene se informal power disappear nahi. Power ko dekhne ke liye money, information, relationships and meeting time sab track karna padta hai.
+New committee में भी power equal नहीं थी. आयेशा digital access control कर सकती थी, बाबूलाल vendors influence, Lina schedule. उन्होंने quarterly access audit and two-signature expense rule बनाया. &quot;Shared leadership&quot; बोल देने से informal power disappear नहीं. Power को देखने के लिए money, information, relationships and meeting time सब track करना पड़ता है.
 
-Joseph uncle ke liye loss real tha. Calls kam hue, Sunday suddenly empty. Leadership exit ko sirf noble sacrifice bolna emotional cost chhupata hai. Unhone library volunteering start ki, association chat mute nahi. Identity ko new place chahiye thi. Healthy succession outgoing leader ko shame karke erase nahi karta; role ko respectfully finite banata hai.
+Joseph uncle के लिए loss real था. Calls कम हुए, Sunday suddenly empty. Leadership exit को सिर्फ noble sacrifice बोलना emotional cost छुपाता है. उन्होंने library volunteering start की, association chat mute नहीं. Identity को new place चाहिए थी. Healthy succession outgoing leader को shame करके erase नहीं करता; role को respectfully finite बनता है.
 
-Six-month review par residents ne notice kiya ki response time slightly slower, participation wider and accounts clearer the. Koi single score transition ko pass nahi karta. Old speed ka kuch hissa Joseph ki unpaid availability se aata tha. New system ne real staffing need visible ki. Team ne part-time admin budget vote kiya instead of asking next volunteer to become another permanent emergency number.
+Six-month review पर residents ने notice किया की response time slightly slower, participation wider and accounts clearer थे. कोई single score transition को pass नहीं करता. Old speed का कुछ हिस्सा Joseph की unpaid availability से आता था. New system ने real staffing need visible की. Team ने part-time admin budget vote किया instead of asking next volunteer तो become another permanent emergency number.
 
-Leader gaya nahi; institution ne finally us labour ki price dekhi jo pehle affection ke andar free lagti thi.
+Leader गया नहीं; institution ने finally उस labour की price देखि जो पहले affection के अंदर free लगती थी.
 
-## Yeh avoid karo
+## यह avoid करो
 
-- **Forever mentor banna** — Advice offer karo, shadow government mat chalao.
-- **Mistake par power wapas lena** — Pehle agreed review use karo.
-- **Institution ko personal legacy banana** — Purpose aapse bada rehna chahiye.
+- **Forever mentor बनना** — Advice offer करो, shadow government मत चलाओ.
+- **Mistake पर power वापस लेना** — पहले agreed review उसे करो.
+- **Institution को personal legacy बनाना** — Purpose आपसे बड़ा रहना चाहिए.
 
 ## Quick reference
 
-**Bolo:**
-- "Kaunsi information abhi bhi sirf mere paas hai?"
-- "Is role ke actual decision rights transfer karte hain."
-- "Review rule sab par, mujh par bhi lagega."
+**बोलो:**
+- &quot;कौनसी information अभी भी सिर्फ मेरे पास है?&quot;
+- &quot;इस role के actual decision rights transfer करते हैं.&quot;
+- &quot;Review rule सब पर, मुझ पर भी लगेगा.&quot;
 
-**Avoid karo:**
-- "Mere jaisa koi mil jaaye phir chhodunga."
-- "Bas final approval mera rahe."
-- "Unse galti hui, main wapas le leta hoon."
+**Avoid करो:**
+- &quot;मेरे जैसा कोई मिल जाए फिर छोडूंगा.&quot;
+- &quot;बस final approval मेरा रहे.&quot;
+- &quot;उनसे गलती हुई, मैं वापस ले लेता हूँ.&quot;

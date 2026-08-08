@@ -1,37 +1,37 @@
 ---
-title: Goalpost ke neeche pahiye lage hain
+title: Goalpost के नीचे पहिये लगे हैं
 slug: 03-goalpost-pahiye-par
 order: 3
-summary: Expectations baar-baar badalti hain toh employee performance se zyada manager ke current narrative ko chase karta hai.
+summary: Expectations बार-बार बदलती हैं तो employee performance से ज़्यादा manager के current narrative को chase करता है.
 read_time: 7
 ---
 
-Monday ko Shalini ne kaha, "Speed matters, perfect mat banao." Thursday demo mein boli, "Basic quality bhi ensure nahi kar sakte?" Surat ki design agency mein Faizan ne chat scroll ki, phir phone lock kar diya. Next project mein usne extra review liya. Is baar feedback tha, "Ownership ka matlab har cheez par approval nahi." Har response ke baad rule badal raha tha.
+Monday को शालिनी ने कहा, &quot;Speed matters, perfect मत बनाओ.&quot; Thursday demo में बोली, &quot;Basic quality भी ensure नहीं कर सकते?&quot; Surat की design agency में फैजान ने chat scroll की, फिर phone lock कर दिया. Next project में उसने extra review लिया. इस बार feedback था, &quot;Ownership का मतलब हर चीज़ पर approval नहीं.&quot; हर response के बाद rule बदल रहा था.
 
-Normal work mein priorities change hoti hain. Client scope badalta, emergency aati, new information milti. Moving goalpost ka marker change nahi; change ki accountability hai. Healthy manager bolega kya badla, kaunsa old expectation drop hua, timeline ka effect. Manipulative ya chaotic pattern old instruction deny karta aur employee ke character ko reason banata.
+Normal work में priorities change होती हैं. Client scope बदलता, emergency आती, new information मिलती. Moving goalpost का marker change नहीं; change की accountability है. Healthy manager बोलेगा क्या बदला, कौनसा old expectation drop हुआ, timeline का effect. Manipulative या chaotic pattern old instruction deny करता और employee के character को reason बनता.
 
-Is environment mein nervous system prediction machine ban jaata hai. Log task se pehle boss ka mood read karte hain, extra hours se all interpretations cover karte hain, aur written instruction ke baad bhi self-doubt. Performance objectively drop ho sakta hai; confusion ka effect real hai. Isse har error absolve nahi hota, context visible hota hai.
+इस environment में nervous system prediction machine बन जाता है. लोग task से पहले boss का mood read करते हैं, extra hours से all interpretations cover करते हैं, और written instruction के बाद भी self-doubt. Performance objectively drop हो सकता है; confusion का effect real है. इससे हर error absolve नहीं होता, context visible होता है.
 
-Faizan ne next brief ke baad five-line confirmation bheji: outcome, quality bar, deadline, approver, accepted trade-off. Shalini ne thumbs-up diya. Demo par new demand aayi toh usne defensive archive dump nahi kiya. Bola, "Yeh quality bar Thursday ko change hua. Add kar sakte hain; delivery Tuesday hogi. Kaunsa choose karein?" Change ko cost ke saath attach kiya.
+फैजान ने next brief के बाद five-line confirmation भेजी: outcome, quality bar, deadline, approver, accepted trade-off. शालिनी ने thumbs-up दिया. Demo पर new demand आई तो उसने defensive archive dump नहीं किया. बोलै, &quot;यह quality bar Thursday को change हुआ. Add कर सकते हैं; delivery Tuesday होगी. कौनसा choose करें?&quot; Change को cost के साथ attach किया.
 
-Manager phir bhi keh sakta hai, "Flexible bano." Flexibility ka matlab free scope nahi. New request ke saath time, budget ya old task move hoga. Agar kuch bhi move nahi hota, pressure employee ke personal time mein chala jaata hai.
+Manager फिर भी कह सकता है, &quot;Flexible बनो.&quot; Flexibility का मतलब free scope नहीं. New request के साथ time, budget या old task move होगा. अगर कुछ भी move नहीं होता, pressure employee के personal time में चला जाता है.
 
-Documentation ordinary ambiguity mein useful, par hostile boss written clarity avoid kar sakta hai. Meeting ke baad recap, ticket comments, calendar notes aur version history pattern bana sakte hain. Secret recording ke legal and policy rules location par depend karte hain; bina advice assume mat karo.
+Documentation ordinary ambiguity में useful, पर hostile boss written clarity avoid कर सकता है. Meeting के बाद recap, ticket comments, calendar notes और version history pattern बना सकते हैं. Secret recording के legal and policy rules location पर depend करते हैं; बिना advice assume मत करो.
 
-Neurodivergent employee ya non-native English speaker vague instruction se differently affected ho sakta hai. Clarity maangna incompetence nahi. Accessible management sabko benefit karta hai.
+Neurodivergent employee या non-native English speaker vague instruction से differently affected हो सकता है. Clarity माँगना incompetence नहीं. Accessible management सबको benefit करता है.
 
-Faizan ka project eventually delivered hua, client happy bhi tha. Is success se Shalini ka process wise prove nahi hua. Faizan ne unpaid nights diye aur teammate ne weekend cover kiya. Outcome slide green thi; decision record red.
+फैज़ान का project eventually delivered हुआ, client happy भी था. इस success से शालिनी का process wise prove नहीं हुआ. फैजान ने unpaid nights दिए और teammate ने weekend cover किया. Outcome slide green थी; decision record red.
 
-Project retrospective mein Shalini ne client happiness ko closure bola. Faizan ne effort data add kiya: planned hours, actual hours, scope additions and weekend coverage. Numbers blame nahi, capacity evidence the. Client result keep hua, process cost visible. Team ne next contract mein two revision rounds specify kiye.
+Project retrospective में शालिनी ने client happiness को closure बोलै. फैजान ने effort data add किया: planned hours, actual hours, scope additions and weekend coverage. Numbers blame नहीं, capacity evidence थे. Client result keep हुआ, process cost visible. Team ने next contract में two revision rounds specify किये.
 
-Moving goalposts employee ko perfectionism ki taraf push karte hain. Faizan every possible interpretation cover karne laga: extra mockups, duplicate files, long mails. Manager then called him slow. Response understandable, sustainable nahi. He chose one clarity checkpoint and stopped defensive overproduction beyond agreed bar. Risk remained; personal time ka unlimited insurance band hua.
+Moving goalposts employee को perfectionism की तरफ push करते हैं. फैज़ान every possible interpretation cover करने लगा: extra mockups, duplicate files, long mails. Manager then called him slow. Response understandable, sustainable नहीं. He chose one clarity checkpoint and stopped defensive overproduction beyond agreed bar. Risk remained; personal time का unlimited insurance बंद हुआ.
 
-Performance concern genuine bhi ho sakta hai. Agar expectations stable hon, peers unhe meet kar rahe hon, feedback examples consistent aur support available ho, employee ko skill improve karni pad sakti hai. Toxic framework ko saari criticism reject karne ka shield mat banao. Faizan ne independent senior se two samples review karaye; ek visual hierarchy gap real tha. Usne us skill par kaam kiya, contradictory deadlines accept nahi ki.
+Performance concern genuine भी हो सकता है. अगर expectations stable हों, peers उन्हें meet कर रहे हों, feedback examples consistent और support available हो, employee को skill improve करनी pad सकती है. Toxic framework को साड़ी criticism reject करने का shield मत बनाओ. फैजान ने independent senior से two samples review कराये; एक visual hierarchy gap real था. उसने उस skill पर काम किया, contradictory deadlines accept नहीं की.
 
-If manager written recap repeatedly rejects or punishes, the problem communication preference se larger. Internal transfer, formal workload review or exit map relevant. Another template cannot create good faith.
+If manager written recap repeatedly rejects or punishes, थे problem communication preference से larger. Internal transfer, formal workload review or exit map relevant. Another template cannot create good faith.
 
-Next brief mein Shalini ne priority change ki and explicitly moved deadline. Small improvement manager transformed proof nahi. Faizan ne trend observe kiya. Trust ek corrected incident se fully return nahi; new pattern se banta hai.
+Next brief में शालिनी ने priority change की and explicitly moved deadline. Small improvement manager transformed proof नहीं. फैजान ने trend observe किया. Trust एक corrected incident से fully return नहीं; new pattern से बनता है.
 
-Usne ninety-day review mein three indicators rakhe: written priorities honor hui, scope changes ki cost lagi, feedback examples stable rahe. Do indicators repeatedly fail hue toh internal transfer applications start. Framework ne Shalini ko diagnosis nahi diya; Faizan ko decision threshold diya. Threshold ke bina har good week hope reset karta aur har bad week panic. Review window ordinary variation ko jagah deta, lekin endless benefit of doubt ko stop karta. Manager shayad uski interpretation kabhi accept na kare. Career decision ke liye confession required nahi.
+उसने ninety-day review में three indicators रखे: written priorities honor हुई, scope changes की cost लगी, feedback examples stable रहे. दो indicators repeatedly fail हुए तो internal transfer applications start. Framework ने शालिनी को diagnosis नहीं दिया; फैजान को decision threshold दिया. Threshold के बिना हर good week hope reset करता और हर bad week panic. Review window ordinary variation को जगह देता, लेकिन endless benefit of doubt को stop करता. Manager शायद उसकी interpretation कभी accept न करे. Career decision के लिए confession required नहीं.
 
-Pattern ka record kaafi tha.
+Pattern का record काफी था.

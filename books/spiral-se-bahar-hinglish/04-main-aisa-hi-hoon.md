@@ -1,17 +1,17 @@
 ---
-title: “Main aisa hi hoon” ka pinjra
+title: “मैं ऐसा ही हूँ” का पिंजरा
 slug: 04-main-aisa-hi-hoon
 order: 4
-summary: Purane actions se bani self-image naye action ko rok kar apna hi proof banati rehti hai.
+summary: पुराने actions से बनी self-image नए action को रोककर अपना ही proof बनती रहती है.
 read_time: 2
 ---
 
-Bengaluru mein Dev meetings mein camera off rakhta aur ideas chat mein bhi nahi daalta. Flatmate se bolta, “Main behind-the-scenes banda hoon.” Ek din team lead late thi. Client ne sawaal poocha aur Dev ne answer de diya. Call ke baad do messages aaye: “That was clear.” Khushi ke saath ajeeb sa discomfort bhi aaya. Naya evidence purani story mein fit nahi ho raha tha.
+बेंगलुरु में देव meetings में camera off रखता और ideas chat में भी नहीं डालता. Flatmate से बोलता, “मैं behind-the-scenes बंदा हूँ.” एक दिन team lead late थी. Client ने सवाल पूछा और देव ने answer दे दिया. Call के बाद दो messages आए: “That was clear.” खुशी के साथ अजीब-सा discomfort भी आया. नया evidence पुरानी story में fit नहीं हो रहा था.
 
-Self-image certainty deti hai, chahe image chhoti ho. “Main numbers person nahi,” “mere ghar mein koi business-minded nahi,” “main logon se jaldi attach ho jaati hoon.” Yeh descriptions kabhi useful shorthand hain, lekin jab har exception ko reject kar dein to pinjra ban jaati hain.
+Self-image certainty देती है, चाहे image छोटी हो. “मैं numbers person नहीं,” “मेरे घर में कोई business-minded नहीं,” “मैं लोगों से जल्दी attach हो जाती हूँ.” ये descriptions कभी useful shorthand हैं, लेकिन जब हर exception को reject कर दें तो पिंजरा बन जाती हैं.
 
-Identity ko positive slogan se replace karna zaroori nahi. “Main confident hoon” Dev ko fake lagta. Usne zyada honest line rakhi: “Main prepare karke ek point bol sakta hoon.” Har meeting se pehle woh ek sentence notes mein likhta. Chaar meetings mein do baar bola. Do baar nahi. Phir bhi uske paas debate nahi, evidence tha.
+Identity को positive slogan से replace करना ज़रूरी नहीं. “मैं confident हूँ” देव को fake लगता. उसने ज़्यादा honest line रखी: “मैं prepare करके एक point बोल सकता हूँ.” हर meeting से पहले वह एक sentence notes में लिखता. चार meetings में दो बार बोला. दो बार नहीं. फिर भी उसके पास debate नहीं, evidence था.
 
-Nayi identity courtroom verdict nahi; working hypothesis hai. Use chhote experiments chahiye. Family tumhe “hamari shy beti” bole to tumhe sabke saamne speech dene ki zaroorat nahi. Restaurant mein order tum de sakti ho. “Main paise sambhal nahi sakta” ko todne ke liye stock market jump nahi; ek bill time par pay karna kaafi hai.
+नई identity courtroom verdict नहीं; working hypothesis है. उसे छोटे experiments चाहिए. Family तुम्हें “हमारी shy बेटी” बोले तो तुम्हें सबके सामने speech देने की ज़रूरत नहीं. Restaurant में order तुम दे सकती हो. “मैं पैसे संभाल नहीं सकता” को तोड़ने के लिए stock market jump नहीं; एक bill time पर pay करना काफी है.
 
-Apni story ko thoda grammar do: “ab tak”, “aksar”, “is situation mein”. “Main bolta nahi” ke badle “ab tak senior calls mein kam bola hoon.” Permanent wall ek specific pattern ban jaati hai. Specific cheez ke saath experiment kiya ja sakta hai.
+अपनी story को थोड़ा grammar दो: “अब तक”, “अक्सर”, “इस situation में”. “मैं बोलता नहीं” के बदले “अब तक senior calls में कम बोला हूँ.” Permanent wall एक specific pattern बन जाती है. Specific चीज़ के साथ experiment किया जा सकता है.

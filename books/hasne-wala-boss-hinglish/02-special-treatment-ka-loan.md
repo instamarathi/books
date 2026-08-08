@@ -1,37 +1,37 @@
 ---
-title: Special treatment free nahi aata
+title: Special treatment free नहीं आता
 slug: 02-special-treatment-ka-loan
 order: 2
-summary: Charming manager early access aur praise dekar trust bana sakta hai; debt tab dikhta hai jab loyalty facts se upar maangi jaati hai.
+summary: Charming manager early access और praise देकर trust बना सकता है; debt तब दीखता है जब loyalty facts से ऊपर मांगी जाती है.
 read_time: 7
 ---
 
-Joining ke third week Kunal ne Tara ko leadership lunch mein bula liya. "Tum mein spark hai. Baaki log process mein atke hain," usne kaha. Bengaluru startup mein twenty-four-year-old Tara ko pehli baar laga kisi senior ne actual talent dekha. Usse confidential deck, late-night strategy calls aur founder access mila. Colleagues thode cold hue toh Kunal ne samjhaya, "Jealousy handle karna leadership ka part hai."
+Joining के third week कुणाल ने तारा को leadership lunch में बुला लिया. &quot;तुम में spark है. बाकी लोग process में अटके हैं,&quot; उसने कहा. बेंगलुरु startup में twenty-four-year-old तारा को पहली बार लगा किसी senior ने actual talent देखा. उससे confidential deck, late-night strategy calls और founder access मिला. Colleagues थोड़े cold हुए तो कुणाल ने समझाया, &quot;Jealousy handle करना leadership का part है.&quot;
 
-Three months baad Kunal ne usse inflated pipeline number defend karne ko kaha. Tara hesitant hui. Answer aaya: "I backed you when nobody knew you. I need trust."
+Three months बाद कुणाल ने उससे inflated pipeline number defend करने को कहा. तारा hesitant हुई. Answer आया: &quot;I backed you when nobody knew you. I need trust.&quot;
 
-Praise manipulation ka proof nahi. Good managers talent sponsor karte hain. Difference pattern aur strings mein hai. Healthy sponsorship criteria clear karti hai, multiple relationships encourage karti hai, disagreement survive karti hai. Control-based favour isolation banata hai, secrecy maangta hai aur gratitude ko compliance mein cash karta hai.
+Praise manipulation का proof नहीं. Good managers talent sponsor करते हैं. Difference pattern और strings में है. Healthy sponsorship criteria clear करती है, multiple relationships encourage करती है, disagreement survive करती है. Control-based favour isolation बनता है, secrecy मांगता है और gratitude को compliance में cash करता है.
 
-Special treatment ka emotional effect strong hota hai. Employee apni success ko sponsor ki private approval se jod leta hai. Peers competitors lagte hain. Red flag dikhe toh apni judgement question: shayad main disloyal hoon. Charm yahan smile nahi; attention aur ambition ko route karne ki ability hai.
+Special treatment का emotional effect strong होता है. Employee अपनी success को sponsor की private approval से जोड़ लेता है. Peers competitors लगते हैं. Red flag दिखे तो अपनी judgement question: शायद मैं disloyal हूँ. Charm यहाँ smile नहीं; attention और ambition को route करने की ability है.
 
-Tara ne dramatic confrontation nahi ki. Usne pipeline methodology finance se written confirm ki, number par caveat add kiya, aur peer relationships repair shuru ki. Ek colleague ne rightly poocha, "Ab yaad aaya team?" Trust instantly return nahi hua. Tara ko accept karna pada ki favour ka benefit usne liya tha, chahe trap design uska nahi tha.
+तारा ने dramatic confrontation नहीं की. उसने pipeline methodology finance से written confirm की, number पर caveat add किया, और peer relationships repair शुरू की. एक colleague ने rightly पूछा, &quot;अब याद आया team?&quot; Trust instantly return नहीं हुआ. तारा को accept करना पड़ा की favour का benefit उसने लिया था, चाहे trap design उसका नहीं था.
 
-Is dynamic ko gender stereotype se mat padho. Charming male boss aur naive young woman ek possible scene hai, universal formula nahi. Women managers, founders, family-business elders aur peers bhi loyalty networks bana sakte hain. Attraction bhi zaroori nahi; professional recognition ka hunger kaafi hai.
+इस dynamic को gender stereotype से मत पढ़ो. Charming male boss और naive young woman एक possible scene है, universal formula नहीं. Women managers, founders, family-business elders और peers भी loyalty networks बना सकते हैं. Attraction भी ज़रूरी नहीं; professional recognition का hunger काफी है.
 
-Check ke four points: Opportunity ke criteria kya hain? Kya main boss se disagree kar sakta hoon? Kya mujhe peers se distance karaya ja raha? Kya past support current ethical debt ban raha? Ek yes verdict nahi; repeated pattern caution.
+Check के four points: Opportunity के criteria क्या हैं? क्या मैं boss से disagree कर सकता हूँ? क्या मुझे peers से distance कराया जा रहा? क्या past support current ethical debt बन रहा? एक yes verdict नहीं; repeated pattern caution.
 
-Har exclusive meeting sinister nahi, aur confidential work kabhi necessary. Suspicion ko certainty mat banao. Facts record karo, outside relationships rakho, aur apni market identity ek person ke reference par mat chhodo.
+हर exclusive meeting sinister नहीं, और confidential work कभी necessary. Suspicion को certainty मत बनाओ. Facts record करो, outside relationships रखो, और अपनी market identity एक person के reference पर मत छोडो.
 
-Tara ko us din confidence nahi mila. Usne forecast mein footnote lagaya. Chhota act tha, par special treatment ka pehla repayment refuse hua.
+तारा को उस दिन confidence नहीं मिला. उसने forecast में footnote लगाया. छोटा act था, पर special treatment का पहला repayment refuse हुआ.
 
-Kunal ka reaction cold punishment nahi tha. Woh aur charming hua. "You misunderstood me; I was protecting you from politics," usne kaha. Manipulation har baar threat jaisi feel nahi hoti. Kabhi reasonable explanation aur renewed warmth self-doubt laate hain. Tara ne intent debate nahi kiya. Specific issue repeat kiya: methodology approved nahi, number caveat ke bina present nahi karegi.
+कुणाल का reaction cold punishment नहीं था. वह और charming हुआ. &quot;You misunderstood me; I was protecting you from politics,&quot; उसने कहा. Manipulation हर बार threat जैसी feel नहीं होती. कभी reasonable explanation और renewed warmth self-doubt लाते हैं. तारा ने intent debate नहीं किया. Specific issue repeat किया: methodology approved नहीं, number caveat के बिना present नहीं करेगी.
 
-Usne company ke andar three independent relationships banaye—finance peer, another manager and former team lead. Network gossip campaign nahi; reality check and career options. Sponsor valuable hai, single sponsor dangerous. Healthy manager employee ko wider institution se connect karta; controller access gate ban kar rehta.
+उसने company के अंदर three independent relationships बनाये—finance peer, another manager and former team lead. Network gossip campaign नहीं; reality check and career options. Sponsor valuable है, single sponsor dangerous. Healthy manager employee को wider institution से connect करता; controller access gate बन कर रहता.
 
-Tara ne peer apology carefully ki. "Mujhe manipulate kiya gaya" bolkar apni impact erase nahi. She said she accepted exclusive access, shared less, and would change review flow. Colleague ne forgiveness promise nahi ki. Repair behaviour ka wait karti hai.
+तारा ने peer apology carefully की. &quot;मुझे manipulate किया गया&quot; बोलकर अपनी impact erase नहीं. She said she accepted exclusive access, shared less, and would change review flow. Colleague ने forgiveness promise नहीं की. Repair behaviour का wait करती है.
 
-Early-career employees mein mentorship ki hunger natural hai, khaaskar first-generation professionals ke liye jinke paas family networks nahi. Shame se protection nahi milti. Transparent criteria, multiple mentors aur written opportunity process institutional answers hain. Individual ko bas suspicious rehne bolna enough nahi.
+Early-career employees में mentorship की hunger natural है, खासकर first-generation professionals के लिए जिनके पास family networks नहीं. Shame से protection नहीं मिलती. Transparent criteria, multiple mentors और written opportunity process institutional answers हैं. Individual को बस suspicious रेहने बोलना enough नहीं.
 
-Six weeks later Tara ko founder presentation se remove kiya gaya. Could be retaliation, could be new staffing. She recorded pattern and applied elsewhere internally. Footnote ne instant freedom nahi di. Usne bas loyalty aur accuracy ke beech difference first time public record mein rakha.
+Six weeks later तारा को founder presentation से remove किया गया. Could be retaliation, could be new staffing. She recorded pattern and applied elsewhere internally. Footnote ने instant freedom नहीं दी. उसने बस loyalty और accuracy के बीच difference first time public record में रखा.
 
-Later Kunal sponsored another junior. Tara felt urge to warn her with a complete villain story. She shared only her own experience, specific requests and record habits, then let colleague judge. Protection ke naam par kisi aur ki agency capture karna same pattern ka softer form ho sakta hai. The junior reported a healthier experience initially. Contradictory evidence mattered. A manager different people ke saath different strategy use kar sakta, ya change bhi. Tara ko certainty nahi, boundaries and independent network chahiye the.
+Later कुणाल sponsored another junior. Tara felt urge to warn her with a complete villain story. She shared only her own experience, specific requests and record habits, then let colleague judge. Protection के नाम पर किसी और की agency capture करना same pattern का softer form हो सकता है. The junior reported a healthier experience initially. Contradictory evidence mattered. A manager different people के साथ different strategy उसे कर सकता, या change भी. तारा को certainty नहीं, boundaries and independent network चाहिए थे.

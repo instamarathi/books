@@ -1,19 +1,19 @@
 ---
-title: Nayi identity ko chhota saboot do
+title: नयी identity को छोटा सबूत दो
 slug: 07-chhota-saboot
 order: 7
-summary: Spiral se exit ek dramatic promise nahi, repeat kiya hua measurable action hai.
+summary: Spiral से exit एक dramatic promise नहीं, repeat किया गया measurable action है.
 read_time: 2
 ---
 
-Chhe mahine baad Sana presentations se pyaar nahi karti thi. Kabir har subah perfect nahi uthta tha. Nidhi ke ghar wale kabhi-kabhi uski study slot mein request bhej dete the. Badlaav ka honest ending yahi hai: purana raasta mita nahi; naya raasta use hone laga.
+छह महीने बाद सना presentations से प्यार नहीं करती थी. कबीर हर सुबह perfect नहीं उठता था. निधि के घर वाले कभी-कभी उसकी study slot में request भेज देते थे. बदलाव का honest ending यही है: पुराना रास्ता मिटा नहीं; नया रास्ता use होने लगा.
 
-Nayi identity ko mood se nahi, receipts se banao. “Main apni baat rakh rahi hoon” ka receipt ek boundary message. “Main paise dekh sakta hoon” ka receipt Sunday balance check. “Main writer hoon” ka receipt do hundred rough words. Evidence itna chhota ho ki ego usse heroic na bana sake aur itna clear ho ki dimaag usse dismiss na kar sake.
+नई identity को mood से नहीं, receipts से बनाओ. “मैं अपनी बात रख रही हूँ” का receipt एक boundary message. “मैं पैसे देख सकता हूँ” का receipt Sunday balance check. “मैं writer हूँ” का receipt two hundred rough words. Evidence इतना छोटा हो कि ego उसे heroic न बना सके और इतना clear हो कि दिमाग उसे dismiss न कर सके.
 
-Ek simple weekly note rakho. Pehla hissa: kaunsi loop chali? Doosra: maine kahan chain interrupt ki? Teesra: agla step aasaan banane ke liye environment mein kya badlega? Yeh scorecard punishment ke liye nahi. Agar action nahi hua to “main fail” nahi; design ne kaam nahi kiya ya life ki condition badli.
+एक simple weekly note रखो. पहला हिस्सा: कौन-सी loop चली? दूसरा: मैंने कहाँ chain interrupt की? तीसरा: अगला step आसान बनाने के लिए environment में क्या बदलेगा? यह scorecard punishment के लिए नहीं. अगर action नहीं हुआ तो “मैं fail” नहीं; design ने काम नहीं किया या life की condition बदली.
 
-Relapse ko bhi data do. Teen din phone bedroom mein aa gaya to poora system fake nahi. Poochho: charger kyun shift hua, sleep time kyun badla, kis friction ne old route khola? Shame details ko blur karti hai; curiosity unhe visible banati hai.
+Relapse को भी data दो. तीन दिन phone bedroom में आ गया तो पूरा system fake नहीं. पूछो: charger क्यों shift हुआ, sleep time क्यों बदला, किस friction ने old route खोला? Shame details को blur करती है; curiosity उन्हें visible बनाती है.
 
-Aur kuch spirals self-help ke size ki nahi hoti. Depression, addiction, trauma, violence ya severe anxiety mein chhota action useful ho sakta hai, par professional care ka replacement nahi. Help lena identity ki haar nahi; system mein expert support add karna hai.
+और कुछ spirals self-help के size की नहीं होती. Depression, addiction, trauma, violence या severe anxiety में छोटा action useful हो सकता है, पर professional care का replacement नहीं. Help लेना identity की हार नहीं; system में expert support add करना है.
 
-Tumhe ek naya insaan announce nahi karna. Bas agle available moment mein purani chain ka ek link alag jodna hai. Phir dobara. Identity aksar declaration ke baad nahi, receipts jama hone ke baad quietly badalti hai.
+तुम्हें एक नया इंसान announce नहीं करना. बस अगले available moment में पुरानी chain का एक link अलग जोड़ना है. फिर दोबारा. Identity अक्सर declaration के बाद नहीं, receipts जमा होने के बाद quietly बदलती है.

@@ -1,33 +1,33 @@
 ---
-title: Backlog ke baad zindagi shuru nahi hogi
+title: Backlog के बाद ज़िन्दगी शुरू नहीं होगी
 slug: 01-backlog-ke-baad
 order: 1
-summary: Pending kaam khatam hone ka wait aksar living ko ek future date par shift karta rehta hai.
+summary: Pending काम खत्म होने का wait अक्सर living को एक future date पर shift करता रहता है.
 read_time: 6
 ---
 
-"Bas quarter close ho jaaye, phir Sunday ko phone nahi chhoonga," Vivek ne beti ko kaha. Gurgaon ke dining table par maths worksheet, half-eaten dinner aur uska office laptop ek hi jagah the. Quarter close hua. Phir audit aaya, phir new client, phir appraisal inputs. Teen mahine baad beti ne Sunday plan poochna band kar diya. Vivek ka jhooth jaan-boojhkar nahi tha. Woh sach mein maanta tha ki current rush temporary hai.
+&quot;बस quarter close हो जाए, फिर Sunday को phone नहीं चहूंगा,&quot; विवेक ने बेटी को कहा. गुडगाँव के dining table पर maths worksheet, half-eaten dinner और उसका office laptop एक ही जगह थे. Quarter close हुआ. फिर audit आया, फिर new client, फिर appraisal inputs. तीन महीने बाद बेटी ने Sunday plan पूछना बंद कर दिया. विवेक का झूठ जान-बूझकर नहीं था. वह सच में मानता था कि current rush temporary है.
 
-Hum calendar ko queue samajhte hain: pehle urgent items clear, phir asli zindagi. Problem yeh hai ki competent insaan ko new work milta rehta hai. Ghar mein bhi completion line peeche jaati hai: admission, loan, parent ka test, repair, cousin ki shaadi. Backlog finish hone ka moment aaya bhi toh body rest maangegi, koi naya demand aa jayega, ya hum khud empty space ko task se bhar denge.
+हम calendar को queue समझते हैं: पहले urgent items clear, फिर असली ज़िन्दगी. Problem यह है की competent इंसान को new work मिलता रहता है. घर में भी completion line पीछे जाती है: admission, loan, parent का test, repair, cousin की शादी. Backlog finish होने का moment आया भी तो body rest मांगेगी, कोई नया demand आ जायेगा, या हम खुद empty space को task से भर देंगे.
 
-**Limited time ka matlab har minute optimize karna nahi. Matlab yeh maanna ki kuch meaningful cheezein incomplete life ke beech hi karni padengi.**
+**Limited time का मतलब हर minute optimize करना नहीं. मतलब यह मानना कि कुछ meaningful चीज़ें incomplete life के बीच ही करनी पड़ेंगी.**
 
-Vivek ne dramatic resignation nahi diya. Usne Sunday laptop ban kar diya, yeh bhi nahi. Usne Saturday morning do ghante beti ke naam calendar mein daale aur manager ko availability pehle bata di. Ek Saturday client escalation ne plan toda. Doosre par woh present raha. Rule perfect shield nahi tha; promise ko "kaam khatam hone ke baad" se nikaal kar current week mein laya.
+विवेक ने dramatic resignation नहीं दिया. उसने Sunday laptop बन कर दिया, यह भी नहीं. उसने Saturday morning दो घंटे बेटी के नाम calendar में डाले और manager को availability पहले बता दी. एक Saturday client escalation ने plan तोडा. दुसरे पर वह present रहा. Rule perfect shield नहीं था; promise को &quot;काम खत्म होने के बाद&quot; से निकाल कर current week में लाया.
 
-Finitude uncomfortable hai kyunki selection ko visible karti hai. Agar main ek language seekhta hoon toh shayad guitar nahi. Agar ageing parent ke saath har evening hoon toh promotion pace slow ho sakta hai. Choice ka matlab rejected option bekaar nahi. Kabhi do achhi lives ek saath possible nahi hoti.
+Finitude uncomfortable है क्यूंकि selection को visible करती है. अगर मैं एक language सीखता हूँ तो शायद guitar नहीं. अगर ageing parent के साथ हर evening हूँ तो promotion pace slow हो सकता है. Choice का मतलब rejected option बेकार नहीं. कभी दो अछि lives एक साथ possible नहीं होती.
 
-Lekin yahan privilege ki boundary zaroori hai. Gig worker surge pricing ke waqt offline nahi ho sakta; single parent ke paas childcare slot fixed ho sakta hai; chronic illness energy ko unpredictable banati hai. "Priority choose karo" tab insulting lagta hai jab options kisi aur ne already kaat diye hon. Framework ka kaam structural constraint ko mindset bolna nahi. Pehle dekho control kitna hai, phir us chhote ya bade control ka use.
+लेकिन यहाँ privilege की boundary ज़रूरी है. Gig worker surge pricing के वक़्त offline नहीं हो सकता; single parent के पास childcare slot fixed हो सकता है; chronic illness energy को unpredictable बनती है. &quot;Priority choose करो&quot; तब insulting लगता है जब options किसी और ने already काट दिए हों. Framework का काम structural constraint को mindset बोलना नहीं. पहले देखो control कितना है, फिर उस छोटे या बड़े control का उसे.
 
-Ek simple note banao: "Main kis cheez ko temporary bolte-bolte permanent bana chuka hoon?" Work hours, postponed health check, friend ko call, ya apna sleep. Phir grand balance plan nahi; agle seven days mein ek real appointment. Meaningful kaam ko leftover time doge toh leftover hi milega.
+एक simple note बनाओ: &quot;मैं किस चीज़ को temporary बोलते-बोलते permanent बना चुका हूँ?&quot; Work hours, postponed health check, friend को call, या अपना sleep. फिर grand balance plan नहीं; अगले seven days में एक real appointment. Meaningful काम को leftover time डोज तो leftover ही मिलेगा.
 
-Vivek ko free calendar nahi mila. Saturday ko bhi phone vibrate karta raha. Farq itna tha ki pehli baar backlog ko uski beti ke saath time approve karna nahi tha.
+विवेक को free calendar नहीं मिला. Saturday को भी phone vibrate करता रहा. फर्क इतना था की पहली बार backlog को उसकी बेटी के साथ time approve करना नहीं था.
 
-Backlog fantasy sirf workaholics ki nahi. Retired teacher pending cupboards clear karke friends se milna chahti hai; student syllabus complete karke music; new parent sleep normalize hone ke baad partner se baat. Kuch delays practical hain. Newborn phase ya acute illness mein survival genuinely priority ho sakta hai. Problem delay nahi, unreviewed delay hai jo har month same promise renew karta hai.
+Backlog fantasy सिर्फ workaholics की नहीं. Retired teacher pending cupboards clear करके friends से मिलना चाहती है; student syllabus complete करके music; new parent sleep normalize होने के बाद partner से बात. कुछ delays practical हैं. Newborn phase या acute illness में survival genuinely priority हो सकता है. Problem delay नहीं, unreviewed delay है जो हर month same promise renew करता है.
 
-Isliye postponed item ke saath review date rakho. "Abhi nahi" ko "kabhi nahi" ka polite mask mat banne do. Date par options teen hain: calendar mein place, consciously drop, ya reason ke saath next review. Har dream deserve nahi karta ki hum use guilt storage mein forever rakhein.
+इसलिए postponed item के साथ review date रखो. &quot;अभी नहीं&quot; को &quot;कभी नहीं&quot; का polite mask मत बनने दो. Date पर options तीन हैं: calendar में place, consciously drop, या reason के साथ next review. हर dream deserve नहीं करता कि हम उसे guilt storage में forever रखें.
 
-Vivek ne beti se old missed Sundays ka dramatic compensation promise nahi kiya. Usne poocha next Saturday kya karein. Usne mall ya expensive outing nahi, cycle repair boli. Meaningful time ko grand banana bhi postponement ka trick ho sakta hai. Agar perfect day chahiye, ordinary hour phir wait karega.
+विवेक ने बेटी से old missed Sundays का dramatic compensation promise नहीं किया. उसने पूछा next Saturday क्या करें. उसने mall या expensive outing नहीं, cycle repair बोली. Meaningful time को grand बनाना भी postponement का trick हो सकता है. अगर perfect day चाहिए, ordinary hour फिर wait करेगा.
 
-Us Saturday cycle shop crowded thi. Client call aaya, Vivek ne manager ko backup contact remind kiya. Beti bored hui. Experience social-media memory nahi bana. Lekin zindagi backlog ke baad nahi, puncture wale current morning mein hui.
+उस Saturday cycle shop crowded थी. Client call आया, विवेक ने manager को backup contact remind किया. बेटी bored हुई. Experience social-media memory नहीं बना. लेकिन ज़िन्दगी backlog के बाद नहीं, puncture वाले current morning में हुई.
 
-Is experiment ka review simple tha: protected block kitni baar hua, kis wajah se toota, aur break ka cost kisne carry kiya. Do missed weeks ke baad Vivek ne dekha ki backup sirf naam ka tha; client context usne share hi nahi kiya. Personal boundary ko team preparation chahiye thi. Usne Friday handover note start kiya. Calendar choice individual thi, par uski reliability collective design par dependent. Isi liye waqt ki philosophy sirf mind-set nahi; agreements, staffing aur kisi aur ko kaam samjhaane ki boring mehnat bhi hai.
+इस experiment का review simple था: protected block कितनी बार हुआ, किस वजह से टूटा, और break का cost किसने carry किया. दो missed weeks के बाद विवेक ने देखा की backup सिर्फ नाम का था; client context उसने share ही नहीं किया. Personal boundary को team preparation चाहिए थी. उसने Friday handover note start किया. Calendar choice individual थी, पर उसकी reliability collective design पर dependent. इसी लिए वक़्त की philosophy सिर्फ mind-set नहीं; agreements, staffing और किसी और को काम समझाने की boring म्हणत भी है.

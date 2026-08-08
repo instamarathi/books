@@ -1,17 +1,17 @@
 ---
-title: Thaka hua body bhi decision leta hai
+title: थका हुआ body भी decision लेता है
 slug: 06-body-ka-vote
 order: 6
-summary: Sleep, hunger, commute aur screen load purane reactions ko zyada tempting banate hain.
+summary: Sleep, hunger, commute और screen load पुराने reactions को ज़्यादा tempting बनाते हैं.
 read_time: 2
 ---
 
-Gurugram ka Harsh decide karke office gaya ki junior par irritate nahi hoga. Raat do baje tak series, breakfast sirf coffee, forty-minute traffic jam. Gyarah baje junior ne file naming poochhi aur Harsh phat pada. Shaam ko verdict: “Mera nature toxic hai.”
+गुरुग्राम का हर्ष decide करके office गया कि junior पर irritate नहीं होगा. रात दो बजे तक series, breakfast सिर्फ coffee, forty-minute traffic jam. ग्यारह बजे junior ने file naming पूछी और हर्ष फट पड़ा. शाम को verdict: “मेरा nature toxic है.”
 
-Accountability zaroori thi; body ko excuse banana nahi. Lekin battery ko ignore karke character ka diagnosis karna bhi incomplete tha. Low sleep mein patience mehengi hoti hai. Bhookh mein instant reward chamakta hai. Long commute ke baad ghar ka chhota request bhi attack lag sakta hai.
+Accountability ज़रूरी थी; body को excuse बनाना नहीं. लेकिन battery को ignore करके character का diagnosis करना भी incomplete था. Low sleep में patience महँगी होती है. भूख में instant reward चमकता है. Long commute के बाद घर का छोटा request भी attack लग सकता है.
 
-Harsh ne apology ke saath system badla. Difficult review calls lunch ke baad, phone ke liye bedroom se bahar charger, aur commute ke baad ghar pahunchkar ten-minute transition. Yeh hacks usse saint nahi banate. Bas desired response ki cost thodi kam karte hain.
+हर्ष ने apology के साथ system बदला. Difficult review calls lunch के बाद, phone के लिए bedroom से बाहर charger, और commute के बाद घर पहुँचकर ten-minute transition. ये hacks उसे saint नहीं बनाते. बस desired response की cost थोड़ी कम करते हैं.
 
-Body advice ko moral rule mat banao. New parent, shift worker, chronic pain ya crowded home mein “eight hours sleep lo” kehna kabhi mazaak jaisa lagta hai. Framework ka kaam available control dhoondhna hai: paani ki bottle, predictable snack, ek meeting kam, family se twenty-minute handover, doctor ki help. Jo control nahi hai us par shame add mat karo.
+Body advice को moral rule मत बनाओ. New parent, shift worker, chronic pain या crowded home में “eight hours sleep लो” कहना कभी मज़ाक जैसा लगता है. Framework का काम available control ढूँढ़ना है: पानी की bottle, predictable snack, एक meeting कम, family से twenty-minute handover, doctor की help. जो control नहीं है उस पर shame add मत करो.
 
-Agli baar purani loop activate ho, sirf thought mat note karo. HALT jaisa quick check lo: hungry, angry, lonely, tired? Answer problem solve nahi karta, par tumhe sahi problem deta hai. Kabhi philosophy nahi, poha aur neend chahiye hoti hai.
+अगली बार पुरानी loop activate हो, सिर्फ thought मत note करो. HALT जैसा quick check लो: hungry, angry, lonely, tired? Answer problem solve नहीं करता, पर तुम्हें सही problem देता है. कभी philosophy नहीं, पोहा और नींद चाहिए होती है.

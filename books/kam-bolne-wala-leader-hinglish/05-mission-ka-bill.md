@@ -1,59 +1,59 @@
 ---
-title: Mission inspiring hai, par bill kaun bharega?
+title: Mission inspiring है, पर bill कौन भरेगा?
 slug: 05-mission-ka-bill
 order: 5
-summary: Clear purpose tab ethical banta hai jab team outcome ke saath cost, exclusions aur non-negotiable limits bhi bole.
+summary: Clear purpose तब ethical बनता है जब team outcome के साथ cost, exclusions और non-negotiable limits भी बोले.
 read_time: 6
 ---
 
-"Har bachche tak weekend mentoring pahunchani hai," poster par likha tha. Chandigarh ke volunteer collective mein line sabko pasand aayi. Bas Meenal ne poocha, "Har weekend ka matlab women mentors ghar par kya bolengi? Aur travel reimburse ka budget?" Room ka mood thoda gir gaya. Founder ko laga woh negativity la rahi hai. Do mahine baad half volunteers chhod chuke the.
+&quot;हर बच्चे तक weekend mentoring पहुंचनी है,&quot; poster पर लिखा था. चंडीगढ़ के volunteer collective में line सबको पसंद आई. बस मीनल ने पूछा, &quot;हर weekend का मतलब women mentors घर पर क्या बोलेंगी? और travel reimburse का budget?&quot; Room का mood थोड़ा गिर गया. Founder को लगा वह negativity ला रही है. दो महीने बाद half volunteers छोड़ चुके थे.
 
-Mission memorable tha, arrangement dishonest.
+Mission memorable था, arrangement dishonest.
 
-**Purpose sirf destination nahi batata; achha purpose yeh bhi batata hai ki raste mein kya sacrifice allowed nahi.**
+**Purpose सिर्फ destination नहीं बताता; अच्छा purpose यह भी बताता है कि रास्ते में क्या sacrifice allowed नहीं.**
 
-## Yeh chaar techniques use karo
+## यह चार techniques उसे करो
 
-1. **Outcome concrete rakho** — "Education transform karna" ke badle "Class 9 ke twenty students ko weekly maths support." Scale baad mein.
+1. **Outcome concrete रखो** — &quot;Education transform करना&quot; के बदले &quot;Class 9 के twenty students को weekly maths support.&quot; Scale बाद में.
 
-2. **Beneficiary se verify karo** — Jo team ko meaningful lagta hai, zaroori nahi receiver ko wahi chahiye. Parents aur students se timing, safety aur format poochho.
+2. **Beneficiary से verify करो** — जो team को meaningful लगता है, ज़रूरी नहीं receiver को वही चाहिए. Parents और students से timing, safety और format पूछो.
 
-3. **Cost line jodo** — "No unpaid travel beyond agreed hours" ya "Student data public story mein use nahi hoga." Values budget aur rules mein dikhti hain.
+3. **Cost line जोड़ो** — &quot;No unpaid travel beyond agreed hours&quot; या &quot;Student data public story में उसे नहीं होगा.&quot; Values budget और rules में दिखती हैं.
 
-4. **Stop condition likho** — Attendance low ho, safeguarding fail ho, ya funds khatam hon toh pause kab? Mission permanent emergency nahi.
+4. **Stop condition लिखो** — Attendance low हो, safeguarding fail हो, या funds ख़तम होण तो pause कब? Mission permanent emergency नहीं.
 
-Meenal ne revised line suggest ki: "Is term twenty students ko safe, free weekend maths support dena, bina mentors se hidden unpaid shifts liye." Line glamorous kam thi. Decisions ke liye useful zyada.
+मीनल ने revised line suggest की: &quot;इस term twenty students को safe, free weekend maths support देना, बिना mentors से hidden unpaid shifts लिए.&quot; Line glamorous कम थी. Decisions के लिए useful ज़्यादा.
 
-Ek sentence har complexity solve nahi karta. Poverty, unsafe homes, caste discrimination aur disability access ko slogan mein compress karna harm chhupa sakta hai. Mission decision filter hai, moral certificate nahi. Har quarter poochho: kaun benefit le raha, kaun load utha raha, kaun room mein nahi?
+एक sentence हर complexity solve नहीं करता. Poverty, unsafe homes, caste discrimination और disability access को slogan में compress करना harm छुपा सकता है. Mission decision filter है, moral certificate नहीं. हर quarter पूछो: कौन benefit ले रहा, कौन load उठा रहा, कौन room में नहीं?
 
-Mission identity ban jaaye toh feedback insult lagta hai. "Hum good people hain" se zyada important hai "hamara current practice good effect de raha hai kya?" Intent aur impact alag records hain.
+Mission identity बन जाए तो feedback insult लगता है. &quot;हम good people हैं&quot; से ज़्यादा important है &quot;हमारा current practice good effect दे रहा है क्या?&quot; Intent और impact अलग records हैं.
 
-Meenal ne volunteers ke saath ek cost review kiya. Spreadsheet sirf rupees ka nahi tha. Travel hours, missed household work, emotional calls, student data handling aur last-minute cancellations bhi. Pata chala Saturday sessions ka hidden coordination do women volunteers kar rahi thi, jabki stage par founders visible the. Team ne coordination role rotate nahi kiya; pehle us work ko official hours aur budget diya. Rotation bina training sirf burden circulate karta.
+मीनल ने volunteers के साथ एक cost review किया. Spreadsheet सिर्फ rupees का नहीं था. Travel hours, missed household work, emotional calls, student data handling और last-minute cancellations भी. पता चला Saturday sessions का hidden coordination दो women volunteers कर रही थी, जबकि stage पर founders visible थे. Team ने coordination role rotate नहीं किया; पहले उस work को official hours और budget दिया. Rotation बिना training सिर्फ burden circulate करता.
 
-Students se feedback mein ek aur assumption toota: mentoring ka advertised English format kuch parents ko premium lagta tha, par students Hindi explanation maang rahe the. Mission ke words inclusion bol rahe the; delivery prestige follow kar rahi thi. Team ne bilingual material banaya and mentors ko simple language practice di. Beneficiary input decoration nahi raha; program choice badli.
+Students से feedback में एक और assumption टूटा: mentoring का advertised English format कुछ parents को premium लगता था, पर students Hindi explanation मांग रहे थे. Mission के words inclusion बोल रहे थे; delivery prestige follow कर रही थी. Team ने bilingual material बनाया and mentors को simple language practice दी. Beneficiary input decoration नहीं रहा; program choice बदली.
 
-Quarter ke end mein attendance expected se kam thi. Founder expansion announce karna chahta tha kyunki donor meeting scheduled thi. Mission line ne reverse test diya: kya expansion twenty current students ko safe support improve karega? Answer no. Donor ko slow plan batana risky tha. Ethical purpose kabhi inspiring speech nahi, inconvenient no ban kar kaam karta hai.
+Quarter के end में attendance expected से कम थी. Founder expansion announce करना चाहता था क्यूंकि donor meeting scheduled थी. Mission line ने reverse test दिया: क्या expansion twenty current students को safe support improve करेगा? Answer no. Donor को slow plan बताना risky था. Ethical purpose कभी inspiring speech नहीं, inconvenient no बन कर काम करता है.
 
-Team ne mission ko wall poster ke badle review question banaya. Har new idea par three lines: exact benefit, hidden cost, affected person ki voice. Isse decisions slow hue, lekin random enthusiasm se direction change kam hua. Mission repeat karna tab meaningful hai jab uske words budget aur calendar mein consequences create karein.
+Team ने mission को wall poster के बदले review question बनाया. हर new idea पर three lines: exact benefit, hidden cost, affected person की voice. इससे decisions slow हुए, लेकिन random enthusiasm से direction change कम हुआ. Mission repeat करना तब meaningful है जब उसके words budget और calendar में consequences create करें.
 
-Meenal ne yeh bhi accept kiya ki volunteers ki capacity season ke saath badlegi. Exam month, caregiving emergency aur paid-work deadline ko low commitment nahi bola gaya. Ethical mission human beings ko renewable resource nahi samajhta. Goal valuable reh sakta hai aur current pace phir bhi unsustainable.
+मीनल ने यह भी accept किया की volunteers की capacity season के साथ बदलेगी. Exam month, caregiving emergency और paid-work deadline को low commitment नहीं बोला गया. Ethical mission human beings को renewable resource नहीं समझता. Goal valuable रह सकता है और current pace फिर भी unsustainable.
 
-Purpose tab credible hua jab "abhi nahi" bolne wale volunteer ko bhi team mein respect mila. Agreement contribution ka only proof nahi tha.
+Purpose तब credible हुआ जब &quot;अभी नहीं&quot; बोलने वाले volunteer को भी team में respect मिला. Agreement contribution का only proof नहीं था.
 
-## Yeh avoid karo
+## यह avoid करो
 
-- **Emergency language** — Har task ko "children's future" bolkar boundary mat todo.
-- **Scale worship** — Bigger reach automatically deeper impact nahi.
-- **Recipient ko prop banana** — Consent ke bina stories aur photos mat use karo.
+- **Emergency language** — हर task को &quot;children's future&quot; बोलकर boundary मत तोड़ो.
+- **Scale worship** — Bigger reach automatically deeper impact नहीं.
+- **Recipient को prop बनाना** — Consent के बिना stories और photos मत उसे करो.
 
 ## Quick reference
 
-**Bolo:**
-- "Exact outcome aur time period kya hai?"
-- "Is goal ka hidden load kaun utha raha hai?"
-- "Kaunsi limit cross hui toh hum pause karenge?"
+**बोलो:**
+- &quot;Exact outcome और time period क्या है?&quot;
+- &quot;इस goal का hidden load कौन उठा रहा है?&quot;
+- &quot;कौनसी limit cross हुई तो हम pause करेंगे?&quot;
 
-**Avoid karo:**
-- "Cause ke liye itna toh karna padega."
-- "Impact numbers achhe hain, bas."
-- "Humari intention toh sahi thi."
+**Avoid करो:**
+- &quot;Cause के लिए इतना तो करना पड़ेगा.&quot;
+- &quot;Impact numbers अच्छे हैं, बस.&quot;
+- &quot;हमारी intention तो सही थी.&quot;

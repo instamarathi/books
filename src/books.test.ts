@@ -91,10 +91,14 @@ describe("book content", () => {
 
   it("keeps converted Hinglish books free of common Romanized Hindi", () => {
     const convertedSlugs = new Set([
+      "calendar-khali-nahi-hoga-hinglish",
+      "hasne-wala-boss-hinglish",
       "keemat-chuno-hinglish",
+      "kam-bolne-wala-leader-hinglish",
       "potential-ka-wait-hinglish",
+      "spiral-se-bahar-hinglish",
     ]);
-    const romanizedHindi = /\b(?:nahi|aur|mein|ke|ki|ka|ko|se|par|bhi|tha|thi|hain|hota|woh|yeh|uski|apni|agar|lekin|saath|kabhi|pehle|baad|bina|waqt|zyada|farq)\b/i;
+    const romanizedHindi = /\b(?:nahi|aur|mein|ke|ki|ka|ko|se|par|bhi|tha|thi|hain|hota|woh|yeh|uski|apni|agar|lekin|saath|kabhi|pehle|baad|bina|waqt|zyada|farq|bolo|banate|din|hon|sake|dene|roka|pasand|subah|bahut|taraf|jawab)\b/i;
 
     for (const book of loadBooks().filter((item) => convertedSlugs.has(item.slug))) {
       const text = [

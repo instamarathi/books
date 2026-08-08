@@ -1,17 +1,17 @@
 ---
-title: Ghar bhi tumhari loop mein vote karta hai
+title: घर भी तुम्हारी loop में vote करता है
 slug: 05-logon-ka-role
 order: 5
-summary: Family, friends aur office culture kuch roles ko reward aur badlaav ko punish karte hain.
+summary: Family, friends और office culture कुछ roles को reward और बदलाव को punish करते हैं.
 read_time: 2
 ---
 
-Faridabad ki Nidhi ghar ke forms, doctor appointments aur online returns sab karti thi. Sab kehte, “Tu na ho to yeh ghar chale hi na.” Jab usne CAT preparation ke liye Sunday ke teen ghante lock kiye, pehla response praise nahi tha: “Ab ek form ke liye bhi appointment lena padega?”
+फरीदाबाद की निधि घर के forms, doctor appointments और online returns सब करती थी. सब कहते, “तू न हो तो यह घर चले ही न.” जब उसने CAT preparation के लिए Sunday के तीन घंटे lock किए, पहला response praise नहीं था: “अब एक form के लिए भी appointment लेना पड़ेगा?”
 
-Nidhi ki helpfulness sirf uski habit nahi thi; poore ghar ka system us par tik gaya tha. Uska change doosron ke liye inconvenience tha. Isliye guilt ko proof samajhna galat hota: guilt ka matlab boundary galat nahi, kabhi sirf purana arrangement hil raha hota hai.
+निधि की helpfulness सिर्फ उसकी habit नहीं थी; पूरे घर का system उस पर टिक गया था. उसका change दूसरों के लिए inconvenience था. इसलिए guilt को proof समझना गलत होता: guilt का मतलब boundary गलत नहीं, कभी सिर्फ पुराना arrangement हिल रहा होता है.
 
-Environment ko villain banana bhi aasaan shortcut hai. Ghar wale adjust karein, par Nidhi ko bhi vague announcement ke badle visible plan dena tha. Usne Saturday ko pending tasks ki list family group mein dali, emergency ki definition clear ki aur bhai ko electricity bill sikhaya. Resistance ek din mein gayab nahi hua, par responsibility distribute hone lagi.
+Environment को villain बनाना भी आसान shortcut है. घर वाले adjust करें, पर निधि को भी vague announcement के बदले visible plan देना था. उसने Saturday को pending tasks की list family group में डाली, emergency की definition clear की और भाई को electricity bill सिखाया. Resistance एक दिन में गायब नहीं हुआ, पर responsibility distribute होने लगी.
 
-Dost bhi loops sambhalte hain. Agar group ka intimacy ritual har ambition ka mazaak udaana hai, tumhara course join karna unhe rejection lag sakta hai. Office mein fastest replier ko reward milta hai to deep work ka plan sirf personal discipline se nahi bachega; status message, calendar block aur manager agreement bhi chahiye.
+दोस्त भी loops सँभालते हैं. अगर group का intimacy ritual हर ambition का मज़ाक उड़ाना है, तुम्हारा course join करना उन्हें rejection लग सकता है. Office में fastest replier को reward मिलता है तो deep work का plan सिर्फ personal discipline से नहीं बचेगा; status message, calendar block और manager agreement भी चाहिए.
 
-Badlaav ka social sawaal hai: mere purane pattern se kis ko comfort, control ya convenience milti hai? Aur naya pattern chalane ke liye mujhe kis se permission nahi, cooperation maangna hai? Har rishta support nahi karega. Tab ek naya study partner, walking group ya trusted colleague willpower se zyada powerful ho sakta hai.
+बदलाव का social सवाल है: मेरे पुराने pattern से किसको comfort, control या convenience मिलती है? और नया pattern चलने के लिए मुझे किससे permission नहीं, cooperation माँगना है? हर रिश्ता support नहीं करेगा. तब एक नया study partner, walking group या trusted colleague willpower से ज़्यादा powerful हो सकता है.

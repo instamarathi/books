@@ -1,35 +1,35 @@
 ---
-title: Har haan calendar mein kisi aur cheez ko kaat ti hai
+title: हर हाँ calendar में किसी और चीज़ को काटती है
 slug: 02-har-haan-ka-kat
 order: 2
-summary: Time choice ka hidden half woh kaam, rishta ya rest hai jise ek respectable haan quietly replace karti hai.
+summary: Time choice का hidden half वह काम, रिश्ता या rest है जिसे एक respectable हाँ quietly replace करती है.
 read_time: 6
 ---
 
-Family WhatsApp group mein bua ne likha, "Rhea toh waise bhi Pune mein work from home karti hai, hospital follow-up woh manage kar legi." Rhea ne thumbs-up bhej diya. Papa ki surgery ke baad appointments important the. Lekin "waise bhi" ke andar uske client calls, commute to hospital aur exhausted evenings gayab ho gaye. Bhai Delhi mein tha, chacha retired the, par coordination naturally unmarried daughter ke naam aa gaya.
+Family WhatsApp group में बुआ ने लिखा, &quot;रिहा तो वैसे भी पुणे में work from home करती है, hospital follow-up वह manage कर लेगी.&quot; रिहा ने thumbs-up भेज दिया. पापा की surgery के बाद appointments important थे. लेकिन &quot;वैसे भी&quot; के अंदर उसके client calls, commute तो hospital और exhausted evenings गायब हो गए. भाई Delhi में था, चाचा retired थे, पर coordination naturally unmarried daughter के नाम आ गया.
 
-Rhea duty se bhaagna nahi chahti thi. Use sirf yeh samajh nahi aa raha tha ki ek genuine responsibility kab default arrangement ban gayi.
+रिहा duty से भागना नहीं चाहती थी. उसे सिर्फ यह समझ नहीं आ रहा था की एक genuine responsibility कब default arrangement बन गयी.
 
-To-do list addition dikhati hai, subtraction nahi. "Papa ka follow-up" ke saamne yeh nahi likha hota: missed project visibility, skipped exercise, partner se canceled weekend, ya sleep. Isi tarah promotion project accept karne ke neeche family cost nahi, aur social commitment ke neeche recovery cost nahi.
+To-do list addition दिखती है, subtraction नहीं. &quot;पापा का follow-up&quot; के सामने यह नहीं लिखा होता: missed project visibility, skipped exercise, partner से canceled weekend, या sleep. इसी तरह promotion project accept करने के नीचे family cost नहीं, और social commitment के नीचे recovery cost नहीं.
 
-Selection cold calculation nahi. Har cheez ko ROI se naapna bhi time anxiety ka naya version hai. Kuch duties return ke bina valuable hain. Point bas itna hai ki cost ko naam mile aur distribution discuss ho.
+Selection cold calculation नहीं. हर चीज़ को ROI से नापना भी time anxiety का नया version है. कुछ duties return के बिना valuable हैं. Point बस इतना है की cost को नाम मिले और distribution discuss हो.
 
-Rhea ne siblings ke saath four-part conversation ki. Pehle reality: agle six weeks mein five visits aur daily medication coordination. Phir cost: uske do client mornings aur commute. Phir options: bhai two visits ke liye fly karega, chacha local pharmacy handle karenge, Rhea medical file. Aakhir review: three weeks baad arrangement reopen. Kisi ko equal split nahi mila; load pehli baar visible hua.
+रिहा ने siblings के साथ four-part conversation की. पहले reality: अगले six weeks में five visits और daily medication coordination. फिर cost: उसके दो client mornings और commute. फिर options: भाई two visits के लिए fly करेगा, चाचा local pharmacy handle करेंगे, रिहा medical file. आखिर review: three weeks बाद arrangement reopen. किसी को equal split नहीं मिला; load पहली बार visible हुआ.
 
-"No" hamesha safe nahi. Financial dependence, coercive family ya abusive partner mein refusal retaliation la sakta hai. Wahan boundary script se pehle safety, allies, money aur kabhi professional/legal support chahiye. Kisi person ka current compliance uski free choice ka proof nahi.
+&quot;No&quot; हमेशा safe नहीं. Financial dependence, coercive family या abusive partner में refusal retaliation ला सकता है. वहां boundary script से पहले safety, allies, money और कभी professional/legal support चाहिए. किसी person का current compliance उसकी free choice का proof नहीं.
 
-Har haan ke pehle teen questions useful hain: Iska actual duration kya? Is duration mein kya displace hoga? Kya load share, shrink ya delay ho sakta hai? Agar answer uncomfortable hai toh haan galat zaroori nahi. Bas uska bill hidden nahi.
+हर हाँ के पहले तीन questions useful हैं: इसका actual duration क्या? इस duration में क्या displace होगा? क्या load share, shrink या delay हो सकता है? अगर answer uncomfortable है तो हाँ गलत ज़रूरी नहीं. बस उसका bill hidden नहीं.
 
-Rhea ne papa ka care chhoda nahi. Bhai hero ban kar sab lene bhi nahi aaya. System imperfect raha. Lekin family group mein agli baar "Rhea manage kar legi" nahi likha gaya. Appointment ke saath owner ka naam poocha gaya.
+रिहा ने पापा का care छोड़ा नहीं. भाई hero बन कर सब लेने भी नहीं आया. System imperfect रहा. लेकिन family group में अगली बार &quot;रिहा manage कर लेगी&quot; नहीं लिखा गया. Appointment के साथ owner का नाम पूछा गया.
 
-Care plan ke second review mein ek hidden cost aur nikla. Chacha pharmacy ja rahe the, par cab ka payment khud kar rahe the aur pension limited thi. Task distribution equal dikh raha tha; money distribution nahi. Family ne common medical wallet banaya. Time ka bill cash mein bhi aata hai, aur jo person task accept karta hai zaroori nahi woh expense bhi safely carry kar sake.
+Care plan के second review में एक hidden cost और निकला. चाचा pharmacy जा रहे थे, पर cab का payment खुद कर रहे थे और pension limited थी. Task distribution equal दिख रहा था; money distribution नहीं. Family ने common medical wallet बनाया. Time का bill cash में भी आता है, और जो person task accept करता है जरूरी नहीं वह expense भी safely carry कर सके.
 
-Rhea ke client lead ne missed mornings notice kiye the. Usne overshare kiye bina six-week availability and deliverable cover plan bataya. Lead ne one deadline move ki, all nahi. Workplace support partial raha. Family coordination ka benefit yeh nahi ki external system suddenly kind hua; Rhea ke paas at least predictable blocks aaye.
+रिहा के client lead ने missed mornings notice किये थे. उसने overshare किये बिना six-week availability and deliverable cover plan बताया. Lead ने one deadline move की, all नहीं. Workplace support partial रहा. Family coordination का benefit यह नहीं की external system suddenly kind हुआ; रिहा के पास at least predictable blocks आये.
 
-Kabhi decision real tragedy hota hai: parent needs care, siblings unable, paid support unaffordable. No clever split. Wahan framework clean answer nahi deta. Woh loss ko accurately name kar sakta hai, public schemes or community help search kar sakta hai, and caregiver ko moral failure bolne se rok sakta hai. Limited options mein grief planning ka bug nahi.
+कभी decision real tragedy होता है: parent needs care, siblings unable, paid support unaffordable. No clever split. वहां framework clean answer नहीं देता. वह loss को accurately name कर सकता है, public schemes or community help search कर सकता है, and caregiver को moral failure बोलने से rok सकता है. Limited options में grief planning का bug नहीं.
 
-Har haan ke hidden no ko dekhna cynical hona nahi. Isse haan poori hoti hai: cost selected, duration known aur responsibility shared. Rhea hospital gayi kyunki care matter karti thi, isliye nahi ki family ne quietly decide kar liya tha ki uska time sabse kam matter karta hai.
+हर हाँ के hidden no को देखना cynical होना नहीं. इससे हाँ पूरी होती है: cost selected, duration known और responsibility shared. रिहा hospital गयी क्यूंकि care matter करती थी, इसलिए नहीं की family ने quietly decide कर लिया था की उसका time सबसे कम matter करता है.
 
-Six weeks baad father ki recovery better thi, phir bhi old rota inertia se chalta raha. Review date ne sawaal khola: ab kaunsa support medically needed, kaunsa habit? Medication file weekly ho sakti thi, daily call father khud manage kar sakte the. Care arrangement success ke baad khud shrink nahi hota; roles stick karte hain. Rhea ne ek task wapas father ko diya, jo pehle offended hue. Independence kabhi receiver ke dignity ka part hoti hai, even when family help dene ko ready ho. Support ka end bhi consent se design hota hai.
+Six weeks बाद father की recovery better थी, फिर भी old rota inertia से चलता रहा. Review date ने सवाल खोला: अब कौनसा support medically needed, कौनसा habit? Medication file weekly हो सकती थी, daily call father खुद manage कर सकते थे. Care arrangement success के बाद खुद shrink नहीं होता; roles stick करते हैं. रिहा ने एक task वापस father को दिया, जो पहले offended हुए. Independence कभी receiver के dignity का part होती है, even when family help देने को ready हो. Support का end भी consent से design होता है.
 
-Care ka calendar sirf giver ki freedom nahi; receiver ki agency bhi protect kare, tabhi arrangement sach mein shared hai.
+Care का calendar सिर्फ giver की freedom नहीं; receiver की agency भी protect करे, तभी arrangement सच में shared है.
