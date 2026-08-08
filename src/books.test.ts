@@ -89,6 +89,31 @@ describe("book content", () => {
     }
   });
 
+  it("keeps converted Hinglish books free of common Romanized Hindi", () => {
+    const convertedSlugs = new Set([
+      "keemat-chuno-hinglish",
+      "potential-ka-wait-hinglish",
+    ]);
+    const romanizedHindi = /\b(?:nahi|aur|mein|ke|ki|ka|ko|se|par|bhi|tha|thi|hain|hota|woh|yeh|uski|apni|agar|lekin|saath|kabhi|pehle|baad|bina|waqt|zyada|farq)\b/i;
+
+    for (const book of loadBooks().filter((item) => convertedSlugs.has(item.slug))) {
+      const text = [
+        book.title,
+        book.subtitle,
+        book.credit,
+        book.sources,
+        ...book.chapters.flatMap((chapter) => [
+          chapter.title,
+          chapter.summary,
+          chapter.body,
+        ]),
+      ]
+        .filter(Boolean)
+        .join("\n");
+      expect(text, book.slug).not.toMatch(romanizedHindi);
+    }
+  });
+
   it("formats read time by book language", () => {
     expect(readTimeLabel({ slug: "midlife-redesign-english", language: "english" }, 8)).toBe("8 min");
     expect(readTimeLabel({ slug: "midlife-redesign", language: "marathi" }, 8)).toBe("8 मिनिटे");

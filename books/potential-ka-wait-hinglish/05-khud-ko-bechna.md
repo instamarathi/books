@@ -1,17 +1,17 @@
 ---
-title: “Mujhe khud ko bechna nahi aata”
+title: “मुझे खुद को बेचना नहीं आता”
 slug: 05-khud-ko-bechna
 order: 5
-summary: Sales se nafrat values ho sakti hai, ya clear rejection se bachne ka respectable tareeka.
+summary: Sales से नफरत values हो सकती है, या clear rejection से बचने का respectable तरीका.
 read_time: 2
 ---
 
-Kochi ka freelance designer Zaid kehta, “Good work speaks for itself.” Website par five-year-old projects the aur do months se client nahi. Friend ne past clients ko mail karne ko kaha to answer tha: “Main desperate nahi lagna chahta.”
+कोच्चि का freelance designer ज़ैद कहता, “Good work speaks for itself.” Website पर five-year-old projects थे और दो months से client नहीं. Friend ने past clients को mail करने को कहा तो answer था: “मैं desperate नहीं लगना चाहता.”
 
-Manipulative sales se discomfort healthy hai. Lekin apna useful work clearly batana manipulation nahi. “Main kis problem mein help karta hoon, yeh example hai, yeh price hai, interested ho?”—isme saamne wale ke no ki jagah bachi hai.
+Manipulative sales से discomfort healthy है. लेकिन अपना useful work clearly बताना manipulation नहीं. “मैं किस problem में help करता हूँ, यह example है, यह price है, interested हो?”—इसमें सामने वाले के no की जगह बची है.
 
-Hidden fear sentence ke last mein milta hai. “Main self-promotion type nahi” ke baad quietly hota hai: “kyunki agar maanga aur no mila to quality par doubt hoga.” Jab log khud discover nahi karte, artist market ko shallow bol sakta hai aur direct evidence se bach sakta hai.
+Hidden fear sentence के last में मिलता है. “मैं self-promotion type नहीं” के बाद quietly होता है: “क्योंकि अगर माँगा और no मिला तो quality पर doubt होगा.” जब लोग खुद discover नहीं करते, artist market को shallow बोल सकता है और direct evidence से बच सकता है.
 
-Zaid ne viral content plan nahi banaya. Ten old clients ko personal update bheja, three case studies refresh ki aur har Friday two asks ka rule rakha. Six no, three silence, one project. Rejection pleasant nahi tha; vague hopelessness se zyada informative tha.
+ज़ैद ने viral content plan नहीं बनाया. Ten old clients को personal update भेजा, three case studies refresh की और हर Friday two asks का rule रखा. Six no, three silence, one project. Rejection pleasant नहीं था; vague hopelessness से ज़्यादा informative था.
 
-Selling ko identity performance nahi, translation samjho. Tum apni poori value nahi bech rahe; ek defined outcome offer kar rahe ho. No tumhara human score nahi. Kabhi budget, timing aur fit ka answer hota hai. Aur kabhi work weak hai—woh painful data bhi improvement ke kaam aa sakta hai.
+Selling को identity performance नहीं, translation समझो. तुम अपनी पूरी value नहीं बेच रहे; एक defined outcome offer कर रहे हो. No तुम्हारा human score नहीं. कभी budget, timing और fit का answer होता है. और कभी work weak है—वह painful data भी improvement के काम आ सकता है.

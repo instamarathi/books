@@ -1,17 +1,17 @@
 ---
-title: Har achhi life ka bill hota hai
+title: हर अच्छी life का bill होता है
 slug: 02-har-life-ka-bill
 order: 2
-summary: Sahi life woh nahi jisme cost na ho; woh hai jiski roz ki cost tum samajh kar lete ho.
+summary: सही life वह नहीं जिसमें cost न हो; वह है जिसकी रोज़ की cost तुम समझकर लेते हो.
 read_time: 2
 ---
 
-Radhika ko promotion mila to family group mein fifty claps aaye. Us raat woh Hyderabad hotel mein cold room-service roti kha rahi thi; beti ka school play video call miss ho gaya tha. Promotion galat nahi tha. Lekin “growth” word ne travel, loneliness aur unavailable evenings ko cover kar diya tha.
+राधिका को promotion मिला तो family group में fifty claps आए. उस रात वह हैदराबाद hotel में cold room-service रोटी खा रही थी; बेटी का school play video call miss हो गया था. Promotion गलत नहीं था. लेकिन “growth” word ने travel, loneliness और unavailable evenings को cover कर दिया था.
 
-Har admired option ka backstage bill hai. Freelance freedom ke saath irregular income. Stable government job ke saath transfer aur slow systems. Close joint family ke saath kam privacy. Independent city life ke saath emergency mein distance. Hum aksar doosre option ka poster aur apne option ka electricity bill compare karte hain.
+हर admired option का backstage bill है. Freelance freedom के साथ irregular income. Stable government job के साथ transfer और slow systems. Close joint family के साथ कम privacy. Independent city life के साथ emergency में distance. हम अक्सर दूसरे option का poster और अपने option का electricity bill compare करते हैं.
 
-Useful question “best life kaunsi?” nahi, “kaunsa recurring discomfort main bina bitter hue carry kar sakta hoon?” One-time sacrifice se zyada daily texture dekho: Tuesday 8:30 pm ko yeh choice kaisi lagegi? Fever ke din? EMI ke saath? Parents ki age badhne par?
+Useful question “best life कौन-सी?” नहीं, “कौन-सा recurring discomfort मैं बिना bitter हुए carry कर सकता हूँ?” One-time sacrifice से ज़्यादा daily texture देखो: Tuesday 8:30 PM को यह choice कैसी लगेगी? Fever के दिन? EMI के साथ? Parents की age बढ़ने पर?
 
-Cost choose karne ka matlab har burden chosen kehna bilkul nahi. Caste bias, abuse, illness, layoffs aur poverty koi mindset package nahi. Kuch bills hum par thope jaate hain. Framework sirf us hissa mein madad karta hai jahan real choice bachi hai; injustice ko personal preference bolkar wash nahi karta.
+Cost choose करने का मतलब हर burden chosen कहना बिल्कुल नहीं. Caste bias, abuse, illness, layoffs और poverty कोई mindset package नहीं. कुछ bills हम पर थोपे जाते हैं. Framework सिर्फ उस हिस्से में मदद करता है जहाँ real choice बची है; injustice को personal preference बोलकर wash नहीं करता.
 
-Radhika ne promotion turant reject nahi kiya. Usne travel cap, protected school events aur six-month review negotiate kiya. Choice ab bhi costly thi, par cost hidden nahi thi. Kabhi solution option badalna hota hai; kabhi option ke terms.
+राधिका ने promotion तुरंत reject नहीं किया. उसने travel cap, protected school events और six-month review negotiate किया. Choice अब भी costly थी, पर cost hidden नहीं थी. कभी solution option बदलना होता है; कभी option के terms.

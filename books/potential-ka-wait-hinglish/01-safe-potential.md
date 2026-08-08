@@ -1,17 +1,17 @@
 ---
-title: Unfinished dream mein talent safe rehta hai
+title: Unfinished dream में talent safe रहता है
 slug: 01-safe-potential
 order: 1
-summary: Jo kaam duniya mein aaya hi nahi, uski quality kabhi test nahi hoti.
+summary: जो काम दुनिया में आया ही नहीं, उसकी quality कभी test नहीं होती.
 read_time: 2
 ---
 
-Delhi ki shaadi mein buffet line par school friends mile. “Teri novel?” ek ne Kunal se poocha. Kunal hansa: “Idea ab bhi killer hai. Bas office aur bachchon ke beech serious time nahi milta.” Twelve years se idea killer tha. Ek page bhi kisi reader tak nahi gaya tha.
+Delhi की शादी में buffet line पर school friends मिले. “तेरी novel?” एक ने कुणाल से पूछा. कुणाल हँसा: “Idea अब भी killer है. बस office और बच्चों के बीच serious time नहीं मिलता.” Twelve years से idea killer था. एक page भी किसी reader तक नहीं गया था.
 
-Unmade work ka strange advantage hai: woh imagination mein brilliant reh sakta hai. Draft likha to weak dialogue dikhega. Bakery kholi to customer price question karega. Course launch kiya to three sign-ups bhi ho sakte hain. Potential ko product banate hi fantasy measurement ke neeche aa jaati hai.
+Unmade work का strange advantage है: वह imagination में brilliant रह सकता है. Draft लिखा तो weak dialogue दिखेगा. Bakery खोली तो customer price question करेगा. Course launch किया तो three sign-ups भी हो सकते हैं. Potential को product बनाते ही fantasy measurement के नीचे आ जाती है.
 
-Isi liye procrastination hamesha laziness nahi. Kabhi woh self-respect ka insurance hoti hai. Agar Kunal try karke average nikla to “main talented writer hoon” story ko chot lagegi. Na likhne par reason time hai, talent nahi.
+इसीलिए procrastination हमेशा laziness नहीं. कभी वह self-respect का insurance होती है. अगर कुणाल try करके average निकला तो “मैं talented writer हूँ” story को चोट लगेगी. न लिखने पर reason time है, talent नहीं.
 
-Cost quietly family bhi bharti hai. Kunal har published friend par sarcastic hota, Sunday ko ghar ke noise ko blame karta, aur apne sacrifice ka mood sabko deta. Unlived ambition private nahi rehti; woh resentment ban kar dining table tak aati hai.
+Cost quietly family भी भरती है. कुणाल हर published friend पर sarcastic होता, Sunday को घर के noise को blame करता, और अपने sacrifice का mood सबको देता. Unlived ambition private नहीं रहती; वह resentment बनकर dining table तक आती है.
 
-Exit motivation speech nahi. Pehla honest sentence hai: “Ho sakta hai mera current work average ho.” Average verdict nahi, location hai. Location milte hi next direction possible hoti hai. Potential ko bachane ke liye zindagi bhar evidence se door rakhna safe lagta hai, par end mein sirf ek untested claim bachta hai.
+Exit motivation speech नहीं. पहला honest sentence है: “हो सकता है मेरा current work average हो.” Average verdict नहीं, location है. Location मिलते ही next direction possible होती है. Potential को बचाने के लिए ज़िंदगी भर evidence से दूर रखना safe लगता है, पर end में सिर्फ एक untested claim बचता है.

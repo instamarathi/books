@@ -1,17 +1,17 @@
 ---
-title: Risk lo, recovery ki zameen mat jalao
+title: Risk लो, recovery की ज़मीन मत जलाओ
 slug: 04-risk-aur-ruin
 order: 4
-summary: Courage aur ruin ek cheez nahi; achha bet tumhe dobara khelne deta hai.
+summary: Courage और ruin एक चीज़ नहीं; अच्छा bet तुम्हें दोबारा खेलने देता है.
 read_time: 2
 ---
 
-Indore ka Mohit restaurant kholna chahta tha. Plan ke saath parents ke flat par loan ka paper bhi tha. “Risk nahi lenge to grow kaise karenge?” usne kaha. Lekin jis risk ke fail hone par parents ka ghar jaaye, woh sirf Mohit ka bold move nahi tha.
+इंदौर का मोहित restaurant खोलना चाहता था. Plan के साथ parents के flat पर loan का paper भी था. “Risk नहीं लेंगे तो grow कैसे करेंगे?” उसने कहा. लेकिन जिस risk के fail होने पर parents का घर जाए, वह सिर्फ मोहित का bold move नहीं था.
 
-Risk ka romantic version upside dikhata hai. Responsible version recovery dekhta hai. Failure ke baad rent, treatment, school fees aur relationships ka kya hoga? Jo move tumhari next chance hi mita de, usse high-conviction kehna math nahi badalta.
+Risk का romantic version upside दिखता है. Responsible version recovery देखता है. Failure के बाद rent, treatment, school fees और relationships का क्या होगा? जो move तुम्हारी next chance ही मिटा दे, उसे high-conviction कहना math नहीं बदलता.
 
-Ruin test simple hai: worst plausible case mein kya irreversible hoga? Debt ka size? Health? Kisi dependent ki safety? Reputation jo legally or socially recover nahi hogi? Phir bet ko chhota karo—pop-up weekends, shared kitchen, pre-orders, limited geography, partner capital. Small test cowardice nahi; uncertainty kharidne ka sasta tareeka hai.
+Ruin test simple है: worst plausible case में क्या irreversible होगा? Debt का size? Health? किसी dependent की safety? Reputation जो legally or socially recover नहीं होगी? फिर bet को छोटा करो—pop-up weekends, shared kitchen, pre-orders, limited geography, partner capital. Small test cowardice नहीं; uncertainty खरीदने का सस्ता तरीका है.
 
-Sabke paas equal safety net nahi. Jiske parents emergency fund ban sakte hain uski “fearless” leap aur first-generation earner ki leap same nahi. Advice ko privilege ka bill bhi dekhna chahiye.
+सबके पास equal safety net नहीं. जिसके parents emergency fund बन सकते हैं उसकी “fearless” leap और first-generation earner की leap same नहीं. Advice को privilege का bill भी देखना चाहिए.
 
-Kabhi risk lena phir bhi zaroori hoga—unsafe marriage chhodna, whistleblowing, urgent treatment. Wahan expected return spreadsheet final judge nahi; safety, rights aur moral duty priority le sakte hain. Framework servant hai, constitution nahi.
+कभी risk लेना फिर भी ज़रूरी होगा—unsafe marriage छोड़ना, whistleblowing, urgent treatment. वहाँ expected return spreadsheet final judge नहीं; safety, rights और moral duty priority ले सकते हैं. Framework servant है, constitution नहीं.

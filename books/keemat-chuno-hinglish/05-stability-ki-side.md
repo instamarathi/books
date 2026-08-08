@@ -1,17 +1,17 @@
 ---
-title: Boring job kabhi strategy hoti hai
+title: Boring job कभी strategy होती है
 slug: 05-stability-ki-side
 order: 5
-summary: Rukna fear bhi ho sakta hai aur capacity-building bhi; farq calendar aur evidence batate hain.
+summary: रुकना fear भी हो सकता है और capacity-building भी; फ़र्क़ calendar और evidence बताते हैं.
 read_time: 2
 ---
 
-Arjun ke college group mein reel aayi: “Salary is the bribe to forget your dream.” Sabne usse tag kiya. Punchline catchy thi; uski maa ki dialysis aur home-loan EMI reel mein nahi thi.
+अर्जुन के college group में reel आई: “Salary is the bribe to forget your dream.” सबने उसे tag किया. Punchline catchy थी; उसकी माँ की dialysis और home-loan EMI reel में नहीं थी.
 
-Stable job ko automatically cowardice bolna utna hi shallow hai jitna har dream ko irresponsible bolna. Stability kabhi runway banati hai: debt kam, skill strong, contacts ready. Kabhi wahi stability fear ka polished naam hoti hai. Farq intention nahi, observable plan mein dikhta hai.
+Stable job को automatically cowardice बोलना उतना ही shallow है जितना हर dream को irresponsible बोलना. Stability कभी runway बनती है: debt कम, skill strong, contacts ready. कभी वही stability fear का polished नाम होती है. फ़र्क़ intention नहीं, observable plan में दिखता है.
 
-Agar tum keh rahe ho “abhi nahi,” to poochho: kis date tak, tab tak kya asset banega, aur kaunsa evidence decision reopen karega? Arjun ne twelve-month window rakhi—emergency fund, two paid pilots, co-founder work test. Agar ek saal baad bhi sirf logos aur podcasts hote, to preparation story expose ho jaati.
+अगर तुम कह रहे हो “अभी नहीं,” तो पूछो: किस date तक, तब तक क्या asset बनेगा, और कौन-सा evidence decision reopen करेगा? अर्जुन ने twelve-month window रखी—emergency fund, two paid pilots, co-founder work test. अगर एक साल बाद भी सिर्फ logos और podcasts होते, तो preparation story expose हो जाती.
 
-Stable rehne ki bhi cost likho: boredom, slower growth, resentment. Leap ki cost bhi: cash volatility, family load, identity shock. Dono columns mein honest Tuesday rakho, Instagram highlight nahi.
+Stable रहने की भी cost लिखो: boredom, slower growth, resentment. Leap की cost भी: cash volatility, family load, identity shock. दोनों columns में honest Tuesday रखो, Instagram highlight नहीं.
 
-Sometimes boring is exactly what season needs. New baby, grief, illness ya visa uncertainty mein ambition ko maintenance mode dena surrender nahi. Season ko permanent identity banne se bachane ke liye review date rakho. “Filhaal” aur “kabhi nahi” ke beech calendar khada hota hai.
+Sometimes boring is exactly what season needs. New baby, grief, illness या visa uncertainty में ambition को maintenance mode देना surrender नहीं. Season को permanent identity बनने से बचाने के लिए review date रखो. “फिलहाल” और “कभी नहीं” के बीच calendar खड़ा होता है.

@@ -1,17 +1,17 @@
 ---
-title: Standards ya result se hiding?
+title: Standards या result से hiding?
 slug: 04-standards-ki-aad
 order: 4
-summary: Quality ka care aur judgement se bachne ke liye endless polish bahar se same dikh sakte hain.
+summary: Quality का care और judgment से बचने के लिए endless polish बाहर से same दिख सकते हैं.
 read_time: 2
 ---
 
-Pune office mein Rhea ne deck teesri baar roka: font weight, graph colour, opening line. Client ne aakhir poocha, “Rough direction hi bhej do.” Rhea boli, “Half-baked work mere naam se nahi jaayega.” Project doosri team ko mil gaya. Uska standard intact tha; impact zero.
+पुणे office में रिया ने deck तीसरी बार रोका: font weight, graph colour, opening line. Client ने आखिर पूछा, “Rough direction ही भेज दो.” रिया बोली, “Half-baked work मेरे नाम से नहीं जाएगा.” Project दूसरी team को मिल गया. उसका standard intact था; impact zero.
 
-Real standard user ki need se connected hota hai. Hiding standard discomfort se. Test poochho: kaunsi clear condition par work ready maana jaayega? Kaun sa edit user outcome badlega? Deadline pass hone ki cost kya hai? Agar answer har baar “bas aur sharp” hai, quality language fear ko cover kar rahi ho sakti hai.
+Real standard user की need से connected होता है. Hiding standard discomfort से. Test पूछो: कौन-सी clear condition पर work ready माना जाएगा? कौन-सा edit user outcome बदलेगा? Deadline pass होने की cost क्या है? अगर answer हर बार “बस और sharp” है, quality language fear को cover कर रही हो सकती है.
 
-Do versions banao: useful aur exceptional. Pehle useful ship karo—accurate, safe, understandable. Exceptional improvements ko next cycle do. Medical, legal ya safety work mein threshold naturally strict hoga; “ship fast” negligence ka licence nahi. Standard risk ke proportion mein hona chahiye, ego ke nahi.
+दो versions बनाओ: useful और exceptional. पहले useful ship करो—accurate, safe, understandable. Exceptional improvements को next cycle दो. Medical, legal या safety work में threshold naturally strict होगा; “ship fast” negligence का लाइसेंस नहीं. Standard risk के proportion में होना चाहिए, ego के नहीं.
 
-Rhea ne next deck ke liye pre-agreed checklist aur two-review limit rakhi. Anxiety deadline par gayab nahi hui. Send button ne bas uski anxiety ko decision power dena band kiya.
+रिया ने next deck के लिए pre-agreed checklist और two-review limit रखी. Anxiety deadline पर गायब नहीं हुई. Send button ने बस उसकी anxiety को decision power देना बंद किया.
 
-Perfection kabhi craft ka pyaar hai. Par pyaar object ko duniya tak pahunchata hai. Agar standard saalon se sirf gate band kar raha hai, ho sakta hai woh guard quality ka nahi, self-image ka ho.
+Perfection कभी craft का प्यार है. पर प्यार object को दुनिया तक पहुँचाता है. अगर standard सालों से सिर्फ gate बंद कर रहा है, हो सकता है वह guard quality का नहीं, self-image का हो.

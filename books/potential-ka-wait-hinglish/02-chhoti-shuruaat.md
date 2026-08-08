@@ -1,19 +1,19 @@
 ---
-title: Chhoti shuruaat insult kyun lagti hai
+title: छोटी शुरुआत insult क्यों लगती है
 slug: 02-chhoti-shuruaat
 order: 2
-summary: Grand vision status deti hai; first customer tumhari actual skill dikha deta hai.
+summary: Grand vision status देती है; first customer तुम्हारी actual skill दिखा देता है.
 read_time: 2
 ---
 
-Chandigarh ki Ayesha home bakery chahti thi. Brand name, pastel boxes aur launch reel ready the. Society ki neighbour ne four cupcakes maange to usne mana kar diya: “Main proper launch ke baad orders lungi.” Proper launch nine months tak nahi aaya.
+चंडीगढ़ की आयेशा home bakery चाहती थी. Brand name, pastel boxes और launch reel ready थे. Society की neighbour ने four cupcakes माँगे तो उसने मना कर दिया: “मैं proper launch के बाद orders लूँगी.” Proper launch nine months तक नहीं आया.
 
-Vision mein Ayesha founder thi. Four cupcakes mein woh beginner thi—quantity galat ho sakti thi, icing melt, aunty discount maang sakti thi. Small start revenue se pehle identity ko downgrade jaisi lagti hai.
+Vision में आयेशा founder थी. Four cupcakes में वह beginner थी—quantity गलत हो सकती थी, icing melt, आंटी discount मांग सकती थी. Small start revenue से पहले identity को downgrade जैसी लगती है.
 
-Lekin market imagination ko feedback nahi deta. Pehla customer batata hai log kis flavour ke paise denge, packaging lift mein tikti hai ya nahi, aur ek order ka actual time kya hai. Yeh information logo designer nahi de sakta.
+लेकिन market imagination को feedback नहीं देता. पहला customer बताता है लोग किस flavour के पैसे देंगे, packaging lift में टिकती है या नहीं, और एक order का actual time क्या है. यह information logo designer नहीं दे सकता.
 
-Small ko casual mat banao. Ayesha ne “trial month” banaya: maximum twenty orders, fixed menu, delivery radius two kilometres, har order ke baad three questions. Limit ne experiment ko dignity di. Usne dream chhota nahi kiya; uncertainty chhoti ki.
+Small को casual मत बनाओ. आयेशा ने “trial month” बनाया: maximum twenty orders, fixed menu, delivery radius two kilometres, हर order के बाद three questions. Limit ने experiment को dignity दी. उसने dream छोटा नहीं किया; uncertainty छोटी की.
 
-Har beginning public honi zaroori nahi. Unsafe workplace ya financially fragile situation mein quiet pilot better hai. Lekin private ka matlab imaginary nahi. Kisi real person ko real output dena hoga. Aisa output jise woh use, reject ya pay kar sake.
+हर beginning public होनी ज़रूरी नहीं. Unsafe workplace या financially fragile situation में quiet pilot better है. लेकिन private का मतलब imaginary नहीं. किसी real person को real output देना होगा. ऐसा output जिसे वह use, reject या pay कर सके.
 
-Grand start applause leti hai. Small start data. Agar tumhe growth chahiye, pehle thodi beizzati tolerate karni padegi: tumhare standards future ke hain, tumhari hands-on skill aaj ki.
+Grand start applause लेती है. Small start data. अगर तुम्हें growth चाहिए, पहले थोड़ी बेइज़्ज़ती tolerate करनी पड़ेगी: तुम्हारे standards future के हैं, तुम्हारी hands-on skill आज की.

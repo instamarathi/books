@@ -1,17 +1,17 @@
 ---
-title: “Smart bachcha” help kyun nahi maangta
+title: “Smart बच्चा” help क्यों नहीं मांगता
 slug: 03-smart-bachcha
 order: 3
-summary: Intelligence ki praise kabhi effort aur confusion ko identity threat bana deti hai.
+summary: Intelligence की praise कभी effort और confusion को identity threat बना देती है.
 read_time: 2
 ---
 
-Kanpur ke class nine mein teacher ne poocha, “Quadratic ka step kis ko nahi samjha?” Aarav ka dimaag blank tha. Do hands uthe—un students ke jinke marks average the. Aarav ka hand desk ke neeche raha. Ghar mein woh “hamara genius” tha. Genius basic sawaal kaise poochta?
+कानपुर के class nine में teacher ने पूछा, “Quadratic का step किसको नहीं समझा?” आरव का दिमाग blank था. दो hands उठे—उन students के जिनके marks average थे. आरव का hand desk के नीचे रहा. घर में वह “हमारा genius” था. Genius basic सवाल कैसे पूछता?
 
-Praise pyaar se aayi thi, par usne role bana diya. Easy success proof tha; struggle exposure. Aarav homework YouTube se copy karta raha jab tak unit test ne gap dikha nahi diya. Ab help aur bhi humiliating thi.
+Praise प्यार से आई थी, पर उसने role बना दिया. Easy success proof था; struggle exposure. आरव homework YouTube से copy करता रहा जब तक unit test ने gap दिखा नहीं दिया. अब help और भी humiliating थी.
 
-Adults bhi same script office le jaate hain. New manager clarification nahi maangta. Senior designer tool tutorial secretly dekhta hai. Parent counsellor ko call nahi karta kyunki “apne bachche ko humse better kaun jaane.” Image bachti hai, learning rukti hai.
+Adults भी same script office ले जाते हैं. New manager clarification नहीं माँगता. Senior designer tool tutorial secretly देखता है. Parent counsellor को call नहीं करता क्योंकि “अपने बच्चे को हमसे better कौन जाने.” Image बचती है, learning रुकती है.
 
-Identity-safe language specific hoti hai: “Mujhe step two tak samjha, uske baad nahi”; “Main is tool mein new hoon”; “Mera hypothesis yeh hai, kya miss kar raha hoon?” Help maangna global incompetence confession nahi, gap ka address hai.
+Identity-safe language specific होती है: “मुझे step two तक समझा, उसके बाद नहीं”; “मैं इस tool में new हूँ”; “मेरा hypothesis यह है, क्या miss कर रहा हूँ?” Help माँगना global incompetence confession नहीं, gap का address है.
 
-Parents praise ko bhi data bana sakte hain: smart ke badle strategy, revision aur honest question notice karo. Result kharab ho to character verdict nahi; preparation ka map. Isse marks guarantee nahi honge, par bachcha difficulty ko apni value ka referendum samajhna kam karega.
+Parents praise को भी data बना सकते हैं: smart के बदले strategy, revision और honest question notice करो. Result खराब हो तो character verdict नहीं; preparation का map. इससे marks guarantee नहीं होंगे, पर बच्चा difficulty को अपनी value का referendum समझना कम करेगा.

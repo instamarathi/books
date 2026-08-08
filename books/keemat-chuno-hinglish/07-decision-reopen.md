@@ -1,19 +1,19 @@
 ---
-title: Kal ka smart decision aaj jail ho sakta hai
+title: कल का smart decision आज jail हो सकता है
 slug: 07-decision-reopen
 order: 7
-summary: Conditions aur costs badalti hain; achha decision bhi review se exempt nahi.
+summary: Conditions और costs बदलती हैं; अच्छा decision भी review से exempt नहीं.
 read_time: 2
 ---
 
-Meera ne seven years pehle overseas role reject kiya tha. Toddler, father ka stroke, husband ka local business—tab stability ka decision sensible tha. Ab beta school bus khud leta tha, father stable the, remote work possible tha. Phir bhi woh har new role ko purane answer se reject karti: “Hum move nahi kar sakte.” Past wisdom current cage ban gayi thi.
+मीरा ने seven years पहले overseas role reject किया था. Toddler, father का stroke, husband का local business—तब stability का decision sensible था. अब बेटा school bus खुद लेता था, father stable थे, remote work possible था. फिर भी वह हर new role को पुराने answer से reject करती: “हम move नहीं कर सकते.” Past wisdom current cage बन गई थी.
 
-Sunk cost sirf paise ka nahi. Hum sacrifice, degree, marriage narrative aur public announcement mein bhi invest karte hain. Exit ka matlab kabhi yeh maanna lagta hai ki pehle galat the. Lekin nayi condition mein naya choice purane choice ko insult nahi karta.
+Sunk cost सिर्फ पैसे का नहीं. हम sacrifice, degree, marriage narrative और public announcement में भी invest करते हैं. Exit का मतलब कभी यह मानने लगता है कि पहले गलत थे. लेकिन नई condition में नया choice पुराने choice को insult नहीं करता.
 
-Quarterly ya yearly decision review ko teen stages do. Pehla, reality: kya badla—income, health, dependents, energy? Doosra, cost: jo bill accept kiya tha, woh expected size ka hai ya quietly bada? Teesra, choice: continue, terms renegotiate, small experiment, ya exit? Har stage mein affected people ki awaaz rakho.
+Quarterly या yearly decision review को तीन stages दो. पहला, reality: क्या बदला—income, health, dependents, energy? दूसरा, cost: जो bill accept किया था, वह expected size का है या quietly बड़ा? तीसरा, choice: continue, terms renegotiate, small experiment, या exit? हर stage में affected people की आवाज़ रखो.
 
-Exit hamesha available nahi. Financial dependence, coercion, law aur safety options ko narrow kar sakte hain. Wahan “bas choose differently” kehna cruel hai; pehla kaam support aur real options banana hai.
+Exit हमेशा available नहीं. Financial dependence, coercion, law और safety options को narrow कर सकते हैं. वहाँ “बस choose differently” कहना cruel है; पहला काम support और real options बनाना है.
 
-Meera ne move decide nahi kiya. Usne six-week international project liya aur family system test kiya. Decision reopen karna turant reverse karna nahi; purane answer ko evidence ke saamne dobara bithana hai.
+मीरा ने move decide नहीं किया. उसने six-week international project लिया और family system test किया. Decision reopen करना तुरंत reverse करना नहीं; पुराने answer को evidence के सामने दोबारा बिठाना है.
 
-Success choose nahi hota. Cost bhi hamesha fully choose nahi hoti. Par jahan choice hai, wahan tum result ka promise nahi—clear bet, fair bill aur honest review choose kar sakte ho.
+Success choose नहीं होता. Cost भी हमेशा fully choose नहीं होती. पर जहाँ choice है, वहाँ तुम result का promise नहीं—clear bet, fair bill और honest review choose कर सकते हो.
