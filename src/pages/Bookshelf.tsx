@@ -3,6 +3,7 @@ import {
   loadBooks,
   bookKind,
   bookLanguage,
+  compareBooksByCreationNewestFirst,
   CATEGORIES,
   CATEGORY_ORDER,
   categoryInfo,
@@ -50,19 +51,19 @@ function FeaturedHero({
   const teaser = chapter.summary || chapterTeaser(chapter.body);
   const lang = bookLanguage(book);
   const eyebrow = mode === "continue"
-    ? lang === "english"
-      ? "Continue reading"
-      : "वाचणं सुरू ठेवा"
-    : lang === "english"
-      ? "Today's first chapter"
-      : "आजचं पहिलं प्रकरण";
+    ? lang === "marathi"
+      ? "वाचणं सुरू ठेवा"
+      : lang === "hinglish" ? "Padhna jaari rakho" : "Continue reading"
+    : lang === "marathi"
+      ? "आजचं पहिलं प्रकरण"
+      : lang === "hinglish" ? "Aaj ka pehla chapter" : "Today's first chapter";
   const cta = mode === "continue"
-    ? lang === "english"
-      ? "Continue from here →"
-      : "तिथून पुढे →"
-    : lang === "english"
-      ? "Start reading →"
-      : "वाचायला सुरू करा →";
+    ? lang === "marathi"
+      ? "तिथून पुढे →"
+      : lang === "hinglish" ? "Yahin se aage →" : "Continue from here →"
+    : lang === "marathi"
+      ? "वाचायला सुरू करा →"
+      : lang === "hinglish" ? "Padhna shuru karo →" : "Start reading →";
   return (
     <section className="featured" aria-labelledby="featured-title">
       <Link to={`/${book.slug}/${chapter.slug}`} className="featured-link">
@@ -128,6 +129,9 @@ export const BookshelfView = ({
     if (!grouped.has(k)) grouped.set(k, []);
     grouped.get(k)!.push(b);
   }
+  for (const list of grouped.values()) {
+    list.sort(compareBooksByCreationNewestFirst);
+  }
   const sectionsToRender = CATEGORY_ORDER.filter(
     (k) => (grouped.get(k)?.length ?? 0) > 0,
   );
@@ -145,6 +149,9 @@ export const BookshelfView = ({
           <Link to="/english" className={language === "english" ? "active" : ""}>
             English books
           </Link>
+          <Link to="/hinglish" className={language === "hinglish" ? "active" : ""}>
+            Hinglish books
+          </Link>
         </div>
       )}
       {featuredBook && featuredChapter ? (
@@ -156,7 +163,7 @@ export const BookshelfView = ({
       ) : null}
 
       {sectionsToRender.length > 1 && (
-        <nav className="bookshelf-nav" aria-label={language === "english" ? "Topics" : "विषय"}>
+        <nav className="bookshelf-nav" aria-label={language === "marathi" ? "विषय" : "Topics"}>
           {sectionsToRender.map((k) => (
             <a key={k} href={`#cat-${k}`} className="bookshelf-nav-chip">
               <span aria-hidden="true">{categoryInfo({ language, slug: "" }, k).emoji}</span>
@@ -167,7 +174,7 @@ export const BookshelfView = ({
       )}
 
       {visibleBooks.length === 0 ? (
-        <p>{language === "english" ? "(No books yet.)" : "(अजून पुस्तके नाहीत.)"}</p>
+        <p>{language === "marathi" ? "(अजून पुस्तके नाहीत.)" : "(No books yet.)"}</p>
       ) : (
         sectionsToRender.map((k) => {
           const list = grouped.get(k)!;

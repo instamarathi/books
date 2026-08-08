@@ -29,8 +29,8 @@ export const PrintBook = () => {
   if (!book) {
     return (
       <p>
-        {language === "english" ? "Book not found." : "पुस्तक सापडले नाही."}{" "}
-        <Link to="/">{language === "english" ? "Back to home" : "मुख्य पानावर परत"}</Link>
+        {language === "marathi" ? "पुस्तक सापडले नाही." : "Book not found."}{" "}
+        <Link to="/">{language === "marathi" ? "मुख्य पानावर परत" : "Back to home"}</Link>
       </p>
     );
   }
@@ -38,7 +38,7 @@ export const PrintBook = () => {
   const chapters = book.chapters;
 
   return (
-    <div className={`print-book ${language === "english" ? "print-book-english" : "print-book-marathi"}`}>
+    <div className={`print-book ${language === "marathi" ? "print-book-marathi" : "print-book-english"}`}>
       <div className="print-screen-toolbar no-print">
         <Link to={`/${book.slug}`} className="print-back">
           ← {book.title}
@@ -70,7 +70,7 @@ export const PrintBook = () => {
         <article key={c.slug} className="print-chapter">
           <header className="print-chapter-header">
             <p className="print-chapter-num">
-              {language === "english" ? "Chapter" : "प्रकरण"} {c.order}
+              {language === "marathi" ? "प्रकरण" : "Chapter"} {c.order}
             </p>
             <h2 className="print-chapter-title">{c.title}</h2>
           </header>

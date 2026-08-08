@@ -347,14 +347,29 @@ main {
   background:
     linear-gradient(180deg, var(--cover-a) 0 34%, var(--cover-b) 34% 62%, var(--cover-c) 62% 100%);
 }
+.book-cover-number,
 .book-cover-eyebrow,
 .book-cover-title {
   position: relative;
   z-index: 1;
 }
+.book-cover-number {
+  position: absolute;
+  top: 0.55rem;
+  right: 0.55rem;
+  padding: 0.14rem 0.42rem;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.34);
+  color: #fffaf0;
+  font-family: Inter, system-ui, sans-serif;
+  font-size: 0.72rem;
+  font-weight: 850;
+  line-height: 1.25;
+  letter-spacing: 0.02em;
+}
 .book-cover-eyebrow {
   align-self: flex-start;
-  max-width: 100%;
+  max-width: calc(100% - 3.1rem);
   padding: 0.18rem 0.44rem;
   border-radius: 999px;
   background: var(--cover-tag);

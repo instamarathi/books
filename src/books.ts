@@ -71,6 +71,11 @@ export const KIND_LABELS_BY_LANGUAGE: Record<BookLanguage, Record<BookKind, stri
     fiction: "Fiction",
     essay: "Essay",
   },
+  hinglish: {
+    howto: "Guide",
+    fiction: "Fiction",
+    essay: "Essay",
+  },
 };
 
 export type BookMeta = {
@@ -81,16 +86,18 @@ export type BookMeta = {
   sources?: string;
   category?: CategoryKey;
   kind?: BookKind;
-  language?: "marathi" | "english";
+  language?: BookLanguage;
+  created_order?: number;
   chapter_order: string[];
 };
 
-export type BookLanguage = "marathi" | "english";
+export type BookLanguage = "marathi" | "english" | "hinglish";
 
 export function bookLanguage(meta: Pick<BookMeta, "language" | "slug">): BookLanguage {
-  if (meta.language === "english" || meta.language === "marathi") {
+  if (meta.language === "english" || meta.language === "marathi" || meta.language === "hinglish") {
     return meta.language;
   }
+  if (meta.slug.endsWith("-hinglish")) return "hinglish";
   return meta.slug.endsWith("-english") ? "english" : "marathi";
 }
 
@@ -102,16 +109,15 @@ export function readTimeLabel(
   meta: Pick<BookMeta, "language" | "slug">,
   minutes: number,
 ): string {
-  return `${minutes} ${bookLanguage(meta) === "english" ? "min" : "मिनिटे"}`;
+  return `${minutes} ${bookLanguage(meta) === "marathi" ? "मिनिटे" : "min"}`;
 }
 
 export function chapterCountLabel(
   meta: Pick<BookMeta, "language" | "slug">,
   count: number,
 ): string {
-  return bookLanguage(meta) === "english"
-    ? `${count} chapter${count === 1 ? "" : "s"}`
-    : `${count} प्रकरणं`;
+  if (bookLanguage(meta) === "marathi") return `${count} प्रकरणं`;
+  return `${count} chapter${count === 1 ? "" : "s"}`;
 }
 
 export function kindLabel(
@@ -124,6 +130,46 @@ export function kindLabel(
 export type Book = BookMeta & {
   chapters: Chapter[];
 };
+
+// Stable creation order for the bookshelf. Derived from the first committed
+// date of each book's meta.json; ties in the same commit use path order.
+const BOOK_CREATION_ORDER: Record<string, number> = {
+  "how-to-talk": 1,
+  "kaay-molavche": 2,
+  "nav-bhoomika": 3,
+  apeksha: 4,
+  "prashna-vichara": 5,
+  "nitnetake-ghar": 6,
+  "ho-mhanyaaadhi": 7,
+  "risk-ka-ghet-nahi": 8,
+  "soneri-pinjara": 9,
+  "sahaa-topya": 10,
+  "mala-sangaychay": 11,
+  "rikamya-ghara": 12,
+  "midlife-redesign": 13,
+  "vachun-hot-nahi": 14,
+  "midlife-redesign-english": 15,
+  "why-dont-we-take-risk": 16,
+  "ti-mage-padel-ka": 17,
+  "he-sagla-kasa-chalta": 18,
+  "manatli-garibi": 19,
+  "the-poverty-within": 20,
+  "ghoda-kuthe-adlay": 21,
+  "dusra-darwaja": 22,
+  "char-hazar-aathavde": 23,
+  "hasara-manager-thanda-office": 24,
+  "shant-netrutva": 25,
+  "motha-karaycha-hota": 26,
+  "yash-nahi-kimmat-nivda": 27,
+  "spiral-madhun-baher": 28,
+};
+
+export function compareBooksByCreationNewestFirst(a: BookMeta, b: BookMeta): number {
+  const orderA = a.created_order ?? Number.NEGATIVE_INFINITY;
+  const orderB = b.created_order ?? Number.NEGATIVE_INFINITY;
+  if (orderA !== orderB) return orderB - orderA;
+  return a.title.localeCompare(b.title, "mr-IN");
+}
 
 // Marathi label + short blurb for each category. The order of keys here is the
 // display order on the bookshelf.
@@ -207,6 +253,43 @@ export const CATEGORIES_BY_LANGUAGE: Record<
     other: {
       label: "Other",
       blurb: "Books on other subjects.",
+      emoji: "📚",
+    },
+  },
+  hinglish: {
+    career: {
+      label: "Career",
+      blurb: "Nayi roles, managers aur office ke asli sawaal.",
+      emoji: "💼",
+    },
+    mindset: {
+      label: "Self-help",
+      blurb: "Khud se baat, priorities aur dimaag ke purane patterns.",
+      emoji: "🌱",
+    },
+    parenting: {
+      label: "Parenting",
+      blurb: "Bachchon se baat, habits aur ghar ka mahaul.",
+      emoji: "👪",
+    },
+    home: {
+      label: "Ghar aur life",
+      blurb: "Roz ka ghar, waqt aur simple habits.",
+      emoji: "🏠",
+    },
+    society: {
+      label: "Society aur ideas",
+      blurb: "Media, movements aur aas-paas ka shor samajhna.",
+      emoji: "🧭",
+    },
+    fiction: {
+      label: "Fiction",
+      blurb: "Original kahaniyan aur pehchaan ke scenes.",
+      emoji: "✦",
+    },
+    other: {
+      label: "Baaki kitaabein",
+      blurb: "Doosre subjects par kitaabein.",
       emoji: "📚",
     },
   },
@@ -297,9 +380,13 @@ export function loadBooks(): Book[] {
       chapters.push(parseChapter(raw, bookSlug, parts.chapterSlug));
     }
     chapters.sort((a, b) => a.order - b.order);
-    books.push({ ...meta, chapters });
+    books.push({
+      ...meta,
+      created_order: meta.created_order ?? BOOK_CREATION_ORDER[meta.slug],
+      chapters,
+    });
   }
-  books.sort((a, b) => a.title.localeCompare(b.title, "mr-IN"));
+  books.sort(compareBooksByCreationNewestFirst);
   return books;
 }
 

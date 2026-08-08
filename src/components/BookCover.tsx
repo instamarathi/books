@@ -93,6 +93,11 @@ export function BookCover({
         "--cover-tag": cover.tag,
       } as CSSProperties}
     >
+      {book.created_order && (
+        <span className="book-cover-number" aria-label={`Book ${book.created_order}`}>
+          #{String(book.created_order).padStart(2, "0")}
+        </span>
+      )}
       <span className="book-cover-eyebrow">
         <span aria-hidden="true">{meta.emoji}</span> {meta.label}
       </span>

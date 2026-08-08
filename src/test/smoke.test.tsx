@@ -12,6 +12,7 @@ describe("App routing", () => {
     );
     expect(screen.getByRole("link", { name: /^Marathi books$/i })).toBeInTheDocument();
     expect(screen.getByRole("link", { name: /^English books$/i })).toBeInTheDocument();
+    expect(screen.getByRole("link", { name: /^Hinglish books$/i })).toBeInTheDocument();
   });
 
   it("renders the Marathi bookshelf at /marathi", () => {
@@ -37,6 +38,18 @@ describe("App routing", () => {
     expect(screen.getByText(/Start reading/i)).toBeInTheDocument();
     expect(screen.queryByText(/आत्म-विकास/)).not.toBeInTheDocument();
     expect(screen.queryByText(/प्रकरणं/)).not.toBeInTheDocument();
+  });
+
+  it("renders the Hinglish bookshelf at /hinglish", () => {
+    render(
+      <MemoryRouter initialEntries={["/hinglish"]}>
+        <App />
+      </MemoryRouter>,
+    );
+    expect(screen.getByRole("link", { name: "Hinglish books" })).toHaveClass("active");
+    expect(screen.getAllByText(/Spiral se bahar/i).length).toBeGreaterThan(0);
+    expect(screen.getByRole("heading", { name: /Self-help/i })).toBeInTheDocument();
+    expect(screen.queryByText(/आत्म-विकास/)).not.toBeInTheDocument();
   });
 
   it("renders BookIndex at /:bookSlug", () => {

@@ -55,6 +55,12 @@ body
 });
 
 describe("book content", () => {
+  it("orders books by creation order newest first when available", () => {
+    const [first] = loadBooks();
+    expect(first.slug).toBe("spiral-madhun-baher");
+    expect(first.created_order).toBe(28);
+  });
+
   it("keeps chapter frontmatter slugs aligned with chapter_order", () => {
     for (const book of loadBooks()) {
       const expected = new Set(book.chapter_order);
@@ -76,5 +82,6 @@ describe("book content", () => {
   it("formats read time by book language", () => {
     expect(readTimeLabel({ slug: "midlife-redesign-english", language: "english" }, 8)).toBe("8 min");
     expect(readTimeLabel({ slug: "midlife-redesign", language: "marathi" }, 8)).toBe("8 मिनिटे");
+    expect(readTimeLabel({ slug: "test-hinglish", language: "hinglish" }, 8)).toBe("8 min");
   });
 });

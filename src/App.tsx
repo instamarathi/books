@@ -36,6 +36,7 @@ export const App: React.FC = () => {
           <Route path="/" element={<LanguageHome />} />
           <Route path="/marathi" element={<Bookshelf language="marathi" />} />
           <Route path="/english" element={<Bookshelf language="english" />} />
+          <Route path="/hinglish" element={<Bookshelf language="hinglish" />} />
           <Route path="/print/:bookSlug" element={<PrintBook />} />
           <Route path="/:bookSlug" element={<BookIndex />} />
           <Route path="/:bookSlug/:chapterSlug" element={<Chapter />} />

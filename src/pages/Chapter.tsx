@@ -14,10 +14,10 @@ export const Chapter = () => {
 
   if (!book || !chapter) {
     return (
-      <article className={`chapter reading-page-shell ${language === "english" ? "reading-page-shell-english" : "reading-page-shell-marathi"}`}>
+      <article className={`chapter reading-page-shell ${language === "marathi" ? "reading-page-shell-marathi" : "reading-page-shell-english"}`}>
         <p>
-          {language === "english" ? "Chapter not found." : "प्रकरण सापडलं नाही."}{" "}
-          <Link to="/">{language === "english" ? "Back to home" : "मुख्य पानावर परत"}</Link>
+          {language === "marathi" ? "प्रकरण सापडलं नाही." : "Chapter not found."}{" "}
+          <Link to="/">{language === "marathi" ? "मुख्य पानावर परत" : "Back to home"}</Link>
         </p>
       </article>
     );
@@ -30,7 +30,7 @@ export const Chapter = () => {
   const next = idx >= 0 ? book.chapters[idx + 1] : undefined;
 
   return (
-    <article className={`chapter reading-page-shell ${language === "english" ? "reading-page-shell-english" : "reading-page-shell-marathi"}`}>
+    <article className={`chapter reading-page-shell ${language === "marathi" ? "reading-page-shell-marathi" : "reading-page-shell-english"}`}>
       <ReadingProgressBar />
       <TopBar backTo={`/${book.slug}`} backLabel={book.title} />
       <header className="chapter-header">

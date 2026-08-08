@@ -8,11 +8,11 @@ export const BookIndex = () => {
   const language = book ? bookLanguage(book) : bookLanguage({ slug: bookSlug ?? "" });
 
   if (!book) {
-    return <p>{language === "english" ? "Book not found." : "पुस्तक सापडले नाही."}</p>;
+    return <p>{language === "marathi" ? "पुस्तक सापडले नाही." : "Book not found."}</p>;
   }
 
   return (
-    <section className={`book-index ${language === "english" ? "book-index-english" : "book-index-marathi"}`}>
+    <section className={`book-index ${language === "marathi" ? "book-index-marathi" : "book-index-english"}`}>
       <h2>{renderTitle(book.title)}</h2>
       {book.subtitle && <p className="book-subtitle">{book.subtitle}</p>}
       {book.credit && <p className="book-credit">{book.credit}</p>}
