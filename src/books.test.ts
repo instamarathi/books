@@ -57,8 +57,8 @@ body
 describe("book content", () => {
   it("orders books by creation order newest first when available", () => {
     const [first] = loadBooks();
-    expect(first.slug).toBe("aplya-gharat-pratyek-jan-mage");
-    expect(first.created_order).toBe(29);
+    expect(first.slug).toBe("cool-disaycha-ki-motha-vhaycha");
+    expect(first.created_order).toBe(30);
   });
 
   it("keeps chapter frontmatter slugs aligned with chapter_order", () => {

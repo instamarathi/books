@@ -91,6 +91,7 @@ Chapter count is **kind-dependent** (see `chapter_order` in `meta.json`):
   "title": "<Marathi title>",
   "subtitle": "<one-line description in Marathi or English>",
   "kind": "howto",
+  "created_order": 30,
   "credit": "ही प्रकरणं <source-book-name> या पुस्तकातील विचारांवर आधारित आहेत, मराठी context साठी पुन्हा लिहिलेली.",
   "sources": "<मुख्य संशोधन आणि काल्पनिक/प्रत्यक्ष उदाहरणांबद्दलची सार्वजनिक नोंद>",
   "chapter_order": ["01-...", "02-...", ..., "NN-..."]
@@ -226,7 +227,7 @@ Template stub: `docs/templates/essay-chapter.md`.
 ## Adding a new book — manual workflow
 
 1. `mkdir books/<slug>`
-2. Write `meta.json`.
+2. Write `meta.json`. Set `created_order` to the next unused positive integer: inspect all existing `books/*/meta.json` files first, use the highest assigned value plus one, and add the same slug/number to `BOOK_CREATION_ORDER` in `src/books.ts` for the legacy-order fallback. This number appears on covers and fixes bookshelf order, so never reuse or renumber an existing book.
 3. Write the number of `.md` chapters appropriate to the chosen `kind`, and list every one in `chapter_order`.
 4. `npm test && npx tsc --noEmit && npm run build` — all must pass.
 5. `git add -A && git commit -m "book: <slug> — <Marathi-title>" && git push`.

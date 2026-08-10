@@ -162,6 +162,7 @@ const BOOK_CREATION_ORDER: Record<string, number> = {
   "motha-karaycha-hota": 26,
   "yash-nahi-kimmat-nivda": 27,
   "spiral-madhun-baher": 28,
+  "cool-disaycha-ki-motha-vhaycha": 30,
 };
 
 export function compareBooksByCreationNewestFirst(a: BookMeta, b: BookMeta): number {
