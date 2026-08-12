@@ -57,8 +57,8 @@ body
 describe("book content", () => {
   it("orders books by creation order newest first when available", () => {
     const [first] = loadBooks();
-    expect(first.slug).toBe("cool-disaycha-ki-motha-vhaycha");
-    expect(first.created_order).toBe(30);
+    expect(first.slug).toBe("abhyasala-ac-hava-ka");
+    expect(first.created_order).toBe(31);
   });
 
   it("keeps chapter frontmatter slugs aligned with chapter_order", () => {

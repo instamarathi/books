@@ -1,0 +1,19 @@
+{
+  "slug": "abhyasala-ac-hava-ka",
+  "title": "अभ्यासाला AC हवा का?",
+  "subtitle": "उष्णता, लक्ष आणि पालकांची काळजी याबद्दलचा पुराव्यावर आधारित विचार",
+  "kind": "essay",
+  "language": "marathi",
+  "created_order": 31,
+  "credit": "ही प्रकरणं उष्णता, घरातील तापमान, झोप आणि शिक्षण यांवरील संशोधन-विचारांपासून प्रेरित आहेत; सर्व मांडणी आणि प्रसंग मराठी घरांच्या context साठी स्वतंत्रपणे लिहिलेले आहेत.",
+  "sources": "मुख्य आधार: उष्णतेचा learning वर परिणाम मोजणारे education-economics studies, indoor heat व आरोग्यावरच्या WHO Housing and Health Guidelines, आणि occupational/thermal-comfort संशोधन. मेघा, ओजस व त्यांचे कुटुंब हे काल्पनिक आहेत. हा पुस्तकातील पुरावा तापमानाचा एक परिणाम दाखवतो; तो मुलाच्या गुणांचा किंवा पालकत्वाचा एकमेव निर्णयकर्ता असल्याचा दावा करत नाही.",
+  "chapter_order": [
+    "01-garam-kholi",
+    "02-mendula-gham",
+    "03-ek-mark-kami",
+    "04-ratrichi-ukad",
+    "05-ac-jadu-nahi",
+    "06-remote-nasto",
+    "07-aajcha-nirnay"
+  ]
+}
