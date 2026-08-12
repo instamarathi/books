@@ -4,7 +4,7 @@
 
 ## Learning आणि उष्णता
 
-- [Goodman, Hurwitz, Park आणि Smith — *Heat and Learning*](https://www.nber.org/papers/w24639) — अमेरिकेतील मोठ्या student dataवर शाळेतील अधिक उष्ण दिवस learning कमी होण्याशी जोडलेले दिसले; शाळेतील ACने तो संबंध कमी केला. हा Indiaमधील प्रत्येक घरासाठी कारण-परिणामाचा तयार नियम नाही.
+- [Goodman, Hurwitz, Park आणि Smith — *Heat and Learning*](https://www.nber.org/papers/w24639) — अमेरिकेतील मोठ्या student data वर शाळेतील अधिक उष्ण दिवस learning कमी होण्याशी जोडलेले दिसले; शाळेतील ACने तो संबंध कमी केला. हा India मधील प्रत्येक घरासाठी कारण-परिणामाचा तयार नियम नाही.
 - [Climate, Classrooms, and Children: systematic review](https://pubmed.ncbi.nlm.nih.gov/42444582/) — तापमान आणि शालेय कामगिरीवरील observational studiesचा आढावा. पुरावा वाढतो आहे, पण setting आणि मोजमाप वेगवेगळे आहेत.
 
 ## घरातील उष्णता आणि आरोग्य
