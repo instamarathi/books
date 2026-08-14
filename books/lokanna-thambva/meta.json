@@ -1,0 +1,21 @@
+{
+  "slug": "lokanna-thambva",
+  "title": "लोकांना शिकवण्याआधी थांबवा",
+  "subtitle": "Content मध्ये attention, विश्वास आणि sale यांचा गोंधळ कसा सोडवायचा",
+  "kind": "howto",
+  "language": "marathi",
+  "created_order": 32,
+  "credit": "ही प्रकरणं मनोरंजनातून शिकवण आणि नंतरचा स्पष्ट offer या content-विचारांपासून प्रेरित आहेत; सर्व मांडणी मराठी creators आणि छोट्या व्यवसायांच्या context साठी स्वतंत्रपणे लिहिलेली आहे.",
+  "sources": "हे पुस्तक platformच्या कायम बदलणाऱ्या algorithm नियमांऐवजी प्रेक्षकांच्या लक्ष, विश्वास आणि निर्णयाच्या सवयींबद्दलचं व्यावहारिक मार्गदर्शन आहे. Share करण्याच्या कारणांसाठी Jonah Berger यांच्या word-of-mouth संशोधनातील STEPPS हा interpretive lens वापरला आहे; “slippery slide” आणि Hook–Story–Offer हे copywritingचे वापरून पाहण्याजोगे frameworks आहेत, सार्वत्रिक नियम नाहीत. यातली व्यवसायांची उदाहरणं काल्पनिक आहेत; कोणताही reach किंवा विक्रीचा निकाल हमीने दिलेला नाही.",
+  "chapter_order": [
+    "01-useful-pan-haravta",
+    "02-hook-khota-nahi",
+    "03-tip-cha-scene",
+    "04-entertainment-che-rang",
+    "05-ek-kalpana-char-format",
+    "06-platform-che-kaam",
+    "07-attention-te-vishvas",
+    "08-vishvas-te-sale",
+    "09-tis-divsacha-engine"
+  ]
+}
